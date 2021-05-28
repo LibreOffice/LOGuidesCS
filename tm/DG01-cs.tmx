@@ -1,0 +1,1462 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" segtype="sentence" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;0&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Chapter 1, Introducing Draw&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;0&lt;/t0&gt;&lt;s1/&gt; |&lt;t2&gt; Kapitola 1, Představujeme Draw&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Chapter 1, Introducing Draw&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;11&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Kapitola 1, Představujeme Draw&lt;/t0&gt;&lt;s1/&gt; |&lt;t2&gt; 11&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;12&lt;/t0&gt;| &lt;t1&gt;Chapter 1, Introducing Draw&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;12&lt;/t0&gt; |&lt;t1&gt; Kapitola 1, Představujeme Draw&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Draw Guide</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nakreslete průvodce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 1,&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 1,&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Introducing Draw</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Představujeme Draw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This document is Copyright © &lt;t0&gt;2021&lt;/t0&gt;&lt;s1/&gt;by the LibreOffice Documentation Team.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Autorská práva k tomuto dokumentu&lt;t0&gt; 2021&lt;/t0&gt;&lt;s1/&gt; dokumentační tým LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Elzett Kotze</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Elzett Kotze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>John Cleland</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>John Cleland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Vipul Gupta</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vipul Gupta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Published &lt;t0&gt;May&lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt;2021&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Publikováno&lt;t0&gt; Smět&lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt; 2021&lt;/t2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Based on LibreOffice &lt;ud3&gt;7.1&lt;/ud3&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na základě LibreOffice&lt;ud3&gt; 7.1&lt;/ud3&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table &lt;t0&gt;1&lt;/t0&gt; below gives some common substitutions for the instructions in this user guide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stůl&lt;t0&gt; 1&lt;/t0&gt; níže uvádí některé běžné náhrady za pokyny v této uživatelské příručce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table &lt;seq0&gt;1&lt;/seq0&gt;: Using LibreOffice on macOS</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stůl&lt;seq0&gt; 1&lt;/seq0&gt; : Používání LibreOffice v systému macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Ctrl&lt;/f0&gt;+click and/or right-click depending on computer setup</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Ctrl&lt;/f0&gt; + kliknout a / nebo kliknout pravým tlačítkem v závislosti na nastavení počítače</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Adding and removing tools</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přidávání a odebírání nástrojů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Available toolsets</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dostupné sady nástrojů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Docked and floating toolbars</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ukotvené a plovoucí panely nástrojů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unlocking and locking toolbars</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odemykání a zamykání panelů nástrojů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Color palette</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Barevná paleta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specialized color palettes</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Specializované palety barev</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Grid, snap, and help lines</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Mřížka, přichycení a pomocné čáry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LibreOffice Draw is a vector graphics drawing program, although it can also perform some operations on raster graphics (pixels).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>LibreOffice Draw je program pro kreslení vektorové grafiky, i když může provádět některé operace také s rastrovou grafikou (pixely).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using Draw, a wide variety of graphical images can easily and quickly created.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí Draw lze snadno a rychle vytvořit širokou škálu grafických obrázků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Vector graphics store and display an image as an assembly of simple geometric elements such as lines, circles, and polygons, rather than a collection of pixels (points on the screen).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vektorová grafika ukládá a zobrazuje obrázek jako sestavu jednoduchých geometrických prvků, jako jsou čáry, kruhy a mnohoúhelníky, spíše než soubor pixelů (bodů na obrazovce).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If an image is created in Draw, reusing it in a Writer document is relatively easy, for example, select and copy the drawing in Draw and then paste the image directly into a Writer document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je obrázek vytvořen v Draw, je jeho opětovné použití v dokumentu Writeru relativně snadné, například vyberte a zkopírujte výkres v Draw a poté vložte obrázek přímo do dokumentu Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Also, drawings can be worked on directly from within Writer or Impress, using a subset of the functions and tools from Draw.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na výkresech lze také pracovat přímo z aplikace Writer nebo Impress pomocí podmnožiny funkcí a nástrojů z Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The functionality of LibreOffice Draw is extensive.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Funkce LibreOffice Draw jsou rozsáhlé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Draw was not designed to rival high-end graphics applications, but it possesses more functionality than the drawing tools that are generally integrated with the majority of office productivity suites.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Draw nebyl navržen tak, aby konkuroval špičkovým grafickým aplikacím, ale má více funkcí než kreslicí nástroje, které jsou obecně integrovány do většiny kancelářských balíků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This Draw Guide is not a course book to be worked through from beginning to end.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento průvodce kreslení není učebnicí, kterou je třeba propracovat od začátku do konce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rather, it is a reference work in which can be browsed for guidance on particular topics.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jedná se spíše o referenční práci, ve které lze procházet pokyny k určitým tématům.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This document describes only the functions associated with Draw.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento dokument popisuje pouze funkce spojené s Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some concepts, such as file management or the way the LibreOffice environment works, are mentioned only briefly and are covered in more detail in the &lt;f0&gt;Getting Started Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Některé koncepty, například správa souborů nebo způsob, jakým prostředí LibreOffice funguje, jsou zmíněny pouze stručně a jsou podrobněji popsány v&lt;f0&gt; Průvodce Začínáme&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The main components of the Draw main window are shown in Figure &lt;t0&gt;1&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Hlavní součásti hlavního okna Draw jsou zobrazeny na obrázku&lt;t0&gt; 1&lt;/t0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The large area in the center of the Draw main window (Workspace) is where drawings are created.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Velká plocha ve středu hlavního okna Draw (Workspace) je místem, kde jsou vytvářeny výkresy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This drawing area can be surrounded with toolbars and information areas.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato oblast kreslení může být obklopena panely nástrojů a informačními oblastmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The number and position of the visible tools vary with the task in hand and user preferences, therefore the Workspace displayed on another computer may look different from Figure &lt;t0&gt;1&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Počet a umístění viditelných nástrojů se liší podle konkrétního úkolu a uživatelských preferencí, proto se pracovní prostor zobrazený na jiném počítači může od obrázku lišit&lt;t0&gt; 1&lt;/t0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The maximum size of a drawing page in LibreOffice Draw is limited by the computer setup and the page size that that can bet set and used in the printer connected to the computer.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Maximální velikost stránky výkresu v LibreOffice Draw je omezena nastavením počítače a velikostí stránky, kterou lze vsadit, nastavit a použít v tiskárně připojené k počítači.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, the Workspace consists of three layers (&lt;f0&gt;Layout&lt;/f0&gt;, &lt;f1&gt;Controls&lt;/f1&gt; and &lt;f2&gt;Dimension Lines&lt;/f2&gt;) and the tabs for these default layers appear at the bottom of the Workspace.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ve výchozím nastavení se pracovní prostor skládá ze tří vrstev (&lt;f0&gt; Rozložení&lt;/f0&gt; ,&lt;f1&gt; Řízení&lt;/f1&gt; a&lt;f2&gt; Kótovací čáry&lt;/f2&gt; ) a záložky pro tyto výchozí vrstvy se zobrazí v dolní části pracovního prostoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default layers cannot be deleted or renamed, but layers can be added as and when necessary.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí vrstvy nelze odstranit ani přejmenovat, ale vrstvy je možné přidávat podle potřeby.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Drawings in Draw can be split over several pages.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kresby v Draw lze rozdělit na několik stránek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Pages pane, on the left side of the Draw main window, gives an overview of the pages that created in a drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Podokno Stránky na levé straně hlavního okna Draw poskytuje přehled stránek, které byly vytvořeny ve výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the Pages pane is not visible, go to &lt;f0&gt;View&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Page Pane&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud podokno Stránky není viditelné, přejděte na&lt;f0&gt; Pohled&lt;/f0&gt; na liště nabídek a vyberte&lt;f1&gt; Podokno stránky&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To make changes to the page order, drag and drop one or more pages.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li provést změny v pořadí stránek, přetáhněte jednu nebo více stránek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A layer is a workspace where drawing elements and objects can be inserted.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Hladina je pracovní prostor, do kterého lze vložit prvky a objekty kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Layers bar is located on the bottom of the Workplace and contains three default layers called &lt;f0&gt;Layout&lt;/f0&gt;, &lt;f1&gt;Controls&lt;/f1&gt; and &lt;f2&gt;Dimensions&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Lišta Vrstvy se nachází ve spodní části Pracoviště a obsahuje tři výchozí volané vrstvy&lt;f0&gt; Rozložení&lt;/f0&gt; ,&lt;f1&gt; Řízení&lt;/f1&gt; a&lt;f2&gt; Rozměry&lt;/f2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information on layers, see Chapter 11, Advanced Draw Techniques.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o vrstvách najdete v kapitole 11, Pokročilé techniky kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Sidebar has five main decks in Draw.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postranní panel má v Draw pět hlavních balíčků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To expand a deck, click on its icon or click on the small triangle ► in the section title bar and select a deck from the drop-down list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li balíček rozbalit, klikněte na jeho ikonu nebo klikněte na malý trojúhelník ► v záhlaví sekce a vyberte balíček z rozevíracího seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the Sidebar is not visible, go to &lt;f0&gt;View &gt; Sidebar&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud postranní panel není viditelný, přejděte na&lt;f0&gt; Zobrazit &gt; Postranní panel&lt;/f0&gt; na liště nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contains sections for object properties, for example, &lt;f0&gt;Page&lt;/f0&gt;, &lt;f1&gt;Character&lt;/f1&gt;, &lt;f2&gt;Paragraph&lt;/f2&gt;, &lt;f3&gt;Area&lt;/f3&gt;, &lt;f4&gt;Effect&lt;/f4&gt;, &lt;f5&gt;Shadow&lt;/f5&gt;, &lt;f6&gt;Image&lt;/f6&gt;, &lt;f7&gt;Line&lt;/f7&gt;, and &lt;f8&gt;Position and Size&lt;/f8&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obsahuje sekce pro vlastnosti objektu, například&lt;f0&gt; Strana&lt;/f0&gt; ,&lt;f1&gt; Charakter&lt;/f1&gt; ,&lt;f2&gt; Odstavec&lt;/f2&gt; ,&lt;f3&gt; Plocha&lt;/f3&gt; ,&lt;f4&gt; Účinek&lt;/f4&gt; ,&lt;f5&gt; Stín&lt;/f5&gt; ,&lt;f6&gt; obraz&lt;/f6&gt; ,&lt;f7&gt; Čára&lt;/f7&gt; , a&lt;f8&gt; Poloha a velikost&lt;/f8&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Available sections depends on the object selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dostupné sekce závisí na vybraném objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provides quick selection of most items that are available on the Drawing toolbar: &lt;f0&gt;Lines and Arrows&lt;/f0&gt;, &lt;f1&gt;Curves and Polygons&lt;/f1&gt;, &lt;f2&gt;Connectors&lt;/f2&gt;, &lt;f3&gt;Basic Shapes&lt;/f3&gt;, &lt;f4&gt;Symbol Shapes&lt;/f4&gt;, &lt;f5&gt;Block Arrows&lt;/f5&gt;, &lt;f6&gt;Flowchart&lt;/f6&gt;, &lt;f7&gt;Callouts&lt;/f7&gt;, &lt;f8&gt;Stars and Banners&lt;/f8&gt;, and &lt;f9&gt;3D Objects&lt;/f9&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Poskytuje rychlý výběr většiny položek, které jsou k dispozici na panelu nástrojů Kreslení:&lt;f0&gt; Čáry a šipky&lt;/f0&gt; ,&lt;f1&gt; Křivky a mnohoúhelníky&lt;/f1&gt; ,&lt;f2&gt; Konektory&lt;/f2&gt; ,&lt;f3&gt; Základní tvary&lt;/f3&gt; ,&lt;f4&gt; Tvary symbolů&lt;/f4&gt; ,&lt;f5&gt; Blokovat šipky&lt;/f5&gt; ,&lt;f6&gt; Vývojový diagram&lt;/f6&gt; ,&lt;f7&gt; Popisky&lt;/f7&gt; ,&lt;f8&gt; Hvězdy a bannery&lt;/f8&gt; , a&lt;f9&gt; 3D objekty&lt;/f9&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provides options to edit and apply &lt;f0&gt;Drawing Styles&lt;/f0&gt; to objects within a drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Poskytuje možnosti pro úpravy a použití&lt;f0&gt; Kreslení stylů&lt;/f0&gt; k objektům ve výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a style is edited or modified, the changes are automatically applied to all of the elements formatted using that style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když je styl upravován nebo upravován, změny se automaticky použijí na všechny prvky formátované pomocí tohoto stylu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In Draw, &lt;f1&gt;Presentation Styles&lt;/f1&gt; are not available.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V Draw&lt;f1&gt; Styly prezentace&lt;/f1&gt; nejsou k dispozici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From the Gallery deck, objects can be inserted into a drawing either as a copy or as a link.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Z paluby Galerie lze objekty vložit do výkresu buď jako kopii, nebo jako odkaz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Gallery is divided into categories: &lt;f0&gt;Arrows&lt;/f0&gt;, &lt;f1&gt;BPMN&lt;/f1&gt; (Business Process Model and Notation), &lt;f2&gt;Bullets&lt;/f2&gt;, &lt;f3&gt;Diagrams&lt;/f3&gt;, &lt;f4&gt;Flowchart&lt;/f4&gt;, &lt;f5&gt;Icons&lt;/f5&gt;, &lt;f6&gt;Network&lt;/f6&gt;, &lt;f7&gt;Shapes&lt;/f7&gt;, and &lt;f8&gt;Sounds&lt;/f8&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Galerie je rozdělena do kategorií:&lt;f0&gt; Šipky&lt;/f0&gt; ,&lt;f1&gt; BPMN&lt;/f1&gt; (Model a proces obchodního procesu),&lt;f2&gt; Kulky&lt;/f2&gt; ,&lt;f3&gt; Diagramy&lt;/f3&gt; ,&lt;f4&gt; Vývojový diagram&lt;/f4&gt; ,&lt;f5&gt; Ikony&lt;/f5&gt; ,&lt;f6&gt; Síť&lt;/f6&gt; ,&lt;f7&gt; Tvary&lt;/f7&gt; , a&lt;f8&gt; Zvuky&lt;/f8&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 11, Advanced Draw Techniques for more information on using the Gallery.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o používání Galerie najdete v kapitole 11, Pokročilé techniky kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the Navigator deck, pages and objects in a drawing can be quickly selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na palubě Navigátoru lze rychle vybrat stránky a objekty ve výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is recommended to give pages and objects in a drawing meaningful names so that they are easily identified when using the Navigator.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Doporučuje se dávat stránkám a objektům ve výkresu smysluplné názvy, aby byly při použití Navigátoru snadno identifikovatelné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rulers are positioned on the upper and left-hand sides of the Workspace.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pravítka jsou umístěna na horní a levé straně pracovního prostoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If they are not visible, go to &lt;f0&gt;View &gt; Rulers&lt;/f0&gt; in the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud nejsou viditelné, přejděte na&lt;f0&gt; Zobrazit &gt; Pravítka&lt;/f0&gt; na liště nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The rulers show the size of a selected object on the page using double lines (highlighted in Figure &lt;t1&gt;2&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pravítka zobrazují velikost vybraného objektu na stránce pomocí dvojitých čar (zvýrazněno na obrázku)&lt;t1&gt; 2&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Also, rulers can be used to manage object handles and guide lines when positioning objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pravítka lze také použít ke správě úchytů objektů a vodicích čar při umisťování objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Change the margins directly on the rulers by dragging them with the cursor.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Změňte okraje přímo na pravítkách jejich přetažením kurzorem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The margin areas are indicated by the grayed out area on the rulers as shown in Figure &lt;t0&gt;2&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Oblasti okrajů jsou označeny šedou oblastí na pravítcích, jak je znázorněno na obrázku&lt;t0&gt; 2&lt;/t0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To change the measurement units of the rulers, right-click on a ruler and select the measurement unit from the drop down list, as shown in Figure &lt;t0&gt;3&lt;/t0&gt; for the horizontal ruler.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li změnit měrné jednotky pravítek, klikněte pravým tlačítkem na pravítko a vyberte měrnou jednotku z rozevíracího seznamu, jak je znázorněno na obrázku&lt;t0&gt; 3&lt;/t0&gt; pro vodorovné pravítko.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Measurement units for the horizontal and vertical rulers can be set to different measurement units.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jednotky měření pro vodorovné a svislé pravítko lze nastavit na různé jednotky měření.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Status Bar (Figure &lt;t0&gt;4&lt;/t0&gt;) is located at the bottom of the Workspace in all LibreOffice modules.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stavový řádek (obrázek&lt;t0&gt; 4&lt;/t0&gt; ) je umístěn ve spodní části pracovního prostoru ve všech modulech LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To hide the Status Bar, go to &lt;f1&gt;View&lt;/f1&gt; on the Menu bar and deselect &lt;f2&gt;Status Bar&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li skrýt stavový řádek, přejděte na&lt;f1&gt; Pohled&lt;/f1&gt; na liště nabídek a zrušte výběr&lt;f2&gt; Stavový řádek&lt;/f2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The measurement units shown on the Status Bar are set by going to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Draw &gt; General&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jednotky měření zobrazené na stavovém řádku se nastaví přechodem na&lt;f0&gt; Nástroje &gt; Možnosti &gt; LibreOffice Draw &gt; Obecné&lt;/f0&gt; na liště nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These measurement units can be different to the measurement units set for the rulers.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tyto jednotky měření se mohou lišit od jednotek měření nastavených pro pravítka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Rulers showing object size</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 2&lt;/seq0&gt; : Pravítka zobrazující velikost objektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Ruler measurement units</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 3&lt;/seq0&gt; : Jednotky měření pravítka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Slide number&lt;/f0&gt; – shows the number of the drawing pane that is selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Číslo snímku&lt;/f0&gt; - zobrazuje číslo vybraného podokna kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Information area&lt;/f0&gt; – shows which action is being carried out, or object type selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Informační oblast&lt;/f0&gt; - ukazuje, která akce se provádí, nebo vybraný typ objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Cursor position&lt;/f0&gt; and &lt;f1&gt;Object size&lt;/f1&gt; – shows different information depending on whether objects are selected or not.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Pozice kurzoru&lt;/f0&gt; a&lt;f1&gt; Velikost objektu&lt;/f1&gt; - zobrazuje různé informace podle toho, zda jsou objekty vybrány nebo ne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If an object is selected, the position numbers shows the X and Y coordinates of the upper-left corner and the object size number pair displays the size of the object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je vybrán objekt, čísla pozic zobrazují souřadnice X a Y levého horního rohu a dvojice čísel velikostí objektů zobrazuje velikost objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These numbers do not relate to the object itself, but to the selection outline, which is the smallest possible rectangle that can contain the visible part or parts of the object; see Chapter 3, Working with Objects and Object Points for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato čísla se netýkají samotného objektu, ale obrysu výběru, což je nejmenší možný obdélník, který může obsahovat viditelnou část nebo části objektu; Další informace najdete v kapitole 3, Práce s objekty a body objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When an object is selected, clicking in either of these areas opens the Position and Size dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když je vybrán objekt, kliknutím do kterékoli z těchto oblastí se otevře dialogové okno Poloha a velikost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 4, Changing Object Attributes for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace najdete v kapitole 4, Změna atributů objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Unsaved changes&lt;/f0&gt; – indicates that the file needs saving and the icon depends on computer setup.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Neuložené změny&lt;/f0&gt; - označuje, že soubor je třeba uložit, a ikona závisí na nastavení počítače.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clicking on this icon opens the Save as dialog if the file is new and has not been saved before.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na tuto ikonu se otevře dialogové okno Uložit jako, pokud je soubor nový a dosud nebyl uložen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the file has been saved before any changes, then clicking on this icon after any changes automatically saves the file.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud byl soubor uložen před provedením jakýchkoli změn, kliknutím na tuto ikonu po provedení jakýchkoli změn se soubor automaticky uloží.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Digital signature&lt;/f0&gt; – indicates if the document is digitally signed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Digitální podpis&lt;/f0&gt; - označuje, zda je dokument digitálně podepsán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The icon only appears if the drawing has a digital signature certificate.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ikona se zobrazí, pouze pokud má výkres certifikát digitálního podpisu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After the file has been saved, double-clicking on this icon opens the digital signatures dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po uložení souboru poklepáním na tuto ikonu otevřete dialog digitálních podpisů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See LibreOffice Help for more information on digital signature certificates.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o certifikátech digitálního podpisu najdete v nápovědě LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Fit drawing&lt;/f0&gt; – resizes the drawing so that the whole drawing appears in the Workspace.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Přizpůsobit kresbu&lt;/f0&gt; - změní velikost výkresu tak, aby se celý výkres zobrazil v pracovním prostoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Zoom slider&lt;/f0&gt; and &lt;f1&gt;Zoom percentage&lt;/f1&gt; – adjusts and indicates the zoom percentage of the Workspace displayed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Posuvník zoomu&lt;/f0&gt; a&lt;f1&gt; Procento zvětšení&lt;/f1&gt; - upravuje a označuje procento zvětšení zobrazeného pracovního prostoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Double-clicking on zoom percentage opens the Zoom &amp; View Layout dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Poklepáním na procento přiblížení se otevře dialogové okno Zoom &amp; Zobrazit rozložení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Visible buttons on a toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 5&lt;/seq0&gt; : Viditelná tlačítka na panelu nástrojů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To display or hide the various Draw toolbars, go to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; on the Menu bar and select from the drop down menu the toolbar required.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li zobrazit nebo skrýt různé panely nástrojů Draw, přejděte na&lt;f0&gt; Zobrazit &gt; Panely nástrojů&lt;/f0&gt; na liště nabídek a z rozevírací nabídky vyberte požadovaný panel nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, the Standard and Drawing toolbars are shown by default, but the Line and Filling, Text Formatting, and Options toolbars are not shown.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například panely nástrojů Standardní a Kreslení jsou zobrazeny ve výchozím nastavení, ale nejsou zobrazeny panely nástrojů Čára a výplň, Formátování textu a Možnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The appearance of the tool icons on toolbars depends on the computer operating system and the selection of icon style and size in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; View&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vzhled ikon nástrojů na panelech nástrojů závisí na operačním systému počítače a výběru stylu a velikosti ikony v&lt;f0&gt; Nástroje &gt; Možnosti &gt; LibreOffice &gt; Zobrazit&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The tools available on a toolbar are indicated by a shaded outline around the tool icon or a check mark as shown by the example in Figure &lt;t0&gt;5&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nástroje dostupné na panelu nástrojů jsou označeny stínovaným obrysem kolem ikony nástroje nebo zaškrtnutím, jak ukazuje příklad na obrázku&lt;t0&gt; 5&lt;/t0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The four main toolbars used in Draw are as follows:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Čtyři hlavní panely nástrojů použité v Draw jsou následující:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Standard toolbar (Figure &lt;t0&gt;6&lt;/t0&gt;) is the same for all LibreOffice components and is not described in detail in this chapter.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Panel nástrojů Standardní (obrázek&lt;t0&gt; 6&lt;/t0&gt; ) je stejný pro všechny komponenty LibreOffice a není v této kapitole podrobně popsán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, it is locked into position at the top of the Draw main window.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ve výchozím nastavení je uzamčen na pozici v horní části hlavního okna Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Standard toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 6&lt;/seq0&gt; : Standardní panel nástrojů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Drawing toolbar (Figure &lt;t0&gt;7&lt;/t0&gt;) contains all the necessary functions for drawing various geometric and freehand shapes, and for organizing them in the drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Panel nástrojů Kreslení (Obrázek&lt;t0&gt; 7&lt;/t0&gt; ) obsahuje všechny nezbytné funkce pro kreslení různých geometrických tvarů a tvarů od ruky a pro jejich organizaci ve výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, it is locked into position on the left of the Draw main window.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ve výchozím nastavení je uzamčen na pozici nalevo od hlavního okna Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is described in detail in Chapter 2, Drawing Basic Shapes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Podrobně je popsán v kapitole 2, Kreslení základních tvarů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Drawing toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 7&lt;/seq0&gt; : Panel nástrojů kreslení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Line and Filling toolbar (Figure &lt;t0&gt;8&lt;/t0&gt;) is used to modify the main properties of a drawing object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Panel nástrojů Čára a výplň (obrázek&lt;t0&gt; 8&lt;/t0&gt; ) slouží k úpravě hlavních vlastností nakresleného objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The tools and pull-down lists vary according to the type of object selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nástroje a rozevírací seznamy se liší podle typu vybraného objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, to change the style of a line, click on the up and down arrows for &lt;f1&gt;Line Style&lt;/f1&gt; and select the required style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li například změnit styl čáry, klikněte na šipky nahoru a dolů pro&lt;f1&gt; Styl čáry&lt;/f1&gt; a vyberte požadovaný styl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Line and Filling toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 8&lt;/seq0&gt; : Panel nástrojů Čára a výplň</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The functions on the Line and Filling toolbar are used to change the color, style, and width of the line drawn, the fill color and style, and other properties of a selected object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Funkce na panelu nástrojů Čára a Výplň se používají ke změně barvy, stylu a šířky nakreslené čáry, barvy a stylu výplně a dalších vlastností vybraného objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the selected object is a text frame, the Line and Filling toolbar is replaced by the Text Formatting toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je vybraným objektem textový rámeček, je panel nástrojů Čára a výplň nahrazen panelem nástrojů Formátování textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0/&gt;For more information, see Chapter, 4 Changing Object Attributes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;s0/&gt;Další informace najdete v kapitole 4 Změna atributů objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Text Formatting toolbar (Figure &lt;t0&gt;9&lt;/t0&gt;) is similar to the Formatting toolbar in Writer.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Panel nástrojů Formátování textu (obrázek&lt;t0&gt; 9&lt;/t0&gt; ) je podobný panelu nástrojů Formát v aplikaci Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is only available when a text object has been selected in a drawing, replacing the Line and Filling toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Je k dispozici pouze v případě, že byl ve výkresu vybrán textový objekt, který nahradí panel nástrojů Čára a Výplň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information, see Chapter, 4 Changing Object Attributes, and Chapter 9 Adding and Formatting Text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace najdete v kapitole 4 Změna atributů objektu a Kapitola 9 Přidávání a formátování textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Text Formatting toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 9&lt;/seq0&gt; : Panel nástrojů Formátování textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default set of tools on each toolbar can be modified using &lt;f0&gt;Visible Buttons&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí sadu nástrojů na každém panelu nástrojů lze upravit pomocí&lt;f0&gt; Viditelná tlačítka&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add or remove a tool to or from a toolbar as follows:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přidejte nebo odeberte nástroj z panelu nástrojů nebo z něj následujícím způsobem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Either, right-click in an empty area on the toolbar, or click on the downward pointing triangle ▼ in the toolbar title and select &lt;f0&gt;Visible Buttons&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Buď klikněte pravým tlačítkem do prázdné oblasti na panelu nástrojů, nebo klikněte na dolů směřující trojúhelník ▼ v názvu panelu nástrojů a vyberte&lt;f0&gt; Viditelná tlačítka&lt;/f0&gt; z místní nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on a tool name to add or remove the tool to or from the toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na název nástroje můžete nástroj přidat nebo odebrat z panelu nástrojů nebo z něj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a tool is added to a toolbar, its position on the toolbar (from left to right) is the same as its position in the &lt;f0&gt;Visible Buttons&lt;/f0&gt; context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když je nástroj přidán na panel nástrojů, jeho poloha na panelu nástrojů (zleva doprava) je stejná jako jeho poloha v&lt;f0&gt; Viditelná tlačítka&lt;/f0&gt; kontextová nabídka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some tools on a toolbar have a downward pointing triangle ▼ to the right side of the tool icon.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Některé nástroje na panelu nástrojů mají dolů směřující trojúhelník ▼ na pravou stranu ikony nástroje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This indicates that the tool has additional tools available.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>To znamená, že nástroj má k dispozici další nástroje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the downward pointing triangle ▼ to display the full set of tools (Figure &lt;t0&gt;10&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na trojúhelník směřující dolů ▼ zobrazíte celou sadu nástrojů (obrázek&lt;t0&gt; 10&lt;/t0&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This toolset can be turned into a floating toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tuto sadu nástrojů lze přeměnit na plovoucí panel nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the area at the top of the toolset as shown in Figure &lt;t0&gt;10&lt;/t0&gt;, drag it across the screen to a convenient location and release the mouse button.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na oblast v horní části sady nástrojů, jak je znázorněno na obrázku&lt;t0&gt; 10&lt;/t0&gt; , přetáhněte jej přes obrazovku na vhodné místo a uvolněte tlačítko myši.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To close a floating toolbar, click on the X on the right of the toolbar title.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li zavřít plovoucí panel nástrojů, klikněte na X vpravo od nadpisu panelu nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Available tools and floating toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 10&lt;/seq0&gt; : Dostupné nástroje a plovoucí panel nástrojů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a toolset is made into a floating toolbar, the tool on the existing toolbar remains in the toolbar and always shows the last tool used.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když se ze sady nástrojů stane plovoucí panel nástrojů, zůstane nástroj na existujícím panelu nástrojů v panelu nástrojů a vždy zobrazí poslední použitý nástroj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This means that the tool icon on a screen may differ from the tool icon shown in this guide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>To znamená, že ikona nástroje na obrazovce se může lišit od ikony nástroje zobrazené v této příručce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When double-clicking on a tool, the command corresponding to that tool becomes active and remains active.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po dvojitém kliknutí na nástroj se příkaz odpovídající tomuto nástroji stane aktivním a zůstane aktivní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The tool command can be repeated as often as required.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Příkaz nástroje lze opakovat tak často, jak je požadováno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To exit from this mode, press the &lt;f0&gt;Esc&lt;/f0&gt; key or click on another tool.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro ukončení tohoto režimu stiskněte&lt;f0&gt; Esc&lt;/f0&gt; klíč nebo klikněte na jiný nástroj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please note that this may not work for every tool on every toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>To nemusí fungovat u každého nástroje na každém panelu nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When Draw is opened, the Standard and Drawing toolbars, by default, are already locked and docked into their positions on the main Draw window.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když je otevřen Draw, panely nástrojů Standard a Draw jsou ve výchozím nastavení již uzamčeny a ukotveny do svých pozic v hlavním okně Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These toolbars can be undocked creating floating toolbars.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tyto panely nástrojů lze vyjmout z doku a vytvořit plovoucí panely nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To undock a toolbar and create a floating toolbar:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odpojení panelu nástrojů a vytvoření plovoucího panelu nástrojů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move the mouse cursor to the far left of the toolbar and over the toolbar handle (Figure &lt;t0&gt;11&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přesuňte kurzor myši zcela vlevo od panelu nástrojů a přes úchyt panelu nástrojů (obrázek&lt;t0&gt; 11&lt;/t0&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The cursor changes shape, normally a grabbing hand, depending on computer setup and operating system.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kurzor mění tvar, obvykle chytne ruku, v závislosti na nastavení počítače a operačním systému.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click and drag on the toolbar handle to move the toolbar until it becomes a floating toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím a tažením na rukojeti panelu nástrojů přesuňte panel nástrojů, dokud se nestane plovoucím panelem nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This floating toolbar capability is common to all components of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato funkce plovoucího panelu nástrojů je společná pro všechny komponenty LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To dock a floating toolbar, press and hold the &lt;f0&gt;Ctrl&lt;/f0&gt; key, then double click on the title of the toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Plovoucí panel nástrojů ukotvíte stisknutím a podržením&lt;f0&gt; Ctrl&lt;/f0&gt; a poté dvakrát klikněte na název panelu nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The toolbar moves into available space at the top of the Draw main window.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Panel nástrojů se přesune do dostupného prostoru v horní části hlavního okna Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An alternative method of docking a toolbar is to click in the toolbar title and drag the toolbar to the docked position that required.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Alternativní metodou ukotvení panelu nástrojů je kliknout na nadpis panelu nástrojů a přetáhnout panel nástrojů na požadovanou ukotvenou pozici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This can be the top, bottom or one of the sides of the Draw main window.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Může to být horní, dolní nebo jedna ze stran hlavního okna Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Toolbar handles</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 11&lt;/seq0&gt; : Rukojeti panelu nástrojů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default when Draw is opened, any docked toolbars are locked into position and have to be unlocked before they can become floating toolbars or repositioned on the Draw main window.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ve výchozím nastavení při otevření Draw jsou všechny ukotvené panely nástrojů uzamčeny na pozici a je třeba je odemknout, než se stanou plovoucími panely nástrojů nebo přemístí do hlavního okna Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To unlock a toolbar, right-click in a blank area on the toolbar and deselect &lt;f0&gt;Lock Toolbar Position&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li panel nástrojů odemknout, klikněte pravým tlačítkem do prázdné oblasti na panelu nástrojů a zrušte výběr&lt;f0&gt; Uzamknout pozici panelu nástrojů&lt;/f0&gt; z místní nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A toolbar handle, as shown in Figure &lt;t1&gt;11&lt;/t1&gt;, appears at the left end of the toolbar, indicating that the toolbar is unlocked and can be moved.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Popisovač panelu nástrojů, jak je znázorněno na obrázku&lt;t1&gt; 11&lt;/t1&gt; Na levém konci panelu nástrojů se zobrazí,, což znamená, že panel nástrojů je odemčený a lze jej přesouvat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To lock a toolbar into position, dock the toolbar into position, then right-click in a blank area on the toolbar and select &lt;f0&gt;Lock Toolbar Position&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li panel nástrojů uzamknout na místo, ukotvěte jej na místo, poté klepněte pravým tlačítkem do prázdné oblasti na panelu nástrojů a vyberte&lt;f0&gt; Uzamknout pozici panelu nástrojů&lt;/f0&gt; z místní nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The toolbar handle disappears from the left end of the toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Popisovač panelu nástrojů zmizí z levého konce panelu nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can customize Draw toolbars to add or remove commands to or from a toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Panely nástrojů Draw můžete přizpůsobit tak, aby přidávaly nebo odebíraly příkazy na panel nástrojů nebo z něj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Also, customization allows you to create toolbars for specific purposes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přizpůsobení také umožňuje vytvářet panely nástrojů pro konkrétní účely.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Customizing toolbars is in addition to using “&lt;bf0&gt;Adding and removing tools&lt;/bf0&gt;” above.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přizpůsobení panelů nástrojů je kromě použití „&lt;bf0&gt; Přidávání a odebírání nástrojů&lt;/bf0&gt; “Výše.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information when adding a new commands, modifying toolbars, or creating toolbars, see the &lt;f0&gt;Getting Started Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o přidávání nových příkazů, úpravách panelů nástrojů nebo vytváření panelů nástrojů najdete v části&lt;f0&gt; Průvodce Začínáme&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Color Palette (Color Bar)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 12&lt;/seq0&gt; : Paleta barev (barevná lišta)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Color Palette (Figure &lt;t0&gt;12&lt;/t0&gt;) provides quick access to a standard set of colors to use for selected objects and text in a drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Paleta barev (obrázek&lt;t0&gt; 12&lt;/t0&gt; ) poskytuje rychlý přístup ke standardní sadě barev, které lze použít pro vybrané objekty a text ve výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;View &lt;/f0&gt;on the Menu bar and select &lt;f1&gt;Color Bar&lt;/f1&gt; to open the Color Palette.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Pohled&lt;/f0&gt; na liště nabídek a vyberte&lt;f1&gt; Barevný pruh&lt;/f1&gt; otevřete paletu barev.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select an object or text where to change the color.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte objekt nebo text, kde chcete změnit barvu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Left click on the color required for the area fill or text and change the color of the object or text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte levým tlačítkem na barvu požadovanou pro výplň oblasti nebo text a změňte barvu objektu nebo textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right click on the color required for the object or text box border and change the color of the border.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem na barvu požadovanou pro ohraničení objektu nebo textového pole a změňte barvu ohraničení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;View&lt;/f0&gt; on the Menu bar and deselect &lt;f1&gt;Color Bar&lt;/f1&gt; to close the Color Palette.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Pohled&lt;/f0&gt; na liště nabídek a zrušte výběr&lt;f1&gt; Barevný pruh&lt;/f1&gt; zavřete paletu barev.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The box with the X at the bottom left of the Color Palette corresponds to none (no color).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rámeček s X vlevo dole na paletě barev neodpovídá žádnému (žádná barva).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The colors available in the Color Palette depend on the color palette that had been previously used when changing color on an object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Barvy dostupné v paletě barev závisí na paletě barev, která byla dříve použita při změně barvy na objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, Figure &lt;t0&gt;12&lt;/t0&gt; shows the Standard color palette that had been used previously when changing color to an object using a properties dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například obrázek&lt;t0&gt; 12&lt;/t0&gt; zobrazuje standardní paletu barev, která byla dříve použita při změně barvy na objekt pomocí dialogového okna vlastností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In addition to the standard Color Palette, Draw has several specialized color palettes available, giving a greater choice of color: for example, chart-palettes, material, html, and so on.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kromě standardní palety barev má Draw k dispozici několik specializovaných palet barev, které nabízejí větší výběr barev: například palety grafů, materiál, html atd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After selecting an object or text in a drawing, use one of the following to access the specialized color palettes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po výběru objektu nebo textu ve výkresu použijte jednu z následujících pro přístup ke specializovaným paletám barev.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Area or fill color – &lt;f0&gt;Color&lt;/f0&gt; page in the Area dialog, &lt;f1&gt;Fill Color&lt;/f1&gt; on the Drawing or Line and Filling toolbar, or &lt;f2&gt;Fill&lt;/f2&gt; in the &lt;f3&gt;Area&lt;/f3&gt; section in the Properties deck on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Plocha nebo barva výplně -&lt;f0&gt; Barva&lt;/f0&gt; stránka v dialogu Oblast,&lt;f1&gt; Vyplň barvu&lt;/f1&gt; na panelu nástrojů Kreslení nebo Čára a výplň nebo&lt;f2&gt; Vyplnit&lt;/f2&gt; v&lt;f3&gt; Plocha&lt;/f3&gt; v paletě Vlastnosti na bočním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line color – &lt;f0&gt;Line&lt;/f0&gt; page in the Line dialog, &lt;f1&gt;Line Color&lt;/f1&gt; on the Drawing or Line and Filling toolbar, or &lt;f2&gt;Color&lt;/f2&gt; in the &lt;f3&gt;Line&lt;/f3&gt; section in the Properties deck on the Sidebar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Barva čáry -&lt;f0&gt; Čára&lt;/f0&gt; stránka v dialogu Řádek,&lt;f1&gt; Barva čáry&lt;/f1&gt; na panelu nástrojů Kreslení nebo Čára a výplň nebo&lt;f2&gt; Barva&lt;/f2&gt; v&lt;f3&gt; Čára&lt;/f3&gt; v paletě Vlastnosti na bočním panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text color – &lt;f0&gt;Font Color&lt;/f0&gt; tool on the Text Formatting toolbar, or &lt;f1&gt;Font Color&lt;/f1&gt; in the &lt;f2&gt;Character&lt;/f2&gt; section in the Properties deck on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Barva textu -&lt;f0&gt; Barva fontu&lt;/f0&gt; nástroj na panelu nástrojů Formátování textu nebo&lt;f1&gt; Barva fontu&lt;/f1&gt; v&lt;f2&gt; Charakter&lt;/f2&gt; v paletě Vlastnosti na bočním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information on selecting a color and a color palette for an object or text, see Chapter 4, Changing Object Attributes, Chapter 9, Adding and Formatting Text and Chapter 11, Advanced Draw Techniques.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o výběru barvy a palety barev pro objekt nebo text najdete v kapitole 4, Změna atributů objektu, Kapitola 9, Přidávání a formátování textu a Kapitola 11, Pokročilé techniky kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In Draw, custom colors can be created using the Color Picker dialog, specific CMYK values, or specific RGB values to match the color schemes used in a company.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V Draw lze vytvořit vlastní barvy pomocí dialogu Výběr barvy, konkrétních hodnot CMYK nebo specifických hodnot RGB, aby odpovídaly barevným schématům používaným ve společnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more detailed information on creating custom colors and color palettes, as well as more information on CMYK and RGB color schemes, refer to Chapter 11, Advanced Draw Techniques.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Podrobnější informace o vytváření vlastních barev a palet barev a další informace o barevných schématech CMYK a RGB najdete v kapitole 11, Pokročilé techniky kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The grid and snap lines in Draw act as drawing aids and these can be turned on or off by clicking on &lt;f0&gt;Display Grid&lt;/f0&gt; or &lt;f1&gt;Display Snap Guides&lt;/f1&gt; on the Line and Filling or Options toolbars.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Mřížka a uchopovací čáry v Draw fungují jako pomůcky pro kreslení a lze je zapnout nebo vypnout kliknutím na&lt;f0&gt; Zobrazit mřížku&lt;/f0&gt; nebo&lt;f1&gt; Zobrazit vodítka&lt;/f1&gt; na panelu nástrojů Čára a výplň nebo Možnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The grid and snap lines are displayed only on the screen and are not shown on a printed drawing or when the drawing is used in another LibreOffice module.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Mřížka a čáry přichycení se zobrazují pouze na obrazovce a nezobrazují se na tištěném výkresu nebo při použití výkresu v jiném modulu LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The color, spacing and resolution of the grid points can be individually chosen for each axis.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Barva, rozteč a rozlišení bodů mřížky lze individuálně zvolit pro každou osu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Help lines when moving objects can be displayed and these are turned on or off by clicking on &lt;f0&gt;Helplines While Moving&lt;/f0&gt; on the Line and Filling or Options toolbars.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Lze zobrazit čáry nápovědy při pohybu objektů, které se zapínají a vypínají kliknutím na&lt;f0&gt; Linky pomoci při pohybu&lt;/f0&gt; na panelu nástrojů Čára a výplň nebo Možnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Showing the position of the object while moving makes positioning the object much easier.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zobrazování polohy objektu při pohybu usnadňuje umístění objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If this function is activated, pairs of vertical and horizontal lines enclosing the object are shown while moving the object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je tato funkce aktivována, budou se při pohybu objektu zobrazovat dvojice svislých a vodorovných čar obklopujících objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These lines extend to the edges of the drawing area.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tyto čáry sahají až k okrajům kreslicí oblasti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Draw also offers several snap functions to positioning of objects exactly in a drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Draw také nabízí několik funkcí uchopení k přesnému umístění objektů ve výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information on the grid, snap lines, snap functions, and help lines, see Chapter 3, Working with Objects and Object Points.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o mřížce, uchopovacích liniích, uchopovacích funkcích a liniích nápovědy najdete v kapitole 3, Práce s objekty a body objektů.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
