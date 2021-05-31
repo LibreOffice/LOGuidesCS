@@ -1,0 +1,606 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" segtype="sentence" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation last modified by zdenek on Dec 15, 2019 at 8:58:21 PM</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Překlad naposledy upravil zdenek 15. prosince 2019 ve 20:58:21 hodin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Preface</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Předmluva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Předmluva&lt;segment 17932 +11 more&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Předmluva&lt;segment 17932 +11 more&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;What is new in LibreOffice 7.1?&lt;/t0&gt; | &lt;t1&gt;9&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Co je nového v LibreOffice 7.1?&lt;/t0&gt; |&lt;t1&gt; 9&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Draw Guide</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nakreslete průvodce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Drawing Vector Graphics in LibreOffice</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kreslení vektorové grafiky v LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This document is Copyright © &lt;t0&gt;2021&lt;/t0&gt;&lt;s1/&gt;by the LibreOffice Documentation Team.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Autorská práva k tomuto dokumentu&lt;t0&gt; 2021&lt;/t0&gt;&lt;s1/&gt; dokumentační tým LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Elzett Kotze</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Elzett Kotze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Published &lt;t0&gt;May&lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt;2021&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Publikováno&lt;t0&gt; Smět&lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt; 2021&lt;/t2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Based on LibreOffice &lt;ud3&gt;7.1&lt;/ud3&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na základě LibreOffice&lt;ud3&gt; 7.1&lt;/ud3&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What is in this user guide?</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Co je v této uživatelské příručce?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What is new in LibreOffice 7.1?</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Co je nového v LibreOffice 7.1?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Anyone who wants to get up to speed quickly with LibreOffice Draw will find this guide very useful.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Každý, kdo se chce s LibreOffice Draw rychle dostat na rychlost, považuje tuto příručku za velmi užitečnou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may be new to drawing software, or you may be familiar with another program.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možná jste v kreslicím softwaru nováčkem nebo jste obeznámeni s jiným programem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This book introduces the main features of LibreOffice Draw.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato kniha představuje hlavní rysy LibreOffice Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Draw is a vector graphics drawing tool, although it can also perform some operations on raster graphics (pixels) such as photographs.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Draw je nástroj pro kreslení vektorové grafiky, i když může také provádět některé operace s rastrovou grafikou (pixely), jako jsou fotografie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using Draw, a wide variety of graphical images can be quickly created.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí Draw lze rychle vytvořit širokou škálu grafických obrázků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A few examples of the drawing functions are: layer management, snap functions and grid-point system, dimensions and measurement display, connectors for making organization charts, 3D functions that enable small 3D drawings to be created (with texture and lighting effects), drawing and page-style integration, and Bézier curves.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Několik příkladů funkcí kreslení: správa vrstev, funkce uchopení a systém mřížkových bodů, zobrazení rozměrů a měření, konektory pro vytváření organizačních diagramů, 3D funkce, které umožňují vytváření malých 3D výkresů (s texturou a světelnými efekty), kreslení a integrace ve stylu stránky a Bézierovy křivky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Draw Guide is not a course book to be worked through from beginning to end.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Průvodce nakreslením není učebnicí, kterou je třeba propracovat od začátku do konce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rather, it is a reference work in which can be browsed for guidance on particular topics.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jedná se spíše o referenční práci, ve které lze procházet pokyny k určitým tématům.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Versions of LibreOffice for Windows, Linux, and macOS are freely available and can be downloaded from &lt;a0&gt;https://www.libreoffice.org/download&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Verze LibreOffice pro Windows, Linux a macOS jsou volně dostupné a lze je stáhnout z&lt;a0&gt; https://www.libreoffice.org/download&lt;/a0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To change the default settings (options) in LibreOffice to suit your preferences, go to &lt;f0&gt;Tools &gt; Options&lt;/f0&gt; on the Menu bar (&lt;f1&gt;LibreOffice &gt; Preferences&lt;/f1&gt; in macOS).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li změnit výchozí nastavení (možnosti) v LibreOffice podle svých preferencí, přejděte na&lt;f0&gt; Nástroje &gt; Možnosti&lt;/f0&gt; na liště nabídek (&lt;f1&gt; LibreOffice &gt; Předvolby&lt;/f1&gt; v macOS).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Settings are described in LibreOffice Help and the &lt;f0&gt;Getting Started Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nastavení jsou popsána v nápovědě LibreOffice a v&lt;f0&gt; Průvodce Začínáme&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These two sources provide information on how to customize menus, toolbars, and keyboard shortcuts in LibreOffice Draw, add new menus and toolbars, and assign macros to events.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tyto dva zdroje poskytují informace o tom, jak přizpůsobit nabídky, panely nástrojů a klávesové zkratky v LibreOffice Draw, přidat nové nabídky a panely nástrojů a přiřadit makra událostem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you do not understand what an option does, it is recommended leaving it on the default setting unless instructions in this user guide recommend changing the setting.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud nerozumíte tomu, co tato možnost dělá, doporučujeme ponechat výchozí nastavení, pokud pokyny v této uživatelské příručce nedoporučují toto nastavení změnit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Functionality can be added to LibreOffice with extensions and add-ons.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Funkčnost lze do LibreOffice přidat pomocí rozšíření a doplňků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Several extensions are installed with the program and other expensions from the official extensions repository, &lt;a0&gt;https://extensions.libreoffice.org/&lt;/a0&gt; or from other sources.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Spolu s programem je nainstalováno několik rozšíření a další rozšíření z oficiálního úložiště rozšíření,&lt;a0&gt; https://extensions.libreoffice.org/&lt;/a0&gt; nebo z jiných zdrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;f1&gt;Getting Started Guide&lt;/f1&gt; for more information on installing extensions and add-ons.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Viz&lt;f1&gt; Průvodce Začínáme&lt;/f1&gt; Další informace o instalaci rozšíření a doplňků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This user guide and other LibreOffice user guides, the built-in Help system, and user support systems assume that users are familiar with computer and basic functions such as starting a program, opening and saving files.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato uživatelská příručka a další uživatelské příručky LibreOffice, vestavěný systém nápovědy a systémy uživatelské podpory předpokládají, že uživatelé jsou obeznámeni s počítačem a základními funkcemi, jako je spuštění programu, otevírání a ukládání souborů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LibreOffice comes with an extensive Help system and this can be used as the first line of support.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>LibreOffice je dodáván s rozsáhlým systémem nápovědy, který lze použít jako první linii podpory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows and Linux users can choose to download and install the offline Help for use when not connected to the Internet.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Uživatelé systémů Windows a Linux si mohou stáhnout a nainstalovat offline nápovědu pro použití, když nejsou připojeni k internetu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Offline Help is installed with the MacOS version of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Offline nápověda je nainstalována s verzí LibreOffice pro MacOS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To display the LibreOffice Help, press &lt;f0&gt;F1&lt;/f0&gt; or go to &lt;f1&gt;Help &gt; LibreOffice Help&lt;/f1&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li zobrazit nápovědu k LibreOffice, stiskněte&lt;f0&gt; F1&lt;/f0&gt; nebo jděte na&lt;f1&gt; Nápověda &gt; Nápověda LibreOffice&lt;/f1&gt; z řádku nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the offline help is not installed on a computer, but connected to the Internet, a dialog opens giving the option to &lt;f2&gt;Read Help Online&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud offline nápověda není nainstalována v počítači, ale je připojena k Internetu, otevře se dialogové okno s možností&lt;f2&gt; Přečtěte si nápovědu online&lt;/f2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select this option and the default web browser opens at the LibreOffice online help pages in the LibreOffice website.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte tuto možnost a výchozí webový prohlížeč se otevře na stránkách online nápovědy LibreOffice na webu LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;What's This?&lt;/f0&gt; – for quick tips when a toolbar is visible, place the mouse cursor over any of the tool icons to see a small tooltip box with a brief explanation of the tool function.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Co je tohle?&lt;/f0&gt; - pro rychlé tipy, když je viditelný panel nástrojů, umístěte kurzor myši na některou z ikon nástroje a zobrazí se malé pole s popisem nástroje se stručným vysvětlením funkce nástroje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Also &lt;f1&gt;Extended Tips&lt;/f1&gt; can be activated by going to &lt;f2&gt;Tools &gt; Options &gt; LibreOffice &gt; General&lt;/f2&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Taky&lt;f1&gt; Rozšířené tipy&lt;/f1&gt; lze aktivovat přechodem na&lt;f2&gt; Nástroje &gt; Možnosti &gt; LibreOffice &gt; Obecné&lt;/f2&gt; na liště nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f3&gt;Extended Tips&lt;/f3&gt; provide a brief description about tools and commands.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f3&gt;Rozšířené tipy&lt;/f3&gt; uveďte stručný popis nástrojů a příkazů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To display an extended tip, use the keyboard &lt;f4&gt;Shift+F1&lt;/f4&gt;, then point to a tool or command.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li zobrazit prodloužený hrot, použijte klávesnici&lt;f4&gt; Shift + F1&lt;/f4&gt; , pak přejděte na nástroj nebo příkaz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;User Guides&lt;/f0&gt; – opens the default browser at the Documentation page of the LibreOffice website &lt;a1&gt;https://documentation.libreoffice.org/en/english-documentation/&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Uživatelské příručky&lt;/f0&gt; - otevře výchozí prohlížeč na stránce Dokumentace na webu LibreOffice&lt;a1&gt; https://documentation.libreoffice.org/en/english-documentation/&lt;/a1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This page gives access to the LibreOffice User Guides and other useful information that can be opened in the default browser.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato stránka poskytuje přístup k uživatelským příručkám LibreOffice a dalším užitečným informacím, které lze otevřít ve výchozím prohlížeči.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Also, the User Guides are available in PDF format as a free download or to buy as printed copies.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Uživatelské příručky jsou také k dispozici ve formátu PDF ke stažení zdarma nebo ke koupi jako tištěné kopie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Get Help Online&lt;/f0&gt; – opens the default browser at the Ask LibreOffice&lt;f1&gt; &lt;/f1&gt;forum of questions and answers from the LibreOffice community, &lt;a2&gt;https://ask.libreoffice.org/en/questions/&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Získejte pomoc online&lt;/f0&gt; - otevře výchozí prohlížeč na stránce Ask LibreOffice&lt;f1&gt;&lt;/f1&gt; fórum otázek a odpovědí komunity LibreOffice,&lt;a2&gt; https://ask.libreoffice.org/en/questions/&lt;/a2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Send Feedback&lt;/f0&gt; – opens the default browser at the Feedback page of the LibreOffice website &lt;a1&gt;https://www.libreoffice.org/get-help/feedback/&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Poslat zpětnou vazbu&lt;/f0&gt; - otevře výchozí prohlížeč na stránce Zpětná vazba na webu LibreOffice&lt;a1&gt; https://www.libreoffice.org/get-help/feedback/&lt;/a1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From this page bugs can be reported, new features suggested and communicate with other users in the LibreOffice community.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Z této stránky lze hlásit chyby, navrhovat nové funkce a komunikovat s ostatními uživateli v komunitě LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Restart in Safe Mode&lt;/f0&gt; – opens a dialog window giving options to restart LibreOffice and reset the software to its default settings.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Restartujte v nouzovém režimu&lt;/f0&gt; - otevře dialogové okno s možnostmi restartovat LibreOffice a obnovit výchozí nastavení softwaru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Restarting in safe mode also provides an opportunity to restore LibreOffice from a backup.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Restartování v nouzovém režimu také poskytuje příležitost obnovit LibreOffice ze zálohy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Get Involved&lt;/f0&gt; – opens the default browser at the Get Involved page of the LibreOffice website, &lt;a1&gt;https://www.libreoffice.org/community/get-involved/&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Zapojte se&lt;/f0&gt; - otevře výchozí prohlížeč na stránce Získat účast na webu LibreOffice,&lt;a1&gt; https://www.libreoffice.org/community/get-involved/&lt;/a1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose a topic of interest to help improve the program.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte téma, které vás zajímá, a pomozte tak vylepšit program.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Donate to LibreOffice&lt;/f0&gt; – opens the default browser at the Donation page of the LibreOffice website, &lt;a1&gt;https://donate.libreoffice.org/&lt;/a1&gt; providing an opportunity to make a donation to support LibreOffice.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Přispějte LibreOffice&lt;/f0&gt; - otevře výchozí prohlížeč na stránce Dary na webu LibreOffice,&lt;a1&gt; https://donate.libreoffice.org/&lt;/a1&gt; poskytnutí příležitosti k poskytnutí daru na podporu LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Check for Updates&lt;/f0&gt; – opens a dialog and checks the LibreOffice website for updates to version of the software.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Kontrola aktualizací&lt;/f0&gt; - otevře dialogové okno a zkontroluje web LibreOffice, zda neobsahuje aktualizace verze softwaru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The dialog provides an opportunity to download and install any updates to LibreOffice.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dialog poskytuje příležitost stáhnout a nainstalovat jakékoli aktualizace LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;About LibreOffice&lt;/f0&gt; – opens a dialog and displays information about the version of LibreOffice and the operating system being used.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;O LibreOffice&lt;/f0&gt; - otevře dialogové okno a zobrazí informace o verzi LibreOffice a používaném operačním systému.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This information will often requested if the community is asked for help or assistance with the software (on macOS, this option is found under &lt;f1&gt;LibreOffice&lt;/f1&gt; on the Menu bar}.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tyto informace jsou často požadovány, pokud je komunita požádána o pomoc nebo pomoc se softwarem (v systému macOS se tato možnost nachází pod&lt;f1&gt; LibreOffice&lt;/f1&gt; na liště nabídek}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Table &lt;t0&gt;1&lt;/t0&gt; and this web page: &lt;a1&gt;https://www.libreoffice.org/get-help/&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Viz tabulka&lt;t0&gt; 1&lt;/t0&gt; a tato webová stránka:&lt;a1&gt; https://www.libreoffice.org/get-help/&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Support and training is available through service contracts from a vendor or consulting firm specializing in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Podpora a školení je k dispozici prostřednictvím smluv o poskytování služeb od prodejce nebo poradenské firmy specializující se na LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For information about certified professional support, see The Document Foundation website: &lt;a0&gt;https://www.documentfoundation.org/gethelp/support/&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Informace o certifikované profesionální podpoře najdete na webu Document Foundation:&lt;a0&gt; https://www.documentfoundation.org/gethelp/support/&lt;/a0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Therefore, some illustrations will not look exactly like what is seen on a computer display.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Některé ilustrace proto nebudou vypadat přesně jako to, co je vidět na displeji počítače.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Either use dialogs from the computer system (default) or dialogs provided by LibreOffice.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Buď použijte dialogy z počítačového systému (výchozí), nebo dialogy poskytované LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On Linux and Windows operating systems, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; General&lt;/f0&gt; on the Menu bar to open the dialog for general options.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V operačních systémech Linux a Windows přejděte na&lt;f0&gt; Nástroje &gt; Možnosti &gt; LibreOffice &gt; Obecné&lt;/f0&gt; na panelu nabídek otevřete dialogové okno s obecnými možnostmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On a Mac operating system, go to &lt;f0&gt;LibreOffice &gt; Preferences &gt; General&lt;/f0&gt; on the Menu bar to open the dialog for general options.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V operačním systému Mac přejděte na&lt;f0&gt; LibreOffice &gt; Předvolby &gt; Obecné&lt;/f0&gt; na panelu nabídek otevřete dialogové okno s obecnými možnostmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save the settings and close the dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte na&lt;f0&gt; OK&lt;/f0&gt; pro uložení nastavení a zavření dialogu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The icons in this user guide have been taken from a LibreOffice installation that has been set to display the Colibre set of icons.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ikony v této uživatelské příručce byly převzaty z instalace LibreOffice, která byla nastavena tak, aby zobrazovala sadu ikon Colibre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Change the icon set used in a LibreOffice installation as follows:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Sada ikon použitá v instalaci LibreOffice můžete změnit následujícím způsobem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In &lt;f0&gt;Icon Style&lt;/f0&gt; select &lt;f1&gt;Colibre (SVG)&lt;/f1&gt; from the options available in the drop down list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>v&lt;f0&gt; Styl ikon&lt;/f0&gt; vybrat&lt;f1&gt; Colibre (SVG)&lt;/f1&gt; z možností dostupných v rozevíracím seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In &lt;f0&gt;Icon Size,&lt;/f0&gt; select &lt;f1&gt;Small&lt;/f1&gt; from the drop down lists for &lt;f2&gt;Toolbar&lt;/f2&gt;, &lt;f3&gt;Notebookbar&lt;/f3&gt; and &lt;f4&gt;Sidebar&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>v&lt;f0&gt; Velikost ikony,&lt;/f0&gt; vybrat&lt;f1&gt; Malý&lt;/f1&gt; z rozevíracích seznamů pro&lt;f2&gt; Panel nástrojů&lt;/f2&gt; ,&lt;f3&gt; Notebookbar&lt;/f3&gt; a&lt;f4&gt; Postranní panel&lt;/f4&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some Linux operating systems, for example Ubuntu, include LibreOffice as part of the installation and may not include the Colibre icon set.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Některé operační systémy Linux, například Ubuntu, zahrnují LibreOffice jako součást instalace a nemusí obsahovat sadu ikon Colibre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This icon set can be downloaded from the software repository for the Linux operating system being used.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tuto sadu ikon lze stáhnout z úložiště softwaru pro používaný operační systém Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table &lt;t0&gt;2&lt;/t0&gt; below gives some common substitutions for the instructions in this user guide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stůl&lt;t0&gt; 2&lt;/t0&gt; níže uvádí některé běžné náhrady za pokyny v této uživatelské příručce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Ctrl&lt;/f0&gt;+click and/or right-click depending on computer setup</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Ctrl&lt;/f0&gt; + kliknout a / nebo kliknout pravým tlačítkem v závislosti na nastavení počítače</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the LibreOffice features that require Java are to be used, it is important that the correct 32-bit or 64-bit edition matches the installed version of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud mají být použity funkce LibreOffice, které vyžadují Javu, je důležité, aby správné 32bitové nebo 64bitové vydání odpovídalo nainstalované verzi LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;f0&gt;Getting Started Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Viz&lt;f0&gt; Průvodce Začínáme&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If Java is not to be used, nearly all of the LibreOffice features can still be used.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud se Java nebude používat, lze stále používat téměř všechny funkce LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The LibreOffice 7.1 Release Notes are available at this link &lt;a0&gt;https://wiki.documentfoundation.org/ReleaseNotes/7.1&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Poznámky k verzi LibreOffice 7.1 jsou k dispozici na tomto odkazu&lt;a0&gt; https://wiki.documentfoundation.org/ReleaseNotes/7.1&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>At this link the release notes for earlier versions of LibreOffice are located, which gives more information on the features that are included in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na tomto odkazu jsou umístěny poznámky k verzi dřívějších verzí LibreOffice, které poskytují více informací o funkcích, které jsou součástí LibreOffice.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

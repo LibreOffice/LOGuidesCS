@@ -1,0 +1,1998 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" segtype="sentence" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 2, Drawing Basic Shapes</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 2, Kreslení základních tvarů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 2, Drawing Basic Shapes&lt;segment 18508&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 2, Kreslení základních tvarů&lt;segment 18508&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Adding, inserting and formatting text&lt;/t0&gt; | &lt;t1&gt;17&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Přidávání, vkládání a formátování textu&lt;/t0&gt; |&lt;t1&gt; 17&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;16&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Chapter 2, Drawing Basic Shapes&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;16&lt;/t0&gt;&lt;s1/&gt; |&lt;t2&gt; Kapitola 2, Kreslení základních tvarů&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Chapter 2, Drawing Basic Shapes&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Kapitola 2, Kreslení základních tvarů&lt;/t0&gt;&lt;s1/&gt; |&lt;t2&gt; 3&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;4&lt;/t0&gt;| &lt;t1&gt;Chapter 2, Drawing Basic Shapes&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;4&lt;/t0&gt; |&lt;t1&gt; Kapitola 2, Kreslení základních tvarů&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Draw Guide</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nakreslete průvodce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 2,&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 2,&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Drawing Basic Shapes</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kreslení základních tvarů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This document is Copyright © &lt;t0&gt;2021&lt;/t0&gt;&lt;s1/&gt;by the LibreOffice Documentation Team.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Autorská práva k tomuto dokumentu&lt;t0&gt; 2021&lt;/t0&gt;&lt;s1/&gt; dokumentační tým LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Elzett Kotze</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Elzett Kotze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>John Cleland</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>John Cleland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Published &lt;t0&gt;May&lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt;2021&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Publikováno&lt;t0&gt; Smět&lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt; 2021&lt;/t2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Based on LibreOffice &lt;ud3&gt;7.1&lt;/ud3&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na základě LibreOffice&lt;ud3&gt; 7.1&lt;/ud3&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table &lt;t0&gt;1&lt;/t0&gt; below gives some common substitutions for the instructions in this user guide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stůl&lt;t0&gt; 1&lt;/t0&gt; níže uvádí některé běžné náhrady za pokyny v této uživatelské příručce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table &lt;seq0&gt;1&lt;/seq0&gt;: Using LibreOffice on macOS</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stůl&lt;seq0&gt; 1&lt;/seq0&gt; : Používání LibreOffice v systému macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Ctrl&lt;/f0&gt;+click and/or right-click depending on computer setup</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Ctrl&lt;/f0&gt; + kliknout a / nebo kliknout pravým tlačítkem v závislosti na nastavení počítače</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating lines</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytváření čar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Formatting lines</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formátování řádků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lines and arrows</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Čáry a šipky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating lines or arrows</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytváření čar nebo šipek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Formatting line or arrow</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formátovací řádek nebo šipka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rectangles or squares</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obdélníky nebo čtverce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ellipses or circles</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Elipsy nebo kruhy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dimension lines</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kótovací čáry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserting dimension lines</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vkládání kótovacích čar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Arcs and segments</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Oblouky a segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Curves, polygons or freeform lines</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Křivky, mnohoúhelníky nebo přímky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Adding, inserting and formatting text</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přidávání, vkládání a formátování textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LibreOffice Draw can create 2D and 3D objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>LibreOffice Draw může vytvářet 2D a 3D objekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This chapter shows how to draw simple 2D objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato kapitola ukazuje, jak kreslit jednoduché 2D objekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following chapters describe how to work with and edit such objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Následující kapitoly popisují, jak s takovými objekty pracovat a jak je upravovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information on 3D objects, see Chapter 7, Working with 3D Objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o 3D objektech najdete v kapitole 7, Práce s 3D objekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All shapes, whether they are lines, rectangles, or more complicated shapes, are called objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Všechny tvary, ať už jde o čáry, obdélníky nebo složitější tvary, se nazývají objekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is common notation in vector drawing software.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Toto je běžná notace v softwaru pro vektorové kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The drawing tools are found on the Drawing toolbar (Figure &lt;t0&gt;1&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nástroje pro kreslení se nacházejí na panelu nástrojů Kreslení (Obrázek&lt;t0&gt; 1&lt;/t0&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This toolbar is normally located on the left side of the main Draw window.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento panel nástrojů je obvykle umístěn na levé straně hlavního okna Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the toolbar is not visible, activate it by going to &lt;f1&gt;View &gt; Toolbars&lt;/f1&gt; on the Menu bar and select &lt;f2&gt;Drawing&lt;/f2&gt; from the available options.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud panel nástrojů není viditelný, aktivujte jej přechodem na&lt;f1&gt; Zobrazit &gt; Panely nástrojů&lt;/f1&gt; na liště nabídek a vyberte&lt;f2&gt; Výkres&lt;/f2&gt; z dostupných možností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As with all the components of LibreOffice, the Drawing toolbar can be unlocked and placed the Draw workspace as a floating toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stejně jako u všech komponent LibreOffice lze panel nástrojů Kreslení odemknout a umístit pracovní prostor Kreslení jako plovoucí panel nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Toolbars can be configured by adding, moving, hiding, or deleting tools.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Panely nástrojů lze konfigurovat přidáním, přesunutím, skrytím nebo odstraněním nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 1, Introducing Draw for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace najdete v kapitole 1, Představujeme Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a shape is drawn, select an object for editing, or add text to the drawing, the information field in the Status Bar (Figure &lt;t0&gt;2&lt;/t0&gt;) changes to reflect the action taken or in progress.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když je nakreslený tvar, vyberte objekt pro úpravy nebo přidejte text do výkresu, informační pole ve stavovém řádku (obrázek&lt;t0&gt; 2&lt;/t0&gt; ) změny odrážející provedené nebo probíhající opatření.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 1, Introducing Draw for more information on the Status Bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o stavovém řádku najdete v kapitole 1, Představujeme Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Status Bar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 2&lt;/seq0&gt; : Stavový řádek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Basic shapes, including text, are treated as objects in Draw.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Základní tvary, včetně textu, jsou v Draw považovány za objekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default set of tools available for drawing basic shapes on the Drawing toolbar are shown in Figure &lt;t0&gt;1&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí sada nástrojů dostupných pro kreslení základních tvarů na panelu nástrojů Kreslení je zobrazena na obrázku&lt;t0&gt; 1&lt;/t0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add more tools to the Drawing toolbar, see Chapter 1, Introducing Draw for more information and the &lt;f0&gt;Getting Started Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li přidat další nástroje na panel nástrojů Kreslení, viz Kapitola 1, Úvod do Kreslení, kde najdete další informace a&lt;f0&gt; Průvodce Začínáme&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;t1&gt;3&lt;/t1&gt; shows the tools that are available for adding to the Drawing toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;t1&gt; 3&lt;/t1&gt; zobrazuje nástroje, které jsou k dispozici pro přidání na panel nástrojů Kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tools already installed on the Drawing toolbar are indicated by a shaded outline around the tool icon or a check mark.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nástroje již nainstalované na panelu nástrojů Kreslení jsou označeny stínovaným obrysem kolem ikony nástroje nebo zaškrtnutím.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some tool icons on the Drawing toolbar change shape according to the last tool used from the selection of available tools.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Některé ikony nástrojů na panelu nástrojů Kreslení mění tvar podle posledního použitého nástroje z výběru dostupných nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each tool that has a downward pointing triangle ▼ to the right of the tool icon indicates that more tools are available.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Každý nástroj, který má dolů směřující trojúhelník ▼ napravo od ikony nástroje, znamená, že je k dispozici více nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See “&lt;bf0&gt;Drawing geometric shapes&lt;/bf0&gt;” on page &lt;bf1&gt;15&lt;/bf1&gt; for information on the available shapes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Viz „&lt;bf0&gt; Kreslení geometrických tvarů&lt;/bf0&gt; “ na stránce&lt;bf1&gt; 15&lt;/bf1&gt; pro informace o dostupných tvarech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a basic shape is drawn, or one selected for editing, the information area at the left side in the status bar changes to reflect the present action.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když je nakreslen základní tvar nebo je vybrán pro úpravy, změní se informační oblast na levé straně stavového řádku tak, aby odrážela aktuální akci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example &lt;f0&gt;Line created&lt;/f0&gt;, &lt;f1&gt;Text frame xxyy selected&lt;/f1&gt;, and so on.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například&lt;f0&gt; Linka vytvořena&lt;/f0&gt; ,&lt;f1&gt; Vybrán textový rámeček xxyy&lt;/f1&gt; , a tak dále.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Available tools for Drawing toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 3&lt;/seq0&gt; : Dostupné nástroje pro panel nástrojů Kreslení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Line starting point</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 4&lt;/seq0&gt; : Počáteční bod čáry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A straight line is the simplest element or object in Draw to create.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přímka je nejjednodušší prvek nebo objekt v Draw, který lze vytvořit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use one of the following options to start drawing a straight line:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K zahájení kreslení přímky použijte jednu z následujících možností:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;insert Line&lt;/f0&gt; on the Drawing toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte na&lt;f0&gt; vložte řádek&lt;/f0&gt; na panelu nástrojů Kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the triangle ▼ on the right of &lt;f0&gt;Lines and Arrows&lt;/f0&gt; on the Drawing toolbar (Figure &lt;t1&gt;1&lt;/t1&gt;) and select &lt;f2&gt;Insert Line&lt;/f2&gt; from the drop down list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na trojúhelník ▼ napravo od&lt;f0&gt; Čáry a šipky&lt;/f0&gt; na panelu nástrojů Kreslení (Obrázek&lt;t1&gt; 1&lt;/t1&gt; ) a vyberte&lt;f2&gt; Vložit řádek&lt;/f2&gt; z rozevíracího seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;Insert Line&lt;/f0&gt; in the &lt;f1&gt;Line&lt;/f1&gt; section of the Shapes deck on the Sidebar (Figure ).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte na&lt;f0&gt; Vložit řádek&lt;/f0&gt; v&lt;f1&gt; Čára&lt;/f1&gt; část paluby Tvary na postranním panelu (obrázek).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place the cursor at the starting point on the drawing, then click and drag the cursor to draw a straight line.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Umístěte kurzor do počátečního bodu výkresu, poté kliknutím a tažením kurzoru nakreslete přímku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Release the mouse button when the end point is reached and a straight line is created.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jakmile je dosaženo koncového bodu a je vytvořena přímka, uvolněte tlačítko myši.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The selection handle at the starting point of the line is slightly larger than the selection handle at the end point, as shown in Figure .</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Popisovač výběru v počátečním bodě čáry je o něco větší než popisovač výběru v koncovém bodě, jak je znázorněno na obrázku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To snap the start and end points of a line to the grid, use one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li přichytit počáteční a koncový bod čáry k mřížce, použijte jednu z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hold down the &lt;f0&gt;Ctrl&lt;/f0&gt; key while drawing the line.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Podržte&lt;f0&gt; Ctrl&lt;/f0&gt; při kreslení čáry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;View &gt; Snap Guides&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Snap to Grid&lt;/f1&gt; from the available options.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Zobrazit &gt; Přichytit vodítka&lt;/f0&gt; na liště nabídek a vyberte&lt;f1&gt; Přichytit k mřížce&lt;/f1&gt; z dostupných možností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To temporarily disable &lt;f0&gt;Snap to Grid&lt;/f0&gt; when it has been selected, hold down the &lt;f1&gt;Ctrl&lt;/f1&gt; key while drawing the line.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dočasně deaktivovat&lt;f0&gt; Přichytit k mřížce&lt;/f0&gt; je-li vybrána, podržte stisknuté tlačítko&lt;f1&gt; Ctrl&lt;/f1&gt; při kreslení čáry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To display the grid, go to &lt;f0&gt;View &gt; Grid and Helplines&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Display Grid&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li zobrazit mřížku, přejděte na&lt;f0&gt; Zobrazit &gt; Mřížka a linky pomoci&lt;/f0&gt; na liště nabídek a vyberte&lt;f1&gt; Zobrazit mřížku&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, go to &lt;f2&gt;Tools &gt; Options LibreOffice Draw &gt; Grid&lt;/f2&gt; and select &lt;f3&gt;Visible Grid&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Případně přejděte na&lt;f2&gt; Nástroje &gt; Možnosti LibreOffice Draw &gt; Mřížka&lt;/f2&gt; a vyberte&lt;f3&gt; Viditelná mřížka&lt;/f3&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To restrict the drawing angle of a line to a multiple of 45 degrees, use one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li omezit úhel kreslení čáry na násobek 45 stupňů, použijte jednu z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep the &lt;f0&gt;Shift&lt;/f0&gt; key pressed while drawing the line.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ponechat&lt;f0&gt; Posun&lt;/f0&gt; při kreslení čáry stisknuto tlačítko.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, if the option in the Constrain Objects section of</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je však možnost v části Omezit objekty v</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Draw &gt; Grid&lt;/f0&gt; and select &lt;f1&gt;When creating or moving objects&lt;/f1&gt; in &lt;f2&gt;Constrain Objects&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Nástroje &gt; Možnosti &gt; LibreOffice Draw &gt; Mřížka&lt;/f0&gt; a vyberte&lt;f1&gt; Při vytváření nebo přesouvání objektů&lt;/f1&gt; v&lt;f2&gt; Omezit objekty&lt;/f2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To temporarily disable &lt;f0&gt;When creating or moving objects&lt;/f0&gt;, hold down the &lt;f1&gt;Shift&lt;/f1&gt; key while drawing the line.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dočasně deaktivovat&lt;f0&gt; Při vytváření nebo přesouvání objektů&lt;/f0&gt; , podržte&lt;f1&gt; Posun&lt;/f1&gt; při kreslení čáry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To draw a line symmetrically outwards in both directions from the center of the line, hold down the &lt;f0&gt;Alt&lt;/f0&gt; key while drawing the line.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li nakreslit čáru symetricky směrem ven v obou směrech od středu čáry, podržte klávesu&lt;f0&gt; Alt&lt;/f0&gt; při kreslení čáry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To change any of these attributes and format a line to the drawing requirements, select a line by clicking on it and use one of the following methods to access formatting options for a line:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li změnit některý z těchto atributů a naformátovat čáru podle požadavků na kreslení, vyberte čáru kliknutím na ni a použijte jednu z následujících metod pro přístup k možnostem formátování čáry:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to the Properties deck on the Sidebar and open the &lt;f0&gt;Line&lt;/f0&gt; section (Figure &lt;t1&gt;5&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na balíček Vlastnosti na bočním panelu a otevřete&lt;f0&gt; Čára&lt;/f0&gt; část (Obrázek&lt;t1&gt; 5&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on a line and select &lt;f0&gt;Line&lt;/f0&gt; from the context menu to open the Line dialog (Figure &lt;t1&gt;6&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem na řádek a vyberte&lt;f0&gt; Čára&lt;/f0&gt; z kontextové nabídky otevřete dialogové okno Čára (Obrázek&lt;t1&gt; 6&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Line section in Properties deck on Sidebar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 5&lt;/seq0&gt; : Řádek v paletě Vlastnosti na bočním panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Line dialog - Line page</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 6&lt;/seq0&gt; : Dialogové okno Řádek - Stránka Řádek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Lines and Arrows sub‑toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 8&lt;/seq0&gt; : Dílčí panel nástrojů Čáry a šipky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Line&lt;/f0&gt; on the Menu bar to open the Line dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Formát &gt; Řádek&lt;/f0&gt; na panelu nabídek otevřete dialogové okno Řádek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the tools &lt;f0&gt;Line Style&lt;/f0&gt;, &lt;f1&gt;Line Width&lt;/f1&gt;, and &lt;f2&gt;Line Color&lt;/f2&gt; on the Line and Filling toolbar (Figure &lt;t3&gt;7&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte nástroje&lt;f0&gt; Styl čáry&lt;/f0&gt; ,&lt;f1&gt; Šířka čáry&lt;/f1&gt; , a&lt;f2&gt; Barva čáry&lt;/f2&gt; na panelu nástrojů Čára a výplň (obrázek&lt;t3&gt; 7&lt;/t3&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Draw classifies both lines and arrows as lines and are drawn like straight lines.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Draw klasifikuje čáry i šipky jako čáry a kreslí se jako přímé čáry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hovering the cursor over each tool in the Lines and Arrows sub-toolbar (Figure &lt;t0&gt;8&lt;/t0&gt;) indicates what type of line or arrow each tool will draw.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Umístěním kurzoru nad každý nástroj v dílčím panelu Čáry a šipky (Obrázek&lt;t0&gt; 8&lt;/t0&gt; ) označuje, jaký typ čáry nebo šipky bude každý nástroj kreslit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The information field on the Status Bar shows them only as lines.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Informační pole na stavovém řádku je zobrazuje pouze jako řádky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The tools available for lines or arrows are, from left to right are as follows:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dostupné nástroje pro čáry nebo šipky jsou zleva doprava následující:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line with Circle/Arrow</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Čára s kruhem / šipkou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line with Square/Arrow</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Čára se čtvercem / šipkou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line with Arrows</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Linka s šipkami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line Starts with Arrow</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Čára začíná šipkou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line with Arrow/Circle</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Čára se šipkou / kruhem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line with Arrow/Square</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Čára se šipkou / čtvercem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dimension Line</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kótovací čára</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line (45º)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Čára (45 °)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The tool icon for the last tool used will already be selected on the Drawing toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ikona nástroje pro poslední použitý nástroj již bude vybrána na panelu nástrojů Kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This makes it easier to use the same tool again.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>To usnadňuje opětovné použití stejného nástroje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Shapes deck on Sidebar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 9&lt;/seq0&gt; : Tvaruje balíček na postranním panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use one of the following methods to start drawing a line or arrow:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K zahájení kreslení čáry nebo šipky použijte jednu z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the small triangle ▼ next to &lt;f0&gt;Lines and Arrows&lt;/f0&gt; on the Drawing toolbar and select the type line or arrow required from the options available (Figure &lt;t1&gt;8&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na malý trojúhelník ▼ vedle&lt;f0&gt; Čáry a šipky&lt;/f0&gt; na panelu nástrojů Kreslení a vyberte požadovanou typovou čáru nebo šipku z dostupných možností (Obrázek&lt;t1&gt; 8&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the type of line or arrow required in the Lines and Arrows section of the Shapes deck on the Sidebar (Figure &lt;t0&gt;9&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte požadovaný typ čáry nebo šipky v části Čáry a šipky na paletě Tvary na postranním panelu (Obrázek&lt;t0&gt; 9&lt;/t0&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place the cursor at the starting point for the line or arrow, then click and drag the cursor.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Umístěte kurzor do počátečního bodu čáry nebo šipky, poté klikněte a přetáhněte kurzor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An arrowhead is drawn at the end point of an arrow when the mouse button is released.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po uvolnění tlačítka myši se v koncovém bodě šipky nakreslí hrot šipky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information on options for drawing lines and arrows, see “&lt;bf0&gt;Straight lines&lt;/bf0&gt;” on page &lt;bf1&gt;5&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o možnostech kreslení čar a šipek naleznete v části „&lt;bf0&gt; Rovné čáry&lt;/bf0&gt; “ na stránce&lt;bf1&gt; 5&lt;/bf1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After drawing a line or arrow, make sure it is selected and format the line or arrow to the drawing requirements using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po nakreslení čáry nebo šipky se ujistěte, že je vybrána, a naformátujte čáru nebo šipku podle požadavků na kreslení pomocí jedné z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To format a line, see “&lt;bf0&gt;Straight lines&lt;/bf0&gt;” on page &lt;bf1&gt;5&lt;/bf1&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postup formátování řádku naleznete v části „&lt;bf0&gt; Rovné čáry&lt;/bf0&gt; “ na stránce&lt;bf1&gt; 5&lt;/bf1&gt; Pro více informací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To format an arrow:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formátování šipky:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Line&lt;/f0&gt; on the Menu bar or right-click on the arrow to open the Line dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Formát &gt; Řádek&lt;/f0&gt; na liště nabídek nebo kliknutím pravým tlačítkem na šipku otevřete dialogové okno Řádek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f1&gt;Arrow Styles&lt;/f1&gt; to open the &lt;f2&gt;Arrow Styles&lt;/f2&gt; page (Figure &lt;t3&gt;10&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f1&gt; Styly šipek&lt;/f1&gt; otevřít&lt;f2&gt; Styly šipek&lt;/f2&gt; stránka (obrázek&lt;t3&gt; 10&lt;/t3&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select an arrow style from the options available in the &lt;f4&gt;Arrow style&lt;/f4&gt; drop-down list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte styl šipky z možností dostupných v&lt;f4&gt; Styl šipky&lt;/f4&gt; rozbalovací seznam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f5&gt;OK&lt;/f5&gt; to apply the arrow style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte na&lt;f5&gt; OK&lt;/f5&gt; použít styl šipky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This changes both ends of the arrow to the same style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tím se oba konce šipky změní na stejný styl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Arrow Style&lt;/f0&gt; in the &lt;f1&gt;Line&lt;/f1&gt; section on the Properties deck of the Sidebar to open a drop down list (Figure &lt;t2&gt;11&lt;/t2&gt;) and select an arrow style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Styl šipky&lt;/f0&gt; v&lt;f1&gt; Čára&lt;/f1&gt; v části Vlastnosti na bočním panelu otevřete rozevírací seznam (obrázek&lt;t2&gt; 11&lt;/t2&gt; ) a vyberte styl šipky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The arrow styles on the left change the start point arrow style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styly šipek vlevo mění styl šipky počátečního bodu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The arrow styles on the right change the end point arrow style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styly šipek vpravo mění styl šipky koncového bodu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Line dialog - Arrow Styles page</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 10&lt;/seq0&gt; : Dialog Čára - stránka Styly šipek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Arrow styles in Line section in the Properties deck on Sidebar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 11&lt;/seq0&gt; : Styly šipek v sekci Čára v balíčku Vlastnosti na bočním panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Legacy Rectangles toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 12&lt;/seq0&gt; : Panel nástrojů Starší obdélníky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use one of the following methods to start drawing a rectangle or square:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K zahájení kreslení obdélníku nebo čtverce použijte jednu z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Rectangle&lt;/f0&gt; in the Drawing toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Obdélník&lt;/f0&gt; na panelu nástrojů Kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the type of rectangle or square in &lt;f0&gt;Basic Shapes&lt;/f0&gt; on the Shapes deck in the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte typ obdélníku nebo čtverce&lt;f0&gt; Základní tvary&lt;/f0&gt; na palubě tvarů v postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the triangle ▼ to the right of &lt;f0&gt;Basic Shapes&lt;/f0&gt; on the Drawing toolbar and select the type of rectangle or square required from the drop down list (Figure &lt;t1&gt;22&lt;/t1&gt; on page &lt;t2&gt;16&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na trojúhelník ▼ napravo od&lt;f0&gt; Základní tvary&lt;/f0&gt; na panelu nástrojů Kreslení a v rozevíracím seznamu vyberte požadovaný typ obdélníku nebo čtverce (obrázek&lt;t1&gt; 22&lt;/t1&gt; na stránce&lt;t2&gt; 16&lt;/t2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the type of rectangle or square from the Legacy Rectangles toolbar (Figure &lt;t0&gt;12&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na panelu nástrojů Starší obdélníky vyberte typ obdélníku nebo čtverce (obrázek&lt;t0&gt; 12&lt;/t0&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To display the Legacy Rectangles toolbar, go to &lt;f1&gt;View &gt; Toolbars&lt;/f1&gt; on the Menu bar and select it.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li zobrazit panel nástrojů Starší obdélníky, přejděte na&lt;f1&gt; Zobrazit &gt; Panely nástrojů&lt;/f1&gt; na liště nabídek a vyberte jej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place the cursor at the starting point for the rectangle or square, then click and drag the cursor until the required size is drawn.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Umístěte kurzor do počátečního bodu obdélníku nebo čtverce, poté klikněte a táhněte kurzorem, dokud nebude nakreslena požadovaná velikost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If &lt;f0&gt;Rectangle&lt;/f0&gt; is selected, hold down the &lt;f1&gt;Shift&lt;/f1&gt; key to draw a square.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Li&lt;f0&gt; Obdélník&lt;/f0&gt; je vybráno, podržte tlačítko&lt;f1&gt; Posun&lt;/f1&gt; klíč k nakreslení čtverce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If &lt;f0&gt;Rectangle&lt;/f0&gt; is selected, to draw a square from its center rather than the bottom right corner, hold down the &lt;f1&gt;Shift&lt;/f1&gt; and &lt;f2&gt;Alt&lt;/f2&gt; keys while dragging the cursor.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Li&lt;f0&gt; Obdélník&lt;/f0&gt; je vybráno, chcete-li nakreslit čtverec spíše od jeho středu než od pravého dolního rohu, podržte klávesu&lt;f1&gt; Posun&lt;/f1&gt; a&lt;f2&gt; Alt&lt;/f2&gt; při přetahování kurzoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The square uses the start point as the center of the square.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Čtverec používá počáteční bod jako střed čtverce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To draw a rectangle or square from its center rather than the bottom right corner, hold down the &lt;f0&gt;Alt&lt;/f0&gt; key while dragging the cursor.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li nakreslit obdélník nebo čtverec z jeho středu, nikoli z pravého dolního rohu, podržte klávesu&lt;f0&gt; Alt&lt;/f0&gt; při přetahování kurzoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The rectangle or square uses the start point as the center of the rectangle or square.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obdélník nebo čtverec používá počáteční bod jako střed obdélníku nebo čtverce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the option &lt;f0&gt;When creating or moving objects&lt;/f0&gt; has been selected in the &lt;f1&gt;Constrain Object&lt;/f1&gt; section of &lt;f2&gt;Tools &gt; Options &gt; LibreOffice Draw &gt; Grid&lt;/f2&gt;, the action of the &lt;f3&gt;Shift&lt;/f3&gt; key reversed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je to možné&lt;f0&gt; Při vytváření nebo přesouvání objektů&lt;/f0&gt; byl vybrán v&lt;f1&gt; Omezit objekt&lt;/f1&gt; část&lt;f2&gt; Nástroje &gt; Možnosti &gt; LibreOffice Draw &gt; Mřížka&lt;/f2&gt; , akce&lt;f3&gt; Posun&lt;/f3&gt; klíč obrácen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A square is drawn instead of a rectangle.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Místo obdélníku je nakreslen čtverec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To draw a rectangle, hold down the &lt;f4&gt;Shift&lt;/f4&gt; key.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li nakreslit obdélník, podržte klávesu&lt;f4&gt; Posun&lt;/f4&gt; klíč.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This reversal of the &lt;f5&gt;Shift&lt;/f5&gt; key action also applies when drawing ellipses, circles, arcs, and segments.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Toto obrácení&lt;f5&gt; Posun&lt;/f5&gt; klíčová akce platí také při kreslení elips, kruhů, oblouků a segmentů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use one of the following methods to start drawing an ellipse or circle:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K zahájení kreslení elipsy nebo kružnice použijte jednu z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Ellipse&lt;/f0&gt; in the Drawing toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Elipsa&lt;/f0&gt; na panelu nástrojů Kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the type of ellipse or circle in &lt;f0&gt;Basic Shapes&lt;/f0&gt; on the Shapes deck in the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte typ elipsy nebo kruhu&lt;f0&gt; Základní tvary&lt;/f0&gt; na palubě tvarů v postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the triangle ▼ to the right of &lt;f0&gt;Basic Shapes&lt;/f0&gt; on the Drawing toolbar and select the type of ellipse or circle required from the drop down list (Figure &lt;t1&gt;22&lt;/t1&gt; on page &lt;t2&gt;16&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na trojúhelník ▼ napravo od&lt;f0&gt; Základní tvary&lt;/f0&gt; na panelu nástrojů Kreslení a v rozevíracím seznamu vyberte požadovaný typ elipsy nebo kružnice (obrázek&lt;t1&gt; 22&lt;/t1&gt; na stránce&lt;t2&gt; 16&lt;/t2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the type of ellipse or circle from the Legacy Circles and Ovals toolbar (Figure &lt;t0&gt;13&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte typ elipsy nebo kružnice z panelu nástrojů Starší kruhy a ovály (Obrázek&lt;t0&gt; 13&lt;/t0&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To display the Legacy Circles and Ovals toolbar, go to &lt;f1&gt;View &gt; Toolbars&lt;/f1&gt; on the Menu bar and select it.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li zobrazit panel nástrojů Starší kruhy a ovály, přejděte na&lt;f1&gt; Zobrazit &gt; Panely nástrojů&lt;/f1&gt; na liště nabídek a vyberte jej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place the cursor at the starting point for the ellipse or circle, then click and drag the cursor until the required size is drawn.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Umístěte kurzor do počátečního bodu pro elipsu nebo kruh, poté klikněte a táhněte kurzorem, dokud se nenakreslí požadovaná velikost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If &lt;f0&gt;Ellipse&lt;/f0&gt; is selected, hold down the &lt;f1&gt;Shift&lt;/f1&gt; key to draw a circle.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Li&lt;f0&gt; Elipsa&lt;/f0&gt; je vybráno, podržte tlačítko&lt;f1&gt; Posun&lt;/f1&gt; klíč k nakreslení kruhu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If &lt;f0&gt;Ellipse&lt;/f0&gt; is selected, to draw a circle from its center rather than the bottom right corner, hold down the &lt;f1&gt;Shift&lt;/f1&gt; and &lt;f2&gt;Alt&lt;/f2&gt; keys while dragging the cursor.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Li&lt;f0&gt; Elipsa&lt;/f0&gt; je vybráno, chcete-li nakreslit kruh z jeho středu, nikoli z pravého dolního rohu, podržte klávesu&lt;f1&gt; Posun&lt;/f1&gt; a&lt;f2&gt; Alt&lt;/f2&gt; při přetahování kurzoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The circle uses the start point as the center of the circle.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kruh používá počáteční bod jako střed kruhu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To draw an ellipse or circle from its center rather than the bottom right corner, hold down the &lt;f0&gt;Alt&lt;/f0&gt; key while dragging the cursor.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li nakreslit elipsu nebo kruh z jeho středu, nikoli z pravého dolního rohu, podržte klávesu&lt;f0&gt; Alt&lt;/f0&gt; při přetahování kurzoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The ellipse or circle uses the start point as the center of the ellipse or circle.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Elipsa nebo kruh používá počáteční bod jako střed elipsy nebo kruhu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Legacy Circles and Ovals toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 13&lt;/seq0&gt; : Panel nástrojů Starší kruhy a ovály</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To quickly insert a line, rectangle, ellipse, or text, press and hold down the &lt;f0&gt;Ctrl&lt;/f0&gt; key and then click on one of the icons for Line, Rectangle, Ellipse, or Text and a standard sized object is drawn automatically in the work area.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li rychle vložit čáru, obdélník, elipsu nebo text, stiskněte a podržte klávesu&lt;f0&gt; Ctrl&lt;/f0&gt; a poté klikněte na jednu z ikon pro čáru, obdélník, elipsu nebo text a v pracovní oblasti se automaticky nakreslí objekt standardní velikosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The size, shape, and color are all standard values.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Velikost, tvar a barva jsou všechny standardní hodnoty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 4 Changing Object Attributes for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace najdete v kapitole 4 Změna atributů objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dimension lines display a measurement of an object in the drawing (Figure &lt;t0&gt;14&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kótovací čáry zobrazují měření objektu ve výkresu (obrázek&lt;t0&gt; 14&lt;/t0&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The dimension line does not belong to the object itself, but is positioned close to it.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kótovací čára nepatří k samotnému objektu, ale je umístěna blízko ní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An object can have as many dimension lines as necessary to indicate the size of its sides, edges, and distances.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Objekt může mít tolik kótovacích čar, kolik je třeba k označení velikosti jeho stran, okrajů a vzdáleností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To control the display of a dimension line components and appearance by right-clicking, on the dimension line and selecting &lt;f0&gt;Dimensions&lt;/f0&gt; from the context menu to open the Dimension line dialog (Figure &lt;t1&gt;15&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li ovládat zobrazení komponent a vzhledu kótovací čáry kliknutím pravým tlačítkem, na kótovací čáru a výběrem&lt;f0&gt; Rozměry&lt;/f0&gt; z kontextové nabídky otevřete dialog Kótovací čára (Obrázek&lt;t1&gt; 15&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use one of the following options to start drawing a dimension line:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K zahájení kreslení kótovací čáry použijte jednu z následujících možností:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the triangle ▼ on the right of &lt;f0&gt;Lines and Arrows&lt;/f0&gt; on the Drawing toolbar and select &lt;f1&gt;Dimension Line&lt;/f1&gt; from the drop down list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na trojúhelník ▼ napravo od&lt;f0&gt; Čáry a šipky&lt;/f0&gt; na panelu nástrojů Kreslení a vyberte&lt;f1&gt; Kótovací čára&lt;/f1&gt; z rozevíracího seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Dimension Line&lt;/f0&gt; in the &lt;f1&gt;Lines and Arrows&lt;/f1&gt; section of the Shapes deck on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Kótovací čára&lt;/f0&gt; v&lt;f1&gt; Čáry a šipky&lt;/f1&gt; část paluby Tvary na postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place the cursor at the point close to the object to position the start of the dimension line.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Umístěte kurzor na bod v blízkosti objektu a umístěte začátek kótovací čáry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click and drag to draw the dimension line.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím a tažením nakreslete kótovací čáru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As the dimension line is drawn, the dimension is displayed and automatically calculated.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při vykreslování kótovací čáry se kóta zobrazí a automaticky vypočítá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Format the settings of a dimension line using the options available the Dimension Line dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Naformátujte nastavení kótovací čáry pomocí možností, které jsou k dispozici v dialogovém okně Kótovací čára.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information dimension line options, see Chapter 11, Advanced Draw Techniques.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o možnostech kótovací čáry najdete v kapitole 11, Pokročilé techniky kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Measuring an object with dimension lines</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 14&lt;/seq0&gt; : Měření objektu s kótovacími čarami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: Dimension Line dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 15&lt;/seq0&gt; : Dialog Kótovací čára</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The measurement units used for dimension lines can be changed by going to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Draw &gt; Grid&lt;/f0&gt; on the Menu bar and select a measurement unit from the available options in the &lt;f1&gt;Units of measurement&lt;/f1&gt; drop down list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Měrné jednotky použité pro kótovací čáry lze změnit přechodem na&lt;f0&gt; Nástroje &gt; Možnosti &gt; LibreOffice Draw &gt; Mřížka&lt;/f0&gt; na liště nabídek a vyberte měrnou jednotku z dostupných možností v nabídce&lt;f1&gt; Jednotky měření&lt;/f1&gt; rozbalovací seznam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tools for drawing arcs or segments (partial circles or ellipses) are available in the following places:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nástroje pro kreslení oblouků nebo segmentů (částečné kružnice nebo elipsy) jsou k dispozici na následujících místech:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Legacy Circles and Ovals toolbar (Figure &lt;t0&gt;13&lt;/t0&gt; on page &lt;t1&gt;11&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Panel nástrojů Starší kruhy a ovály (obrázek&lt;t0&gt; 13&lt;/t0&gt; na stránce&lt;t1&gt; 11&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Basic Shapes sub-toolbar (Figure &lt;t0&gt;22&lt;/t0&gt; on page &lt;t1&gt;16&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dílčí panel nástrojů Základní tvary (Obrázek&lt;t0&gt; 22&lt;/t0&gt; na stránce&lt;t1&gt; 16&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Basic Shapes&lt;/f0&gt; section in the Shapes deck on the Sidebar (Figure &lt;t1&gt;9&lt;/t1&gt; on page &lt;t2&gt;8&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Základní tvary&lt;/f0&gt; část v paletě Tvary na postranním panelu (obrázek&lt;t1&gt; 9&lt;/t1&gt; na stránce&lt;t2&gt; 8&lt;/t2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An arc or segment is drawn as follows:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Oblouk nebo segment se nakreslí následovně:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the required tool from one of the options given above.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte požadovaný nástroj z jedné z výše uvedených možností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click at the approximate start point and drag the cursor to start creating an arc or segment.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na přibližný počáteční bod a tažením kurzoru začněte vytvářet oblouk nebo segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Release the mouse button when the required object size is reached.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jakmile je dosaženo požadované velikosti objektu, uvolněte tlačítko myši.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move the cursor to the position where the arc or segment starts and click to start drawing the arc or segment.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přesuňte kurzor na místo, kde začíná oblouk nebo segment, a kliknutím začněte kreslit oblouk nebo segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Status Bar indicates the angle in degrees.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stavový řádek označuje úhel ve stupních.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move the cursor to the end position of where the arc or segment finishes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přesuňte kurzor na koncovou pozici, kde končí oblouk nebo segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Status Bar shows the angle in degrees.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stavový řádek zobrazuje úhel ve stupních.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click again to complete the arc or segment.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Opětovným kliknutím dokončete oblouk nebo segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Curves and Polygons toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 16&lt;/seq0&gt; : Panel nástrojů Křivky a mnohoúhelníky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tools for drawing curves, polygons, or freeform lines are available in the following places:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nástroje pro kreslení křivek, mnohoúhelníků nebo přímek jsou k dispozici na následujících místech:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the triangle ▼ on the right of &lt;f0&gt;Curve and Polygons&lt;/f0&gt; on the Drawing toolbar and select the type of curve, polygon or freeform line from the drop down list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na trojúhelník ▼ napravo od&lt;f0&gt; Křivka a mnohoúhelníky&lt;/f0&gt; na panelu nástrojů Kreslení a v rozevíracím seznamu vyberte typ křivky, mnohoúhelníku nebo přímky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the type of curve, polygon or freeform line in the &lt;f0&gt;Curve and Polygons&lt;/f0&gt; section of the Shapes deck on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte typ křivky, mnohoúhelníku nebo přímky ve formátu&lt;f0&gt; Křivka a mnohoúhelníky&lt;/f0&gt; část paluby Tvary na postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the type of curve, polygon or freeform line from the Curves and Polygons sub‑toolbar (Figure &lt;t0&gt;16&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte typ křivky, mnohoúhelníku nebo přímky z dílčího panelu Křivky a mnohoúhelníky (Obrázek&lt;t0&gt; 16&lt;/t0&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click to create the starting point of the curve, then drag the cursor from the starting point to draw a line.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepnutím vytvoříte počáteční bod křivky, potom tažením kurzoru z počátečního bodu nakreslete čáru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Release the mouse button and continue to drag the cursor to bend the line into the required curve shape.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Uvolněte tlačítko myši a pokračujte tažením kurzoru, abyste ohnuli čáru do požadovaného tvaru křivky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click to set the end point of the curve and position the curve on the drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím nastavíte koncový bod křivky a umístíte křivku na výkres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Continue dragging the cursor to draw straight lines at the end of the curve.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokračujte v tažení kurzoru a nakreslete rovné čáry na konci křivky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each mouse click sets a corner point and allows drawing of another straight line from each corner point.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Každé kliknutí myší nastaví rohový bod a umožní nakreslit další přímku z každého rohového bodu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Double-click to end the drawing of a curve and straight lines.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Poklepáním ukončíte kreslení křivky a přímek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A filled curve automatically joins the last point to the first point to close off the object and fills it with the selected fill.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyplněná křivka automaticky spojí poslední bod s prvním bodem, aby uzavřela objekt a vyplnila jej vybranou výplní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A curve without filling is not closed at the end of the drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Křivka bez výplně není na konci výkresu uzavřena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click to create the start point, then drag the cursor to draw a line between the first and second points.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepnutím vytvoříte počáteční bod a potom tažením kurzoru nakreslete čáru mezi prvním a druhým bodem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each mouse click sets a corner point and draws another line.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Každé kliknutí myší nastaví rohový bod a nakreslí další čáru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Double-click to end the drawing of a polygon.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Poklepáním ukončíte kreslení mnohoúhelníku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A filled polygon automatically joins the last point to the first point to close off the figure and fills it with the selected fill.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyplněný mnohoúhelník se automaticky připojí k poslednímu bodu k prvnímu bodu, aby uzavřel obrázek a vyplnil jej vybranou výplní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A polygon without filling is not closed at the end of the drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Mnohoúhelník bez výplně není na konci výkresu uzavřen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If required, hold down the &lt;f0&gt;Shift&lt;/f0&gt; key as the line is drawn so that the line is drawn at an angle other than 45 or 90 degrees.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V případě potřeby podržte stisknutou klávesu&lt;f0&gt; Posun&lt;/f0&gt; klávesa, když je čára nakreslena, takže čára je nakreslena pod jiným úhlem než 45 nebo 90 stupňů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click and drag the cursor to the line shape required.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte a přetáhněte kurzor na požadovaný tvar čáry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Release the mouse button to complete the drawing of the freeform line.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Uvolněním tlačítka myši dokončete kreslení čáry volného tvaru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If &lt;f0&gt;Freeform Line Filled&lt;/f0&gt; is selected, the end point is joined automatically to the start point and the object is filled with the selected fill.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Li&lt;f0&gt; Volný řádek vyplněn&lt;/f0&gt; je vybrán, je koncový bod automaticky spojen s počátečním bodem a objekt je vyplněn vybranou výplní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The points in curves, polygons and freeform lines can be moved and edited.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Body v křivkách, mnohoúhelnících a přímkách lze přesouvat a upravovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 3, Working with Objects and Chapter 11, Advanced Draw Techniques for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace viz Kapitola 3, Práce s objekty a Kapitola 11, Pokročilé techniky kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glue points become visible when &lt;f0&gt;Connectors&lt;/f0&gt; is selected on the Drawing toolbar or a connector tool in the &lt;f1&gt;Connectors&lt;/f1&gt; section on the Shapes deck in the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Lepicí body se stanou viditelnými, když&lt;f0&gt; Konektory&lt;/f0&gt; je vybrána na panelu nástrojů Kreslení nebo nástrojem spojnice v&lt;f1&gt; Konektory&lt;/f1&gt; sekce na panelu Tvary v postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Most objects have four glue points (Figure &lt;t0&gt;17&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Většina objektů má čtyři lepicí body (obrázek&lt;t0&gt; 17&lt;/t0&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>More glue points can be added and customized using the Gluepoints toolbar (Figure &lt;t1&gt;18&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další lepicí body lze přidat a přizpůsobit pomocí panelu nástrojů Gluepoints (obrázek&lt;t1&gt; 18&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f2&gt;View &gt; Toolbars &gt; Glue Points&lt;/f2&gt; on the Menu bar to open the toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f2&gt; Zobrazit &gt; Panely nástrojů &gt; Lepicí body&lt;/f2&gt; na panelu nabídek otevřete panel nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selection handles are for moving or changing the shape of an object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Úchyty pro výběr slouží k přesunutí nebo změně tvaru objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For a more detailed description on the use of glue points, see Chapter 3, Working with Objects and Object Points and Chapter 8, Connections, Flowcharts, and Organization Charts.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Podrobnější popis použití lepicích bodů naleznete v kapitole 3, Práce s objekty a body objektů a v kapitole 8, Připojení, Vývojové diagramy a Organizační schémata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: Glue points example</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 17&lt;/seq0&gt; : Příklad lepicích bodů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Gluepoints toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 18&lt;/seq0&gt; : Panel nástrojů Gluepoints</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: Connector between two objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 20&lt;/seq0&gt; : Spojnice mezi dvěma objekty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Connectors are not the same as lines and arrows.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Konektory nejsou stejné jako čáry a šipky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When objects are moved or reordered, the connectors remain attached to a glue point.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když jsou objekty přesunuty nebo přeuspořádány, konektory zůstanou připojeny k bodu lepení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;t0&gt;20&lt;/t0&gt; shows an example of two objects and a connector.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;t0&gt; 20&lt;/t0&gt; ukazuje příklad dvou objektů a konektoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the Drawing toolbar, click on the triangle ▼ next to Connectors to open the Connectors toolbar (Figure &lt;t0&gt;19&lt;/t0&gt;), or select a connector from the &lt;f1&gt;Connectors&lt;/f1&gt; section in the Shapes deck in the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na panelu nástrojů Kreslení klepnutím na trojúhelník ▼ vedle Konektory otevřete panel nástrojů Konektory (obrázek&lt;t0&gt; 19&lt;/t0&gt; ), nebo vyberte konektor z&lt;f1&gt; Konektory&lt;/f1&gt; sekce v balíčku Tvary v postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For a more detailed description of the use of connectors, see Chapter 8, Connections, Flowcharts, and Organization Charts.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Podrobnější popis použití konektorů najdete v kapitole 8, Připojení, Vývojové diagramy a Organizační schémata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The tools for drawing geometric shapes are located on the Drawing toolbar (Figure &lt;t0&gt;1&lt;/t0&gt; on page &lt;t1&gt;4&lt;/t1&gt;) and on the Shapes deck in the Sidebar (Figure &lt;t2&gt;9&lt;/t2&gt; on page &lt;t3&gt;8&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nástroje pro kreslení geometrických tvarů jsou umístěny na panelu nástrojů Kreslení (Obrázek&lt;t0&gt; 1&lt;/t0&gt; na stránce&lt;t1&gt; 4&lt;/t1&gt; ) a na panelu Tvary v postranním panelu (obrázek&lt;t2&gt; 9&lt;/t2&gt; na stránce&lt;t3&gt; 8&lt;/t3&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The use of these tools for geometric shapes is similar to the tools used for drawing rectangles and squares, or ellipses and circles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použití těchto nástrojů pro geometrické tvary je podobné nástrojům používaným pro kreslení obdélníků a čtverců nebo elips a kruhů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information, see “&lt;bf4&gt;Drawing basic shapes&lt;/bf4&gt;” on page &lt;bf5&gt;4&lt;/bf5&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace naleznete v části „&lt;bf4&gt; Kreslení základních tvarů&lt;/bf4&gt; “ na stránce&lt;bf5&gt; 4&lt;/bf5&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The tool icons on the Drawing toolbar, used for drawing geometric shapes, always indicate the last geometric shape drawn and may not be the same as the tool icons shown on the Drawing toolbar in this chapter.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ikony nástrojů na panelu nástrojů Kreslení, které se používají pro kreslení geometrických tvarů, vždy označují poslední nakreslený geometrický tvar a nemusí být stejné jako ikony nástrojů zobrazené na panelu nástrojů Kreslení v této kapitole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This also makes it easier to use the same tool again.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>To také usnadňuje opětovné použití stejného nástroje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clicking on the triangle ▼ to the right of a tool icon on the Drawing toolbar opens a sub-toolbar giving access to the toolset for that shape.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na trojúhelník ▼ napravo od ikony nástroje na panelu nástrojů Kreslení otevřete dílčí panel nástrojů, který poskytuje přístup k sadě nástrojů pro daný tvar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If necessary, this sub-toolbar can be “torn off” to create a floating toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V případě potřeby lze tento dílčí panel nástrojů „odtrhnout“ a vytvořit tak plovoucí panel nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;: Creating floating toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 21&lt;/seq0&gt; : Vytvoření plovoucího panelu nástrojů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the dotted line at the top of the toolset as shown in Figure &lt;t0&gt;21&lt;/t0&gt;, drag it across the screen to the Workspace and release the mouse button to create a floating toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na tečkovanou čáru v horní části sady nástrojů, jak je znázorněno na obrázku&lt;t0&gt; 21&lt;/t0&gt; , přetáhněte jej přes obrazovku do pracovního prostoru a uvolněním tlačítka myši vytvořte plovoucí panel nástrojů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To close a floating toolbar, click on the X on the right of the toolbar title.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li zavřít plovoucí panel nástrojů, klikněte na X vpravo od nadpisu panelu nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text can be added to all of these geometric shapes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ke všem těmto geometrickým tvarům lze přidat text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information, see Chapter 11, Advanced Draw Techniques.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace najdete v kapitole 11, Pokročilé techniky kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the triangle ▼ to the right of &lt;f0&gt;Basic Shapes&lt;/f0&gt; on the Drawing toolbar opens the Basic Shapes sub-toolbar (Figure &lt;t1&gt;22&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na trojúhelník ▼ napravo od&lt;f0&gt; Základní tvary&lt;/f0&gt; na panelu nástrojů Kreslení otevře dílčí panel nástrojů Základní tvary (Obrázek&lt;t1&gt; 22&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This sub-toolbar also includes rectangle and ellipse tools that are identical to the ones already displayed on the Drawing toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento dílčí panel nástrojů obsahuje také nástroje pro obdélníky a elipsy, které jsou identické s těmi, které jsou již zobrazeny na panelu nástrojů Kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, select the required tool in the &lt;f2&gt;Basic Shapes&lt;/f2&gt; section in the Shapes deck on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Případně vyberte požadovaný nástroj v&lt;f2&gt; Základní tvary&lt;/f2&gt; sekce v balíčku Tvary na postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the triangle ▼ to the right of &lt;f0&gt;Symbol Shapes&lt;/f0&gt; on the Drawing toolbar opens the Symbol Shapes sub-toolbar (Figure &lt;t1&gt;23&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na trojúhelník ▼ napravo od&lt;f0&gt; Tvary symbolů&lt;/f0&gt; na panelu nástrojů Kreslení otevře dílčí panel nástrojů Tvary symbolů (obrázek&lt;t1&gt; 23&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, select the required tool in the &lt;f2&gt;Symbol Shapes&lt;/f2&gt; section in the Shapes deck on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Případně vyberte požadovaný nástroj v&lt;f2&gt; Tvary symbolů&lt;/f2&gt; sekce v balíčku Tvary na postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the triangle ▼ to the right of &lt;f0&gt;Block Arrows&lt;/f0&gt; on the Drawing toolbar opens the Block Arrows sub-toolbar (Figure &lt;t1&gt;24&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na trojúhelník ▼ napravo od&lt;f0&gt; Blokovat šipky&lt;/f0&gt; na panelu nástrojů Kreslení otevře dílčí panel nástrojů Šipky bloku (obrázek&lt;t1&gt; 24&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, select the required tool in the &lt;f2&gt;Block Arrows&lt;/f2&gt; section in the Shapes deck on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Případně vyberte požadovaný nástroj v&lt;f2&gt; Blokovat šipky&lt;/f2&gt; sekce v balíčku Tvary na postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the triangle ▼ to the right of &lt;f0&gt;Flowchart&lt;/f0&gt; on the Drawing toolbar opens the Flowchart sub‑toolbar (Figure &lt;t1&gt;25&lt;/t1&gt;) for symbols.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na trojúhelník ▼ napravo od&lt;f0&gt; Vývojový diagram&lt;/f0&gt; na panelu nástrojů Kreslení otevře dílčí panel Vývojový diagram (Obrázek&lt;t1&gt; 25&lt;/t1&gt; ) pro symboly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, select the required tool in the &lt;f2&gt;Flowchart&lt;/f2&gt; section in the Shapes deck on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Případně vyberte požadovaný nástroj v&lt;f2&gt; Vývojový diagram&lt;/f2&gt; sekce v balíčku Tvary na postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The creation of flowcharts, organization charts, and similar planning tools are further described in Chapter 8 Connections, Flowcharts and Organization Charts.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytváření vývojových diagramů, organizačních diagramů a podobných plánovacích nástrojů je dále popsáno v kapitole 8 Připojení, vývojové diagramy a organizační diagramy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;25&lt;/seq0&gt;: Flowchart toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 25&lt;/seq0&gt; : Panel nástrojů Vývojový diagram</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the triangle ▼ to the right of &lt;f0&gt;Callout&lt;/f0&gt; to on the Drawing toolbar opens the Callouts sub‑toolbar (Figure &lt;t1&gt;26&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na trojúhelník ▼ napravo od&lt;f0&gt; Zavolat&lt;/f0&gt; na na panelu nástrojů Kreslení otevře dílčí panel Popisky (Obrázek&lt;t1&gt; 26&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, select the required tool in the &lt;f2&gt;Callouts&lt;/f2&gt; section on the Shapes deck on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Případně vyberte požadovaný nástroj v&lt;f2&gt; Popisky&lt;/f2&gt; sekce na panelu Tvary na postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the triangle ▼ to the right of &lt;f0&gt;Star and Banners&lt;/f0&gt; on the Drawing toolbar opens the Stars and Banners sub-toolbar (Figure &lt;t1&gt;27&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na trojúhelník ▼ napravo od&lt;f0&gt; Hvězda a bannery&lt;/f0&gt; na panelu nástrojů Kreslení otevře dílčí panel nástrojů Hvězdy a bannery (obrázek&lt;t1&gt; 27&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, select the required tool in the &lt;f2&gt;Stars and Banners&lt;/f2&gt; section in the Shapes deck on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Případně vyberte požadovaný nástroj v&lt;f2&gt; Hvězdy a bannery&lt;/f2&gt; sekce v balíčku Tvary na postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the triangle ▼ to the right of &lt;f0&gt;3D Objects&lt;/f0&gt; on the Drawing toolbar opens the 3D-Objects sub‑toolbar (Figure &lt;t1&gt;28&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na trojúhelník ▼ napravo od&lt;f0&gt; 3D objekty&lt;/f0&gt; na panelu nástrojů Kreslení otevře dílčí panel nástrojů 3D objekty (obrázek&lt;t1&gt; 28&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, select the required tool in the &lt;f2&gt;3D-Objects&lt;/f2&gt; section in the Shapes deck on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Případně vyberte požadovaný nástroj v&lt;f2&gt; 3D objekty&lt;/f2&gt; sekce v balíčku Tvary na postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;28&lt;/seq0&gt;: 3D-Objects toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 28&lt;/seq0&gt; : Panel nástrojů 3D objekty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In Draw text can be added, inserted, and formatted to a drawing, objects, and shapes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V Draw lze přidat, vložit a zformátovat do výkresu, objektů a tvarů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information on how to add, insert, and format text in a drawing or drawing objects, see Chapter 9, Adding and Formatting Text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o tom, jak přidat, vložit a formátovat text do výkresu nebo nakreslených objektů, najdete v kapitole 9, Přidávání a formátování textu.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
