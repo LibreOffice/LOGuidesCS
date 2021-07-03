@@ -1,0 +1,4022 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" segtype="sentence" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 3, Working with Objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 3, Práce s objekty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 3, Working with Objects&lt;segment 18915&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 3, Práce s objekty&lt;segment 18915&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Changing object shape&lt;/t0&gt; | &lt;t1&gt;33&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Změna tvaru objektu&lt;/t0&gt; |&lt;t1&gt; 33&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;32&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Chapter 3, Working with Objects&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;32&lt;/t0&gt;&lt;s1/&gt; |&lt;t2&gt; Kapitola 3, Práce s objekty&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Chapter 3, Working with Objects&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Kapitola 3, Práce s objekty&lt;/t0&gt;&lt;s1/&gt; |&lt;t2&gt; 3&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;4&lt;/t0&gt;| &lt;t1&gt;Chapter 3, Working with Objects&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;4&lt;/t0&gt; |&lt;t1&gt; Kapitola 3, Práce s objekty&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Draw Guide</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nakreslete průvodce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Working with Objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Práce s objekty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This document is Copyright © &lt;t0&gt;2021&lt;/t0&gt;&lt;s1/&gt;by the LibreOffice Documentation Team.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Autorská práva k tomuto dokumentu&lt;t0&gt; 2021&lt;/t0&gt;&lt;s1/&gt; dokumentační tým LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Elzett Kotze</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Elzett Kotze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Everything sent to a mailing list, including email address and any other personal information that is written in the message, is publicly archived and cannot be deleted.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Všechno zaslané na seznam adresátů, včetně e-mailové adresy a jakýchkoli dalších osobních údajů, které jsou ve zprávě napsány, je veřejně archivováno a nelze jej smazat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Published &lt;t0&gt;July&lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt;2021&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Publikováno&lt;t0&gt; červenec&lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt; 2021&lt;/t2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Based on LibreOffice &lt;ud3&gt;7.1&lt;/ud3&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na základě LibreOffice&lt;ud3&gt; 7.1&lt;/ud3&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Positioning and adjusting objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Umístění a nastavení objektů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using zoom</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí zoomu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Zoom &amp; View Layout dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dialogové okno Zvětšení a zobrazení rozložení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Zoom toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Lišta nástrojů lupy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modifying arcs</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Úpravy oblouků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rotating and slanting objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rotující a šikmé objekty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rotating objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rotující objekty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Slanting objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Šikmé předměty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Setting exact position, size, rotation and slant</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nastavení přesné polohy, velikosti, otáčení a sklonu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Slant and corner radius</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Šikmý a poloměr rohu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using grid and snap functions</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použití funkcí mřížky a uchopení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Configuring grid and snap functions</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Konfigurace funkcí mřížky a uchopení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserting snap points and snap lines</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vkládání bodů přichycení a čar přichycení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displaying snap points and lines</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zobrazuje uchopovací body a čáry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Editing snap points and lines</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Úpravy uchopovacích bodů a čar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deleting snap points and lines</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odstranění záchytných bodů a čar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Configuring snap range</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Konfigurace rozsahu přichycení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using Helplines</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Používání linek pomoci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changing object shape</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Změna tvaru objektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regular shapes</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pravidelné tvary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Curves and polygons</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Křivky a mnohoúhelníky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bézier curves</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Bézierovy křivky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Converting objects to curve or polygon</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Převod objektů na křivku nebo mnohoúhelník</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Editing points</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Úpravy bodů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Point types</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Typy bodů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tangents</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tečny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Symmetric transition</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Symetrický přechod</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Smooth transition</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Hladký přechod</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Corner point</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rohový bod</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Moving points</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pohybující se body</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserting points</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vkládání bodů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deleting points</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Mazání bodů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Eliminating points</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vylučující body</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Converting curves or lines</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Převod křivek nebo čar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;Splitting &lt;/a0&gt;&lt;a1&gt;objects&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;a0&gt;Rozdělení&lt;/a0&gt;&lt;a1&gt; předměty&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;Closing &lt;/a0&gt;&lt;a1&gt;objects&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;a0&gt;Zavírání&lt;/a0&gt;&lt;a1&gt; předměty&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;Distorting &lt;/a0&gt;&lt;a1&gt;objects&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;a0&gt;Zkreslující&lt;/a0&gt;&lt;a1&gt; předměty&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This chapter looks at the tools and functions to modify existing drawings.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato kapitola se zabývá nástroji a funkcemi pro úpravu existujících výkresů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All of the functions apply to a selected object or a group of selected objects, which can be distinguished by selection handles on a rectangular frame that is large enough to contain the object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Všechny funkce se vztahují na vybraný objekt nebo skupinu vybraných objektů, které lze odlišit úchyty výběru na obdélníkovém rámu, který je dostatečně velký, aby obsahoval objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Where several objects are selected, the frame around the objects corresponds to the smallest rectangle that can contain all of the objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je vybráno několik objektů, odpovídá rámeček kolem objektů nejmenšímu obdélníku, který může obsahovat všechny objekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This frame is called the selection rectangle.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento rámeček se nazývá obdélník výběru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The color and shape of the selection handles changes depending on the tool and function that has been selected to change the object properties.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Barva a tvar rukojetí výběru se mění v závislosti na nástroji a funkci, která byla vybrána ke změně vlastností objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The color of the selection handles also depends on the computer operating system and how the computer has been set up.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Barva popisovačů výběru také závisí na operačním systému počítače a na tom, jak byl počítač nastaven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For objects that are not filled, click on the object border to select it.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>U objektů, které nejsou vyplněny, jej vyberte kliknutím na okraj objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To select more than one object, hold the &lt;f0&gt;Shift&lt;/f0&gt; key down while clicking on objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vybrat více než jeden objekt, podržte tlačítko&lt;f0&gt; Posun&lt;/f0&gt; klávesou dolů při klikání na objekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To deselect an object, move the cursor into a blank space on the drawing and click.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li zrušit výběr objektu, přesuňte kurzor do prázdného místa na výkresu a klikněte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Several objects can be selected at once by clicking and dragging the cursor around the objects drawing a selection rectangle around the objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Několik objektů lze vybrat najednou kliknutím a tažením kurzoru kolem objektů a nakreslením obdélníku výběru kolem objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only objects that lie entirely within this selection rectangle are selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberou se pouze objekty, které leží zcela v tomto obdélníku výběru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To select multiple objects by framing, &lt;f0&gt;Select&lt;/f0&gt; on the Drawing toolbar must be active, as shown in Figure &lt;t1&gt;1&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vybrat více objektů rámováním,&lt;f0&gt; Vybrat&lt;/f0&gt; na panelu nástrojů Kreslení musí být aktivní, jak je znázorněno na obrázku&lt;t1&gt; 1&lt;/t1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a cursor is dragged to select multiple objects, the selection rectangle being created is also known as a marquee.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když přetáhnete kurzor a vyberete více objektů, vytvářený výběrový obdélník se také označuje jako rámeček.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If objects are located behind others and not visible, they can still be selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud jsou objekty umístěny za ostatními a nejsou viditelné, lze je stále vybrat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a hidden object is selected, its selection handles appear through the objects covering it.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když je vybrán skrytý objekt, jeho úchyty pro výběr se objeví skrz objekty, které jej zakrývají.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Windows, Mac or Linux&lt;/f0&gt; – press the &lt;f1&gt;Tab&lt;/f1&gt; key to select and cycle through the selection of objects in a drawing, stopping at the hidden object to select it.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Windows, Mac nebo Linux&lt;/f0&gt; - zmáčkni&lt;f1&gt; Tab&lt;/f1&gt; klávesu pro výběr a procházení výběrem objektů ve výkresu, zastavením skrytého objektu a jeho výběrem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To cycle through the objects in reverse order, press &lt;f2&gt;Shift+Tab&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li procházet objekty v opačném pořadí, stiskněte&lt;f2&gt; Shift + Tab&lt;/f2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Windows or Mac only&lt;/f0&gt; – select the object in front of a hidden object, then press the &lt;f1&gt;Alt&lt;/f1&gt; key and click to select the hidden object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Pouze Windows nebo Mac&lt;/f0&gt; - vyberte objekt před skrytým objektem a stiskněte&lt;f1&gt; Alt&lt;/f1&gt; klíč a klepnutím vyberte skrytý objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If there are several hidden objects, keep holding down the &lt;f2&gt;Alt&lt;/f2&gt; key and clicking until the object required is reached.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud existuje několik skrytých předmětů, držte stisknuté tlačítko&lt;f2&gt; Alt&lt;/f2&gt; klíč a klikání, dokud není dosaženo požadovaného objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To cycle through the objects in reverse order, hold down the &lt;f3&gt;Alt+Shift&lt;/f3&gt; keys and click.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li procházet objekty v opačném pořadí, podržte klávesu&lt;f3&gt; Alt + Shift&lt;/f3&gt; klíče a klepněte na.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This stacking order can be rearranged by moving an object forward or backward using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Toto pořadí skládání lze přeskupit přesunutím objektu dopředu nebo dozadu pomocí jedné z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select an object, go to &lt;f0&gt;Shape &gt; Arrange&lt;/f0&gt; on the Menu bar, or right-click on the object and select &lt;f1&gt;Arrange&lt;/f1&gt; from the drop down menu, then select one of the following options:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte objekt, přejděte na&lt;f0&gt; Tvar &gt; Uspořádat&lt;/f0&gt; na liště nabídek nebo klepněte pravým tlačítkem myši na objekt a vyberte&lt;f1&gt; Uspořádat&lt;/f1&gt; z rozevírací nabídky vyberte jednu z následujících možností:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Bring to Front&lt;/f0&gt; (&lt;f1&gt;Ctrl+Shift++&lt;/f1&gt;)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Postavte se dopředu&lt;/f0&gt; (&lt;f1&gt; Ctrl + Shift ++&lt;/f1&gt; )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Bring Forward&lt;/f0&gt; (&lt;f1&gt;Ctrl++&lt;/f1&gt; )</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Předložit&lt;/f0&gt; (&lt;f1&gt; Ctrl ++&lt;/f1&gt; )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Send Backward&lt;/f0&gt; (&lt;f1&gt;Ctrl+-&lt;/f1&gt;)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Odeslat zpět&lt;/f0&gt; (&lt;f1&gt; Ctrl + -&lt;/f1&gt; )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Send to Back&lt;/f0&gt; (&lt;f1&gt;Ctrl+Shift+-&lt;/f1&gt;)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Poslat zpět&lt;/f0&gt; (&lt;f1&gt; Ctrl + Shift + -&lt;/f1&gt; )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select an object, then select one of the &lt;f0&gt;Arrange&lt;/f0&gt; tools at the left end of the Line and Filling toolbar (Figure &lt;t1&gt;2&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte objekt a poté vyberte jeden z&lt;f0&gt; Uspořádat&lt;/f0&gt; nástroje na levém konci panelu nástrojů Čára a výplň (obrázek&lt;t1&gt; 2&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the cursor is hovered over a tool, its function is indicated.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když najedete kurzorem na nástroj, je označena jeho funkce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Line and Filling toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 2&lt;/seq0&gt; : Panel nástrojů Čára a výplň</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Line and Filling toolbar is not visible in the default installation of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Panel nástrojů Čára a výplň není ve výchozí instalaci LibreOffice viditelný.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To make this toolbar visible, go to &lt;f0&gt;View &gt; Toolbars &gt; Line and Filling&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li tento panel nástrojů zobrazit, přejděte na&lt;f0&gt; Zobrazit &gt; Panely nástrojů &gt; Čára a výplň&lt;/f0&gt; na liště nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To help in the positioning and adjustment of objects, Draw has a zoom function that reduces or enlarges the screen display of the current drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Abychom pomohli s umístěním a úpravou objektů, Draw má funkci přiblížení, která zmenšuje nebo zvětšuje zobrazení aktuálního výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, zoom in to position objects on a drawing with greater accuracy; zoom out to see the complete drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například přiblížit a umístit objekty na výkresu s větší přesností; oddálením zobrazíte celý výkres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Zooming is controlled using the Status Bar, Zoom &amp; View Layout dialog, or Zoom toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přiblížení se ovládá pomocí stavového řádku, dialogového okna Zvětšit a zobrazit rozložení nebo panelu nástrojů Zvětšení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Zooming is handled differently in Linux and Windows operating systems.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V operačních systémech Linux a Windows se se zoomem zachází odlišně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A drawing saved with a 100% zoom factor in Windows is displayed at a larger zoom factor in Linux.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výkres uložený s faktorem zvětšení 100% v systému Windows se zobrazí v systému Linux s větším faktorem zvětšení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Zoom controls on Status Bar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 3&lt;/seq0&gt; : Ovládací prvky zoomu na stavovém řádku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Zoom &amp; View Layout dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 4&lt;/seq0&gt; : Dialogové okno Zoom &amp; Zobrazit rozložení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The zoom controls are located on the right side of the Status Bar (Figure &lt;t0&gt;3&lt;/t0&gt;) and these controls give quick and easy access to zooming.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ovládací prvky zoomu jsou umístěny na pravé straně stavového řádku (obrázek&lt;t0&gt; 3&lt;/t0&gt; ) a tyto ovládací prvky umožňují rychlý a snadný přístup k přiblížení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fit slide to current window – &lt;s0/&gt;fits the drawing to the open window.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přizpůsobit snímek aktuálnímu oknu -&lt;s0/&gt; přizpůsobí výkres otevřenému oknu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Minus sign (-) – reduces the zoom factor</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Znaménko minus (-) - snižuje faktor zvětšení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plus sign (+) – increases the zoom factor.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Znaménko plus (+) - zvyšuje faktor zvětšení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click and drag the zoom slider to increase or decrease the zoom factor.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím a přetažením posuvníku zvětšení zvětšíte nebo zmenšíte faktor zvětšení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the zoom percentage number and select a zoom factor from the context menu that opens.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem na procentuální číslo přiblížení a v místní nabídce, která se otevře, vyberte faktor přiblížení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;View &gt; Zoom &gt; Zoom&lt;/f0&gt; on the Menu bar to open the Zoom &amp; View Layout dialog (Figure &lt;t1&gt;4&lt;/t1&gt;) or double-click on the zoom percentage number and select a zoom factor from the Zoom &amp; View Layout dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Zobrazit &gt; Lupa &gt; Lupa&lt;/f0&gt; na panelu nabídek otevřete dialogové okno Zoom &amp; Zobrazit rozložení (obrázek&lt;t1&gt; 4&lt;/t1&gt; ) nebo poklepejte na procentuální číslo přiblížení a vyberte faktor přiblížení v dialogovém okně Přiblížit a zobrazit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Zoom &amp; View Layout dialog provides the following options to control how a drawing is viewed on a monitor.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dialogové okno Zoom &amp; View Layout poskytuje následující možnosti, jak ovládat způsob zobrazení výkresu na monitoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Zoom Factor&lt;/f0&gt; – sets the zoom factor at which to display the current document and all documents of the same type that are subsequently opened.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Faktor zvětšení&lt;/f0&gt; - nastaví faktor zvětšení, při kterém se zobrazí aktuální dokument a všechny dokumenty stejného typu, které se následně otevřou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Optimal&lt;/f0&gt; – resizes the display to fit the width of the text in the document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Optimální&lt;/f0&gt; - změní velikost zobrazení tak, aby odpovídala šířce textu v dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Fit width and height&lt;/f0&gt; – displays the entire page on the screen.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Přizpůsobte šířku a výšku&lt;/f0&gt; - zobrazí celou stránku na obrazovce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Fit width&lt;/f0&gt; – displays the complete width of the document page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Přizpůsobit šířku&lt;/f0&gt; - zobrazí celou šířku stránky dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The top and bottom edges of the page may not be visible.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Horní a dolní okraj stránky nemusí být viditelné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;100%&lt;/f0&gt; – displays the document at its actual size.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;100%&lt;/f0&gt; - zobrazí dokument ve skutečné velikosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Variable&lt;/f0&gt; – enter a percentage in the box for the zoom factor to display the document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Variabilní&lt;/f0&gt; - zadejte procento do pole pro zvětšení pro zobrazení dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;View Layout&lt;/f0&gt; – used to set the view layout and is not available for drawings.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Zobrazit rozložení&lt;/f0&gt; - slouží k nastavení rozložení pohledu a není k dispozici pro výkresy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>View layout is normally used in text documents to see the effects of different layout settings.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zobrazení rozložení se běžně používá v textových dokumentech k zobrazení účinků různých nastavení rozložení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Zoom toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 5&lt;/seq0&gt; : Lišta nástrojů Zoom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;View &gt; Toolbars &gt; Zoom&lt;/f0&gt; on the Menu bar to open the Zoom toolbar (Figure &lt;t1&gt;5&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Zobrazit &gt; Panely nástrojů &gt; Lupa&lt;/f0&gt; na panelu nabídek otevřete panel nástrojů Lupa (obrázek&lt;t1&gt; 5&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The tools available on this toolbar, from left to right, are as follows:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nástroje dostupné na tomto panelu nástrojů, zleva doprava, jsou následující:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Zoom In&lt;/f0&gt; – displays the drawing at two times its current size each time the tool is selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Přiblížit&lt;/f0&gt; - při každém výběru nástroje zobrazí výkres dvakrát větší než jeho aktuální velikost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Zoom Out&lt;/f0&gt; – displays the drawing at half its current size each time the tool is selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Oddálit&lt;/f0&gt; - při každém výběru nástroje zobrazí výkres v polovině jeho aktuální velikosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;100%&lt;/f0&gt; – displays the drawing at its actual size.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;100%&lt;/f0&gt; - zobrazí výkres ve skutečné velikosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Zoom Previous&lt;/f0&gt; – returns the display of the drawing to the previous zoom factor applied.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Zvětšit předchozí&lt;/f0&gt; - vrátí zobrazení výkresu na předchozí použitý zvětšený faktor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Zoom Next&lt;/f0&gt; – undoes the action of the previous zoom command.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Přiblížit další&lt;/f0&gt; - zruší akci předchozího příkazu zvětšení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Entire Page&lt;/f0&gt; – displays the whole drawing in the Workspace.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Celá stránka&lt;/f0&gt; - zobrazí celý výkres v pracovním prostoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Page Width&lt;/f0&gt; – displays the complete width of the drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Šířka stránky&lt;/f0&gt; - zobrazí celou šířku výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The top and bottom edges of the slide may not be visible.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Horní a dolní okraj sklíčka nemusí být viditelný.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Optimal&lt;/f0&gt; – resizes the display to include all of the objects on the slide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Optimální&lt;/f0&gt; - změní velikost zobrazení tak, aby zahrnovalo všechny objekty na snímku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Object Zoom&lt;/f0&gt; – resizes the display to fit the selected object(s).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Zoom objektu&lt;/f0&gt; - změní velikost zobrazení tak, aby odpovídala vybraným objektům.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Zoom &amp; Pan&lt;/f0&gt; – zooms in for each mouse click.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Zoom &amp; Pan&lt;/f0&gt; - přiblíží každé kliknutí myší.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f1&gt;Ctrl+click&lt;/f1&gt; zooms out for each click.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f1&gt;Ctrl + kliknutí&lt;/f1&gt; oddaluje se pro každé kliknutí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f2&gt;Shift+click&lt;/f2&gt; allows panning of the drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f2&gt;Shift + kliknutí&lt;/f2&gt; umožňuje posouvání výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Shift&lt;/f0&gt; – moves the drawing within the Draw workspace.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Posun&lt;/f0&gt; - přesune výkres v pracovním prostoru Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place the cursor on the drawing and drag to move the drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Umístěte kurzor na výkres a tažením přesuňte výkres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Left end of Status Bar when working with objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 6&lt;/seq0&gt; : Levý konec stavového řádku při práci s objekty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When moving an object or changing its size, check the left-hand area of the Status Bar at the bottom of the Workspace (Figure &lt;t0&gt;6&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když pohybujete objektem nebo měníte jeho velikost, zkontrolujte levou oblast stavového řádku ve spodní části pracovního prostoru (obrázek&lt;t0&gt; 6&lt;/t0&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From left to right, this area shows that a shape is selected, its position on the drawing in X/Y coordinates and dimensions of the object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zleva doprava tato oblast ukazuje, že je vybrán tvar, jeho poloha na výkresu v souřadnicích X / Y a rozměry objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The measurement units are those selected in &lt;f1&gt;Tools &gt; Options &gt; LibreOffice Draw &gt; General&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Měrné jednotky jsou jednotky vybrané v&lt;f1&gt; Nástroje &gt; Možnosti &gt; LibreOffice Draw &gt; Obecné&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To move an object (or a group of objects), select it and then click and drag within the object borders.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li přesunout objekt (nebo skupinu objektů), vyberte jej a poté klepněte a táhněte v rámci hranic objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>During movement, a ghost image of the object appears to help with repositioning (Figure &lt;t0&gt;7&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Během pohybu se zdá, že duchový obraz objektu pomáhá s přemístěním (obrázek&lt;t0&gt; 7&lt;/t0&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the object reaches its new location, release the mouse button.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jakmile objekt dosáhne svého nového umístění, uvolněte tlačítko myši.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The cursor changes shape to indicate the direction of movement for that selection handle.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kurzor změní tvar tak, aby určoval směr pohybu pro daný popisovač.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As the object size changes, a ghosted outline of the object appears (Figure &lt;t0&gt;8&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při změně velikosti objektu se objeví stínovaný obrys objektu (obrázek&lt;t0&gt; 8&lt;/t0&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the desired size of the object is reached, release the mouse button.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po dosažení požadované velikosti objektu uvolněte tlačítko myši.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The results depend on which selection handle is used.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výsledky závisí na tom, který popisovač výběru se použije.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To resize an object along one axis, use a side, top, or bottom handle.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li změnit velikost objektu podél jedné osy, použijte boční, horní nebo dolní úchyt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press and hold the &lt;f0&gt;Shift&lt;/f0&gt; key while resizing an object, the change in size will be carried out symmetrically with respect to the object width and height so that the aspect ratio of the object remains the same.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stiskněte a podržte&lt;f0&gt; Posun&lt;/f0&gt; Při změně velikosti objektu bude změna velikosti provedena symetricky vzhledem k šířce a výšce objektu, takže poměr stran objektu zůstane stejný.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Moving objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 7&lt;/seq0&gt; : Pohybující se objekty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Adjusting object size</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 8&lt;/seq0&gt; : Úprava velikosti objektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Modifying arcs</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 9&lt;/seq0&gt; : Úpravy oblouků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The size of an arc can be changed by adjusting the positions of the start and end points of an arc.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Velikost oblouku lze změnit úpravou pozic počátečního a koncového bodu oblouku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select an arc, then right click on the arc and select &lt;f0&gt;Points&lt;/f0&gt; from the drop down menu or press the &lt;f1&gt;F8&lt;/f1&gt; key.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte oblouk, klikněte pravým tlačítkem na oblouk a vyberte&lt;f0&gt; Body&lt;/f0&gt; z rozevírací nabídky nebo stiskněte&lt;f1&gt; F8&lt;/f1&gt; klíč.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Two handles appear at the start and end of the arc (Figure &lt;t2&gt;9&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na začátku a na konci oblouku se objeví dvě rukojeti (obrázek&lt;t2&gt; 9&lt;/t2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on one of these handles and drag it to a new position to change the shape of the arc.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na jednu z těchto úchytů a přetažením do nové polohy změníte tvar oblouku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To rotate an object (or a group of objects), select the object, then go to rotation mode using one of the following methods.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li otočit objekt (nebo skupinu objektů), vyberte objekt a poté přejděte do režimu otáčení pomocí jedné z následujících metod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select or click on an object</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte nebo klikněte na objekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use one of the following methods to switch to rotation mode.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K přepnutí do režimu otáčení použijte jednu z následujících metod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The selection handles change shape and color and a center of rotation indicator appears in the center of the object, as shown in Figure &lt;t0&gt;10&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Úchyty pro výběr mění tvar a barvu a ve středu objektu se zobrazí indikátor středu otáčení, jak je znázorněno na obrázku&lt;t0&gt; 10&lt;/t0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click again on a selected object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Znovu klikněte na vybraný objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the triangle ▼ on the right of &lt;f0&gt;Transformations&lt;/f0&gt; on the Line and Filling toolbar and select &lt;f1&gt;Rotate&lt;/f1&gt; from the pop up menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na trojúhelník ▼ napravo od&lt;f0&gt; Transformace&lt;/f0&gt; na panelu nástrojů Čára a plnění a vyberte&lt;f1&gt; Točit se&lt;/f1&gt; z rozbalovací nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;View &gt; Toolbars &gt; Transformations&lt;/f0&gt; on the Menu bar to open the Transformations toolbar (Figure &lt;t1&gt;11&lt;/t1&gt;) and select &lt;f2&gt;Rotate&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Zobrazit &gt; Panely nástrojů &gt; Transformace&lt;/f0&gt; na panelu nabídek otevřete panel nástrojů Transformace (obrázek&lt;t1&gt; 11&lt;/t1&gt; ) a vyberte&lt;f2&gt; Točit se&lt;/f2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Rotating objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 10&lt;/seq0&gt; : Rotující objekty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Transformations toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 11&lt;/seq0&gt; : Panel nástrojů Transformace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move the cursor over the handles and the cursor changes shape.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přesuňte kurzor nad úchyty a kurzor změní tvar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The corner handles are for rotating the object, and the top, bottom and side handles are to shear or slant the object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rohové rukojeti slouží k otáčení objektu a horní, spodní a boční rukojeti slouží ke stříhání nebo naklánění objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The rotation center is normally located at the center of an object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Střed otáčení je obvykle umístěn ve středu objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To change the position of the rotation center, click on the rotation center and drag until it is at the desired position.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li změnit polohu středu otáčení, klikněte na střed otáčení a táhněte, dokud nebude na požadované pozici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This rotation center can even be outside of the object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento střed otáčení může být dokonce mimo objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rotation works in a slightly different way for 3D objects because it occurs in a three dimensional space and not in a single plane.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rotace funguje u 3D objektů mírně odlišným způsobem, protože k ní dochází v trojrozměrném prostoru a ne v jedné rovině.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 7, Working with 3D Objects for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace najdete v kapitole 7, Práce s 3D objekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To slant an object, select the object and switch on rotation mode (see “&lt;bf0&gt;Rotating objects&lt;/bf0&gt;” above).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li naklonit objekt, vyberte jej a zapněte režim otáčení (viz „&lt;bf0&gt; Rotující objekty&lt;/bf0&gt; „Výše).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the handles located at the midpoints on the top, bottom and sides of a selected object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na úchyty umístěné ve středních bodech nahoře, dole a po stranách vybraného objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The cursor changes shape when it hovers over one of these midpoint handles indicating the direction of slanting.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kurzor změní tvar, když se vznáší nad jedním z těchto středových úchytů označujících směr šikmého pohybu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This axis stays fixed in location while the other sides of the object move in relation to it as the selection is dragged (Figure&lt;t0&gt;12&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato osa zůstává pevně na místě, zatímco ostatní strany objektu se pohybují ve vztahu k ní, když je výběr tažen (obrázek&lt;t0&gt; 12&lt;/t0&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click and drag the cursor to slant the object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím a tažením kurzoru nakloníte objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A ghosted outline of the object being slanted appears and the current angle of slanting is shown in the status bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Objeví se stínovaný obrys šikmého objektu a aktuální úhel sklonu se zobrazí ve stavovém řádku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press and hold the &lt;f0&gt;Shift&lt;/f0&gt; key while rotating or slanting an object, movement is restricted to 15°.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stiskněte a podržte&lt;f0&gt; Posun&lt;/f0&gt; při otáčení nebo naklánění předmětu je pohyb omezen na 15 °.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, if &lt;f2&gt;When creating or moving objects&lt;/f2&gt; has been selected in &lt;f3&gt;Tools &gt; Options &gt; LibreOffice Draw &gt; Grid&lt;/f3&gt;, the action of the &lt;f4&gt;Shift&lt;/f4&gt; key is reversed and rotation or slanting is restricted to 15° of movement unless the &lt;f5&gt;Shift&lt;/f5&gt; key is pressed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud však&lt;f2&gt; Při vytváření nebo přesouvání objektů&lt;/f2&gt; byl vybrán v&lt;f3&gt; Nástroje &gt; Možnosti &gt; LibreOffice Draw &gt; Mřížka&lt;/f3&gt; , akce&lt;f4&gt; Posun&lt;/f4&gt; klíč je obrácen a otáčení nebo sklon je omezen na 15 ° pohybu, pokud&lt;f5&gt; Posun&lt;/f5&gt; stisknuto tlačítko.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Slanting objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 12&lt;/seq0&gt; : Šikmé předměty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Position and Size dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 13&lt;/seq0&gt; : Dialog Pozice a velikost</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using the mouse to position and resize objects is not exact.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použití myši k umístění a změně velikosti objektů není přesné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If greater accuracy is required to position and size an object, it is recommended to use the Position and Size dialog (Figure &lt;t0&gt;13&lt;/t0&gt;) or the &lt;f1&gt;Position and Size&lt;/f1&gt; section (Figure &lt;t2&gt;14&lt;/t2&gt;) in the Properties deck on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je pro umístění a velikost objektu vyžadována větší přesnost, doporučuje se použít dialogové okno Poloha a velikost (Obrázek&lt;t0&gt; 13&lt;/t0&gt; ) nebo&lt;f1&gt; Poloha a velikost&lt;/f1&gt; část (Obrázek&lt;t2&gt; 14&lt;/t2&gt; ) na panelu Vlastnosti na bočním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To open the Position and Size dialog, select the object and use one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li otevřít dialogové okno Pozice a velikost, vyberte objekt a použijte jednu z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Position and Size&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Formát &gt; Poloha a velikost&lt;/f0&gt; na liště nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the object and select &lt;f0&gt;Position and Size&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem na objekt a vyberte&lt;f0&gt; Poloha a velikost&lt;/f0&gt; z místní nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To open the &lt;f0&gt;Position and Size&lt;/f0&gt; section in the Properties deck on the Sidebar, select the object, then click on &lt;f1&gt;Properties&lt;/f1&gt; on the Sidebar and click on the down arrow next to the &lt;f2&gt;Position and Size&lt;/f2&gt; title bar to open the section.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li otevřít&lt;f0&gt; Poloha a velikost&lt;/f0&gt; v části Vlastnosti na bočním panelu vyberte objekt a klikněte na&lt;f1&gt; Vlastnosti&lt;/f1&gt; na bočním panelu a klikněte na šipku dolů vedle&lt;f2&gt; Poloha a velikost&lt;/f2&gt; v záhlaví otevřete sekci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The options available in the Position and Size dialog and &lt;f0&gt;Position and Size&lt;/f0&gt; section in the Properties deck on the Sidebar are similar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti dostupné v dialogu Poloha a velikost a&lt;f0&gt; Poloha a velikost&lt;/f0&gt; sekce v balíčku Vlastnosti na postranním panelu jsou podobné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, on the Sidebar, the position and size of an object cannot be protected, or an object adapted to fit any text, or set the base point position for position and size.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na postranním panelu však nelze chránit polohu a velikost objektu nebo objekt přizpůsobený tak, aby se vešel na jakýkoli text, nebo nastavit polohu základního bodu pro polohu a velikost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Position and Size section in Properties deck on Sidebar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 14&lt;/seq0&gt; : Sekce Pozice a velikost na panelu Vlastnosti na bočním panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Position&lt;/f0&gt; – specify the location of the selected object on the page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Pozice&lt;/f0&gt; - určete umístění vybraného objektu na stránce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Position X&lt;/f0&gt; – enter the horizontal distance required to move the object relative to the base point selected in the grid.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Pozice X&lt;/f0&gt; - zadejte vodorovnou vzdálenost potřebnou k pohybu objektu vzhledem k základnímu bodu vybranému v mřížce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Position Y&lt;/f0&gt; – enter the vertical distance required to move the object relative to the base point selected in the grid.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Pozice Y&lt;/f0&gt; - zadejte svislou vzdálenost potřebnou k pohybu objektu vzhledem k základnímu bodu vybranému v mřížce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Base point&lt;/f0&gt; – select a base point in the grid and then enter the amount required to shift the object relative to the base point that is selected in the &lt;f1&gt;Position Y&lt;/f1&gt; and &lt;f2&gt;Position X&lt;/f2&gt; boxes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Základní bod&lt;/f0&gt; - vyberte základní bod v mřížce a poté zadejte částku potřebnou k posunutí objektu vzhledem k základnímu bodu, který je vybrán v&lt;f1&gt; Pozice Y&lt;/f1&gt; a&lt;f2&gt; Pozice X&lt;/f2&gt; krabice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The base points correspond to the selection handles on an object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Základní body odpovídají popisovačům výběru na objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option is only available in the Position and Size dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato možnost je k dispozici pouze v dialogu Poloha a velikost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Size&lt;/f0&gt; – specify the amount required to resize the selected object with respect to the selected base point.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Velikost&lt;/f0&gt; - zadejte částku potřebnou ke změně velikosti vybraného objektu s ohledem na vybraný základní bod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Width&lt;/f0&gt; – enter a width for the selected object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Šířka&lt;/f0&gt; - zadejte šířku vybraného objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Height&lt;/f0&gt; – enter a height for the selected object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Výška&lt;/f0&gt; - zadejte výšku vybraného objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Keep ratio&lt;/f0&gt; – maintains proportions when resizing the selected object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Udržujte poměr&lt;/f0&gt; - zachovává proporce při změně velikosti vybraného objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Base point&lt;/f0&gt; – select a base point in the grid, and then enter the new size dimensions for the selected object in the &lt;f1&gt;Width&lt;/f1&gt; and &lt;f2&gt;Height&lt;/f2&gt; boxes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Základní bod&lt;/f0&gt; - vyberte základní bod v mřížce a poté zadejte nové rozměry velikosti pro vybraný objekt do pole&lt;f1&gt; Šířka&lt;/f1&gt; a&lt;f2&gt; Výška&lt;/f2&gt; krabice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Protect&lt;/f0&gt; – this option is only available in the Position and Size dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Chránit&lt;/f0&gt; - tato možnost je k dispozici pouze v dialogu Poloha a velikost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Position&lt;/f0&gt; – prevents changes to the position or the size of the selected object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Pozice&lt;/f0&gt; - zabrání změnám polohy nebo velikosti vybraného objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Size&lt;/f0&gt; – prevents resizing of the object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Velikost&lt;/f0&gt; - zabrání změně velikosti objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Adapt&lt;/f0&gt; – specifies, if the size of a text box should be adjusted to fit the size of entered text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Přizpůsobit&lt;/f0&gt; - určuje, zda má být velikost textového pole upravena tak, aby odpovídala velikosti zadaného textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option is only available for text boxes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato možnost je k dispozici pouze pro textová pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The units of measurement used for X//Y coordinates and the width and height of the object are set by going to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Draw &gt; General&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jednotky měření použité pro souřadnice X // Y a šířka a výška objektu se nastaví přechodem na&lt;f0&gt; Nástroje &gt; Možnosti &gt; LibreOffice Draw &gt; Obecné&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default location of the base points for position and size is the upper left corner of the drawing area.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí umístění základních bodů pro polohu a velikost je levý horní roh kreslicí oblasti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This base point can be temporarily change to make positioning or dimensioning simpler by clicking on a position corresponding to the location of the base point required.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento základní bod lze dočasně změnit, aby se umístění nebo kótování zjednodušilo kliknutím na pozici odpovídající umístění požadovaného základního bodu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This change in base point is only valid for single use and the base point is reset to the standard position of top left corner when the Position and Size dialog is closed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato změna základního bodu je platná pouze pro jednorázové použití a základní bod se resetuje na standardní pozici levého horního rohu, když je dialogové okno Poloha a velikost zavřeno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: Position and Size dialog - Rotation page</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 15&lt;/seq0&gt; : Dialog Pozice a velikost - stránka Rotace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To accurately rotate an object, click on the &lt;f0&gt;Rotation&lt;/f0&gt; tab of the Position and Size dialog (Figure &lt;t1&gt;15&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li přesně otočit objekt, klikněte na ikonu&lt;f0&gt; Otáčení&lt;/f0&gt; záložka dialogu Poloha a velikost (Obrázek&lt;t1&gt; 15&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The options available allow the rotation angle and the location of the pivot point to be defined.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dostupné možnosti umožňují definovat úhel otočení a umístění bodu otáčení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, use the available options for rotation in the &lt;f2&gt;Position and Size&lt;/f2&gt; section in the Properties deck on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Případně použijte dostupné možnosti otáčení v&lt;f2&gt; Poloha a velikost&lt;/f2&gt; v paletě Vlastnosti na bočním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Pivot Point&lt;/f0&gt; – the selected object is rotated around a specified pivot point.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Otočný bod&lt;/f0&gt; - vybraný objekt se otáčí kolem zadaného bodu otáčení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default pivot point is at the center of the object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí bod otáčení je ve středu objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If a pivot point is set too far outside of the object boundaries, the object could be rotated off of the page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je otočný bod nastaven příliš daleko za hranice objektu, mohl by být objekt otočen mimo stránku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Position X&lt;/f0&gt; – enter horizontal distance from the left edge of the page to the pivot point.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Pozice X&lt;/f0&gt; - zadejte vodorovnou vzdálenost od levého okraje stránky k bodu otáčení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Position Y&lt;/f0&gt; – enter vertical distance from the top edge of the page to the pivot point.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Pozice Y&lt;/f0&gt; - zadejte svislou vzdálenost od horního okraje stránky k bodu otáčení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Default settings&lt;/f0&gt; – select the position of the pivot point.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Výchozí nastavení&lt;/f0&gt; - vyberte polohu otočného bodu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Default position is the center of the object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí poloha je střed objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changing the rotation pivot point is only valid for single use.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Změna otočného bodu otáčení je platná pouze pro jedno použití.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The pivot point is reset to default settings when the Position and Size dialog is closed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po zavření dialogu Poloha a velikost se otočný bod obnoví na výchozí nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Rotation&lt;/f0&gt; – specify the number of degrees that required to rotate the selected object, or click in the rotation grid.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Otáčení&lt;/f0&gt; - zadejte počet stupňů, které jsou nutné k otočení vybraného objektu, nebo klikněte do mřížky otáčení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Angle&lt;/f0&gt; – enter the number of degrees that required to rotate the selected object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Úhel&lt;/f0&gt; - zadejte počet stupňů potřebných k otočení vybraného objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Default settings&lt;/f0&gt; – click on the indicator to rotate the object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Výchozí nastavení&lt;/f0&gt; - kliknutím na indikátor objekt otočíte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The number of degrees is shown in the Angle box as the indicator is rotated.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Počet stupňů se zobrazuje v poli Úhel při otáčení indikátoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Rotation&lt;/f0&gt; – click on the indicator to rotate the selected object, or set the angle in the text box, or select a predetermined angle from the drop down list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Otáčení&lt;/f0&gt; - kliknutím na indikátor otočíte vybraný objekt nebo nastavíte úhel v textovém poli nebo vyberete předem určený úhel z rozevíracího seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option is only available in the &lt;f1&gt;Position and Size&lt;/f1&gt; section in the Properties deck on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato možnost je k dispozici pouze v&lt;f1&gt; Poloha a velikost&lt;/f1&gt; v paletě Vlastnosti na bočním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To accurately set the corner radius or slant angle of an object, click on the &lt;f0&gt;Slant &amp; Corner Radius&lt;/f0&gt; tab of the Position and Size dialog (Figure &lt;t1&gt;16&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li přesně nastavit poloměr rohu nebo úhel sklonu objektu, klikněte na ikonu&lt;f0&gt; Šikmý a rohový poloměr&lt;/f0&gt; záložka dialogu Poloha a velikost (Obrázek&lt;t1&gt; 16&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Options for slant and corner radius are only available in the Position and Size dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti sklonu a poloměru rohu jsou k dispozici pouze v dialogu Poloha a velikost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Position and Size dialog - Slant &amp; Corner Radius page</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 16&lt;/seq0&gt; : Dialog Pozice a velikost - stránka Šikmý a poloměr rohu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To set the &lt;f0&gt;Corner Radius&lt;/f0&gt;, rectangles and squares available on the Legacy Rectangles have to be used.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li nastavit&lt;f0&gt; Poloměr rohu&lt;/f0&gt; , je třeba použít obdélníky a čtverce dostupné ve starších obdélnících.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This toolbar is optional and is opened by going to &lt;f1&gt;View &gt; Toolbars &gt; Legacy Rectangles&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento panel nástrojů je volitelný a otevírá se přechodem na&lt;f1&gt; Zobrazit &gt; Panely nástrojů &gt; Starší obdélníky&lt;/f1&gt; na liště nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Corner Radius&lt;/f0&gt; – this option is only available for the corners of a rectangular or square object that has been created using the Legacy Rectangles toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Poloměr rohu&lt;/f0&gt; - tato možnost je k dispozici pouze pro rohy obdélníkového nebo čtvercového objektu, který byl vytvořen pomocí panelu nástrojů Starší obdélníky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If this section is grayed out, the corner radius cannot set .</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je tato část šedá, poloměr rohu nelze nastavit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Radius&lt;/f0&gt; – enter the radius of the circle that to be used to round the corners.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Poloměr&lt;/f0&gt; - zadejte poloměr kruhu, který má být použit k zaoblení rohů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The larger the value for corner radius set, the rounder corners of a rectangle or square become.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Čím větší je hodnota nastaveného poloměru rohu, tím zaoblenější rohy obdélníku nebo čtverce budou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Slant&lt;/f0&gt; – slants the selected object along the bottom edge of the object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Sklon&lt;/f0&gt; - nakloní vybraný objekt podél spodního okraje objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Angle&lt;/f0&gt; – enter the angle of the slant axis.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Úhel&lt;/f0&gt; - zadejte úhel šikmé osy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The slant angle relates to how much an object inclines or slants from its normal vertical position on a drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Úhel sklonu souvisí s tím, nakolik se objekt na výkresu nakloní nebo nakloní ze své normální svislé polohy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Control Point 1 and 2&lt;/f0&gt; – enter a value to set the X and Y coordinates of the top left corner of the object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Kontrolní bod 1 a 2&lt;/f0&gt; - zadejte hodnotu pro nastavení souřadnic X a Y v levém horním rohu objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If these sections are grayed out, then coordinates cannot be set.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud jsou tyto části šedé, pak nelze nastavit souřadnice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In Draw, objects can be positioned accurately and consistently using grid points, snap points and lines, object frames, individual points on objects, or page edges.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V Draw mohou být objekty umístěny přesně a konzistentně pomocí bodů mřížky, uchopovacích bodů a čar, rámů objektů, jednotlivých bodů na objektech nebo okrajů stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This function is known as Snap.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato funkce je známá jako Snap.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is easier to use snap functions at the highest practical zoom value for a drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Je snazší použít uchopovací funkce při nejvyšší praktické hodnotě zvětšení výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Two different snap functions can be used at the same time.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Lze použít dvě různé funkce přichycení současně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, snapping to a guide line and the page edge.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například přitahování k vodicí čáře a okraji stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, it is recommended to activate only those snap functions that are really required.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Doporučuje se však aktivovat pouze ty snapové funkce, které jsou skutečně vyžadovány.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: Options LibreOffice Draw Grid dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 17&lt;/seq0&gt; : Možnosti LibreOffice Dialog Draw Grid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Options toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 18&lt;/seq0&gt; : Panel nástrojů Možnosti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To configure the grid and snap functions in a drawing, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Draw &gt; Grid&lt;/f0&gt; on the Menu bar to display the Grid dialog (Figure &lt;t1&gt;17&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li nakonfigurovat funkce mřížky a uchopení ve výkresu, přejděte na&lt;f0&gt; Nástroje &gt; Možnosti &gt; LibreOffice Draw &gt; Mřížka&lt;/f0&gt; na panelu nabídek pro zobrazení dialogového okna Mřížka (obrázek&lt;t1&gt; 17&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The grid and snap functions can also be displayed and switched on or off using this dialog, right-clicking on a drawing and using the options in the context menu, or using the icons in the Options toolbar (Figure &lt;t2&gt;18&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Funkce mřížky a uchopení lze také zobrazit a zapnout nebo vypnout pomocí tohoto dialogu, kliknutím pravým tlačítkem na výkres a pomocí možností v místní nabídce nebo pomocí ikon na panelu nástrojů Možnosti (obrázek&lt;t2&gt; 18&lt;/t2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the Options toolbar is not open, go to &lt;f3&gt;View &gt; Toolbars &gt; Options&lt;/f3&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud není panel nástrojů Možnosti otevřen, přejděte na&lt;f3&gt; Zobrazit &gt; Panely nástrojů &gt; Možnosti&lt;/f3&gt; na liště nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Grid&lt;/f0&gt; – specifies the settings for the configurable grid on document pages.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Mřížka&lt;/f0&gt; - specifikuje nastavení konfigurovatelné mřížky na stránkách dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This grid helps to determine the exact position of objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato mřížka pomáhá určit přesnou polohu objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Also, this grid can be set in line with the magnetic snap grid.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tuto mřížku lze také nastavit v souladu s magnetickou mřížkou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the snap grid is activated, but want to move or create individual objects without snap positions, keep the &lt;f1&gt;Shift&lt;/f1&gt; key pressed to deactivate this function.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je aktivována mřížka uchopení, ale chcete se pohybovat nebo vytvářet jednotlivé objekty bez pozic uchopení, ponechte&lt;f1&gt; Posun&lt;/f1&gt; stisknutím této klávesy deaktivujete tuto funkci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Snap to grid&lt;/f0&gt; – specifies whether to move frames, drawing elements, and controls only between grid points.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Přichytit k mřížce&lt;/f0&gt; - určuje, zda se mají přesouvat rámečky, prvky kreslení a ovládací prvky pouze mezi body mřížky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To change the status of the snap grip only for the current action, drag an object while holding down the &lt;f1&gt;Ctrl&lt;/f1&gt; key.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li změnit stav uchopovacího úchopu pouze pro aktuální akci, přetáhněte objekt a současně podržte&lt;f1&gt; Ctrl&lt;/f1&gt; klíč.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Visible grid&lt;/f0&gt; – specifies whether to display the grid.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Viditelná mřížka&lt;/f0&gt; - určuje, zda se má mřížka zobrazit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Horizontal&lt;/f0&gt; – defines the unit of measure for the spacing between grid points on the X‑axis.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Horizontální&lt;/f0&gt; - definuje měrnou jednotku pro vzdálenost mezi body mřížky na ose X.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Vertical&lt;/f0&gt; – defines the grid points spacing in the desired unit of measurement on the Y‑axis.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Vertikální&lt;/f0&gt; - definuje rozteč bodů mřížky v požadované měrné jednotce na ose Y.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Synchronize axes&lt;/f0&gt; – specifies whether to change the current grid settings symmetrically.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Synchronizovat osy&lt;/f0&gt; - určuje, zda se má změnit aktuální nastavení mřížky symetricky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The resolution and subdivision for the X and Y axes remain the same.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rozlišení a dělení pro osy X a Y zůstávají stejné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;To snap lines&lt;/f0&gt; – snaps the edge of a dragged object to the nearest snap line when the mouse button is released.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Přichytávání čar&lt;/f0&gt; - po uvolnění tlačítka myši přichytí okraj taženého objektu k nejbližší čáře přichycení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This setting can also be defined using &lt;f1&gt;Snap to Snap Guides&lt;/f1&gt; on the Options toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Toto nastavení lze také definovat pomocí&lt;f1&gt; Přichytit vodítka&lt;/f1&gt; na panelu nástrojů Možnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;To the page margins&lt;/f0&gt; – specifies whether to align the contour of the graphic object to the nearest page margin.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Na okraj stránky&lt;/f0&gt; - určuje, zda se má kontura grafického objektu zarovnat k nejbližšímu okraji stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This function can also be accessed using &lt;f1&gt;Snap to Page Margins&lt;/f1&gt; in the Options toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K této funkci lze přistupovat také pomocí&lt;f1&gt; Přichytit k okrajům stránky&lt;/f1&gt; na panelu nástrojů Možnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This function can also be accessed with &lt;f1&gt;Snap to Object Border&lt;/f1&gt; in the Options toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K této funkci lze přistupovat také pomocí&lt;f1&gt; Přichytit k hranici objektu&lt;/f1&gt; na panelu nástrojů Možnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This function can also be accessed with &lt;f1&gt;Snap to Object Points&lt;/f1&gt; in the Options toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K této funkci lze přistupovat také pomocí&lt;f1&gt; Přichytit k objektovým bodům&lt;/f1&gt; na panelu nástrojů Možnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Snaps to a snap point if the cursor is closer than the distance selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přichytí se k bodu přichycení, pokud je kurzor blíže než vybraná vzdálenost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This setting can be temporarily deactivated by pressing the &lt;f1&gt;Shift&lt;/f1&gt; key.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Toto nastavení lze dočasně deaktivovat stisknutím tlačítka&lt;f1&gt; Posun&lt;/f1&gt; klíč.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Extend edges&lt;/f0&gt; – specifies that a square is created based on the longer side of a rectangle when the &lt;f1&gt;Shift&lt;/f1&gt; key is pressed before releasing the mouse button.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Prodlužte hrany&lt;/f0&gt; - určuje, že se čtverec vytvoří na základě delší strany obdélníku, když&lt;f1&gt; Posun&lt;/f1&gt; před uvolněním tlačítka myši.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This also applies to an ellipse (a circle is created based on the longest diameter of the ellipse).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>To platí také pro elipsu (kruh je vytvořen na základě nejdelšího průměru elipsy).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When &lt;f2&gt;Extend edges&lt;/f2&gt; is not selected, a square or a circle is created based on the shorter side or diameter.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když&lt;f2&gt; Prodlužte hrany&lt;/f2&gt; není vybrána, vytvoří se čtverec nebo kruh na základě kratší strany nebo průměru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;When rotating&lt;/f0&gt; – specifies that graphic objects can only be rotated within the rotation angle that is selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Při otáčení&lt;/f0&gt; - určuje, že grafické objekty lze otáčet pouze v rámci vybraného úhlu otočení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To rotate an object outside the defined angle, press the &lt;f1&gt;Shift&lt;/f1&gt; key when rotating.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li objekt otočit mimo definovaný úhel, stiskněte&lt;f1&gt; Posun&lt;/f1&gt; klíč při otáčení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When working with polygons, this maybe useful in reducing the editing points.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při práci s polygony to může být užitečné při snižování bodů úprav.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using &lt;f0&gt;Snap to Grid&lt;/f0&gt; moves an object exactly onto a grid point in a drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použitím&lt;f0&gt; Přichytit k mřížce&lt;/f0&gt; přesune objekt přesně na bod mřížky ve výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This function can be switched on and off using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tuto funkci lze zapnout a vypnout jedním z následujících způsobů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;View &gt; Snap Guides &gt; Snap to Grid&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Zobrazit &gt; Přichytit vodítka &gt; Přichytit k mřížce&lt;/f0&gt; na liště nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on a drawing and select &lt;f0&gt;Snap Guides &gt; Snap to Grid&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem na výkres a vyberte&lt;f0&gt; Přichytit vodítka &gt; Přichytit k mřížce&lt;/f0&gt; z místní nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Snap to Grid&lt;/f0&gt; on the Options toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Přichytit k mřížce&lt;/f0&gt; na panelu nástrojů Možnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displaying or turning off the grid in a drawing is done using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zobrazení nebo vypnutí mřížky ve výkresu se provádí pomocí jedné z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;View &gt; Grid and Helplines &gt; Display Grid&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Zobrazit &gt; Mřížka a linky pomoci &gt; Zobrazit mřížku&lt;/f0&gt; na liště nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Display Grid&lt;/f0&gt; on the Options toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Zobrazit mřížku&lt;/f0&gt; na panelu nástrojů Možnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on a drawing and select &lt;f0&gt;Grid and Helplines &gt; Display Grid&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem na výkres a vyberte&lt;f0&gt; Mřížka a linky pomoci &gt; Zobrazit mřížku&lt;/f0&gt; z místní nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;Visible grid&lt;/f0&gt; in the Options LibreOffice Draw Grid dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat&lt;f0&gt; Viditelná mřížka&lt;/f0&gt; v dialogu Možnosti LibreOffice Draw Grid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default and depending on the display and computer setup, the grid points are gray and are not always easy to see.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ve výchozím nastavení a v závislosti na displeji a nastavení počítače jsou body mřížky šedé a není vždy snadné je vidět.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To change the color of the grid points, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Application Colors&lt;/f0&gt; to open the Application Colors dialog (Figure &lt;t1&gt;19&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li změnit barvu bodů mřížky, přejděte na&lt;f0&gt; Nástroje &gt; Možnosti &gt; LibreOffice &gt; Barvy aplikace&lt;/f0&gt; otevřete dialogové okno Barvy aplikace (Obrázek&lt;t1&gt; 19&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the &lt;f2&gt;Drawing/Presentation&lt;/f2&gt; section, select a more suitable color for the grid from the drop-down list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V&lt;f2&gt; Kreslení / prezentace&lt;/f2&gt; části vyberte z rozevíracího seznamu vhodnější barvu mřížky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unlike the grid, snap lines and snap points can be inserted when to position an object to a specific position on a drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na rozdíl od mřížky lze uchopit čáry a uchopovací body, když chcete umístit objekt do určité polohy na výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Snap lines can either be horizontally or vertically and appear as dashed lines.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přichytávací čáry mohou být vodorovně nebo svisle a vypadat jako přerušované čáry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Snap points appear as small crosses with dashed lines.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přichytávací body se zobrazují jako malé kříže s přerušovanými čarami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Snap points and snap lines do not appear in printed output.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V tištěném výstupu se nezobrazují uchopovací body a uchopovací čáry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: Options LibreOffice Application Colors dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 19&lt;/seq0&gt; : Možnosti Dialogové okno Barvy aplikací LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: New Snap Object dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 20&lt;/seq0&gt; : Nový dialog Snap Object</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To insert a snap point or snap line, go to &lt;f0&gt;Insert &gt; Snap Guide&lt;/f0&gt; on the Menu bar to open the New Snap Object dialog (Figure &lt;t1&gt;20&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vložit bod přichycení nebo čáru přichycení, přejděte na&lt;f0&gt; Vložit &gt; Snap Guide&lt;/f0&gt; na panelu nabídek otevřete dialog Nový objekt uchopení (obrázek&lt;t1&gt; 20&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Position&lt;/f0&gt; – sets the position of a selected snap point or line relative to the top left corner of the page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Pozice&lt;/f0&gt; - nastaví pozici vybraného bodu přichycení nebo čáry vzhledem k levému hornímu rohu stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;X axis&lt;/f0&gt; – enter the amount of space required between the snap point or line and the left edge of the page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Osa X.&lt;/f0&gt; - zadejte velikost požadovaného prostoru mezi bodem nebo čarou přichycení a levým okrajem stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Y axis&lt;/f0&gt; – enter the amount of space required between the snap point or line and the top edge of the page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Osa Y.&lt;/f0&gt; - zadejte požadovaný prostor mezi bodem nebo čarou přichycení a horním okrajem stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Type&lt;/f0&gt; – specifies the type of snap object being inserted.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Typ&lt;/f0&gt; - určuje typ vkládaného objektu snap.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Point&lt;/f0&gt; – inserts a snap point.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Směřovat&lt;/f0&gt; - vloží bod přichycení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Vertical&lt;/f0&gt; – inserts a vertical snap line.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Vertikální&lt;/f0&gt; - vloží svislou čáru přichycení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Horizontal&lt;/f0&gt; – inserts a horizontal snap line.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Horizontální&lt;/f0&gt; - vloží vodorovnou čáru přichycení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displaying or turning off snap points and lines in a drawing can be done using one of these methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zobrazení nebo vypnutí uchopovacích bodů a čar ve výkresu lze provést pomocí jedné z těchto metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;View &gt; Snap Guides &gt; Display Snap Guides&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Zobrazit &gt; Přichytit vodítka &gt; Zobrazit vodítka&lt;/f0&gt; na liště nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Display Snap Guides&lt;/f0&gt; in the Options toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Zobrazit vodítka&lt;/f0&gt; na panelu nástrojů Možnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on a drawing and select &lt;f0&gt;Snap Guides &gt; Display Snap Guides&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem na výkres a vyberte&lt;f0&gt; Přichytávací vodítka &gt; Zobrazit vodicí vodítka&lt;/f0&gt; z místní nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To edit a snap point, right-click on the snap point and select &lt;f0&gt;Edit Snap Point&lt;/f0&gt; from the context menu to open the Edit Snap Point dialog (Figure &lt;t1&gt;21&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li upravit bod přichycení, klepněte pravým tlačítkem na bod přichycení a vyberte&lt;f0&gt; Upravit bod uchopení&lt;/f0&gt; z kontextové nabídky otevřete dialog Upravit bod uchopení (obrázek&lt;t1&gt; 21&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter new X and Y coordinate settings for the snap point and click &lt;f2&gt;OK&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zadejte nové nastavení souřadnic X a Y pro bod uchopení a klikněte&lt;f2&gt; OK&lt;/f2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, drag a snap point to a new position on a drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Případně přetáhněte bod uchopení do nové polohy na výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To edit a snap line, right-click on the snap line and select &lt;f0&gt;Edit Snap Line&lt;/f0&gt; from the context menu to open the Edit Snap Line dialog (Figure &lt;t1&gt;22&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li upravit čáru přichycení, klepněte pravým tlačítkem na čáru přichycení a vyberte&lt;f0&gt; Upravit čáru přichycení&lt;/f0&gt; z kontextové nabídky otevřete dialog Upravit čáru uchopení (obrázek&lt;t1&gt; 22&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter a new X coordinate setting for vertical snap lines or a new Y coordinate setting for horizontal snap lines and click &lt;f2&gt;OK&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zadejte nové nastavení souřadnic X pro svislé uchopovací čáry nebo nové nastavení souřadnic Y u vodorovných uchopovacích čar a klikněte&lt;f2&gt; OK&lt;/f2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, drag a snap line to a new position on a drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Případně přetáhněte uchopovací čáru na novou pozici ve výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;: Edit Snap Point dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 21&lt;/seq0&gt; : Upravit dialogové okno Snap Point</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;22&lt;/seq0&gt;: Edit Snap Line dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 22&lt;/seq0&gt; : Upravit dialog Snap Line</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To delete a snap point, drag it back to a ruler or right-click on the snap point and select &lt;f0&gt;Delete Snap Point&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li odstranit bod přichycení, přetáhněte jej zpět na pravítko nebo klepněte pravým tlačítkem myši na bod přichycení a vyberte&lt;f0&gt; Odstranit bod přichycení&lt;/f0&gt; z místní nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To delete a snap line, drag it back to the ruler or right-click on the snap line and select &lt;f1&gt;Delete Snap Line&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li odstranit čáru přichycení, přetáhněte ji zpět na pravítko nebo klepněte pravým tlačítkem na čáru přichycení a vyberte&lt;f1&gt; Odstranit čáru přichycení&lt;/f1&gt; z místní nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To configure the snap range of when an object snaps to position</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Konfigurace rozsahu uchopení, kdy se objekt uchopí do polohy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Draw &gt; Grid&lt;/f0&gt; on the Menu bar to open the Options LibreOffice Grid dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Nástroje &gt; Možnosti &gt; LibreOffice Draw &gt; Mřížka&lt;/f0&gt; na panelu nabídek otevřete dialogové okno Možnosti LibreOffice Grid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter the number of pixels to set the proximity of when the object will snap into position in the &lt;f0&gt;Snap range&lt;/f0&gt; box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zadejte počet pixelů a nastavte blízkost, kdy bude objekt v pozici&lt;f0&gt; Dosah&lt;/f0&gt; krabice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default setting is 5 pixels.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí nastavení je 5 pixelů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to set the new snap range and close the dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte na&lt;f0&gt; OK&lt;/f0&gt; nastavíte nový rozsah uchopení a zavřete dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;23&lt;/seq0&gt;: Helplines while moving</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 23&lt;/seq0&gt; : Linky pomoci při pohybu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;24&lt;/seq0&gt;: Options LibreOffice Draw View dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 24&lt;/seq0&gt; : Možnosti dialogové okno LibreOffice Draw View</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Helplines are a function in Draw to help in positioning of objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Helplines jsou funkce v Draw, která pomáhá při umísťování objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Helplines can be displayed while the object is being moved.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Linky pomoci lze zobrazit během přesunu objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They extend from the edges of the object to the rulers at the top and left side of a drawing and do not have a snap function (Figure &lt;t0&gt;23&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rozkládají se od okrajů objektu k pravítkům na horní a levé straně výkresu a nemají funkci přichycení (obrázek&lt;t0&gt; 23&lt;/t0&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To use guide lines, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Draw &gt; View&lt;/f0&gt; on the Menu bar to open the Options LibreOffice Draw View dialog (Figure &lt;t1&gt;24&lt;/t1&gt;) and select &lt;f2&gt;Helplines when moving&lt;/f2&gt; option or click &lt;f3&gt;Helplines While Moving&lt;/f3&gt; in the Options toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li použít vodicí čáry, přejděte na&lt;f0&gt; Nástroje &gt; Možnosti &gt; LibreOffice Draw &gt; Zobrazit&lt;/f0&gt; na panelu nabídek otevřete dialogové okno Možnosti LibreOffice Draw View (Obrázek&lt;t1&gt; 24&lt;/t1&gt; ) a vyberte&lt;f2&gt; Linky pomoci při pohybu&lt;/f2&gt; možnost nebo klikněte&lt;f3&gt; Linky pomoci při pohybu&lt;/f3&gt; na panelu nástrojů Možnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When drawing certain regular shapes, one or more dots are displayed in a different color to the selection handles when an object is selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při kreslení určitých pravidelných tvarů se při výběru objektu zobrazí jedna nebo více teček v jiné barvě, než jsou úchyty výběru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the cursor hovers over one of these dots, it changes shape.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když se kurzor umístí nad jednu z těchto teček, změní tvar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clicking and dragging on one of these dots modifies the shape of the object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím a přetažením na jednu z těchto teček upravíte tvar objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, increasing the corner radius of a rounded rectangle or square, changes the angles of an arc, and so on.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například zvětšením poloměru rohu zaobleného obdélníku nebo čtverce změníte úhly oblouku atd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These dots perform different functions according to the shape selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tyto tečky plní různé funkce podle zvoleného tvaru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The shapes with form changing dots and their functions are listed in the following sections.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tvary s tečkami měnícími tvar a jejich funkce jsou uvedeny v následujících částech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regular shapes can also be changed after conversion to a curve or polygon and editing the points.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pravidelné tvary lze také změnit po převodu na křivku nebo mnohoúhelník a úpravě bodů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See “&lt;bf0&gt;Curves and polygons&lt;/bf0&gt;” on page &lt;bf1&gt;25&lt;/bf1&gt; and “&lt;bf2&gt;Editing points&lt;/bf2&gt;” on page &lt;bf3&gt;25&lt;/bf3&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Viz „&lt;bf0&gt; Křivky a mnohoúhelníky&lt;/bf0&gt; “ na stránce&lt;bf1&gt; 25&lt;/bf1&gt; a “&lt;bf2&gt; Úpravy bodů&lt;/bf2&gt; “ na stránce&lt;bf3&gt; 25&lt;/bf3&gt; Pro více informací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;25&lt;/seq0&gt;: Basic Shapes sub-toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 25&lt;/seq0&gt; : Dílčí panel nástrojů Základní tvary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Refer to Figure &lt;t0&gt;25&lt;/t0&gt; to identify the following shapes with adjustment dots.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Viz obrázek&lt;t0&gt; 25&lt;/t0&gt; k identifikaci následujících tvarů s nastavovacími tečkami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;26&lt;/seq0&gt;: Symbol Shapes sub-toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 26&lt;/seq0&gt; : Dílčí panel nástrojů Tvary symbolů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Refer to Figure &lt;t0&gt;26&lt;/t0&gt; to identify the following shapes with adjustment dots.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Viz obrázek&lt;t0&gt; 26&lt;/t0&gt; k identifikaci následujících tvarů s nastavovacími tečkami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;27&lt;/seq0&gt;: Block Arrows sub-toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 27&lt;/seq0&gt; : Dílčí panel nástrojů Šipky bloku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Refer to Figure &lt;t0&gt;27&lt;/t0&gt; to identify the following shapes with adjustment dots.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Viz obrázek&lt;t0&gt; 27&lt;/t0&gt; k identifikaci následujících tvarů s nastavovacími tečkami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Left Arrow&lt;/f0&gt; – use the dot to change the shape and thickness &lt;s1/&gt;of the arrow.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Šipka vlevo&lt;/f0&gt; - pomocí tečky změňte tvar a tloušťku&lt;s1/&gt; šipky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;28&lt;/seq0&gt;: Callouts sub‑toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 28&lt;/seq0&gt; : Popisky dílčího panelu nástrojů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For all callouts (Figure &lt;t0&gt;28&lt;/t0&gt;) use the adjustment dots to change the length, position and angle of the pointer.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro všechny popisky (obrázek&lt;t0&gt; 28&lt;/t0&gt; ) použijte seřizovací body ke změně délky, polohy a úhlu ukazatele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;29&lt;/seq0&gt;: Stars and Banners sub-toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 29&lt;/seq0&gt; : Dílčí panel nástrojů Hvězdy a bannery</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Refer to Figure &lt;t0&gt;29&lt;/t0&gt; to identify the following shapes with adjustment dots.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Viz obrázek&lt;t0&gt; 29&lt;/t0&gt; k identifikaci následujících tvarů s nastavovacími tečkami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;30&lt;/seq0&gt;: Creating different shapes by changing the tangent</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 30&lt;/seq0&gt; : Vytváření různých tvarů změnou tangenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bézier curves were invented by Pierre Bézier, who developed the technique in the 1960s and was an engineer working with the Renault car manufacturer.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Bézierovy křivky vynalezl Pierre Bézier, který tuto techniku vyvinul v 60. letech a pracoval jako inženýr ve spolupráci s výrobcem automobilů Renault.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The technology was intended to make modeling the surface of vehicles easier.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato technologie měla usnadnit modelování povrchu vozidel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The editing of curves and polygons depends on the mathematics of Bézier curves&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Úpravy křivek a polygonů závisí na matematice Bézierových křivek&lt;t0/&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Explaining Bézier curves goes beyond this scope of this chapter.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vysvětlení Bézierových křivek jde nad rámec tohoto rozsahu této kapitoly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 11, Advanced Draw Techniques for more information on drawing and manipulating Bézier curves.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o kreslení a manipulaci s Bézierovými křivkami najdete v kapitole 11, Pokročilé techniky kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The editing a Bézier curve consists in principle of moving points or tangents passing through these points.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Úprava Bézierovy křivky spočívá v principu pohybu bodů nebo tečen procházejících těmito body.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each tangent has one control point at each end and a junction point where it meets the curve.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Každá tečna má na každém konci jeden řídicí bod a spojovací bod, kde se setkává s křivkou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The relative angle and distance between the control points determine the shape of the curve.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Relativní úhel a vzdálenost mezi kontrolními body určují tvar křivky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;t0&gt;30&lt;/t0&gt; shows what happens to a basic square and changing only one point on the square.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;t0&gt; 30&lt;/t0&gt; ukazuje, co se stane se základním čtvercem a mění se pouze jeden bod na čtverci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When changing the shape of an object and before modifying the points on an object, it must be converted to a curve or a polygon.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při změně tvaru objektu a před úpravou bodů na objektu je nutné jej převést na křivku nebo mnohoúhelník.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Depending on what kind of shape and effect required to produce using one of the following methods to create a curve or a polygon:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V závislosti na tom, jaký druh tvaru a efektu je třeba vyrobit, použijte jednu z následujících metod k vytvoření křivky nebo mnohoúhelníku:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After selecting an object, go to &lt;f0&gt;Shape &gt; Convert&lt;/f0&gt; on the Menu bar and select either &lt;f1&gt;To Curve&lt;/f1&gt; or &lt;f2&gt;To Polygon&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po výběru objektu přejděte na&lt;f0&gt; Tvar &gt; Převést&lt;/f0&gt; na liště nabídek a vyberte jednu z nich&lt;f1&gt; Křivka&lt;/f1&gt; nebo&lt;f2&gt; Polygonu&lt;/f2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right click on an object and select &lt;f0&gt;Convert &gt; To Curve&lt;/f0&gt; or &lt;f1&gt;To Polygon&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem na objekt a vyberte&lt;f0&gt; Převést &gt; Na křivku&lt;/f0&gt; nebo&lt;f1&gt; Polygonu&lt;/f1&gt; z místní nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Many different shapes can be created by moving either the point itself, or one or both of the round handle points at either end of the tangent, as shown in Figure &lt;t0&gt;30&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Mnoho různých tvarů lze vytvořit přesunutím buď samotného bodu, nebo jednoho nebo obou bodů kulaté rukojeti na obou koncích tečny, jak je znázorněno na obrázku&lt;t0&gt; 30&lt;/t0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Points can be added, deleted, or the points type changed using the tools available on the Edit Points toolbar (Figure &lt;t1&gt;31&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Body lze přidávat, mazat nebo měnit typ bodů pomocí nástrojů dostupných na panelu nástrojů Upravit body (Obrázek&lt;t1&gt; 31&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After converting a shape to a curve or polygon, object points are edited as follows:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po převedení tvaru na křivku nebo mnohoúhelník se body objektu upraví následujícím způsobem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;31&lt;/seq0&gt;: Edit Points toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 31&lt;/seq0&gt; : Panel nástrojů Upravit body</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the object and switch to points editing mode using one of the following methods.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte objekt a přepněte do režimu úprav bodů pomocí jedné z následujících metod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Edit &gt; Points&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Upravit &gt; Body&lt;/f0&gt; na liště nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the &lt;f0&gt;Points&lt;/f0&gt; tool on the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Body&lt;/f0&gt; nástroj na panelu nástrojů Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right click on the converted object and select &lt;f0&gt;Points&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem na převedený objekt a vyberte&lt;f0&gt; Body&lt;/f0&gt; z místní nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the keyboard shortcut &lt;f0&gt;F8&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte klávesovou zkratku&lt;f0&gt; F8&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After switching to points editing mode, the selection handles become points.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po přepnutí do režimu úprav bodů se z úchytů výběru stanou body.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The number of points may increase or reduce in number.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Počet bodů se může zvýšit nebo snížit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This change in number depends on the shape of the object and is normal behavior.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato změna počtu závisí na tvaru objektu a jedná se o normální chování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on an object point to change the object shape.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na bod objektu změníte tvar objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Edits Points toolbar opens and the tools become active when a point is selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevře se panel nástrojů Úpravy bodů a nástroje se aktivují, když je vybrán bod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tangents also appear attached to the selected point.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tečny se také zobrazí připojené k vybranému bodu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the various tools on the Edit Points toolbar to add, delete, or change the point type.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí různých nástrojů na panelu nástrojů Upravit body můžete přidat, odstranit nebo změnit typ bodu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on and drag the point to move the point and change the object shape.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na bod a jeho přetažením bod přesunete a změníte tvar objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the selected object is a curve, click on and drag the round points at the end of a tangent to make further changes to the object shape.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je vybraným objektem křivka, klepněte a přetáhněte kulaté body na konci tečny, abyste provedli další změny tvaru objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When satisfied with the shape, click outside of the object to cancel points editing mode and close the Edit Points toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud jste spokojeni s tvarem, kliknutím mimo objekt zrušte režim úprav bodů a zavřete panel nástrojů Upravit body.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The available tools on the Edit Points toolbar depend on the object and type of object point that has been selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dostupné nástroje na panelu nástrojů Upravit body závisí na objektu a typu vybraného bodu objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Move Points&lt;/f0&gt; – activates a mode allowing movement of points.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Přesunout body&lt;/f0&gt; - aktivuje režim umožňující pohyb bodů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click and drag the selected point to another location.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte a přetáhněte vybraný bod do jiného umístění.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The object border follows the movement on both sides of the selected point to the next point on each side of the selected point.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Hranice objektu sleduje pohyb na obou stranách vybraného bodu k dalšímu bodu na každé straně vybraného bodu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Insert Points&lt;/f0&gt; – activates the insert mode and allows points to be inserted.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Vložit body&lt;/f0&gt; - aktivuje režim vkládání a umožňuje vkládání bodů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Points can also be moved.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Body lze také přesouvat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A point is inserted onto the selected object each time the mouse button is clicked and the object changes shape to include the new point into the border of the object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Bod se vloží na vybraný objekt pokaždé, když kliknete na tlačítko myši a objekt změní tvar tak, aby zahrnoval nový bod do ohraničení objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The inserted point is a smooth point.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vložený bod je hladký bod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Delete Points&lt;/f0&gt; – used to delete points from the selected object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Smazat body&lt;/f0&gt; - slouží k mazání bodů z vybraného objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f1&gt;Delete Points&lt;/f1&gt; and then click on a point to delete it.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat&lt;f1&gt; Smazat body&lt;/f1&gt; a poté kliknutím na bod jej smažete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To delete several points, hold down the &lt;f2&gt;Shift&lt;/f2&gt; key as each point is selected for deletion, then click on &lt;f3&gt;Delete Points&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li odstranit několik bodů, podržte stisknuté tlačítko&lt;f2&gt; Posun&lt;/f2&gt; klíč, protože každý bod je vybrán k odstranění, poté klikněte na&lt;f3&gt; Smazat body&lt;/f3&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Convert To Curve&lt;/f0&gt; – converts a curve into a straight line or a straight line into a curve.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Převést na křivku&lt;/f0&gt; - převádí křivku na přímku nebo přímku na křivku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If a single point is selected, the curve before the point will be converted.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je vybrán jeden bod, bude převedena křivka před bodem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If two points are selected, the curve between both points will be converted.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud jsou vybrány dva body, křivka mezi oběma body bude převedena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If more than two points are selected and each time this icon is clicked, a different portion of the curve will be converted.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud jsou vybrány více než dva body a při každém kliknutí na tuto ikonu bude převedena jiná část křivky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If necessary, round points are converted into corner points and corner points are converted into round points.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V případě potřeby se kulaté body převedou na rohové body a rohové body se převedou na kulaté body.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If a section of the curve is a straight line, the end points of the line have a maximum of one control point each.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je částí křivky přímka, mají koncové body čáry každý maximálně jeden kontrolní bod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They cannot be modified to round points unless the straight line is converted back to a curve.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nelze je upravit na kulaté body, pokud přímka není převedena zpět na křivku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Close Bézier&lt;/f0&gt; – closes a line or a curve.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Zavřete Béziera&lt;/f0&gt; - uzavře čáru nebo křivku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A line is closed by connecting the last point with the first point, indicated by an enlarged square.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Linka je uzavřena spojením posledního bodu s prvním bodem, označeným zvětšeným čtvercem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Split Curve&lt;/f0&gt; – select the point or points where the curve will be split, then click on &lt;f1&gt;Split Curve&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Split Curve&lt;/f0&gt; - vyberte bod nebo body, kde bude křivka rozdělena, a poté klikněte na&lt;f1&gt; Split Curve&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Corner Point&lt;/f0&gt; – converts the selected point or points into corner points.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Rohový bod&lt;/f0&gt; - převede vybraný bod nebo body na rohové body.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Corner points have two movable control points, which are independent from each other.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rohové body mají dva pohyblivé kontrolní body, které jsou na sobě nezávislé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A curved line, therefore, does not go straight through a corner point, but forms a corner.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zakřivená čára tedy neprochází rovně rohovým bodem, ale tvoří roh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To create a corner point, a smooth or a symmetrical point must be inserted first and then converted to a corner point by clicking on &lt;f0&gt;Corner Point&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vytvořit rohový bod, musíte nejprve vložit hladký nebo symetrický bod a poté kliknout na převést na rohový bod&lt;f0&gt; Rohový bod&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Smooth Transition&lt;/f0&gt;-- converts a corner point or symmetrical point into a smooth point.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Hladký přechod&lt;/f0&gt; - převede rohový bod nebo symetrický bod na hladký bod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Both control points of the corner point are aligned in parallel, and can only be moved simultaneously.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Oba řídicí body rohového bodu jsou zarovnány paralelně a lze je pohybovat pouze současně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The control points may differentiate in length, allowing variation in the degree of curvature.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kontrolní body se mohou lišit v délce, což umožňuje odchylky ve stupni zakřivení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Symmetric Transition&lt;/f0&gt; – converts a corner point or a smooth point into a symmetrical point.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Symetrický přechod&lt;/f0&gt; - převede rohový bod nebo hladký bod na symetrický bod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Both control points of the corner point are aligned in parallel and have the same length.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Oba řídicí body rohového bodu jsou zarovnány paralelně a mají stejnou délku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They can only be moved simultaneously and the degree of curvature is the same in both directions.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Lze je pohybovat pouze současně a stupeň zakřivení je v obou směrech stejný.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Eliminate Points&lt;/f0&gt; – marks selected points for deletion.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Eliminujte body&lt;/f0&gt; - označí vybrané body k odstranění.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This happens if the point is located on a straight line.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>To se stane, pokud je bod umístěn na přímce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If converting a curve or a polygon using &lt;f1&gt;Convert to Curve&lt;/f1&gt; into a straight line or alter a curve using the cursor so that a point lies on the straight line, the selected point is removed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud převádíte křivku nebo mnohoúhelník pomocí&lt;f1&gt; Převést na křivku&lt;/f1&gt; do přímky nebo změnit křivku pomocí kurzoru tak, aby bod ležel na přímce, je vybraný bod odstraněn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The angle from which the point reduction is to take place is 15° by default.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí úhel, od kterého se má provést redukce bodu, je 15 °.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Before using tangents on an object, the object must be converted to a curve.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Před použitím tečen na objektu je nutné objekt převést na křivku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tangents are only used on curves.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tečny se používají pouze na křivkách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If an object has been converted to a polygon and a tangent is added, the object is automatically converted to a curve.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud byl objekt převeden na mnohoúhelník a je přidána tečna, bude objekt automaticky převeden na křivku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The angle that a tangent relates to an object shape can be changed by clicking on one of the tangent control points at the end of a tangent and moving it with the cursor.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Úhel, který se tečna týká tvaru objektu, lze změnit kliknutím na jeden z řídicích bodů tečny na konci tečny a pohybem kurzorem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As the tangent angle is changed, the shape of the object changes in response.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při změně úhlu tečny se tvar objektu mění v odezvě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Symmetric transition converts a corner point or a smooth point into a symmetrical point.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Symetrický přechod převede rohový bod nebo hladký bod na symetrický bod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The tangents have the same length and are aligned in a straight line, as shown in Figure &lt;t0&gt;32&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tečny mají stejnou délku a jsou zarovnány v přímce, jak je znázorněno na obrázku&lt;t0&gt; 32&lt;/t0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The tangents can only be moved simultaneously and the degree of curvature is the same in both directions.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tangenty lze posunout pouze současně a stupeň zakřivení je v obou směrech stejný.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Convert the object to a curve or polygon.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Převeďte objekt na křivku nebo mnohoúhelník.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switch the selected object into editing points mode and open the Edit Points toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přepněte vybraný objekt do režimu úprav bodů a otevřete panel nástrojů Upravit body.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the point to be changed to a symmetrical point.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte bod, který chcete změnit, na symetrický bod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;32&lt;/seq0&gt;: Symmetric transition</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 32&lt;/seq0&gt; : Symetrický přechod</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Symmetric Transition&lt;/f0&gt; in the Edit Points toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Symetrický přechod&lt;/f0&gt; na panelu nástrojů Upravit body.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The straight line on each side of the symmetric transition point is converted to a curve.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přímka na každé straně symetrického přechodového bodu se převede na křivku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click and drag one of the tangent control handles to change the curvature and shape of the object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepnutím a přetažením jednoho z dotykových ovládacích úchytů můžete změnit zakřivení a tvar objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any change to one tangent is carried over symmetrically to the other tangent.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jakákoli změna jedné tečny se přenáší symetricky k druhé tečně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Smooth transition converts a corner point or symmetrical point into a smooth point.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Hladký přechod převede rohový bod nebo symetrický bod na hladký bod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The tangents are aligned in a straight line and can only be moved simultaneously.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tečny jsou zarovnány v přímce a lze je posunout pouze současně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The tangents can have different lengths with the curvature controlled by the longest tangent being the largest curvature, as shown in Figure &lt;t0&gt;33&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tečny mohou mít různé délky, přičemž zakřivení řízené nejdelší tečnou je největší zakřivení, jak je znázorněno na obrázku&lt;t0&gt; 33&lt;/t0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;33&lt;/seq0&gt;: Smooth transition</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 33&lt;/seq0&gt; : Hladký přechod</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Smooth Transition&lt;/f0&gt; on the Edit Points toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Hladký přechod&lt;/f0&gt; na panelu nástrojů Upravit body.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click and drag one of the tangent control handles to change the shape of the object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím a přetažením jednoho z dotykových ovládacích úchytů můžete změnit tvar objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This creates an asymmetric tangent with the largest curvature on the longest side of the tangent.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tím se vytvoří asymetrická tečna s největším zakřivením na nejdelší straně tečny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Converts a selected point or points into corner points.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Převede vybraný bod nebo body na rohové body.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is possible to independently change the angle on each side of a tangent using the central point of the tangent as a corner point, as shown in Figure &lt;t0&gt;34&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Je možné nezávisle změnit úhel na každé straně tečny pomocí středového bodu tečny jako rohového bodu, jak je znázorněno na obrázku&lt;t0&gt; 34&lt;/t0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;34&lt;/seq0&gt;: Corner point</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 34&lt;/seq0&gt; : Rohový bod</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Corner Point&lt;/f0&gt; on the Edit Points toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Rohový bod&lt;/f0&gt; na panelu nástrojů Upravit body.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click and drag the end of one of the tangents to change its angle.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím a tažením na konci jedné z tečen změníte úhel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each tangent can be moved independently to create spikes and troughs in an object shape.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Každou tečnu lze samostatně posunout a vytvořit hroty a žlaby ve tvaru objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When moving points, the object border on both sides of the point follows the movement of the point changing the object shape.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při pohybu bodů sleduje hranice objektu na obou stranách bodu pohyb bodu, který mění tvar objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Convert the object to a curve or a polygon,.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Převeďte objekt na křivku nebo mnohoúhelník.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Move Points&lt;/f0&gt; on the Edit Points toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Přesunout body&lt;/f0&gt; na panelu nástrojů Upravit body.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place the cursor on the selected point, then click and drag the point to create a new shape.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Umístěte kurzor na vybraný bod, poté kliknutím a tažením vytvořte nový tvar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;t0&gt;35&lt;/t0&gt; illustrates how a different shape can be created from a circle by dragging the left hand side point to the left.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;t0&gt; 35&lt;/t0&gt; ilustruje, jak lze z kruhu vytvořit jiný tvar přetažením levého bodu doleva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;35&lt;/seq0&gt;: Moving points</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 35&lt;/seq0&gt; : Pohybující se body</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A point is inserted onto the selected object each time the mouse button is clicked.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při každém kliknutí na tlačítko myši se na vybraný objekt vloží bod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clicking inside the border of the object, the object changes shape to include the new point into the border of the object, as shown in Figure &lt;t0&gt;36&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím do ohraničení objektu změní objekt tvar tak, aby zahrnoval nový bod do ohraničení objektu, jak je znázorněno na obrázku&lt;t0&gt; 36&lt;/t0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Points can also be moved in insert point mode.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Body lze také přesouvat v režimu vkládání bodů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hover the cursor over the point until it changes shape, then click and drag the point to change the object shape.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Umístěte kurzor na bod, dokud nezmění tvar, poté kliknutím a tažením bodu změňte tvar objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;36&lt;/seq0&gt;: Inserting points</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 36&lt;/seq0&gt; : Vkládání bodů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Convert the object to a curve or a polygon.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Převeďte objekt na křivku nebo mnohoúhelník.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Insert Points&lt;/f0&gt; on the Edit Points toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Vložit body&lt;/f0&gt; na panelu nástrojů Upravit body.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the object border to insert a point at the required position on the border.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na ohraničení objektu vložíte bod v požadované poloze na ohraničení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, click inside the object border to insert a point.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Alternativně můžete klepnutím dovnitř ohraničení objektu vložit bod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The object automatically changes shape to include the new point into the object border.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Objekt automaticky změní tvar tak, aby zahrnoval nový bod do ohraničení objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;t0&gt;37&lt;/t0&gt; shows what happens when three points on the left were deleted from a circle.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;t0&gt; 37&lt;/t0&gt; ukazuje, co se stane, když byly z kruhu odstraněny tři body vlevo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The left image is a the full circle and the right image is where three points have been deleted creating a new shape.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Levý obrázek je celý kruh a pravý obrázek je místo, kde byly odstraněny tři body, které vytvářejí nový tvar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;37&lt;/seq0&gt;: Deleting points</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 37&lt;/seq0&gt; : Mazání bodů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To delete a single point, proceed as follows</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li odstranit jeden bod, postupujte následovně</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the point for deletion.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte bod pro odstranění.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Delete Points&lt;/f0&gt; on the Edit Points toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Smazat body&lt;/f0&gt; na panelu nástrojů Upravit body.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To delete several points at the same time, proceed as follows:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vymazat několik bodů současně, postupujte následovně:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select all the points for deletion.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte všechny body k odstranění.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Delete Points&lt;/f0&gt; on the Edit Points toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Smazat body&lt;/f0&gt; na panelu nástrojů Upravit body</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Eliminate Points&lt;/f0&gt; tool on the Edit Points toolbar only functions on lines with multiple points.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The&lt;f0&gt; Eliminujte body&lt;/f0&gt; nástroj na panelu nástrojů Upravit body funguje pouze na řádcích s více body.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These lines are created when a curve is converted to a line using the &lt;f1&gt;Convert to Curve&lt;/f1&gt; tool.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tyto čáry se vytvoří, když se křivka převede na čáru pomocí&lt;f1&gt; Převést na křivku&lt;/f1&gt; nářadí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An example of creating a straight line and eliminating points is shown in Figure &lt;t2&gt;38&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Příklad vytvoření přímky a eliminace bodů je uveden na obrázku&lt;t2&gt; 38&lt;/t2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;38&lt;/seq0&gt;: Converting curve to line and eliminating points</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 38&lt;/seq0&gt; : Převod křivky na čáru a eliminace bodů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Convert the curve to a curve or a polygon.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Převeďte křivku na křivku nebo mnohoúhelník.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switch the curve into editing points mode and open the Edit Points toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přepněte křivku do režimu úprav bodů a otevřete panel nástrojů Upravit body.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the curve with multiple points and convert to a line, see “&lt;bf0&gt;Converting curves or lines&lt;/bf0&gt;” below.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte křivku s více body a převeďte na přímku, viz „&lt;bf0&gt; Převod křivek nebo čar&lt;/bf0&gt; “Níže.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the point or points on the line for elimination.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte bod nebo body na čáře k eliminaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The selected point is emphasized.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybraný bod je zvýrazněn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the &lt;f0&gt;Eliminate Points&lt;/f0&gt; tool on the Edit Points toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat&lt;f0&gt; Eliminujte body&lt;/f0&gt; na panelu nástrojů Upravit body.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Accurately position the cursor over the selected point, then click and drag the selected point.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přesně umístěte kurzor na vybraný bod, poté klikněte a přetáhněte vybraný bod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As the cursor is dragged, a dotted line forms between the neighboring points.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při tažení kurzoru se mezi sousedními body vytvoří tečkovaná čára.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When this dotted line appears to be a straight line between the neighboring points, release the mouse button.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když se tato tečkovaná čára bude jevit jako přímka mezi sousedními body, uvolněte tlačítko myši.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The selected point is eliminated and a straight line now exists between the neighboring points.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybraný bod je vyloučen a mezi sousedními body nyní existuje přímka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Curves and lines are easily converted using the &lt;f0&gt;Convert to Curve&lt;/f0&gt; tool on the Edit Points toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Křivky a čáry lze snadno převést pomocí&lt;f0&gt; Převést na křivku&lt;/f0&gt; na panelu nástrojů Upravit body.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a curve is converted to a line, a straight line is created between selected points on a curve.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když se křivka převede na přímku, vytvoří se přímka mezi vybranými body na křivce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a line is converted to a curve, a curve is created between selected points on a line.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když se čára převede na křivku, vytvoří se křivka mezi vybranými body na přímce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An example of converting a curve to a line is shown in Figure &lt;t1&gt;38&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Příklad převodu křivky na přímku je uveden na obrázku&lt;t1&gt; 38&lt;/t1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switch the object into editing points mode and open the Edit Points toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přepněte objekt do režimu úprav bodů a otevřete panel nástrojů Upravit body.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the points for converting from curve to line or from line to curve.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte body pro převod z křivky na přímku nebo z přímky na křivku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Convert to Curve&lt;/f0&gt; on the Edit Points toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Převést na křivku&lt;/f0&gt; na panelu nástrojů Upravit body.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Between the selected points, a curve is converted into a line or a line is converted into a curve.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Mezi vybranými body je křivka převedena na přímku nebo čára na křivku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Splitting objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rozdělení objektů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;39&lt;/seq0&gt;: Splitting objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 39&lt;/seq0&gt; : Rozdělení objektů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the point or points on the object where it is to be split.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte bod nebo body na objektu, kde má být rozdělen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep the &lt;f0&gt;Shift&lt;/f0&gt; key pressed down when selecting more than one point.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ponechat&lt;f0&gt; Posun&lt;/f0&gt; při výběru více než jednoho bodu stisknuto tlačítko.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Split Curve&lt;/f0&gt; on the Edit Points toolbar to split or cut the object border at the selected point.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Split Curve&lt;/f0&gt; na panelu nástrojů Upravit body, chcete-li rozdělit nebo vyjmout hranici objektu ve vybraném bodě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the object is filled, it will be emptied because the object border is no longer closed, as shown in Figure &lt;t1&gt;39&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je objekt vyplněn, bude vyprázdněn, protože hranice objektu již není uzavřena, jak je znázorněno na obrázku&lt;t1&gt; 39&lt;/t1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deselect the object, then drag the cut segment and move it away from the original object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zrušte výběr objektu, poté přetáhněte řezaný segment a posuňte jej od původního objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The point where the object was split is now larger than the remaining points visible on the object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Bod, kde byl objekt rozdělen, je nyní větší než zbývající body viditelné na objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Closing objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zavírání objektů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select an open object (Figure &lt;t0&gt;40&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte otevřený objekt (obrázek&lt;t0&gt; 40&lt;/t0&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a point where the object has been split.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte bod, kde byl objekt rozdělen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that the start point of an object is larger than the other points visible on the object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Počáteční bod objektu je větší než ostatní body viditelné na objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Close Bézier&lt;/f0&gt; in the Edit Points toolbar to close the object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Zavřete Béziera&lt;/f0&gt; na panelu nástrojů Upravit body objekt zavřete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the open object was originally a closed and filled object, then the original color fills the object when it is closed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud byl otevřený objekt původně uzavřeným a vyplněným objektem, vyplní původní barva při zavření objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;40&lt;/seq0&gt;: Closing objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 40&lt;/seq0&gt; : Zavírání objektů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;41&lt;/seq0&gt;: Distorting objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 41&lt;/seq0&gt; : Zkreslování předmětů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Distorting objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Deformování předmětů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the object and switch into editing points mode to display the points on the object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte objekt a přepněte do režimu úprav bodů, aby se body na objektu zobrazily.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This also opens the Edit Points toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tím se také otevře panel nástrojů Upravit body.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select one of the points on the object and drag it to a new position to distort the object (Figure &lt;t0&gt;41&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte jeden z bodů na objektu a přetažením do nové polohy objekt zkreslete (obrázek&lt;t0&gt; 41&lt;/t0&gt; ).</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
