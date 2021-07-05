@@ -1,0 +1,1806 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" segtype="sentence" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 5, Combining Multiple Objects&lt;segment 19727&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 5, Kombinování více objektů&lt;segment 19727&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Positioning objects&lt;/t0&gt; | &lt;t1&gt;13&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Polohování objektů&lt;/t0&gt; | &lt;t1&gt;13&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;14&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Chapter 5, Combining Multiple Objects&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;14&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Kapitola 5, Kombinování více objektů&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Chapter 5, Combining Multiple Objects&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Kapitola 5, Kombinování více objektů&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;0&lt;/t0&gt;| &lt;t1&gt;Chapter 5, Combining Multiple Objects&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;0&lt;/t0&gt;| &lt;t1&gt;Kapitola 5, Kombinování více objektů&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Draw Guide</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Průvodce kreslením</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 5, &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 5, &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Combining Multiple Objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kombinování více objektů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>John Cleland</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>John Cleland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Everything sent to a mailing list, including email addresses and any other personal information that is written in the message, is publicly archived and cannot be deleted.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vše, co je odesláno do poštovního seznamu, včetně e-mailových adres a dalších osobních údajů, které jsou ve zprávě napsány, je veřejně archivováno a nemůže být smazáno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Published &lt;t0&gt;July&lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt;2021&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vydáno &lt;t0&gt;červenec&lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt;2021&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Based on LibreOffice &lt;ud3&gt;7.1&lt;/ud3&gt;&lt;s4/&gt;Community.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Založeno na LibreOffice &lt;ud3&gt;7.1&lt;/ud3&gt;&lt;s4/&gt;Komunita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other versions of LibreOffice may differ in appearance and functionality.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jiné verze LibreOffice se mohou lišit vzhledem a funkčností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Grouping objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Seskupování objektů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Editing individual group objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Úprava jednotlivých objektů skupiny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Combining</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kombinace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Splitting combined objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rozdělení kombinovaných objektů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Breaking combined objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rozbití kombinovaných objektů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Connecting lines</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Spojovací linky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Merging, subtracting, or intersecting objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Slučování, odečítání nebo protínání objektů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Merge</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Sloučení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Subtract</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odečtěte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Intersect</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Intersect</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Practical example</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Praktický příklad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Duplication and cross-fading</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Duplikace a křížové stínování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Distributing objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Distribuce objektů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Objects can be moved as a group and global changes applied to the objects within the group.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Objekty lze přesouvat jako skupinu a globální změny lze aplikovat na objekty ve skupině.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A temporary grouping is when several objects are selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dočasné seskupení je takové, kdy je vybráno několik objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any changes to object parameters are applied to all of the objects within the temporary group.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Veškeré změny parametrů objektu se použijí na všechny objekty v rámci dočasné skupiny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, a temporary group of objects can be rotated in its entirety.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například dočasnou skupinu objektů lze otočit celou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click and drag the cursor over several objects surrounding the objects with a selection rectangle (this selection rectangle is also known as a marquee).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte a přetáhněte kurzor nad několik objektů, které obklopíte výběrovým obdélníkem (tento výběrový obdélník se také nazývá marquee).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Release the mouse button when all the objects required for a temporary group are selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jakmile jsou vybrány všechny objekty požadované pro dočasnou skupinu, uvolněte tlačítko myši.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the first object, then hold down the &lt;f0&gt;Shift&lt;/f0&gt; key and click on the remaining objects for the temporary group.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na první objekt, pak podržte klávesu &lt;f0&gt;Shift&lt;/f0&gt; a klikněte na zbývající objekty dočasné skupiny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To cancel a temporary group of objects, simply click outside of the selection handles displayed around the objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li zrušit dočasnou skupinu objektů, stačí kliknout mimo úchyty výběru zobrazené kolem objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When objects are grouped, any editing operations carried out on the group are applied to all objects within the group.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud jsou objekty seskupeny, všechny operace úprav provedené ve skupině se použijí na všechny objekty ve skupině.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on one object in a group, and the whole group is selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na jeden objekt ve skupině se vybere celá skupina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The objects within a group retain their own individual properties and can be edited independently.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Objekty ve skupině si zachovávají své individuální vlastnosti a lze je upravovat nezávisle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See “&lt;bf0&gt;Editing individual group objects&lt;/bf0&gt;” on page &lt;bf1&gt;5&lt;/bf1&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace naleznete v části “&lt;bf0&gt;Úprava jednotlivých objektů skupiny&lt;/bf0&gt;“ na stránce &lt;bf1&gt;5&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the objects for a group using one of the following methods.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte objekty pro skupinu pomocí jedné z následujících metod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selection handles appear around all the objects selected for the group (Figure &lt;t0&gt;1&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kolem všech objektů vybraných pro skupinu se zobrazí úchyty výběru (obrázek &lt;t0&gt;1&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on each object in turn while holding down the &lt;f0&gt;Shift&lt;/f0&gt; key.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte postupně na každý objekt a držte přitom stisknutou klávesu &lt;f0&gt;Shift&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure &lt;f0&gt;Select&lt;/f0&gt; on the Drawing toolbar is selected and draw a selection rectangle around the objects required for the group using the cursor.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ujistěte se, že je na panelu nástrojů Kreslení vybrána možnost &lt;f0&gt;Vybrat&lt;/f0&gt;, a nakreslete pomocí kurzoru obdélník výběru kolem objektů požadovaných pro skupinu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create the group of selected objects using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvořte skupinu vybraných objektů pomocí jedné z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the group and select &lt;f0&gt;Group&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na skupinu pravým tlačítkem myši a z kontextové nabídky vyberte možnost &lt;f0&gt;Skupina&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Grouping objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;1&lt;/seq0&gt;: Seskupování objektů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the group of objects and selection handles appear around the objects within the group (Figure &lt;t0&gt;1&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte skupinu objektů a kolem objektů ve skupině se objeví úchyty pro výběr (obrázek &lt;t0&gt;1&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ungroup the group of objects using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Seskupení skupiny objektů zrušte pomocí jedné z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An object within a group can be edited individually without ungrouping the objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Objekt ve skupině lze upravovat samostatně, aniž by bylo nutné objekty rozdělit do skupin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a group, then enter the group using one of the following methods.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte skupinu a zadejte ji jedním z následujících způsobů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After entering a group, objects outside the group cannot be selected for editing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po vstupu do skupiny nelze objekty mimo skupinu vybrat k úpravám.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the group and select &lt;f0&gt;Enter Group&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na skupinu pravým tlačítkem myši a z kontextové nabídky vyberte možnost &lt;f0&gt;Vstup do skupiny&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once inside the group, click on any object to select and individually edit it (Figure &lt;t0&gt;2&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jakmile se ocitnete uvnitř skupiny, kliknutím na libovolný objekt jej vyberte a samostatně upravte (obrázek &lt;t0&gt;2&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After making changes to an individual object, exit the group using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po provedení změn v jednotlivém objektu ukončete skupinu jednou z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the group and select &lt;f0&gt;Exit Group&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na skupinu pravým tlačítkem myši a z kontextové nabídky vyberte možnost &lt;f0&gt;Ukončit skupinu&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Shape &gt; Group &gt; Exit Group&lt;/f0&gt; on the Menu bar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Tvar &gt; Skupina &gt; Ukončit skupinu&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the keyboard combination &lt;f0&gt;Ctrl+F3&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte klávesovou kombinaci &lt;f0&gt;Ctrl F3&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Double-click outside the group.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dvakrát klikněte mimo skupinu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Editing objects within a group</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;2&lt;/seq0&gt;: Úprava objektů v rámci skupiny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A group of groups can be created and this is commonly known as nesting groups.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Lze vytvořit skupinu skupin, která se běžně označuje jako vnořená skupina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When nested groups are created, Draw retains the individual group hierarchy and remembers the order in which groups were selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při vytváření vnořených skupin zachovává Draw hierarchii jednotlivých skupin a pamatuje si pořadí, v jakém byly skupiny vybrány.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ungrouping and entering a nested group works in exactly the same way as for individual groups.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rozdělení do skupin a vstup do vnořené skupiny funguje úplně stejně jako u jednotlivých skupin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The original objects are no longer available as individual objects and cannot be edited as individual objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Původní objekty již nejsou k dispozici jako jednotlivé objekty a nelze je upravovat jako jednotlivé objekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select several objects for combining.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte několik objektů, které chcete spojit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Combine the selected objects into a single object using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Spojte vybrané objekty do jednoho objektu pomocí jedné z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the selection and select &lt;f0&gt;Shapes &gt; Combine&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na výběr pravým tlačítkem myši a z kontextové nabídky vyberte možnost &lt;f0&gt;Tvary &gt; Spojit&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the keyboard combination &lt;f0&gt;Ctrl+Shift+K&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte kombinaci kláves &lt;f0&gt;Ctrl Shift K&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>At first glance, the results can seem rather surprising, but the following points explain how combining objects works.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na první pohled se výsledky mohou zdát poněkud překvapivé, ale následující body vysvětlují, jak kombinování objektů funguje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The attributes (for example, area fill) of the resulting object are those of the object furthest back.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Atributy (například výplň plochy) výsledného objektu jsou atributy objektu, který je nejvíce vzadu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In Figure &lt;t0&gt;3&lt;/t0&gt;, it is the ellipse and Figure &lt;t1&gt;4&lt;/t1&gt; it is the yellow rectangle.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na obrázku &lt;t0&gt;3&lt;/t0&gt; je to elipsa a na obrázku &lt;t1&gt;4&lt;/t1&gt; je to žlutý obdélník.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Where the objects overlap, the overlapping zone is either filled or empty depending on whether the overlap is even numbered or odd numbered.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud se objekty překrývají, je překrývající se oblast buď vyplněna, nebo prázdná podle toho, zda je překrytí sudé, nebo liché.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;t0&gt;4&lt;/t0&gt; shows that where the overlap number is even, an empty space is created and where the overlap number is odd, a filled area is created.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;t0&gt;4&lt;/t0&gt; ukazuje, že tam, kde je číslo překrytí sudé, vznikne prázdné místo a tam, kde je číslo překrytí liché, vznikne vyplněná oblast.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Combining objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;3&lt;/seq0&gt;: Kombinování objektů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Objects can be reordered so they are further back or further forward in the arrangement order.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Objekty lze přeřadit tak, aby byly v pořadí uspořádání dále vzadu nebo dále vpředu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the object and select &lt;f0&gt;Arrangement&lt;/f0&gt; from the context menu and select one of the options available.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na objekt pravým tlačítkem myši a z kontextové nabídky vyberte možnost &lt;f0&gt;Uspořádání&lt;/f0&gt; a vyberte jednu z dostupných možností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information, see “&lt;bf1&gt;Arranging objects&lt;/bf1&gt;” on page &lt;bf2&gt;13&lt;/bf2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace naleznete v části “&lt;bf1&gt;Uspořádání objektů&lt;/bf1&gt;“ na stránce &lt;bf2&gt;13&lt;/bf2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Example of area fill when combining overlapping objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;4&lt;/seq0&gt;: Příklad vyplnění plochy při kombinování překrývajících se objektů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An object which has been combined from several objects can be split into individual objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Objekt, který byl spojen z několika objektů, lze rozdělit na jednotlivé objekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, the original objects retain the formatting of the combined object and do not revert back to their original formatting.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Původní objekty si však zachovají formátování kombinovaného objektu a nevrátí se ke svému původnímu formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the combined object and use one of the following methods to split the combined object:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte kombinovaný objekt a použijte jednu z následujících metod pro rozdělení kombinovaného objektu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Shape &gt; Split&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Tvar &gt; Rozdělit&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the keyboard shortcut &lt;f0&gt;Ctrl+Alt+Shift+K&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte klávesovou zkratku &lt;f0&gt;Ctrl Alt Shift K&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In Figure &lt;t0&gt;5&lt;/t0&gt;, the left graphic is the original example of overlapping area fills before combining.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na obrázku &lt;t0&gt;5&lt;/t0&gt; je levá grafika původním příkladem překrývajících se výplní oblastí před spojením.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The right graphic is the result of splitting the combined object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pravá grafika je výsledkem rozdělení kombinovaného objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The individual overlapping objects have taken the formatting of the object at the back of the overlapping objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jednotlivé překrývající se objekty převzaly formátování objektu v zadní části překrývajících se objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Example of splitting a combined object</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;5&lt;/seq0&gt;: Příklad rozdělení kombinovaného objektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When an object is combined from several objects, the combined object can be broken into its constituent parts by going to &lt;f0&gt;Shape &gt; Break&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je objekt spojen z několika objektů, lze spojený objekt rozdělit na jednotlivé části pomocí příkazu &lt;f0&gt;Tvar &gt; Rozdělit&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This means that the original objects are broken into their constituent parts; for example, a rectangle is broken into four separate lines and the area is lost, as shown by the right graphic in Figure &lt;t1&gt;6&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>To znamená, že původní objekty jsou rozděleny na jednotlivé části; například obdélník je rozdělen na čtyři samostatné čáry a plocha se ztratí, jak ukazuje pravý graf na obrázku &lt;t1&gt;6&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Example of breaking a combined object</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;6&lt;/seq0&gt;: Příklad rozbití kombinovaného objektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The constituent parts of an object can be connected together by selecting all the constituent parts of the object and going to &lt;f0&gt;Shape &gt; Connect&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Složky objektu lze spojit tak, že vyberete všechny složky objektu a přejdete na &lt;f0&gt;Tvar &gt; Spojit&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This connects the parts together and closes the object, resulting in the area becoming filled with the area fill it had before the object was broken.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tím se části spojí dohromady a objekt se uzavře, čímž se oblast vyplní výplní, kterou měla před rozbitím objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After selecting more than one object, the merge, subtract, and intersect functions become available.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po výběru více než jednoho objektu se zpřístupní funkce sloučení, odečtení a průnik.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This allows creation of a new object with a new shape.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>To umožňuje vytvořit nový objekt s novým tvarem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When merging objects, a new object is created with a shape that follows the shape of the merged objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při slučování objektů se vytvoří nový objekt, jehož tvar kopíruje tvar slučovaných objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The area fill of the merged object is determined by the area fill of the object that is at the rear of all the other objects, as shown in Figure &lt;t0&gt;7&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výplň plochy sloučeného objektu je určena výplní plochy objektu, který je v zadní části všech ostatních objektů, jak je znázorněno na obrázku &lt;t0&gt;7&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After selecting several objects, use one of the following methods to merge the objects:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po výběru několika objektů použijte ke sloučení objektů jednu z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Shape &gt; Merge&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Tvar &gt; Sloučit&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the selected objects and select &lt;f0&gt;Shapes &gt; Merge&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem myši na vybrané objekty a z kontextové nabídky vyberte možnost &lt;f0&gt;Tvary &gt; Sloučit&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Merging objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;7&lt;/seq0&gt;: Slučování objektů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When subtracting objects, the objects at the front are subtracted from the object behind.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při odečítání objektů se objekty vpředu odečítají od objektu vzadu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This leaves a blank space that the subtracted objects occupied creating a new shape, as shown in Figure &lt;t0&gt;8&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zůstane tak prázdné místo, které odečítané objekty obsadí a vytvoří nový tvar, jak ukazuje obrázek &lt;t0&gt;8&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After selecting several objects that overlap each other, use one of the following methods to subtract objects:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po výběru několika objektů, které se vzájemně překrývají, použijte k odečtení objektů jednu z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Shape &gt; Subtract&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Tvar &gt; Odečíst&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the selected objects and select &lt;f0&gt;Shapes &gt; Subtract&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem myši na vybrané objekty a z kontextové nabídky vyberte možnost &lt;f0&gt;Tvary &gt; Odečíst&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Subtracting objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;8&lt;/seq0&gt;: Odečítání objektů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When intersecting objects, the front objects and the exposed area of the object at the rear are removed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při protínání objektů se odstraní přední objekty a odkrytá oblast objektu vzadu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This creates a new object from the area of the object at the rear that was covered by the objects at the front, as shown in Figure &lt;t0&gt;9&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tím se vytvoří nový objekt z oblasti objektu v zadní části, která byla zakryta objekty v přední části, jak ukazuje obrázek &lt;t0&gt;9&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After selecting several objects that overlap each other, use one of the following methods to intersect objects:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po výběru několika objektů, které se vzájemně překrývají, použijte k jejich protnutí jednu z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Shape &gt; Intersect&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Shape &gt; Intersect&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the selected objects and select &lt;f0&gt;Shapes &gt; Intersect&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem myši na vybrané objekty a z kontextové nabídky vyberte &lt;f0&gt;Tvary &gt; Průsečík&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Intersecting objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;9&lt;/seq0&gt;: Protínající se objekty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following example shows how to use the merge, subtract, and intersect functions to create a knife with a wooden handle.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Následující příklad ukazuje, jak pomocí funkcí sloučit, odečíst a protnout vytvořit nůž s dřevěnou rukojetí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Draw an ellipse and then a rectangle overlapping half of its width.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nakreslete elipsu a poté obdélník překrývající polovinu její šířky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select both shapes, right-click, and select &lt;f0&gt;Shapes &gt; Subtract&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte oba tvary, klikněte pravým tlačítkem myši a z kontextové nabídky vyberte příkaz &lt;f0&gt;Tvary &gt; Odečíst&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Draw another rectangle and put it over the top half of the ellipse.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nakreslete další obdélník a přiložte ho k horní polovině elipsy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Draw a small ellipse covering just the lower right corner.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nakreslete malou elipsu pokrývající pouze pravý dolní roh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The knife blade shape is now complete.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tvar čepele nože je nyní dokončen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To make the handle, draw a rectangle and an ellipse.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vytvořit rukojeť, nakreslete obdélník a elipsu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Merge the shapes together.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Spojte tvary dohromady.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Position the handle on the blade.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Umístěte rukojeť na čepel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the handle and blade, then group together to create a drawing of the knife.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte rukojeť a čepel a poté je seskupte, abyste vytvořili výkres nože.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Duplication makes copies of an object while applying a set of changes (such as color or rotation) to the duplicates.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Duplikace vytváří kopie objektu a na duplikáty aplikuje sadu změn (například barvu nebo otočení).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select an object or group of objects, then use one of the following methods to open the Duplicate dialog (Figure &lt;t0&gt;10&lt;/t0&gt;):</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte objekt nebo skupinu objektů a pomocí jedné z následujících metod otevřete dialogové okno Duplikovat (obrázek &lt;t0&gt;10&lt;/t0&gt;):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the number of copies, placement, enlargement, and the start and end colors for duplicate copies.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte počet kopií, umístění, zvětšení a počáteční a koncovou barvu pro duplikáty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; and duplicate copies are created.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;OK&lt;/f0&gt; a vytvoří se duplicitní kopie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An example of a duplication is shown in Figure &lt;t1&gt;11&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Příklad duplikace je uveden na obrázku &lt;t1&gt;11&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each duplicate object is a separate object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Každý duplicitní objekt je samostatný objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To group the duplicate objects into one group, see “&lt;bf0&gt;Grouping objects&lt;/bf0&gt;” on page &lt;bf1&gt;4&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li duplicitní objekty seskupit do jedné skupiny, viz “&lt;bf0&gt;Seskupování objektů&lt;/bf0&gt;“ na straně &lt;bf1&gt;4&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To combine the duplicate objects into one object, see “&lt;bf0&gt;Combining objects&lt;/bf0&gt;” on page &lt;bf1&gt;6&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li spojit duplicitní objekty do jednoho objektu, viz “&lt;bf0&gt;Spojování objektů&lt;/bf0&gt;“ na straně &lt;bf1&gt;6&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following options are available when using the Duplicate dialog:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při použití dialogového okna Duplikovat jsou k dispozici následující možnosti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Number of copies&lt;/f0&gt; – enter the number of copies required.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Počet kopií&lt;/f0&gt; - zadejte počet požadovaných kopií.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Placement&lt;/f0&gt; – sets the position and rotation of duplicated objects in relation to the original object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Placement&lt;/f0&gt; - nastavuje polohu a natočení duplikovaných objektů vzhledem k původnímu objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;X axis&lt;/f0&gt;-- enter the horizontal distance between the centers of the selected object and the duplicate objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Osa X&lt;/f0&gt;-- zadejte vodorovnou vzdálenost mezi středy vybraného objektu a duplikovaných objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Positive values shift the duplicate object to the right and negative values shift the duplicate object to the left.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kladné hodnoty posunou duplikovaný objekt doprava a záporné hodnoty posunou duplikovaný objekt doleva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Y axis&lt;/f0&gt; – enter the vertical distance between the centers of the selected object and the duplicate objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Osa Y&lt;/f0&gt; - zadejte svislou vzdálenost mezi středy vybraného objektu a duplikovaných objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Positive values shift the duplicate object down and negative values shift the duplicate object up.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kladné hodnoty posouvají duplikovaný objekt směrem dolů a záporné hodnoty směrem nahoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Angle&lt;/f0&gt; – enter the angle (0 to 359 degrees) required for rotating the duplicate object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Úhel&lt;/f0&gt; - zadejte úhel (0 až 359 stupňů) potřebný pro otočení duplikovaného objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Positive values rotate the duplicate objects in a clockwise direction and negative values in a counterclockwise direction.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kladné hodnoty otáčejí duplikované objekty ve směru hodinových ručiček a záporné hodnoty proti směru hodinových ručiček.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Duplicate dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;10&lt;/seq0&gt;: Duplicitní dialog</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Duplication example</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;11&lt;/seq0&gt;: Příklad duplikace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Enlargement&lt;/f0&gt; – sets the size of the duplicate objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Zvětšení&lt;/f0&gt; - nastaví velikost duplikovaných objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Width&lt;/f0&gt; – enter the amount to enlarge or reduce the width of the duplicate objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Šířka&lt;/f0&gt; - zadejte hodnotu, o kterou se zvětší nebo zmenší šířka duplikovaných objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Height&lt;/f0&gt; – enter the amount to enlarge or reduce the height of the duplicate objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Výška&lt;/f0&gt; - zadejte hodnotu pro zvětšení nebo zmenšení výšky duplikovaných objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Colors&lt;/f0&gt; – sets the colors for the selected object and the duplicate objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Barvy&lt;/f0&gt; - nastaví barvy pro vybraný objekt a duplicitní objekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more than one copy, these colors define the start and end points of a color gradient.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>U více než jedné kopie tyto barvy definují počáteční a koncový bod barevného gradientu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Start&lt;/f0&gt; – select a color for the selected object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Start&lt;/f0&gt; - výběr barvy pro vybraný objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;End&lt;/f0&gt; – select a color for the duplicate object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Konec&lt;/f0&gt; - vyberte barvu pro duplikovaný objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If making more than one copy, this color is applied to the last copy.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud vytváříte více než jednu kopii, použije se tato barva na poslední kopii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cross-fading transforms one object shape into another object shape.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Křížové blednutí transformuje jeden tvar objektu na jiný tvar objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The result is a new group of individual objects that includes the start and end objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výsledkem je nová skupina jednotlivých objektů, která obsahuje počáteční a koncové objekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The intermediate steps show the transformation from one object shape to another object shape.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Mezikroky ukazují transformaci z jednoho tvaru objektu na jiný tvar objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The cross-fading is carried out from the first object selected to the second object selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Křížové blednutí se provádí od prvního vybraného objektu k druhému vybranému objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select two objects and go to &lt;f0&gt;Shape &gt; Cross-fading&lt;/f0&gt; on the Menu bar to open the Cross‑fading dialog (Figure &lt;t1&gt;12&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte dva objekty a přejděte na &lt;f0&gt;Shape &gt; Cross-fading&lt;/f0&gt; na panelu nabídek, čímž otevřete dialogové okno Cross-fading (obrázek &lt;t1&gt;12&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the number of Increments for the transformation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte počet přírůstků pro transformaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If necessary, select &lt;f0&gt;Cross-fade attributes&lt;/f0&gt; and &lt;f1&gt;Same orientation&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V případě potřeby vyberte &lt;f0&gt;Atributy křížového stínování&lt;/f0&gt; a &lt;f1&gt;Stejná orientace&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to cross-fade the selected objects and close the Cross-fading dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na tlačítko &lt;f0&gt;OK&lt;/f0&gt; vybrané objekty prolnete a zavřete dialogové okno Prolnutí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An example of cross-fading is shown in Figure &lt;t1&gt;13&lt;/t1&gt; with &lt;f2&gt;Same orientation&lt;/f2&gt; deselected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na obrázku &lt;t1&gt;13&lt;/t1&gt; je zobrazen příklad křížového blednutí se zrušeným výběrem &lt;f2&gt;Stejná orientace&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The object created is a group of objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvořený objekt je skupina objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To ungroup this group of objects and use the individual objects, see “&lt;bf0&gt;Ungrouping&lt;/bf0&gt;” on page &lt;bf1&gt;5&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li tuto skupinu objektů zrušit a používat jednotlivé objekty, viz “&lt;bf0&gt;Rozdělení do skupin&lt;/bf0&gt;“ na straně &lt;bf1&gt;5&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Cross-fading dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;12&lt;/seq0&gt;: Dialogové okno Cross-fading</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Cross-fading example</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;13&lt;/seq0&gt;: Příklad křížového blednutí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following options are available in the Cross-fading dialog:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V dialogovém okně Cross-fading jsou k dispozici následující možnosti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Increments&lt;/f0&gt; – enter the number of steps to be created between the selected objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Přírůstky&lt;/f0&gt; - zadejte počet kroků, které se mají vytvořit mezi vybranými objekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Cross-fade attributes&lt;/f0&gt; – applies cross-fading to the line and fill properties of the selected objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Atributy křížového blednutí&lt;/f0&gt; - aplikuje křížové blednutí na vlastnosti čar a výplní vybraných objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, if the selected objects are filled with different colors, a color transition between the two colors is applied.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud jsou například vybrané objekty vyplněny různými barvami, použije se barevný přechod mezi oběma barvami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Same orientation&lt;/f0&gt; – applies a smooth transition between the selected objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Stejná orientace&lt;/f0&gt; - použije plynulý přechod mezi vybranými objekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When combining, merging, subtracting, or intersecting objects, the end result varies depending on which object is at the front and which object is at the back.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při kombinování, slučování, odečítání nebo protínání objektů se konečný výsledek liší podle toho, který objekt je vpředu a který vzadu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each new object placed on a drawing automatically becomes the front object and all the other objects move backwards in positioning order.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Každý nový objekt umístěný na výkres se automaticky stane předním objektem a všechny ostatní objekty se posunou v pořadí umístění dozadu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Arranging objects changes the order in of a group of objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Uspořádání objektů mění pořadí skupiny objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To change the arrangement position of an object, select one or more objects and then use one of the following methods</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li změnit polohu uspořádání objektu, vyberte jeden nebo více objektů a použijte jednu z následujících metod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the selected object(s), then select &lt;f0&gt;Arrange&lt;/f0&gt; from the context menu and one of the available options.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem myši na vybraný(é) objekt(y) a z kontextové nabídky vyberte možnost &lt;f0&gt;Uspořádat&lt;/f0&gt; a jednu z dostupných možností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on small triangle ▼ to the right of &lt;f0&gt;Arrange&lt;/f0&gt; on the Standard toolbar to open the Position toolbar (Figure &lt;t1&gt;14&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na malý trojúhelník ▼ vpravo od &lt;f0&gt;Rozsah&lt;/f0&gt; na panelu nástrojů Standardní se otevře panel nástrojů Poloha (obrázek &lt;t1&gt;14&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click one of the arrangement tools on the Line and Filling toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na jeden z nástrojů pro uspořádání na panelu nástrojů Čára a výplň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Shape &gt; Arrange&lt;/f0&gt; on the Menu bar and select an arrangement option.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Tvar &gt; Uspořádat&lt;/f0&gt; na panelu nabídek a vyberte možnost uspořádání.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;f0&gt;Arrange&lt;/f0&gt; tools in &lt;f1&gt;Position and Size&lt;/f1&gt; section in the Properties deck on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte nástroje &lt;f0&gt;Rozsah&lt;/f0&gt; v části &lt;f1&gt;Poloha a velikost&lt;/f1&gt; v balíčku Vlastnosti na postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use a keyboard shortcut given below.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte níže uvedenou klávesovou zkratku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Position toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;14&lt;/seq0&gt;: Panel nástrojů Poloha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The arrangement options available are as follows:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K dispozici jsou následující možnosti uspořádání:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Bring to Front&lt;/f0&gt; (&lt;f1&gt;Shift+Ctrl++&lt;/f1&gt;) – brings the selected object to the front of a group of objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Přesunout na začátek&lt;/f0&gt; (&lt;f1&gt;Shift Ctrl &lt;/f1&gt;) - přesune vybraný objekt na začátek skupiny objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Bring Forward&lt;/f0&gt; (&lt;f1&gt;Ctrl++&lt;/f1&gt;) – brings the selected object forward one step.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Přesunout dopředu&lt;/f0&gt; (&lt;f1&gt;Ctrl &lt;/f1&gt;) - přesune vybraný objekt o jeden krok dopředu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Send Backward&lt;/f0&gt; (&lt;f1&gt;Ctrl+&lt;/f1&gt;–) – sends the selected object one step backward.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Odeslat zpět&lt;/f0&gt; (&lt;f1&gt;Ctrl &lt;/f1&gt;-) - odešle vybraný objekt o krok zpět.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Send to Back&lt;/f0&gt; (&lt;f1&gt;Shift+Ctrl+&lt;/f1&gt;–) – sends the selected object to the back of a group of objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Odeslat dozadu&lt;/f0&gt; (&lt;f1&gt;Shift Ctrl &lt;/f1&gt;-) - odešle vybraný objekt dozadu do skupiny objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;In Front of Object&lt;/f0&gt; – moves the selected object in front of another selected object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Před objektem&lt;/f0&gt; - přesune vybraný objekt před jiný vybraný objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Behind Object&lt;/f0&gt; – moves the selected object behind another selected object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Za objektem&lt;/f0&gt; - přesune vybraný objekt za jiný vybraný objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Reverse&lt;/f0&gt; – reverses the order of the selected objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Reverse&lt;/f0&gt; - změní pořadí vybraných objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This tool is grayed out if only one object is selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento nástroj je šedý, pokud je vybrán pouze jeden objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The positioning tools can be turned into a floating toolbar by clicking at the top of the pop-up on the Standard toolbar and dragging it to a new position on a drawing, as shown in Figure &lt;t0&gt;14&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nástroje pro polohování lze změnit na plovoucí panel nástrojů kliknutím na horní část vyskakovacího okna na panelu nástrojů Standardní a přetažením na novou pozici na výkrese, jak ukazuje obrázek &lt;t0&gt;14&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To make a drawing look more professional, objects can be aligned with each other.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Aby výkres vypadal profesionálněji, lze objekty vzájemně zarovnat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select one or more objects and use one of the following methods to align objects:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte jeden nebo více objektů a použijte jednu z následujících metod zarovnání objektů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the selected object(s), then select &lt;f0&gt;Align Objects&lt;/f0&gt; from the context menu and one of the available options.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem myši na vybraný(é) objekt(y) a z kontextové nabídky vyberte &lt;f0&gt;Zarovnání objektů&lt;/f0&gt; a jednu z dostupných možností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on small triangle ▼ to the right of &lt;f0&gt;Align&lt;/f0&gt; on the Standard or Line and Filling toolbars to open a pop-up toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na malý trojúhelník ▼ napravo od &lt;f0&gt;Zarovnat&lt;/f0&gt; na panelu nástrojů Standardní nebo Čára a výplň otevřete vyskakovací panel nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Shape &gt; Align&lt;/f0&gt; on the Menu bar and select the alignment required.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Tvar &gt; Zarovnat&lt;/f0&gt; na panelu nabídek a vyberte požadované zarovnání.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;f0&gt;Align&lt;/f0&gt; tools in the &lt;f1&gt;Position and Size&lt;/f1&gt; section in the Properties deck on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte nástroje &lt;f0&gt;Zarovnání&lt;/f0&gt; v části &lt;f1&gt;Pozice a velikost&lt;/f1&gt; v balíčku Vlastnosti na postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The alignment tools available are as follows:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K dispozici jsou následující nástroje pro zarovnání:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Left&lt;/f0&gt; – aligns the left edges of the selected objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Levý&lt;/f0&gt; - zarovná levé okraje vybraných objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If only one object is selected, the left edge of the object is aligned to the left page margin.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je vybrán pouze jeden objekt, je levý okraj objektu zarovnán k levému okraji stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Centered&lt;/f0&gt; – horizontally centers the selected objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Vystředěno&lt;/f0&gt; - horizontálně vystředí vybrané objekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If only one object is selected, the center of the object is aligned to the horizontal center of the page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je vybrán pouze jeden objekt, je jeho střed zarovnán na vodorovný střed stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Right&lt;/f0&gt; – aligns the right edges of the selected objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Vpravo&lt;/f0&gt; - zarovná pravé okraje vybraných objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If only one object is selected, the right edge of the object is aligned to the right page margin.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je vybrán pouze jeden objekt, zarovná se pravý okraj objektu k pravému okraji stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Top&lt;/f0&gt; – vertically aligns the top edges of the selected objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Vrchní&lt;/f0&gt; - vertikálně zarovná horní okraje vybraných objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If only one object is selected, the top edge of the object is aligned to the upper page margin.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je vybrán pouze jeden objekt, zarovná se horní okraj objektu k hornímu okraji stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Center&lt;/f0&gt; – vertically centers the selected objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Center&lt;/f0&gt; - vertikálně vystředí vybrané objekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If only one object is selected, the center of the object is aligned to the vertical center of the page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je vybrán pouze jeden objekt, zarovná se jeho střed na svislý střed stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Bottom&lt;/f0&gt; – vertically aligns the bottom edges of the selected objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Dole&lt;/f0&gt; - vertikálně zarovná spodní okraje vybraných objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If only one object is selected, the bottom edge of the object is aligned to the lower page margin.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je vybrán pouze jeden objekt, zarovná se spodní okraj objektu ke spodnímu okraji stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: Align Objects toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;15&lt;/seq0&gt;: Panel nástrojů Zarovnání objektů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The alignment tools can be turned into a floating toolbar by clicking at the top of the pop-up toolbar and dragging it to a new position on a drawing workspace, as shown in Figure &lt;t0&gt;15&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nástroje pro zarovnání lze změnit na plovoucí panel nástrojů kliknutím na horní část vyskakovacího panelu nástrojů a jeho přetažením na nové místo na pracovní ploše výkresu, jak je znázorněno na obrázku &lt;t0&gt;15&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Distributing objects allows three or more objects to be evenly spaced along a horizontal axis or vertical axis.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rozložení objektů umožňuje rovnoměrné rozmístění tří nebo více objektů podél vodorovné nebo svislé osy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Objects are distributed using the outermost objects in the selection as base points for spacing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Objekty jsou rozmístěny pomocí nejvzdálenějších objektů ve výběru jako základních bodů pro rozestupy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Distribute Selection toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;16&lt;/seq0&gt;: Panel nástrojů Distribuovat výběr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select at least three objects, then use one of the following methods to distribute the objects:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte alespoň tři objekty a poté je rozdělte pomocí jedné z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the selected objects, then select &lt;f0&gt;Distribute Selection&lt;/f0&gt; from the context menu and one of the available options.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem myši na vybrané objekty a z kontextové nabídky vyberte možnost &lt;f0&gt;Rozdělit výběr&lt;/f0&gt; a jednu z dostupných možností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on small triangle ▼ to the right of &lt;f0&gt;Distribute Selection&lt;/f0&gt; on the Standard toolbar to open a pop-up toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na malý trojúhelník ▼ napravo od &lt;f0&gt;Rozdělit výběr&lt;/f0&gt; na panelu nástrojů Standardní se otevře vyskakovací panel nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Shape &gt; Distribute Selection&lt;/f0&gt; on the Menu bar and select a distribution option.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Tvar &gt; Rozdělit výběr&lt;/f0&gt; na panelu nabídek a vyberte možnost rozdělení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the selected objects and select &lt;f0&gt;Distribute Selection&lt;/f0&gt; from the context menu, then select a distribution option.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem myši na vybrané objekty a z kontextové nabídky vyberte možnost &lt;f0&gt;Rozdělit výběr&lt;/f0&gt; a poté vyberte možnost rozdělení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The distribution options available are as follow:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K dispozici jsou následující možnosti distribuce:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Horizontal Left&lt;/f0&gt; – distributes the selected objects so that the left edges of the objects are evenly spaced from one another.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Horizontální vlevo&lt;/f0&gt; - rozdělí vybrané objekty tak, aby levé okraje objektů byly od sebe rovnoměrně vzdáleny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Horizontal Center&lt;/f0&gt; – distributes the selected objects so that the horizontal centers of the objects are evenly spaced from one another.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Horizontální střed&lt;/f0&gt; - rozdělí vybrané objekty tak, aby jejich vodorovné středy byly od sebe rovnoměrně vzdáleny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Horizontal Spacing&lt;/f0&gt; – distributes the selected objects horizontally so that the objects are evenly spaced from one another.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Horizontální rozestupy&lt;/f0&gt; - rozdělí vybrané objekty vodorovně tak, aby byly objekty od sebe rovnoměrně vzdáleny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Horizontal Right&lt;/f0&gt; – distributes the selected objects so that the right edges of the objects are evenly spaced from one another.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Horizontální vpravo&lt;/f0&gt; - rozdělí vybrané objekty tak, aby pravé okraje objektů byly od sebe rovnoměrně vzdáleny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Vertical Top&lt;/f0&gt; – distributes the selected objects so that the top edges of the objects are evenly spaced from one another.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Vertikální vrchol&lt;/f0&gt; - rozdělí vybrané objekty tak, aby jejich horní okraje byly od sebe rovnoměrně vzdáleny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Vertical Center&lt;/f0&gt; – distributes the selected objects so that the vertical centers of the objects are evenly spaced from one another.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Svislý střed&lt;/f0&gt; - rozdělí vybrané objekty tak, aby svislé středy objektů byly od sebe rovnoměrně vzdáleny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Vertical Spacing&lt;/f0&gt; – distributes the selected objects vertically so that the objects are evenly spaced from one another.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Vertikální rozestupy&lt;/f0&gt; - rozdělí vybrané objekty vertikálně tak, aby byly objekty od sebe rovnoměrně vzdáleny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Vertical Bottom&lt;/f0&gt; – distributes the selected objects so that the bottom edges of the objects are evenly spaced from one another.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Vertikální dno&lt;/f0&gt; - rozdělí vybrané objekty tak, aby byly jejich spodní okraje od sebe rovnoměrně vzdáleny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The distribution tools can be turned into a floating toolbar by clicking at the top of the pop-up toolbar and dragging it to a new position on a drawing workspace, as shown in Figure &lt;t0&gt;16&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Z distribučních nástrojů lze vytvořit plovoucí panel nástrojů kliknutím na horní část vyskakovacího panelu nástrojů a jeho přetažením na nové místo na pracovní ploše výkresu, jak je znázorněno na obrázku &lt;t0&gt;16&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
