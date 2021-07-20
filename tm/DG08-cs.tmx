@@ -1,0 +1,1638 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" segtype="sentence" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 8, Connections, Flowcharts, and Organization Charts&lt;segment 20085&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 8, Spojení, vývojové diagramy a organizační schémata&lt;segment 20085&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Organization charts&lt;/t0&gt; | &lt;t1&gt;15&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Organizační schémata&lt;/t0&gt; | &lt;t1&gt;15&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;14&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Chapter 8, Connections, Flowcharts, and Organization Charts&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;14&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Kapitola 8, Spojení, vývojové diagramy a organizační schémata&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Chapter 8, Connections, Flowcharts, and Organization Charts&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Kapitola 8, Spojení, vývojové diagramy a organizační schémata&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;0&lt;/t0&gt;| &lt;t1&gt;Chapter 8, Connections, Flowcharts, and Organization Charts&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;0&lt;/t0&gt;| &lt;t1&gt;Kapitola 8, Spojení, vývojové diagramy a organizační schémata&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 8, &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 8, &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Connections, Flowcharts, and Organization Charts</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Spojení, vývojové diagramy a organizační schémata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This document maybe distributed and/or modified under the terms of either the GNU General Public License (&lt;a2&gt;https://www.gnu.org/licenses/gpl.html&lt;/a2&gt;), version 3 or later, or the Creative Commons Attribution License (&lt;a3&gt;https://creativecommons.org/licenses/by/4.0/&lt;/a3&gt;), version 4.0 or later.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento dokument může být šířen a/nebo upravován za podmínek buď GNU General Public License (&lt;a2&gt;https://www.gnu.org/licenses/gpl.html&lt;/a2&gt;), verze 3 nebo novější, nebo Creative Commons Attribution License (&lt;a3&gt;https://creativecommons.org/licenses/by/4.0/&lt;/a3&gt;), verze 4.0 nebo novější.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>John Cleland</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>John Cleland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Everything sent to a mailing list, including email addresses and any other personal information that is written in the message, is publicly archived and cannot be deleted.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vše, co je odesláno do poštovního seznamu, včetně e-mailových adres a dalších osobních údajů, které jsou ve zprávě napsány, je veřejně archivováno a nemůže být smazáno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Published &lt;t0&gt;July&lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt;2021&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vydáno &lt;t0&gt;červenec&lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt;2021&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Based on LibreOffice &lt;ud3&gt;7.1&lt;/ud3&gt;&lt;s4/&gt;Community.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Založeno na LibreOffice &lt;ud3&gt;7.1&lt;/ud3&gt;&lt;s4/&gt;Komunita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other versions of LibreOffice may differ in appearance and functionality.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jiné verze LibreOffice se mohou lišit vzhledem a funkčností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Adding connectors</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přidání konektorů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modifying connectors</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Úprava konektorů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Connector text</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Text konektoru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Formatting and editing text</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formátování a úpravy textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Organization charts</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Organizační schémata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Connectors and glue points were briefly introduced in Chapter 2 Drawing Basic Shapes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Spojnice a body lepení byly stručně představeny v kapitole 2 Kreslení základních tvarů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This section describes them in more detail and how to use them.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V této části je podrobněji popíšeme a vysvětlíme, jak je používat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Connectors are lines or arrows whose ends automatically dock to a connection or glue point on the border of an object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Spojnice jsou čáry nebo šipky, jejichž konce se automaticky připojí ke spojovacímu nebo lepicímu bodu na okraji objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Connectors are useful in drawings because connecting lines between objects remain connected to objects, even when objects are moved or rearranged.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Spojnice jsou ve výkresech užitečné, protože spojovací čáry mezi objekty zůstávají spojeny s objekty, i když se objekty přesouvají nebo mění jejich uspořádání.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Also, when an object with a connector attached is moved or resized, the connector automatically adjusts its shape to accommodate the changes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je objekt s připojeným konektorem přesunut nebo je změněna jeho velikost, konektor automaticky přizpůsobí svůj tvar těmto změnám.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, when creating flowcharts, organization chart, schematics, or diagrams, it is highly recommended to use connectors instead of simple lines.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například při vytváření vývojových diagramů, organizačních schémat, schémat nebo diagramů se doporučuje používat konektory namísto jednoduchých čar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using connectors removes the need to redraw lines between objects,</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použití konektorů odstraňuje nutnost překreslovat čáry mezi objekty,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a connector is drawn or selected, Draw displays selection handles that are different to the selection handles for normal lines or objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když je nakreslen nebo vybrán konektor, Draw zobrazí úchyty pro výběr, které se liší od úchytů pro výběr běžných čar nebo objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The termination points of a connector are round at the start and end points of a connector, and square in the center of the lines that make up a connector, as shown by the example in Figure &lt;t0&gt;1&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Koncové body konektoru jsou kulaté v počátečním a koncovém bodě konektoru a čtvercové ve středu čar, které tvoří konektor, jak ukazuje příklad na obrázku &lt;t0&gt;1&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The square selection handles on a connector are used to change the routing of a connector where applicable.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Čtvercové úchyty pro výběr na konektoru slouží k případné změně směrování konektoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Example of connectors between objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;1&lt;/seq0&gt;: Příklad konektorů mezi objekty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Draw has a comprehensive selection of connectors to connect objects together, for example, in a flowchart or organization chart.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Draw má rozsáhlý výběr konektorů, které umožňují propojit objekty například ve vývojovém diagramu nebo organizačním schématu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default set of connectors can be accessed using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K výchozí sadě konektorů lze přistupovat jedním z následujících způsobů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the small triangle ▼ to the right of &lt;f0&gt;Connectors&lt;/f0&gt; on the Drawing toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na malý trojúhelník ▼ vpravo od &lt;f0&gt;Konektory&lt;/f0&gt; na panelu nástrojů Kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f1&gt;Connectors&lt;/f1&gt; icon changes shape depending on the last connector used.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ikona &lt;f1&gt;Konektory&lt;/f1&gt; mění tvar v závislosti na posledním použitém konektoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a connector from the options available in the &lt;f0&gt;Connectors&lt;/f0&gt; section in the &lt;f1&gt;Shapes&lt;/f1&gt; deck on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte konektor z možností dostupných v sekci &lt;f0&gt;Konektory&lt;/f0&gt; v nabídce &lt;f1&gt;Tvary&lt;/f1&gt; na postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If necessary, the connectors on the Drawing toolbar can be displayed as a Connectors floating toolbar as follows:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V případě potřeby lze konektory na panelu nástrojů Kreslení zobrazit jako plovoucí panel nástrojů Konektory takto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the small triangle ▼ on the right of &lt;f0&gt;Connectors&lt;/f0&gt; on the Drawing toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na malý trojúhelník ▼ vpravo od &lt;f0&gt;Konektory&lt;/f0&gt; na panelu nástrojů Kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click at the top of the pop up toolbar and drag it on to the Workspace.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na horní část vyskakovacího panelu nástrojů a přetáhněte jej na pracovní plochu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Release the mouse button and the pop up toolbar becomes the Connectors floating toolbar (Figure &lt;t0&gt;2&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Uvolněte tlačítko myši a z vyskakovacího panelu nástrojů se stane plovoucí panel nástrojů Konektory (obrázek &lt;t0&gt;2&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Connectors floating toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;2&lt;/seq0&gt;: Plovoucí panel nástrojů Connectors</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Available connects for Connectors toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;3&lt;/seq0&gt;: Dostupná připojení pro panel nástrojů Konektory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The full range of predefined connectors can be accessed by clicking on the small triangle ▼ on the right of the titlebar for the Connectors toolbar and selecting &lt;f0&gt;Visible Buttons&lt;/f0&gt; (Figure &lt;t1&gt;3&lt;/t1&gt;) from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Úplnou nabídku předdefinovaných konektorů získáte kliknutím na malý trojúhelník ▼ vpravo na titulkovém panelu panelu nástrojů Konektory a výběrem možnosti &lt;f0&gt;Viditelná tlačítka&lt;/f0&gt; (obrázek &lt;t1&gt;3&lt;/t1&gt;) z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Depending on the computer system being used, the connectors already installed on the toolbar are indicated either by a check mark against the name, or the connector icon is highlighted.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V závislosti na použitém počítačovém systému jsou již nainstalované konektory na panelu nástrojů označeny buď zaškrtnutím u názvu, nebo je ikona konektoru zvýrazněna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The connectors available fall into four type groups, as follows:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dostupné konektory se dělí do čtyř typových skupin:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Standard&lt;/f0&gt; – connector name starts with Connector.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Standardní&lt;/f0&gt; - název konektoru začíná na Connector.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creates a connector with one or more 90-degree angle bends.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvoří konektor s jedním nebo více ohyby pod úhlem 90 stupňů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on an object glue point, then drag the cursor to a glue point on another object to create a standard connector.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na bod lepení objektu a poté přetáhněte kurzor na bod lepení jiného objektu, abyste vytvořili standardní konektor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Line&lt;/f0&gt; – connector name starts with Line.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Line&lt;/f0&gt; - název konektoru začíná na Line.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on an object glue point, then drag to a glue point on another object to create a line connector.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na bod lepení objektu a přetáhněte jej na bod lepení jiného objektu, čímž vytvoříte spojovací čáru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To adjust the length of the line segment between a bend point and a glue point, click on the connector and drag the bend point.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li upravit délku úsečky mezi bodem ohybu a bodem lepení, klikněte na konektor a přetáhněte bod ohybu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Straight&lt;/f0&gt; – connector name starts with Straight.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Straight&lt;/f0&gt; - název konektoru začíná na Straight.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on an object glue point, then drag the cursor to a glue point on another object to create a straight connector.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na bod lepení objektu a poté přetáhněte kurzor na bod lepení jiného objektu, abyste vytvořili přímý spoj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Curved&lt;/f0&gt; – connector name starts with Curved.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Zakřivený&lt;/f0&gt; - název konektoru začíná slovem Zakřivený.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Based on Bézier curves, a curved connector bends around objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na základě Bézierových křivek se zakřivený konektor ohýbá kolem objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on an object glue point, then drag the cursor to a glue point on another object to create a curved connector.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na bod lepení objektu a poté přetáhněte kurzor na bod lepení jiného objektu, čímž vytvoříte zakřivený konektor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>to open the options available for selecting connectors (Figures &lt;t1&gt;2&lt;/t1&gt; and &lt;t2&gt;3&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>otevřít možnosti výběru konektorů (obrázky &lt;t1&gt;2&lt;/t1&gt; a &lt;t2&gt;3&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the type of connector required.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte požadovaný typ konektoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See “&lt;bf0&gt;Connector types&lt;/bf0&gt;” above for more information on connector types.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o typech konektorů najdete v části “&lt;bf0&gt;Typy konektorů&lt;/bf0&gt;“ výše.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Example of object glue points</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;4&lt;/seq0&gt;: Příklad lepicích bodů objektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move the cursor over one of the objects to be connected and small crosses appear around the object edges, normally in the same position as object selection handles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po přesunutí kurzoru nad jeden z připojovaných objektů se kolem okrajů objektu objeví malé křížky, obvykle ve stejné poloze jako úchyty pro výběr objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These crosses are the glue points to which a connector can be attached (Figure &lt;t0&gt;4&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tyto kříže jsou lepicími body, ke kterým lze připojit konektor (obrázek &lt;t0&gt;4&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See “&lt;bf1&gt;Glue points&lt;/bf1&gt;” on page &lt;bf2&gt;7&lt;/bf2&gt; for more information on glue points.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o lepicích bodech naleznete v části “&lt;bf1&gt;Lepicí body&lt;/bf1&gt;“ na stránce &lt;bf2&gt;7&lt;/bf2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the required glue point to attach the start point of the connector, then click and drag the cursor to draw a connector to another object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na požadovaný bod lepidla připojte počáteční bod konektoru a poté kliknutím a přetažením kurzoru nakreslete konektor k jinému objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the cursor is over a glue point of the target object release the mouse button and the connector is drawn.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když se kurzor nachází nad lepicím bodem cílového objektu, uvolněte tlačítko myši a konektor se nakreslí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The connector end point is attached to the glue point.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Koncový bod konektoru je připojen k lepicímu bodu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The square selection handles that appear on the connector are used to adjust the path of the connector so that it does not cover any other object in its path.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Čtvercové úchyty pro výběr, které se objeví na konektoru, slouží k úpravě dráhy konektoru tak, aby nezakrýval žádný jiný objekt ve své dráze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See “&lt;bf0&gt;Modifying connectors&lt;/bf0&gt;” below on how to change the connector route to avoid any objects the connector crosses over.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jak změnit trasu konektoru tak, aby se vyhnul objektům, přes které konektor přechází, se dozvíte v části “&lt;bf0&gt;Modifikace konektorů&lt;/bf0&gt;“ níže.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The end point of a connector can be positioned in an empty part of a document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Koncový bod konektoru lze umístit do prázdné části dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the mouse button is released, the unattached end point of the connector is locked into place until it is moved to a different location.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po uvolnění tlačítka myši se nepřipojený koncový bod konektoru uzamkne na místě, dokud jej nepřesunete na jiné místo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The start and end points of a connector cannot be swapped, that is the start point becomes the end point and the end point becomes the start point.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Počáteční a koncový bod konektoru nelze zaměnit, tj. počáteční bod se stane koncovým bodem a koncový bod se stane počátečním bodem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To swap the end points of a connector, a new connector has to be drawn in the opposite direction.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vyměnit koncové body konektoru, je třeba nakreslit nový konektor v opačném směru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To detach or reposition a connector, click and drag either round end point of a connector line to a different location.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li konektor odpojit nebo změnit jeho polohu, klikněte a přetáhněte libovolný kruhový koncový bod čáry konektoru na jiné místo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the example in Figure &lt;t0&gt;1&lt;/t0&gt; on page &lt;t1&gt;4&lt;/t1&gt; for an example of round end points.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Příklad kruhových koncových bodů viz obrázek &lt;t0&gt;1&lt;/t0&gt; na straně &lt;t1&gt;4&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To change the connector route between objects so that the connector does not overlap any objects on the route, click on a square control point on the connector line and drag it to a new position.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li změnit trasu konektoru mezi objekty tak, aby konektor nepřekrýval žádné objekty na trase, klikněte na čtvercový kontrolní bod na linii konektoru a přetáhněte jej na nové místo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the example in Figure &lt;t0&gt;1&lt;/t0&gt; on page &lt;t1&gt;4&lt;/t1&gt; for an example of square control points.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Příklad čtvercových řídicích bodů viz obrázek &lt;t0&gt;1&lt;/t0&gt; na straně &lt;t1&gt;4&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To modify a connector, right-click on the connector and select &lt;f0&gt;Connector&lt;/f0&gt; from the context menu to open the Connector dialog (Figure &lt;t1&gt;5&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li konektor upravit, klikněte na něj pravým tlačítkem myši a výběrem možnosti &lt;f0&gt;Konektor&lt;/f0&gt; z kontextové nabídky otevřete dialogové okno Konektor (obrázek &lt;t1&gt;5&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this dialog to change connector type and its properties.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V tomto dialogovém okně můžete změnit typ konektoru a jeho vlastnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Type&lt;/f0&gt; – select the connector type from the drop-down list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Typ&lt;/f0&gt; - vyberte typ konektoru z rozevíracího seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See “&lt;bf1&gt;Connector types&lt;/bf1&gt;” on page &lt;bf2&gt;5&lt;/bf2&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace naleznete v části “&lt;bf1&gt;Typy konektorů&lt;/bf1&gt;“ na stránce &lt;bf2&gt;5&lt;/bf2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Connector dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;5&lt;/seq0&gt;: Dialogové okno konektoru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Line skew&lt;/f0&gt; – defines the skew of a connector line.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Zkosení linky&lt;/f0&gt; - definuje zkosení linky konektoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The dialog preview displays the result of any changes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V dialogovém náhledu se zobrazí výsledek případných změn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Line spacing&lt;/f0&gt; – sets the spacing around a connector.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Rozteč řádků&lt;/f0&gt; - nastavuje rozteč kolem konektoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Begin horizontal&lt;/f0&gt; – enter the amount of horizontal space required at the beginning of a connector.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Začátek vodorovné polohy&lt;/f0&gt; - zadejte velikost vodorovného prostoru požadovaného na začátku konektoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Begin vertical&lt;/f0&gt; – enter the amount of vertical space required at the beginning of a connector.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Začátek svisle&lt;/f0&gt; - zadejte velikost svislé mezery požadované na začátku konektoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;End horizontal&lt;/f0&gt; – enter the amount of horizontal space required at the end of a connector.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Konec vodorovné polohy&lt;/f0&gt; - zadejte velikost vodorovného prostoru požadovaného na konci konektoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;End vertical&lt;/f0&gt; – enter the amount of vertical space required at the end of a connector</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Konec svisle&lt;/f0&gt; - zadejte velikost svislé mezery požadované na konci konektoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Preview box&lt;/f0&gt; – displays a preview of objects and connectors being used.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Rámeček náhledu&lt;/f0&gt; - zobrazí náhled používaných objektů a konektorů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A left click zooms in on the preview and a right-click zooms out.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím levým tlačítkem myši náhled přiblížíte a kliknutím pravým tlačítkem myši oddálíte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glue points are not the same as object selection handles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Lepicí body nejsou totéž co úchyty pro výběr objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The selection handles are for moving or changing the shape of an object (see Chapter 3, Working with Objects and Object Points for more information).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Úchyty pro výběr slouží k přesouvání nebo změně tvaru objektu (další informace naleznete v kapitole 3, Práce s objekty a body objektů).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All objects have glue points, which are not normally displayed and only become visible when one of the following methods is used, Figure &lt;t0&gt;4&lt;/t0&gt; on page &lt;t1&gt;6&lt;/t1&gt; shows an example of glue points visible on an object after a connector has been selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Všechny objekty mají body lepení, které se normálně nezobrazují a zviditelní se pouze při použití jedné z následujících metod, Obrázek &lt;t0&gt;4&lt;/t0&gt; na straně &lt;t1&gt;6&lt;/t1&gt; ukazuje příklad bodů lepení viditelných na objektu po výběru konektoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Connectors&lt;/f0&gt; is selected on the Drawing toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na panelu nástrojů Kreslení je vybrána možnost &lt;f0&gt;Konektory&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Connectors icon displayed on the Drawing toolbar is the connector type that had been previously used.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ikona Konektory zobrazená na panelu nástrojů Kreslení je typ konektoru, který byl dříve použit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A connector type is selected in the &lt;f0&gt;Connectors&lt;/f0&gt; section in the Shapes deck on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Typ konektoru je vybrán v části &lt;f0&gt;Konektory&lt;/f0&gt; v balíčku Tvarů na postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Glue Points toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;6&lt;/seq0&gt;: Panel nástrojů Lepicí body</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add, customize or delete glue points to an object, go to &lt;f0&gt;View &gt; Toolbars &gt; Glue Points&lt;/f0&gt; on the Menu bar to activate the Glue Points toolbar (Figure &lt;t1&gt;6&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li přidat, upravit nebo odstranit lepicí body k objektu, přejděte na &lt;f0&gt;Zobrazení &gt; Panely nástrojů &gt; Lepicí body&lt;/f0&gt; na panelu nabídek a aktivujte panel nástrojů Lepicí body (obrázek &lt;t1&gt;6&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This toolbar only becomes visible after using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento panel nástrojů se zobrazí pouze po použití jedné z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Show Glue Point Functions&lt;/f0&gt; on the Standard or Drawing toolbars.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Zobrazit funkce lepicího bodu&lt;/f0&gt; na panelu nástrojů Standardní nebo Kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;Edit &gt; Glue Points&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na panelu nabídek vyberte možnost &lt;f0&gt;Upravit &gt; Lepicí body&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Show Glue Point Functions&lt;/f0&gt; on the Drawing toolbar is not part of the default set of tools for the Drawing toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Zobrazit funkce lepicího bodu&lt;/f0&gt; na panelu nástrojů Kreslení není součástí výchozí sady nástrojů panelu nástrojů Kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add this tool, right-click in an empty area on the Drawing toolbar and select &lt;f1&gt;Visible Buttons &gt; Glue Points&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li přidat tento nástroj, klikněte pravým tlačítkem myši do prázdné oblasti na panelu nástrojů Kreslení a z kontextové nabídky vyberte &lt;f1&gt;Viditelná tlačítka &gt; Lepicí body&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the Glue Points toolbar opens, only the five tools on the left of &lt;f0&gt;Glue Point Relative&lt;/f0&gt; are active.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když se otevře panel nástrojů Lepicí body, je aktivních pouze pět nástrojů vlevo od &lt;f0&gt;Relativní lepicí bod&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Insert Glue Point&lt;/f0&gt; – inserts a glue point at the cursor position in an object when the mouse button is clicked.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Vložit lepicí bod&lt;/f0&gt; - vloží lepicí bod na pozici kurzoru v objektu po kliknutí tlačítkem myši.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Glue Point Relative&lt;/f0&gt; – when selected, the glue point moves when the object is resized maintaining its position relative to the object borders.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Relativní lepicí bod&lt;/f0&gt; - pokud je vybrána tato možnost, lepicí bod se při změně velikosti objektu pohybuje a zachovává svou polohu vzhledem k hranicím objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When deselected, a glue point can be repositioned after the object is resized.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je výběr zrušen, lze po změně velikosti objektu změnit polohu lepicího bodu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This tool is selected by default when the Glue Point toolbar opens.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento nástroj je ve výchozím nastavení vybrán, když se otevře panel nástrojů Lepicí bod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following six tools only become active when &lt;f1&gt;Glue Point Relative&lt;/f1&gt; is deselected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Následujících šest nástrojů je aktivních pouze tehdy, když je zrušen výběr &lt;f1&gt;Relativní modrý bod&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Glue Point Horizontal Left&lt;/f0&gt; – when the object is resized, the selected glue point remains fixed at the left edge of the object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Vodorovný bod lepidla vlevo&lt;/f0&gt; - při změně velikosti objektu zůstane vybraný bod lepidla pevně umístěn na levém okraji objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Glue Point Horizontal Center&lt;/f0&gt; – when the object is resized, the selected glue point remains fixed at the center of the object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Vodorovný střed lepicího bodu&lt;/f0&gt; - při změně velikosti objektu zůstane vybraný lepicí bod pevně umístěn ve středu objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Glue Point Horizontal Right&lt;/f0&gt; – when the object is resized, the selected glue point remains fixed at the right edge of the object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Vzorník vodorovně vpravo&lt;/f0&gt; - při změně velikosti objektu zůstane vybraný bod lepidla pevně umístěn na pravém okraji objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Glue Point Vertical Top&lt;/f0&gt; – when the object is resized, the selected glue point remains fixed at the top edge of the object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Vrchní svislý bod lepidla&lt;/f0&gt; - při změně velikosti objektu zůstane vybraný bod lepidla pevně umístěn na horním okraji objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Glue Point Vertical Center&lt;/f0&gt; – when the object is resized, the selected glue point remains fixed at the vertical center of the object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Svislý střed lepicího bodu&lt;/f0&gt; - při změně velikosti objektu zůstane vybraný lepicí bod pevně nastaven na svislý střed objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Glue Point Vertical Bottom&lt;/f0&gt; – when the object is resized, the selected glue point remains fixed at the bottom edge of the object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Svislý spodní bod lepidla&lt;/f0&gt; - při změně velikosti objektu zůstane vybraný bod lepidla pevně umístěn na spodním okraji objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each glue point added to an object can have only one horizontal position and one vertical position.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Každý bod lepidla přidaný k objektu může mít pouze jednu horizontální a jednu vertikální polohu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, most objects normally have four glue points as shown in the example in Figure &lt;t0&gt;4&lt;/t0&gt; on page &lt;t1&gt;6&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ve výchozím nastavení má většina objektů obvykle čtyři body lepení, jak ukazuje příklad na obrázku &lt;t0&gt;4&lt;/t0&gt; na straně &lt;t1&gt;6&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;View &gt; Toolbars &gt; Glue Points&lt;/f0&gt; on the Menu bar to activate the Glue Points toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Zobrazení &gt; Panely nástrojů &gt; Lepicí body&lt;/f0&gt; na panelu nabídek a aktivujte panel nástrojů Lepicí body.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure no objects are selected and use one of the following methods to open the Glue Points toolbar:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ujistěte se, že nejsou vybrány žádné objekty, a pomocí jedné z následujících metod otevřete panel nástrojů Lepicí body:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the object, then click on &lt;f0&gt;Insert Glue Point&lt;/f0&gt; on the Glue Points toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte objekt a klikněte na &lt;f0&gt;Vložit lepicí bod&lt;/f0&gt; na panelu nástrojů Lepicí body.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move the cursor to the required position on the selected object and the cursor changes shape to a cross (depending on the computer setup).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přesuňte kurzor na požadované místo na vybraném objektu a kurzor změní tvar na křížek (v závislosti na nastavení počítače).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click once to add a glue point.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jedním kliknutím přidáte lepicí bod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add more glue points, move the cursor to a new position and click.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li přidat další body lepení, přesuňte kurzor na nové místo a klikněte na něj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When finished adding glue points, move the cursor off the selected object and click in an empty space to deselect the object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po dokončení přidávání lepicích bodů přesuňte kurzor mimo vybraný objekt a kliknutím do prázdného místa výběr objektu zrušte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, right-click on a glue point previously added to the object and select &lt;f0&gt;Insert Glue Point&lt;/f0&gt; from the context menu, then click and drag the new glue point to the required position.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Případně klikněte pravým tlačítkem myši na bod lepení, který byl dříve přidán k objektu, a z kontextové nabídky vyberte možnost &lt;f0&gt;Vložit bod lepení&lt;/f0&gt; a poté klikněte a přetáhněte nový bod lepení na požadované místo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the type of glue point required from the options available on the Glue Points toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Z možností dostupných na panelu nástrojů Lepicí body vyberte požadovaný typ lepicího bodu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See “&lt;bf0&gt;Glue point types&lt;/bf0&gt;” above for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace naleznete v části “&lt;bf0&gt;Typy modrých bodů&lt;/bf0&gt;“ výše.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When an object has no fill, a glue point can only be added to the border of an empty object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud objekt nemá žádnou výplň, lze bod lepidla přidat pouze k okraji prázdného objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 3, Working with Objects and Object Points for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace naleznete v kapitole 3, Práce s objekty a body objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Customize the exit direction for a glue point that has been added to an object as follows:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přizpůsobte směr výstupu pro bod lepidla přidaný k objektu takto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the Glue Points toolbar:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevřete panel nástrojů Lepicí body:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Double-click on a glue point that has been added to an object to select the glue point for customization.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dvojitým kliknutím na bod lepení, který byl přidán k objektu, vyberete bod lepení pro přizpůsobení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the exit direction required for the connector to be attached to the glue point using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte směr výstupu požadovaný pro připojení konektoru k lepicímu bodu pomocí jedné z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the exit direction in the Glue Points toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na směr výstupu na panelu nástrojů Lepicí body.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the glue point and select the exit direction from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem myši na bod lepení a z kontextové nabídky vyberte směr výstupu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Customize the horizontal and vertical positioning for a glue point that has been added to an object as follow:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přizpůsobte vodorovné a svislé umístění bodu lepidla, který byl přidán k objektu, následujícím způsobem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Glue Point Relative&lt;/f0&gt; on the Glue Points toolbar to deselect this tool, or right-click on the glue point and select &lt;f1&gt;Glue Point Relative&lt;/f1&gt; from the context menu to deselect the tool.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;Relativní bod lepení&lt;/f0&gt; na panelu nástrojů Lepené body zrušte výběr tohoto nástroje nebo klikněte pravým tlačítkem myši na bod lepení a z kontextové nabídky vyberte &lt;f1&gt;Relativní bod lepení&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the horizontal and vertical positioning tools required for the glue point using one of the following methods Only one horizontal positioning tool and one vertical positioning tool can be used at any one time:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte vodorovné a svislé polohovací nástroje požadované pro bod lepení pomocí jedné z následujících metod V jednom okamžiku lze použít pouze jeden vodorovný a jeden svislý polohovací nástroj:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the horizontal and vertical positioning required in the Glue Points toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na požadované vodorovné a svislé umístění na panelu nástrojů Lepicí body.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the glue point and select the horizontal and vertical positioning required from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem myši na bod lepení a z kontextové nabídky vyberte požadované vodorovné a svislé umístění.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a glue point for deletion that has previously been added to the object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte lepicí bod k odstranění, který byl dříve přidán k objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text can be easily added to connectors, then formatted, for example, to make a flowchart or organization chart easier to follow.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ke konektorům lze snadno přidávat text a následně jej formátovat, například pro snazší sledování vývojového diagramu nebo organizačního schématu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 9, Adding and Formatting Text for more information on working with and formatting text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o práci s textem a jeho formátování najdete v kapitole 9, Přidávání a formátování textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a connector and the control points become active.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte konektor a kontrolní body se stanou aktivními.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Insert Text Box&lt;/f0&gt; or &lt;f1&gt;Insert Vertical Text&lt;/f1&gt; (if added) on the Standard toolbar (Figure &lt;t2&gt;7&lt;/t2&gt;) or Drawing toolbar (Figure &lt;t3&gt;8&lt;/t3&gt;) to enter text mode.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;Vložit textové pole&lt;/f0&gt; nebo &lt;f1&gt;Vložit svislý text&lt;/f1&gt; (je-li přidán) na panelu nástrojů Standardní (obrázek &lt;t2&gt;7&lt;/t2&gt;) nebo Kreslící (obrázek &lt;t3&gt;8&lt;/t3&gt;) přejděte do textového režimu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A flashing text cursor appears close to the connector and the Text Formatting toolbar (Figure &lt;t4&gt;9&lt;/t4&gt;) opens.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V blízkosti konektoru se zobrazí blikající textový kurzor a otevře se panel nástrojů Formátování textu (obrázek &lt;t4&gt;9&lt;/t4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, use the keyboard shortcut &lt;f0&gt;F2&lt;/f0&gt; to create horizontal text on the selected connector.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Alternativně můžete použít klávesovou zkratku &lt;f0&gt;F2&lt;/f0&gt; pro vytvoření vodorovného textu na vybraném konektoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Type the required text for the connector.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zadejte požadovaný text pro konektor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If necessary, format the connector text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V případě potřeby naformátujte text konektoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See “&lt;bf0&gt;Formatting and editing text&lt;/bf0&gt;” below for more information on formatting and editing text text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o formátování a úpravách textu najdete v části “&lt;bf0&gt;Formátování a úpravy textu&lt;/bf0&gt;“ níže.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Standard toolbar with Insert Vertical Text added</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;7&lt;/seq0&gt;: Standardní panel nástrojů s přidaným Vložit svislý text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Drawing toolbar with Insert Vertical Text added</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;8&lt;/seq0&gt;: Panel nástrojů Kreslení s přidaným Vložit svislý text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Text Formatting toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;9&lt;/seq0&gt;: Panel nástrojů Formátování textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When adding and formatting text is complete, move the cursor away from the text and connector, then click to end text mode.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po dokončení přidávání a formátování textu odsuňte kurzor od textu a konektoru a kliknutím ukončete textový režim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This also closes the Text Formatting toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tím se také zavře panel nástrojů Formátování textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the default installation of LibreOffice, the &lt;f0&gt;Insert Vertical Text&lt;/f0&gt; tool is not included on the Standard or Drawing toolbars.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ve výchozí instalaci LibreOffice není nástroj &lt;f0&gt;Vložit svislý text&lt;/f0&gt; na panelu nástrojů Standardní nebo Kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add &lt;f1&gt;Insert Vertical Text&lt;/f1&gt; to the toolbar, right-click in an empty area in either toolbar, go to &lt;f2&gt;Visible Buttons&lt;/f2&gt; and select &lt;f3&gt;Vertical Text&lt;/f3&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li na panel nástrojů přidat &lt;f1&gt;Vložit svislý text&lt;/f1&gt;, klikněte pravým tlačítkem myši do prázdné oblasti na kterémkoli z panelů nástrojů, přejděte na &lt;f2&gt;Viditelná tlačítka&lt;/f2&gt; a z kontextové nabídky vyberte &lt;f3&gt;Svislý text&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Text dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;10&lt;/seq0&gt;: Textový dialog</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Text dialog - Text Animation page</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;11&lt;/seq0&gt;: Dialogové okno Text - stránka Animace textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a connector with text added and activate the control points to enter text mode.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte konektor s přidaným textem a aktivujte kontrolní body pro vstup do textového režimu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See “&lt;bf0&gt;Adding text&lt;/bf0&gt;” above for more information on adding text to a connector.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o přidávání textu do konektoru najdete v části “&lt;bf0&gt;Přidání textu&lt;/bf0&gt;“ výše.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the tools available on the Text Formatting toolbar or the options available in &lt;f0&gt;Format &gt; Text&lt;/f0&gt; on the Menu bar to format the text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K formátování textu použijte nástroje dostupné na panelu nástrojů Formátování textu nebo možnosti dostupné v nabídce &lt;f0&gt;Formát &gt; Text&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the connector text and select &lt;f0&gt;Text&lt;/f0&gt; from the context menu to open the Text dialog (Figure &lt;t1&gt;10&lt;/t1&gt;) and change how the text appears next to the connector.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepnutím pravým tlačítkem myši na text konektoru a výběrem možnosti &lt;f0&gt;Text&lt;/f0&gt; z kontextové nabídky otevřete dialogové okno Text (obrázek &lt;t1&gt;10&lt;/t1&gt;) a změňte způsob zobrazení textu vedle konektoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The options available are as follows:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K dispozici jsou tyto možnosti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Drawing Object Text&lt;/f0&gt; – &lt;f1&gt;Fit to frame&lt;/f1&gt; – resizes the text to fit the entire area of a connector rectangle or frame.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Kreslení textu objektu&lt;/f0&gt; - &lt;f1&gt;Přizpůsobit rámečku&lt;/f1&gt; - změní velikost textu tak, aby se vešel do celé plochy spojovacího obdélníku nebo rámečku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Drawing Object Text&lt;/f0&gt; – &lt;f1&gt;Adjust to contour&lt;/f1&gt; – adapts the text flow so that it matches the contours of the selected connector.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Kreslení textu objektu&lt;/f0&gt; - &lt;f1&gt;Přizpůsobit obrysu&lt;/f1&gt; - přizpůsobí tok textu tak, aby odpovídal obrysu vybraného konektoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Spacing to Borders&lt;/f0&gt; – specify the amount of space to leave between the connector and the borders of the text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Odstup od okrajů&lt;/f0&gt; - určuje velikost mezery, která má být ponechána mezi konektorem a okraji textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Text Anchor&lt;/f0&gt; – select one of nine positions to anchor the text within the connector rectangle.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Kotvení textu&lt;/f0&gt; - vyberte jednu z devíti pozic pro ukotvení textu v obdélníku konektoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Full width&lt;/f0&gt; – anchors the text to the full width of the connector rectangle.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Plná šířka&lt;/f0&gt; - ukotví text na celou šířku obdélníku konektoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When selected, the top, middle and bottom center positions can be used for to anchor the text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je vybrána horní, střední a dolní středová pozice, lze je použít k ukotvení textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If required, click on &lt;f0&gt;Text Animation&lt;/f0&gt; to open the Text Animation page (Figure &lt;t1&gt;11&lt;/t1&gt;) and access options to animate the text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V případě potřeby kliknutím na &lt;f0&gt;Animace textu&lt;/f0&gt; otevřete stránku Animace textu (obrázek &lt;t1&gt;11&lt;/t1&gt;) a získáte přístup k možnostem animace textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, this is not recommended unless the drawing is going to be displayed as part of a presentation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>To se však nedoporučuje, pokud kresba nebude vystavena jako součást prezentace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;f2&gt;Impress Guide&lt;/f2&gt; for more information on text animation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o animaci textu naleznete v &lt;f2&gt;Příručce k tisku&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save the changes to text attributes and close the Text dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na tlačítko &lt;f0&gt;OK&lt;/f0&gt; uložte změny atributů textu a zavřete dialogové okno Text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move the cursor away from text and connector, then click to end the text mode.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přesuňte kurzor od textu a konektoru a kliknutím ukončete textový režim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Flowchart toolbar and available flowchart shapes</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;12&lt;/seq0&gt;: Panel nástrojů vývojového diagramu a dostupné tvary vývojového diagramu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For drawing flowcharts (also known as flow diagrams), Draw has a floating Flowchart toolbar (Figure &lt;t0&gt;12&lt;/t0&gt;) that includes a large selection of flowchart tools to create a flowchart.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro kreslení vývojových diagramů (známých také jako vývojové diagramy) má program Draw plovoucí panel nástrojů Vývojový diagram (obrázek &lt;t0&gt;12&lt;/t0&gt;), který obsahuje velký výběr nástrojů pro tvorbu vývojových diagramů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the small triangle ▼ to the right of &lt;f0&gt;Flowchart&lt;/f0&gt; on the Drawing toolbar to open a Flowchart pop up menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na malý trojúhelník ▼ napravo od &lt;f0&gt;Vývojový diagram&lt;/f0&gt; na panelu nástrojů Kreslení otevřete kontextovou nabídku Vývojový diagram.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that the Flowchart icon changes shape depending on the last flowchart tool used.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Všimněte si, že ikona vývojového diagramu mění tvar v závislosti na posledním použitém nástroji vývojového diagramu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click at the top of the Flowchart pop-up menu and drag it into the Workspace.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na horní část kontextové nabídky Vývojový diagram a přetáhněte jej do pracovní oblasti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Release the mouse button and the pop-up menu becomes a floating Flowchart toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Uvolněte tlačítko myši a z vyskakovací nabídky se stane plovoucí panel nástrojů Vývojového diagramu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Recommended basic steps to follow when creating a flowchart:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Doporučené základní kroky při vytváření vývojového diagramu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When adding objects or flowchart shapes to a flowchart, see Chapter 2, Drawing Basic Shapes for information on how to draw and resize object shapes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při přidávání objektů nebo tvarů vývojového diagramu do vývojového diagramu si přečtěte kapitolu 2, Kreslení základních tvarů, kde najdete informace o kreslení a změně velikosti tvarů objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add text to each flowchart shape to make it easily identified in the flowchart.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ke každému tvaru vývojového diagramu přidejte text, abyste jej ve vývojovém diagramu snadno identifikovali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 2, Drawing Basic Shapes and Chapter 11, Advanced Draw Techniques for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace naleznete v kapitole 2, Kreslení základních tvarů, a v kapitole 11, Pokročilé techniky kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use connector lines in a flowchart.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použití spojovacích čar ve vývojovém diagramu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This allows repositioning of an object in a flowchart while maintaining connections with the other objects in the flowchart.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>To umožňuje měnit polohu objektu ve vývojovém diagramu při zachování vazeb na ostatní objekty ve vývojovém diagramu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See “&lt;bf0&gt;Connectors and glue points&lt;/bf0&gt;” on page &lt;bf1&gt;4&lt;/bf1&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace naleznete v části “&lt;bf0&gt;Konektory a lepicí body&lt;/bf0&gt;“ na straně &lt;bf1&gt;4&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the zoom, grid, and snap functions to help in positioning objects in a flowchart.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při umísťování objektů ve vývojovém diagramu vám pomohou funkce přiblížení, mřížky a přichycení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the alignment and distribution functions to give a flowchart a more professional look.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí funkcí zarovnání a rozdělení dodáte vývojovému diagramu profesionálnější vzhled.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 5, Combining Multiple Objects for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace naleznete v kapitole 5, Kombinace více objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Duplicate objects when more than one of the same shape and size is required.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Duplikujte objekty, pokud potřebujete více objektů stejného tvaru a velikosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Example flowchart</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;13&lt;/seq0&gt;: Příklad vývojového diagramu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Example of an organization chart</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;14&lt;/seq0&gt;: Příklad organizačního schématu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Draw does not have a toolbar for organization charts, but these charts are easily created using basic shapes, flowchart shapes, and connectors.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Draw nemá panel nástrojů pro organizační diagramy, ale tyto diagramy lze snadno vytvářet pomocí základních tvarů, tvarů vývojových diagramů a konektorů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hierarchy in an organization is easily indicated using shading and/or color.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Hierarchie v organizaci se snadno vyznačuje pomocí stínování a/nebo barev.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When using shading and color in an organization chart, make sure the selection provides a good contrast between the text and the shading or color.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při použití stínování a barvy v organizačním diagramu se ujistěte, že výběr poskytuje dobrý kontrast mezi textem a stínováním nebo barvou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This makes the chart easy to read on a computer display or in a printed document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Díky tomu je graf snadno čitelný na displeji počítače nebo v tištěném dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An example of an organization chart is shown in Figure &lt;t0&gt;14&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Příklad organizačního schématu je uveden na obrázku &lt;t0&gt;14&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This was drawn using the rectangle basic shape and connectors.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ten byl nakreslen pomocí základního tvaru obdélníku a konektorů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When adding objects to a chart, see Chapter 2, Drawing Basic Shapes for information on how to draw and resize object shapes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při přidávání objektů do grafu si přečtěte kapitolu 2, Kreslení základních tvarů, kde najdete informace o kreslení a změně velikosti tvarů objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add text to each object in the organization chart to make it easily identified in the chart.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přidejte text ke každému objektu v organizačním diagramu, abyste jej mohli v diagramu snadno identifikovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use connectors in an organization chart.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použití konektorů v organizačním schématu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This allows repositioning of an object in a chart while maintaining connections with the other objects in the chart.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>To umožňuje změnit polohu objektu v grafu při zachování spojení s ostatními objekty v grafu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the zoom, grid, and snap functions to help in positioning objects in a chart.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při umísťování objektů do grafu vám pomohou funkce zoom, mřížka a přichycení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the alignment and distribution functions to give an organization chart a more professional look.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí funkcí zarovnání a rozdělení dodáte organizačnímu schématu profesionálnější vzhled.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

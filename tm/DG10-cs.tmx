@@ -1,0 +1,1742 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" segtype="sentence" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 10, Printing, Exporting and Emailing&lt;segment 21485&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 10, Tisk, export a odesílání e-mailem&lt;segment 21485&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Redaction&lt;/t0&gt; | &lt;t1&gt;15&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Redakce&lt;/t0&gt; | &lt;t1&gt;15&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;16&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Chapter 10, Printing, Exporting and Emailing&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;16&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Kapitola 10, Tisk, export a odesílání e-mailem&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Chapter 10, Printing, Exporting and Emailing&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Kapitola 10, Tisk, export a odesílání e-mailem&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;0&lt;/t0&gt;| &lt;t1&gt;Chapter 10, Printing, Exporting and Emailing&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;0&lt;/t0&gt;| &lt;t1&gt;Kapitola 10, Tisk, export a odesílání e-mailem&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 10, &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 10, &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Printing, Exporting and Emailing</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tisk, export a odesílání e-mailem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This document maybe distributed and/or modified under the terms of either the GNU General Public License (&lt;a2&gt;https://www.gnu.org/licenses/gpl.html&lt;/a2&gt;), version 3 or later, or the Creative Commons Attribution License (&lt;a3&gt;https://creativecommons.org/licenses/by/4.0/&lt;/a3&gt;), version 4.0 or later.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento dokument může být šířen a/nebo upravován za podmínek buď GNU General Public License (&lt;a2&gt;https://www.gnu.org/licenses/gpl.html&lt;/a2&gt;), verze 3 nebo novější, nebo Creative Commons Attribution License (&lt;a3&gt;https://creativecommons.org/licenses/by/4.0/&lt;/a3&gt;), verze 4.0 nebo novější.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Everything sent to a mailing list, including email addresses and any other personal information that is written in the message, is publicly archived and cannot be deleted.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vše, co je odesláno do poštovního seznamu, včetně e-mailových adres a dalších osobních údajů, které jsou ve zprávě napsány, je veřejně archivováno a nemůže být smazáno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Published &lt;t0&gt;July&lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt;2021&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vydáno &lt;t0&gt;červenec&lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt;2021&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Based on LibreOffice &lt;ud3&gt;7.1&lt;/ud3&gt;&lt;s4/&gt;Community.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Založeno na LibreOffice &lt;ud3&gt;7.1&lt;/ud3&gt;&lt;s4/&gt;Komunita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other versions of LibreOffice may differ in appearance and functionality.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jiné verze LibreOffice se mohou lišit vzhledem a funkčností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Controlled printing</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Řízený tisk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LibreOffice Draw options</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti LibreOffice Draw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Single sheet printing of multiple pages</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tisk více stránek na jeden list</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selecting pages to print</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběr stránek k tisku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Individual page</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jednotlivé stránky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Range of pages</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rozsah stránek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selection printing</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběrový tisk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Simplex printer</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Simplexní tiskárna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Duplex printer</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Oboustranná tiskárna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Black and white or grayscale printing</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Černobílý tisk nebo tisk ve stupních šedi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Printer settings</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nastavení tiskárny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LibreOffice settings</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nastavení LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Directly as PDF</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přímo ve formátu PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other formats</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další formáty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Web pages</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Webové stránky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Document format</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formát otevřeného dokumentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Setting security and warning options</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nastavení možností zabezpečení a varování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Removing personal data and drawing information</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odstranění osobních údajů a informací o kreslení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Removing version information</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odstranění informací o verzi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Documents, spreadsheets, or presentations</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dokumenty, tabulky nebo prezentace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Drawings</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výkresy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To quickly print a document or drawing, click on &lt;f0&gt;Print Directly&lt;/f0&gt; on the Standard toolbar (Figure &lt;t1&gt;1&lt;/t1&gt;) to send the entire document to the default printer that is defined for the computer.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li rychle vytisknout dokument nebo výkres, klikněte na &lt;f0&gt;Tisknout přímo&lt;/f0&gt; na panelu nástrojů Standardní (obrázek &lt;t1&gt;1&lt;/t1&gt;) a odešlete celý dokument na výchozí tiskárnu definovanou pro daný počítač.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The action of &lt;f0&gt;Print Directly&lt;/f0&gt; can be changed by sending a document to the printer defined for the document instead of the default printer defined for the computer.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Akci &lt;f0&gt;Tisknout přímo&lt;/f0&gt; lze změnit tak, že se dokument odešle na tiskárnu definovanou pro daný dokument namísto výchozí tiskárny definované pro počítač.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f1&gt;Tools &gt; Options &gt; Load/Save &gt; General&lt;/f1&gt; and select the option &lt;f2&gt;Load printer settings with the document&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte do &lt;f1&gt;Nástroje &gt; Možnosti &gt; Načíst/uložit &gt; Obecné&lt;/f1&gt; a vyberte možnost &lt;f2&gt;Načíst nastavení tiskárny s dokumentem&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If Print Directly is not visible on the Standard toolbar, right-click in an empty area on the Standard toolbar and select &lt;f0&gt;Visible Buttons&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud není položka Tisknout přímo na panelu nástrojů Standardní viditelná, klikněte pravým tlačítkem myši do prázdné oblasti na panelu nástrojů Standardní a z kontextové nabídky vyberte možnost &lt;f0&gt;Viditelná tlačítka&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f1&gt;Print Directly&lt;/f1&gt; from the displayed list of tools and the tool is added to the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ze zobrazeného seznamu nástrojů vyberte &lt;f1&gt;Přímý tisk&lt;/f1&gt; a nástroj se přidá na panel nástrojů Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more control over printing, open and use the Print dialog (Figure &lt;t0&gt;2&lt;/t0&gt; and &lt;t1&gt;3&lt;/t1&gt;) using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li mít větší kontrolu nad tiskem, otevřete a použijte dialogové okno Tisk (Obrázek &lt;t0&gt;2&lt;/t0&gt; a &lt;t1&gt;3&lt;/t1&gt;) pomocí jedné z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The options selected in the Print dialog only apply to the printing of the current document that is open in Draw.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti vybrané v dialogovém okně Tisk se vztahují pouze na tisk aktuálního dokumentu otevřeného v aplikaci Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To specify default print settings for LibreOffice, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Print&lt;/f0&gt; on the main menu bar to open the Options LibreOffice Print dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li zadat výchozí nastavení tisku pro LibreOffice, přejděte na &lt;f0&gt;Nástroje &gt; Možnosti &gt; LibreOffice &gt; Tisk&lt;/f0&gt; na hlavním panelu nabídek a otevřete dialogové okno Možnosti tisku LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Due to different computer setups and different operating systems, the print dialog that opens on a computer monitor may differ from the dialogs shown in Figure &lt;t0&gt;2&lt;/t0&gt; and &lt;t1&gt;3&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vzhledem k různým nastavením počítače a různým operačním systémům se dialogové okno tisku, které se otevře na monitoru počítače, může lišit od dialogových oken zobrazených na obrázcích &lt;t0&gt;2&lt;/t0&gt; a &lt;t1&gt;3&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, the printing options available for LibreOffice remain the same.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti tisku dostupné pro LibreOffice však zůstávají stejné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Print dialog - General page</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;2&lt;/seq0&gt;: Dialogové okno Tisk - stránka Obecné</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any print options selected with the Draw Print dialog when printing from Draw will override the default printer settings that have been set using &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Print&lt;/f0&gt; and &lt;f1&gt;Tools &gt; Options &gt; LibreOffice Draw &gt; Print&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Veškeré možnosti tisku vybrané v dialogovém okně Tisk Draw při tisku z aplikace Draw přepíší výchozí nastavení tiskárny nastavené pomocí &lt;f0&gt;Nástroje &gt; Možnosti &gt; LibreOffice &gt; Tisk&lt;/f0&gt; a &lt;f1&gt;Nástroje &gt; Možnosti &gt; LibreOffice Draw &gt; Tisk&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following general options are an example of what may be available on the &lt;f0&gt;General&lt;/f0&gt; page of the Print dialog (Figure &lt;t1&gt;2&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Následující obecné možnosti jsou příkladem toho, co může být k dispozici na stránce &lt;f0&gt;Obecné&lt;/f0&gt; dialogového okna Tisk (obrázek &lt;t1&gt;2&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Printer&lt;/f0&gt; – select the printer to use from the printers available in the drop-down list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Tiskárna&lt;/f0&gt; - vyberte tiskárnu, kterou chcete použít, z tiskáren dostupných v rozevíracím seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Range and Copies&lt;/f0&gt; – select from the following options:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Rozsah a kopie&lt;/f0&gt; - vyberte z následujících možností:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;All Pages&lt;/f0&gt; – prints all the pages in the document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Všechny stránky&lt;/f0&gt; - vytiskne všechny stránky dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Pages&lt;/f0&gt; – select the page number(s) to print.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Stránky&lt;/f0&gt; - vyberte číslo stránky (stránek), které chcete vytisknout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For multiple pages, use the format 1, 3.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro více stránek použijte formát 1, 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>7 or 1 – 5, 7, 9 for page number selection.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>7 nebo 1 - 5, 7, 9 pro výběr čísla stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Selection&lt;/f0&gt; – select from the drop-down list &lt;f1&gt;Odd and Even pages&lt;/f1&gt;, &lt;f2&gt;Odd pages&lt;/f2&gt;, or &lt;f3&gt;Even pages.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Výběr&lt;/f0&gt; - vyberte z rozevíracího seznamu &lt;f1&gt;Sudé a liché stránky&lt;/f1&gt;, &lt;f2&gt;Sudé stránky&lt;/f2&gt; nebo &lt;f3&gt;Sudé stránky.&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Paper sides&lt;/f0&gt; – select from the drop-down list &lt;f1&gt;Print on one side (simplex),&lt;/f1&gt; &lt;f2&gt;Print on both sides (duplex long edge binding)&lt;/f2&gt;, or &lt;f3&gt;Print on both sides (duplex short edge binding)&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Strany papíru&lt;/f0&gt; - vyberte z rozevíracího seznamu &lt;f1&gt;Tisknout jednostranně (simplex),&lt;/f1&gt;&lt;f2&gt;Tisknout oboustranně (oboustranná vazba s dlouhými okraji)&lt;/f2&gt; nebo &lt;f3&gt;Tisknout oboustranně (oboustranná vazba s krátkými okraji)&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Number of copies&lt;/f0&gt; – enter number of printed copies required for document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Počet kopií&lt;/f0&gt; - zadejte počet požadovaných tištěných kopií dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Collate&lt;/f0&gt; – collates multiple printed copies into separate documents.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Sloučit&lt;/f0&gt; - sloučí více vytištěných kopií do samostatných dokumentů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Order – select from &lt;f0&gt;Create separate print jobs for collated output&lt;/f0&gt; or &lt;f1&gt;Print reverse order&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pořadí - vyberte z možností &lt;f0&gt;Vytvořit samostatné tiskové úlohy pro sdružený výstup&lt;/f0&gt; nebo &lt;f1&gt;Tisknout v opačném pořadí&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Page Layout&lt;/f0&gt; – select from the following options:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Rozložení stránky&lt;/f0&gt; - vyberte z následujících možností:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Paper size&lt;/f0&gt; – select the paper size to use from drop-down list</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Velikost papíru&lt;/f0&gt; - z rozevíracího seznamu vyberte velikost papíru, kterou chcete použít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Orientation&lt;/f0&gt; – select from the drop-down list &lt;f1&gt;Automatic&lt;/f1&gt;, &lt;f2&gt;Portrait&lt;/f2&gt; or &lt;f3&gt;Landscape&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Orientace&lt;/f0&gt; - vyberte z rozevíracího seznamu &lt;f1&gt;Automatická&lt;/f1&gt;, &lt;f2&gt;Portrét&lt;/f2&gt; nebo &lt;f3&gt;Krajina&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Pages per sheet&lt;/f0&gt; – select from the drop-down list how many pages are printed on one sheet of paper.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Stránky na list&lt;/f0&gt; - v rozevíracím seznamu vyberte, kolik stránek se vytiskne na jeden list papíru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Order&lt;/f0&gt; – select from the drop-down list the printing order of multiple pages on one sheet of paper.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Pořadí&lt;/f0&gt; - z rozevíracího seznamu vyberte pořadí tisku více stránek na jeden list papíru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Draw a border around each page&lt;/f0&gt; – when multiple pages are printed on one sheet of paper, a border is drawn around each page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Kreslení rámečku kolem každé stránky&lt;/f0&gt; - pokud je na jeden list papíru vytištěno více stránek, je kolem každé stránky nakreslen rámeček.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Brochure&lt;/f0&gt; – prints the document so the pages can be folded into a booklet.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Brochure&lt;/f0&gt; - vytiskne dokument tak, aby bylo možné stránky složit do brožury.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following options are available on the &lt;f0&gt;LibreOffice Draw&lt;/f0&gt; page of the Print dialog (Figure &lt;t1&gt;3&lt;/t1&gt;) where settings are defined specific to the current document type:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Následující možnosti jsou k dispozici na stránce &lt;f0&gt;LibreOffice Draw&lt;/f0&gt; dialogového okna Tisk (obrázek &lt;t1&gt;3&lt;/t1&gt;), kde jsou definována nastavení specifická pro aktuální typ dokumentu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Contents&lt;/f0&gt; – prints the &lt;f1&gt;Page name&lt;/f1&gt; and/or &lt;f2&gt;Date and time&lt;/f2&gt; on the drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Obsah&lt;/f0&gt; - vytiskne na výkres &lt;f1&gt;Název stránky&lt;/f1&gt; a/nebo &lt;f2&gt;Datum a čas&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Colors&lt;/f0&gt; – prints the drawing in &lt;f1&gt;Original colors&lt;/f1&gt;, &lt;f2&gt;Grayscale&lt;/f2&gt;, or &lt;f3&gt;Black &amp; white&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Barvy&lt;/f0&gt; - vytiskne výkres v &lt;f1&gt;Původní barvy&lt;/f1&gt;, &lt;f2&gt;Stupně šedé&lt;/f2&gt; nebo &lt;f3&gt;Černá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Size&lt;/f0&gt; – print the drawing using one of the following options:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Velikost&lt;/f0&gt; - tisk výkresu pomocí jedné z následujících možností:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Original size&lt;/f0&gt; – prints the drawing using its original size.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Původní velikost&lt;/f0&gt; - vytiskne výkres v původní velikosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Print dialog - LibreOffice Draw page</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;3&lt;/seq0&gt;: Dialogové okno Tisk - stránka LibreOffice Draw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Fit to printable page&lt;/f0&gt; – the drawing size is changed so that it fits on the paper size used for printing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Přizpůsobit tisknutelné stránce&lt;/f0&gt; - velikost výkresu se změní tak, aby se vešel na formát papíru používaný pro tisk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Distribute on multiple sheets of paper&lt;/f0&gt; – used if the drawing is too large for the paper size being used.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Rozdělit na více listů papíru&lt;/f0&gt; - používá se, pokud je výkres příliš velký na použitý formát papíru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Tile sheet of paper with repeated pages&lt;/f0&gt; – used to print multiple copies of a drawing on a page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Deska papíru s opakujícími se stránkami&lt;/f0&gt; - používá se k tisku více kopií výkresu na stránku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following printing instructions are examples only.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Následující pokyny k tisku jsou pouze příklady.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Actual method of printing may differ from the examples as this depends on computer operating system, computer setup, and the printer being used.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Skutečný způsob tisku se může od příkladů lišit, protože závisí na operačním systému počítače, nastavení počítače a použité tiskárně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To print multiple pages of a drawing on single sheet of paper:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tisk více stránek výkresu na jeden list papíru:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the Print dialog, see “&lt;bf0&gt;Controlled printing&lt;/bf0&gt;” on page &lt;bf1&gt;4&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevřete dialogové okno Tisk, viz “&lt;bf0&gt;Řízený tisk&lt;/bf0&gt;“ na straně &lt;bf1&gt;4&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the printer to use if more than one printer is connected to the computer.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je k počítači připojeno více tiskáren, vyberte tiskárnu, která se má použít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In &lt;f0&gt;Page Layout&lt;/f0&gt;, select the number of pages to print per sheet of paper from the &lt;f1&gt;Pages per sheet&lt;/f1&gt; drop-down list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V rozevíracím seznamu &lt;f0&gt;Rozložení stránky&lt;/f0&gt; vyberte počet stránek, které se mají vytisknout na jeden list papíru, z rozevíracího seznamu &lt;f1&gt;Stránky na list&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The preview panel on the right shows how the pages will look on a printed sheet of paper.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Panel náhledu vpravo ukazuje, jak budou stránky vypadat na vytištěném listu papíru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In &lt;f0&gt;Page Layout&lt;/f0&gt;, select how the multiple pages are printed on the sheet of paper from the &lt;f1&gt;Order&lt;/f1&gt; drop-down list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V okně &lt;f0&gt;Rozložení stránky&lt;/f0&gt; vyberte z rozevíracího seznamu &lt;f1&gt;Pořadí&lt;/f1&gt; způsob tisku více stránek na list papíru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If necessary, select &lt;f0&gt;Draw a border around each page&lt;/f0&gt; to distinguish each page printed on a sheet of paper.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V případě potřeby vyberte možnost &lt;f0&gt;Kreslení rámečku kolem každé stránky&lt;/f0&gt;, abyste odlišili jednotlivé stránky vytištěné na listu papíru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to print the document and close the Print dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na tlačítko &lt;f0&gt;OK&lt;/f0&gt; vytiskněte dokument a zavřete dialogové okno Tisk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In &lt;f0&gt;Ranges and Copies&lt;/f0&gt;, select &lt;f1&gt;Pages&lt;/f1&gt; and enter the page number of the page to print.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V části &lt;f0&gt;Rozsah a kopie&lt;/f0&gt; vyberte možnost &lt;f1&gt;Stránky&lt;/f1&gt; a zadejte číslo stránky, kterou chcete vytisknout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to print the individual pages and close the Print dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na tlačítko &lt;f0&gt;OK&lt;/f0&gt; vytiskněte jednotlivé stránky a zavřete dialogové okno Tisk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In &lt;f0&gt;Ranges and Copies&lt;/f0&gt;, select &lt;f1&gt;Pages&lt;/f1&gt; and enter the page numbers of the pages to print using the format, for example, 1,3,7 or 2–5,7,9 for page number selection</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V části &lt;f0&gt;Rozsah a kopie&lt;/f0&gt; vyberte možnost &lt;f1&gt;Stránky&lt;/f1&gt; a zadejte čísla stránek, které chcete vytisknout, pomocí formátu, například 1,3,7 nebo 2-5,7,9 pro výběr čísla stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to print the pages and close the Print dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na tlačítko &lt;f0&gt;OK&lt;/f0&gt; vytiskněte stránky a zavřete dialogové okno Tisk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In &lt;f0&gt;Ranges and Copies&lt;/f0&gt;, select &lt;f1&gt;Selection&lt;/f1&gt; and then select Odd and Even pages, Even pages, or Odd pages from the drop-down list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V okně &lt;f0&gt;Rozsahy a kopie&lt;/f0&gt; vyberte možnost &lt;f1&gt;Výběr&lt;/f1&gt; a poté v rozevíracím seznamu vyberte možnost Liché a sudé stránky, Sudé stránky nebo Liché stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In Writer, Impress, and Draw, a document can be printed as a brochure (also known as booklet printing).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V aplikacích Writer, Impress a Draw lze dokument vytisknout jako brožuru (známou také jako tisk brožury).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The pages are arranged so that when the printed pages are folded in half, the pages are in the correct order to form a brochure or booklet.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stránky jsou uspořádány tak, aby po přeložení vytištěných stránek na polovinu byly stránky ve správném pořadí a tvořily brožuru nebo brožuru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plan the document to make it look good when printed as a brochure.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Naplánujte dokument tak, aby dobře vypadal při tisku jako brožura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose appropriate margins, font sizes, and so on as the pages are normally printed at half size on a sheet of paper.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zvolte vhodné okraje, velikost písma atd., protože stránky se obvykle tisknou v poloviční velikosti na list papíru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Experiment to get the best document format to match the capabilities of the printer being used.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Experimentujte, abyste získali nejlepší formát dokumentu odpovídající možnostem použité tiskárny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To print a brochure or booklet on a printer only capable of simplex or single-sided printing:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tisk brožury nebo brožury na tiskárně, která umožňuje pouze jednostranný tisk:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In &lt;f0&gt;Printer&lt;/f0&gt;, click &lt;f1&gt;Properties&lt;/f1&gt; to open the properties dialog for the selected printer.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V okně &lt;f0&gt;Tiskárna&lt;/f0&gt; klikněte na &lt;f1&gt;Vlastnosti&lt;/f1&gt; a otevřete dialogové okno vlastností vybrané tiskárny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure the printer is set to the same orientation (portrait or landscape) as specified in the page setup for the document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ujistěte se, že je tiskárna nastavena na stejnou orientaci (na výšku nebo na šířku), jaká je uvedena v nastavení stránky dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to close the properties dialog and return to the Print dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na tlačítko &lt;f0&gt;OK&lt;/f0&gt; zavřete dialogové okno vlastností a vrátíte se do dialogového okna Tisk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In &lt;f0&gt;Page Layout&lt;/f0&gt;, select &lt;f1&gt;More&lt;/f1&gt;, then select the &lt;f2&gt;Brochure&lt;/f2&gt; option.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V okně &lt;f0&gt;Rozložení stránky&lt;/f0&gt; vyberte možnost &lt;f1&gt;Další&lt;/f1&gt; a poté možnost &lt;f2&gt;Brožura&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In &lt;f0&gt;Range and Copies&lt;/f0&gt;, select &lt;f1&gt;Even pages&lt;/f1&gt; or &lt;f2&gt;Odd pages&lt;/f2&gt; from the &lt;f3&gt;Selection&lt;/f3&gt; drop-down list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V okně &lt;f0&gt;Rozsah a kopie&lt;/f0&gt; vyberte z rozevíracího seznamu &lt;f3&gt;Výběr&lt;/f3&gt; možnost &lt;f1&gt;Souvislé stránky&lt;/f1&gt; nebo &lt;f2&gt;Odstraněné stránky&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to print the even or odd pages.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;OK&lt;/f0&gt; vytisknete sudé nebo liché stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Take the printed pages out of the printer and put back into the printer in the correct orientation to print on the blank side.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytištěné stránky vyjměte z tiskárny a vložte je zpět do tiskárny ve správné orientaci pro tisk na prázdnou stranu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This may require some testing to find out what the correct arrangement is for the selected printer.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>To může vyžadovat určité testování, abyste zjistili, jaké je správné uspořádání pro vybranou tiskárnu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If &lt;f0&gt;Even Pages&lt;/f0&gt; was selected, now select &lt;f1&gt;Odd Pages&lt;/f1&gt; in &lt;f2&gt;Range and Copies&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud byla vybrána možnost &lt;f0&gt;Samostatné stránky&lt;/f0&gt;, vyberte nyní možnost &lt;f1&gt;Odd Pages&lt;/f1&gt; v poli &lt;f2&gt;Rozsah a kopie&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If &lt;f3&gt;Odd Pages&lt;/f3&gt; was selected, now select &lt;f4&gt;Even Pages&lt;/f4&gt; in &lt;f5&gt;Range and Copies&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud byla vybrána možnost &lt;f3&gt;Odd Pages&lt;/f3&gt;, vyberte nyní možnost &lt;f4&gt;Even Pages&lt;/f4&gt; v poli &lt;f5&gt;Range and Copies&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to finish printing the document as a brochure and close the Print dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na tlačítko &lt;f0&gt;OK&lt;/f0&gt; dokončete tisk dokumentu jako brožury a zavřete dialogové okno Tisk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To print a brochure or booklet on a printer that is capable of duplex or double-sided printing:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tisk brožury nebo brožury na tiskárně, která umožňuje oboustranný nebo oboustranný tisk:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In &lt;f0&gt;Range and Copies&lt;/f0&gt;, select &lt;f1&gt;More&lt;/f1&gt;, then select &lt;f2&gt;Print on both sides (duplex long edge)&lt;/f2&gt; from the &lt;f3&gt;Paper sides&lt;/f3&gt; drop-down list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V okně &lt;f0&gt;Rozsah a kopie&lt;/f0&gt; vyberte možnost &lt;f1&gt;Více&lt;/f1&gt; a poté v rozevíracím seznamu &lt;f3&gt;Strany papíru&lt;/f3&gt; vyberte možnost &lt;f2&gt;Tisk na obě strany (oboustranný tisk dlouhým okrajem)&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Actual options available for duplex printing depend on the printer model and the computer system being used.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Skutečné možnosti oboustranného tisku závisí na modelu tiskárny a použitém počítačovém systému.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In &lt;f0&gt;Page Layout&lt;/f0&gt;, Select &lt;f1&gt;More&lt;/f1&gt;, then select the &lt;f2&gt;Brochure&lt;/f2&gt; option.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V okně &lt;f0&gt;Rozložení stránky&lt;/f0&gt; vyberte možnost &lt;f1&gt;Další&lt;/f1&gt; a poté možnost &lt;f2&gt;Brožura&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In &lt;f0&gt;Range and Copies&lt;/f0&gt;, select the &lt;f1&gt;All Pages&lt;/f1&gt; option.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V okně &lt;f0&gt;Rozsah a kopie&lt;/f0&gt; vyberte možnost &lt;f1&gt;Všechny stránky&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to print the document as a brochure and close the Print dialog..</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;OK&lt;/f0&gt; vytiskněte dokument jako brožuru a zavřete dialogové okno Tisk..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To print documents in black and white or grayscale on a color printer:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tisk dokumentů v černobílé nebo šedé škále na barevné tiskárně:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the Print dialog, see “&lt;bf0&gt;Controlled printing&lt;/bf0&gt;” on page &lt;bf1&gt;4&lt;/bf1&gt;..</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevřete dialogové okno Tisk, viz “&lt;bf0&gt;Řízený tisk&lt;/bf0&gt;“ na straně &lt;bf1&gt;4&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;LibreOffice Draw&lt;/f0&gt; to open the printing options page for LibreOffice Draw.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;LibreOffice Draw&lt;/f0&gt; otevřete stránku možností tisku pro LibreOffice Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In &lt;f0&gt;Color&lt;/f0&gt;, select &lt;f1&gt;Grayscale&lt;/f1&gt; or &lt;f2&gt;Black &amp; white&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V okně &lt;f0&gt;Barva&lt;/f0&gt; vyberte možnost &lt;f1&gt;Stupně šedé&lt;/f1&gt; nebo &lt;f2&gt;Černá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some color printers may only allow printing in color regardless of the settings selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Některé barevné tiskárny mohou umožnit pouze barevný tisk bez ohledu na zvolené nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>More details can be found in the information that came with the selected printer.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další podrobnosti naleznete v informacích dodaných s vybranou tiskárnou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Grayscale is the best option for printing any colored text or graphics in a document on a monochrome printer.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odstíny šedé jsou nejlepší možností pro tisk barevného textu nebo grafiky v dokumentu na černobílé tiskárně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Colors printed in shades of gray give more detail.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Barvy vytištěné v odstínech šedé poskytují více detailů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When printing color in black and white some of this detail maybe lost.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při černobílém tisku barev se některé z těchto detailů mohou ztratit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Options LibreOffice Draw Print dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;4&lt;/seq0&gt;: Možnosti dialogového okna Tisk LibreOffice Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To change the LibreOffice settings to print all colored text and graphics as grayscale:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Změna nastavení LibreOffice tak, aby se všechny barevné texty a grafika tiskly ve stupních šedi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Draw &lt;/f0&gt;&lt;f1&gt;&lt;s2/&gt;&gt; Print&lt;/f1&gt; on the Menu bar to open the Options LibreOffice Draw Print dialog (Figure &lt;t3&gt;4&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Nástroje &gt; Možnosti &gt; LibreOffice Draw &lt;/f0&gt;&lt;f1&gt;&lt;s2/&gt;&gt; Tisk&lt;/f1&gt; na panelu nabídek a otevřete dialogové okno Možnosti tisku LibreOffice Draw (obrázek &lt;t3&gt;4&lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In &lt;f0&gt;Quality&lt;/f0&gt;, select either the option &lt;f1&gt;Grayscale&lt;/f1&gt; or &lt;f2&gt;Black &amp; white&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V okně &lt;f0&gt;Kvalita&lt;/f0&gt; vyberte možnost &lt;f1&gt;Stupně šedé&lt;/f1&gt; nebo &lt;f2&gt;Černá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save the change and close the Options LibreOffice Draw Print dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;OK&lt;/f0&gt; uložte změnu a zavřete dialogové okno Možnosti tisku LibreOffice Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Print the document using one of the above procedures and the document is printed as grayscale or black and white.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytiskněte dokument jedním z výše uvedených postupů a dokument se vytiskne ve stupních šedi nebo černobíle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LibreOffice can export documents to PDF (Portable Document Format).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>LibreOffice umí exportovat dokumenty do formátu PDF (Portable Document Format).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This industry wide standard of file format is ideal for sending a file for someone else to view using PDF viewing software.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento průmyslový standard formátu souboru je ideální pro odeslání souboru k prohlížení někomu jinému pomocí softwaru pro prohlížení PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To export the entire document using default PDF settings is as follows:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Export celého dokumentu s použitím výchozího nastavení PDF je následující:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Export Directly as PDF&lt;/f0&gt; on the Standard toolbar, or got to &lt;f1&gt;File &gt; Export As &gt; Export Directly as PDF&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Exportovat přímo jako PDF&lt;/f0&gt; na panelu nástrojů Standardní nebo přejděte na &lt;f1&gt;Soubor &gt; Exportovat jako &gt; Exportovat přímo jako PDF&lt;/f1&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter a file name and location for the PDF file and click on &lt;f0&gt;Save&lt;/f0&gt; to export the file as PDF.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zadejte název a umístění souboru PDF a kliknutím na &lt;f0&gt;Uložit&lt;/f0&gt; soubor exportujte jako PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that page range, image compression, or other printing options are not available when creating a PDF file using this method.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Všimněte si, že při vytváření souboru PDF touto metodou není k dispozici rozsah stránek, komprese obrázků ani další možnosti tisku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more control over the content and quality of the resulting PDF, use the options available in the PDF Options dialog (Figure &lt;t0&gt;5&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li mít větší kontrolu nad obsahem a kvalitou výsledného souboru PDF, použijte možnosti dostupné v dialogovém okně Možnosti PDF (obrázek &lt;t0&gt;5&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information on available options, see the &lt;f1&gt;Getting Started Guide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o dostupných možnostech naleznete v &lt;f1&gt;Příručce pro začátek&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;File &gt; Export As &gt; Export as PDF&lt;/f0&gt; on the Menu bar to open the PDF Options dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Soubor &gt; Exportovat jako &gt; Exportovat jako PDF&lt;/f0&gt; na panelu nabídek a otevřete dialogové okno Možnosti PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the required options available in the &lt;f0&gt;General&lt;/f0&gt;, &lt;f1&gt;Initial View&lt;/f1&gt;, &lt;f2&gt;User Interface&lt;/f2&gt;, &lt;f3&gt;Links&lt;/f3&gt;, &lt;f4&gt;Security&lt;/f4&gt; and &lt;f5&gt;Digital Signatures&lt;/f5&gt; pages.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte požadované možnosti dostupné na stránkách &lt;f0&gt;Obecné&lt;/f0&gt;, &lt;f1&gt;Počáteční zobrazení&lt;/f1&gt;, &lt;f2&gt;Uživatelské rozhraní&lt;/f2&gt;, &lt;f3&gt;Odkazy&lt;/f3&gt;, &lt;f4&gt;Zabezpečení&lt;/f4&gt; a &lt;f5&gt;Digitální podpisy&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Export&lt;/f0&gt; and a file browser window opens.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Export&lt;/f0&gt; a otevře se okno prohlížeče souborů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Navigate to the location and enter a file name for the PDF being created.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte do umístění a zadejte název vytvářeného souboru PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Save&lt;/f0&gt; to export the file as PDF.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;Uložit&lt;/f0&gt; soubor exportujte do formátu PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The file browser window and the PDF Options dialog close.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Okno prohlížeče souborů a dialogové okno Možnosti PDF se zavřou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LibreOffice can export files in various formats, which are listed in the drop-down list of the file browser window.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>LibreOffice umí exportovat soubory v různých formátech, které jsou uvedeny v rozevíracím seznamu okna prohlížeče souborů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information on exporting graphics, see Chapter 6, Editing Pictures.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o exportu grafiky naleznete v kapitole 6, Úpravy obrázků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To export a file in another format:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Export souboru v jiném formátu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Navigate to the directory where the drawing is going to be saved.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte do adresáře, do kterého bude výkres uložen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specify a file name for the exported drawing in the &lt;f0&gt;Name&lt;/f0&gt; text box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V textovém poli &lt;f0&gt;Název&lt;/f0&gt; zadejte název souboru pro exportovaný výkres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the required file format from the drop-down list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V rozevíracím seznamu vyberte požadovaný formát souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Save&lt;/f0&gt; to save the file and close the file browser window.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;Uložit&lt;/f0&gt; soubor uložte a zavřete okno prohlížeče souborů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The content of the exported file depends on the elements selected on the drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obsah exportovaného souboru závisí na prvcích vybraných na výkrese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If no elements are selected, the entire drawing is exported.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud nejsou vybrány žádné prvky, vyexportuje se celý výkres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: HTML Export dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;6&lt;/seq0&gt;: Dialogové okno Export HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To export a multi-page Draw document as a series of web pages:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Export vícestránkového dokumentu Draw jako série webových stránek:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;HTML Document&lt;/f0&gt; as the file format and click on &lt;f1&gt;Save&lt;/f1&gt; to open the HTML Export dialog (Figure &lt;t2&gt;6&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jako formát souboru vyberte &lt;f0&gt;Dokument HTML&lt;/f0&gt; a kliknutím na &lt;f1&gt;Uložit&lt;/f1&gt; otevřete dialogové okno Export HTML (obrázek &lt;t2&gt;6&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create a &lt;f0&gt;New Design&lt;/f0&gt; or select an &lt;f1&gt;Existing design&lt;/f1&gt; and click on &lt;f2&gt;Next&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvořte &lt;f0&gt;Nový návrh&lt;/f0&gt; nebo vyberte &lt;f1&gt;Stávající návrh&lt;/f1&gt; a klikněte na &lt;f2&gt;Další&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Follow the prompts to create the web pages and save the drawing as an HTML file.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Podle pokynů vytvořte webové stránky a uložte výkres jako soubor HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information on how to create HTMl file, see the &lt;f0&gt;Getting Started Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o vytváření souboru HTMl naleznete v &lt;f0&gt;Příručce pro začátečníky&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LibreOffice provides several ways to send documents quickly and easily as an email attachment in ODF format (LibreOffice default format), or as a PDF.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>LibreOffice nabízí několik způsobů, jak rychle a snadno odeslat dokumenty jako přílohu e-mailu ve formátu ODF (výchozí formát LibreOffice) nebo ve formátu PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Documents can only be sent from the LibreOffice menu if an email profile has been set up.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dokumenty lze odesílat z nabídky LibreOffice pouze v případě, že byl nastaven e-mailový profil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To email the current document in ODF format:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zaslání aktuálního dokumentu ve formátu ODF e-mailem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;File &gt; Send &gt; Email Document&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Soubor &gt; Odeslat &gt; E-mailový dokument&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LibreOffice opens the default email program with the document attached to a new email.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>LibreOffice otevře výchozí e-mailový program s dokumentem připojeným k novému e-mailu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the email program, enter the recipient, subject, and message, then send the email.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V e-mailovém programu zadejte příjemce, předmět a zprávu a poté e-mail odešlete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To email the current document as a PDF file:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odeslání aktuálního dokumentu e-mailem jako souboru PDF:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;File &gt; Send &gt; E-mail as PDF&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Soubor &gt; Odeslat &gt; E-mail jako PDF&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LibreOffice creates a PDF using the default PDF settings and then opens the email program with the PDF file attached to a new email.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>LibreOffice vytvoří soubor PDF pomocí výchozího nastavení PDF a poté otevře e-mailový program s připojeným souborem PDF do nového e-mailu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A digital signature is a mathematical scheme for verifying the authenticity of digital versions of drawings or documents.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Digitální podpis je matematické schéma pro ověřování pravosti digitálních verzí výkresů nebo dokumentů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To sign a drawing digitally, a personal key, also known as a certificate, is required.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K digitálnímu podpisu výkresu je zapotřebí osobní klíč, známý také jako certifikát.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This personal key is stored on the computer being used as a combination of a private key, which must be kept secret, and a public key.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento osobní klíč je uložen v používaném počítači jako kombinace soukromého klíče, který musí být utajen, a veřejného klíče.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These keys are added to a drawing when a digital signature is applied.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tyto klíče se přidávají k výkresu při použití digitálního podpisu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A certificate is obtained from a certification authority, which may be a private company or a government institution.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Certifikát se získává od certifikační autority, kterou může být soukromá společnost nebo státní instituce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a digital signature is applied to a drawing, a checksum is computed from the drawing content plus the personal key being used.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při použití digitálního podpisu na výkres se z obsahu výkresu a použitého osobního klíče vypočítá kontrolní součet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The checksum and public key are stored together with the drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kontrolní součet a veřejný klíč jsou uloženy společně s výkresem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the drawing is opened on another computer with a recent version of LibreOffice, the program computes the checksum again and compares it with the stored checksum.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při otevření výkresu na jiném počítači s nejnovější verzí LibreOffice program znovu vypočítá kontrolní součet a porovná jej s uloženým kontrolním součtem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If both checksums are the same, the program opens the original, unchanged drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud jsou oba kontrolní součty stejné, program otevře původní, nezměněný výkres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In addition, the program can display the public key information from the certificate.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kromě toho může program zobrazit informace o veřejném klíči z certifikátu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This information can then be compared with the public key that is published on the web site of the certificate authority.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tyto informace lze následně porovnat s veřejným klíčem, který je zveřejněn na webových stránkách certifikační autority.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whenever the drawing is changed, this change breaks the digital signature.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při každé změně výkresu dojde k porušení digitálního podpisu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For a more detailed description of how to obtain, use and manage a certificate and signature validation, see the &lt;f0&gt;Getting Started Guide&lt;/f0&gt; and “Applying Digital Signatures” in the LibreOffice Help (&lt;a1&gt;https://help.libreoffice.org/7.1/en-US/text/shared/guide/digitalsign_send.html?&amp;DbPAR=WRITER&amp;System=UNIX&lt;/a1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Podrobnější popis získání, používání a správy certifikátu a ověřování platnosti podpisu naleznete v &lt;f0&gt;Příručce pro začátečníky&lt;/f0&gt; a v “Použití digitálních podpisů“ v nápovědě LibreOffice (&lt;a1&gt;https://help.libreoffice.org/7.1/en-US/text/shared/guide/digitalsign_send.html?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It maybe necessary to remove any personal data, versions, notes, hidden information, or recorded change from drawings before they are sent to other people or PDFs files created from the drawings.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Před odesláním výkresů dalším osobám nebo souborů PDF vytvořených z výkresů je možná nutné odstranit z nich veškeré osobní údaje, verze, poznámky, skryté informace nebo zaznamenané změny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To set the security and warning options for the drawing:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nastavení možností zabezpečení a varování pro výkres:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Security&lt;/f0&gt;, to open Options LibreOffice Security dialog (Figure &lt;t1&gt;7&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V &lt;f0&gt;Nástroje &gt; Možnosti &gt; LibreOffice &gt; Zabezpečení&lt;/f0&gt; otevřete dialogové okno Možnosti zabezpečení LibreOffice (obrázek &lt;t1&gt;7&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Options&lt;/f0&gt; to open the Security Options and Warnings dialog (Figure &lt;t1&gt;8&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;Options&lt;/f0&gt; otevřete dialogové okno Security Options and Warnings (Obrázek &lt;t1&gt;8&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the required options to allow LibreOffice to warn when drawings contain certain information and/or automatically remove personal information on saving.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběrem požadovaných možností povolíte LibreOffice upozorňovat na to, že výkresy obsahují určité informace, a/nebo automaticky odstraňovat osobní údaje při ukládání.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to close the Security Options and Warnings dialog and save the option selection.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na tlačítko &lt;f0&gt;OK&lt;/f0&gt; zavřete dialogové okno Možnosti zabezpečení a varování a uložte výběr možností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Options LibreOffice Security dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;7&lt;/seq0&gt;: Dialogové okno Možnosti zabezpečení LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Security Options and Warnings dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;8&lt;/seq0&gt;: Dialogové okno Možnosti zabezpečení a varování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Properties dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;9&lt;/seq0&gt;: Dialogové okno Vlastnosti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;File &gt; Properties&lt;/f0&gt; on the Menu bar to open the Properties dialog (Figure &lt;t1&gt;9&lt;/t1&gt;) for the open drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Soubor &gt; Vlastnosti&lt;/f0&gt; na panelu nabídek a otevřete dialogové okno Vlastnosti (obrázek &lt;t1&gt;9&lt;/t1&gt;) pro otevřený výkres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the &lt;f0&gt;General&lt;/f0&gt; page uncheck &lt;f1&gt;Apply user data&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na stránce &lt;f0&gt;Obecné&lt;/f0&gt; zrušte zaškrtnutí políčka &lt;f1&gt;Použít uživatelská data&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Reset Properties&lt;/f0&gt; removing any information in the created and modified fields, deleting the modification and printing dates, resetting the editing time to zero, resetting the creation date to the current date and time, and resetting the version number to 1.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;Resetovat vlastnosti&lt;/f0&gt; odstraníte veškeré informace v polích vytvořeno a upraveno, odstraníte data úprav a tisku, vynulujete čas úprav, datum vytvoření vynulujete na aktuální datum a čas a číslo verze vynulujete na 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save the changes and close the Properties dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na tlačítko &lt;f0&gt;OK&lt;/f0&gt; uložte změny a zavřete dialogové okno Vlastnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To remove version information from a drawing, use one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li z výkresu odstranit informace o verzi, použijte jednu z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;File &gt; Versions&lt;/f0&gt; on the Menu bar to open a dialog for the drawing, then select the versions from the list for deletion and click &lt;f1&gt;Delete&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Soubor &gt; Verze&lt;/f0&gt; na panelu nabídek, abyste otevřeli dialogové okno pro výkres, poté vyberte verze ze seznamu k odstranění a klikněte na &lt;f1&gt;Odstranit&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The dialog automatically closes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dialogové okno se automaticky zavře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;File &gt; Save As&lt;/f0&gt; on the Menu bar and save the drawing with a different name.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Soubor &gt; Uložit jako&lt;/f0&gt; na panelu nabídek a uložte výkres s jiným názvem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Documents can be redacted to remove or hide any sensitive information allowing the selective disclosure of information in a document while keeping other parts of the document secret.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dokumenty lze redigovat, aby se odstranily nebo skryly citlivé informace, což umožňuje selektivní zveřejnění informací v dokumentu, zatímco ostatní části dokumentu zůstávají tajné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a redacted document is exported to a new document, any redacted portions are removed and replaced by redaction blocks of pixels.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při exportu redigovaného dokumentu do nového dokumentu jsou všechny redigované části odstraněny a nahrazeny redigovanými bloky pixelů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This prevents any attempt to restore or copy the original contents.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tím se zabrání jakémukoli pokusu o obnovení nebo kopírování původního obsahu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A redacted document is often exported in PDF format for publication or sharing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Redigovaný dokument se často exportuje do formátu PDF za účelem zveřejnění nebo sdílení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Redaction toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;10&lt;/seq0&gt;: Panel nástrojů Redakce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any documents that are redacted in LibreOffice Writer, Calc, or Impress are automatically transferred as a copy to LibreOffice Draw where the redaction is carried out.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Všechny dokumenty redigované v aplikacích LibreOffice Writer, Calc nebo Impress se automaticky přenesou jako kopie do aplikace LibreOffice Draw, kde se provede redigování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the document to be redacted in LibreOffice Writer, Calc or Impress, then go to &lt;f0&gt;Tools &gt; Redact&lt;/f0&gt; on the Menu bar and the following happens:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevřete dokument, který chcete redigovat, v LibreOffice Writer, Calc nebo Impress, pak přejděte na &lt;f0&gt;Nástroje &gt; Redigovat&lt;/f0&gt; na panelu nabídek a zobrazí se následující příkaz:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A copy of the document is prepared and transferred to LibreOffice Draw as an untitled file.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kopie dokumentu je připravena a přenesena do LibreOffice Draw jako soubor bez názvu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LibreOffice Draw opens with the untitled document document displayed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>LibreOffice Draw se otevře se zobrazeným dokumentem bez názvu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Redaction toolbar (Figure &lt;t0&gt;10&lt;/t0&gt;) automatically opens.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Automaticky se otevře panel nástrojů Redakce (obrázek &lt;t0&gt;10&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the Redaction toolbar is not displayed, go to &lt;f1&gt;View &gt; Toolbars&lt;/f1&gt; on the Menu bar in LibreOffice Draw and select &lt;f2&gt;Redaction&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud se panel nástrojů Redakce nezobrazuje, přejděte na &lt;f1&gt;Zobrazení &gt; Panely nástrojů&lt;/f1&gt; na panelu nabídek v LibreOffice Draw a vyberte &lt;f2&gt;Redakce&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Tools &gt; Redact&lt;/f0&gt; on the Menu bar and select either &lt;f1&gt;Rectangle&lt;/f1&gt; or &lt;f2&gt;Freeform&lt;/f2&gt;, or click on &lt;f3&gt;Rectangle Redaction&lt;/f3&gt; or &lt;f4&gt;Freeform Redaction&lt;/f4&gt; in the Redaction toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Nástroje &gt; Redigovat&lt;/f0&gt; na panelu nabídek a vyberte buď &lt;f1&gt;Redigovat obdélník&lt;/f1&gt; nebo &lt;f2&gt;Volný tvar&lt;/f2&gt;, nebo klikněte na &lt;f3&gt;Redigovat obdélník&lt;/f3&gt; nebo &lt;f4&gt;Redigovat volný tvar&lt;/f4&gt; na panelu nástrojů Redigování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Draw the required shapes to redact the sensitive areas in the document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nakreslete požadované tvary, abyste v dokumentu upravili citlivé oblasti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The redaction shape is gray allowing the sensitive areas in the document to be visible before they are redacted.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tvar redigování je šedý, takže citlivé oblasti v dokumentu jsou viditelné ještě před jejich redigováním.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If necessary, click on &lt;f0&gt;Export Directly as PDF&lt;/f0&gt; to make an in-redaction copy of the document as a PDF file.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V případě potřeby klikněte na &lt;f0&gt;Exportovat přímo jako PDF&lt;/f0&gt;, abyste vytvořili kopii dokumentu ve formátu PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The sensitive information in the redacted areas can then be reviewed that it is correct before redaction is finalized.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Citlivé informace v redigovaných oblastech lze poté před dokončením redigování zkontrolovat, zda jsou správné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Tools &gt; Redact&lt;/f0&gt; on the Menu bar and select either &lt;f1&gt;Redacted Export (White)&lt;/f1&gt; or &lt;f2&gt;Redacted Export (Black)&lt;/f2&gt;, or click on &lt;f3&gt;Redacted Export (White)&lt;/f3&gt; or &lt;f4&gt;Redacted Export (Black)&lt;/f4&gt; in the Redaction toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Nástroje &gt; Redigovat&lt;/f0&gt; na panelu nabídek a vyberte buď &lt;f1&gt;Redigovaný export (bílý)&lt;/f1&gt; nebo &lt;f2&gt;Redigovaný export (černý)&lt;/f2&gt;, nebo klikněte na &lt;f3&gt;Redigovaný export (bílý)&lt;/f3&gt; nebo &lt;f4&gt;Redigovaný export (černý)&lt;/f4&gt; na panelu nástrojů Redakce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This opens a file browser window.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevře se okno prohlížeče souborů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Navigate to the folder where the redact document is going to be saved and enter a name for the document, then click on &lt;f0&gt;Save&lt;/f0&gt; to create the redacted PDF file.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte do složky, kam bude redigovaný dokument uložen, zadejte název dokumentu a kliknutím na &lt;f0&gt;Uložit&lt;/f0&gt; vytvořte redigovaný soubor PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The gray redaction shapes are converted to white or black shapes and the document is exported as a PDF.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Šedé redigované tvary se převedou na bílé nebo černé tvary a dokument se exportuje do formátu PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There is no selectable text in the PDF file and any redacted content is non‑existent.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V souboru PDF není žádný vybíratelný text a žádný redigovaný obsah neexistuje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open a drawing in LibreOffice Draw, then use Steps 2) thru 6) in “&lt;bf0&gt;Documents, spreadsheets, or presentations&lt;/bf0&gt;” to create a redacted PDF copy of the drawing file.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevřete výkres v LibreOffice Draw a pomocí kroků 2) až 6) v části “&lt;bf0&gt;Dokumenty, tabulky nebo prezentace&lt;/bf0&gt;“ vytvořte redigovanou kopii souboru výkresu ve formátu PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a redacted document is exported as a new PDF file, any redacted portions are removed from the new document and replaced by redaction blocks of pixels.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při exportu redigovaného dokumentu jako nového souboru PDF jsou z nového dokumentu odstraněny všechny redigované části a nahrazeny redigovanými bloky pixelů.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

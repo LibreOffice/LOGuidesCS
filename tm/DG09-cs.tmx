@@ -1,0 +1,4542 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" segtype="sentence" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 9, Adding and Formatting Text&lt;segment 20423&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 9, Přidávání a formátování textu&lt;segment 20423&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Fontwork&lt;/t0&gt; | &lt;t1&gt;45&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Fontwork&lt;/t0&gt; | &lt;t1&gt;45&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;44&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Chapter 9, Adding and Formatting Text&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;44&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Kapitola 9, Přidávání a formátování textu&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Chapter 9, Adding and Formatting Text&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Kapitola 9, Přidávání a formátování textu&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;4&lt;/t0&gt;| &lt;t1&gt;Chapter 9, Adding and Formatting Text&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;4&lt;/t0&gt;| &lt;t1&gt;Kapitola 9, Přidávání a formátování textu&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 9, &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 9, &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This document maybe distributed and/or modified under the terms of either the GNU General Public License (&lt;a2&gt;https://www.gnu.org/licenses/gpl.html&lt;/a2&gt;), version 3 or later, or the Creative Commons Attribution License (&lt;a3&gt;https://creativecommons.org/licenses/by/4.0/&lt;/a3&gt;), version 4.0 or later.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento dokument může být šířen a/nebo upravován za podmínek buď GNU General Public License (&lt;a2&gt;https://www.gnu.org/licenses/gpl.html&lt;/a2&gt;), verze 3 nebo novější, nebo Creative Commons Attribution License (&lt;a3&gt;https://creativecommons.org/licenses/by/4.0/&lt;/a3&gt;), verze 4.0 nebo novější.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Everything sent to a mailing list, including email addresses and any other personal information that is written in the message, is publicly archived and cannot be deleted.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vše, co je odesláno do poštovního seznamu, včetně e-mailových adres a dalších osobních údajů, které jsou ve zprávě napsány, je veřejně archivováno a nemůže být smazáno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Published &lt;t0&gt;July&lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt;2021&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vydáno &lt;t0&gt;červenec&lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt;2021&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Based on LibreOffice &lt;ud3&gt;7.1&lt;/ud3&gt;&lt;s4/&gt;Community.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Založeno na LibreOffice &lt;ud3&gt;7.1&lt;/ud3&gt;&lt;s4/&gt;Komunita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other versions of LibreOffice may differ in appearance and functionality.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jiné verze LibreOffice se mohou lišit vzhledem a funkčností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;Creating&lt;/a0&gt;&lt;a1&gt; text boxes</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;a0&gt;Vytvoření&lt;/a0&gt;&lt;a1&gt; textových políček</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rotating text boxes</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otáčení textových polí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Formatting text boxes</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formátování textových polí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text in Draw objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Text v objektech Draw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Font Effects options</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti efektů písma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Position options</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti polohy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlighting options</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti zvýraznění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bullet or numbered lists</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Seznamy s odrážkami nebo číslované seznamy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Adjusting list item level and position</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Úprava úrovně a pozice položky seznamu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;Inserting&lt;/a0&gt;&lt;a1&gt; tables</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;a0&gt;Vkládání&lt;/a0&gt;&lt;a1&gt; tabulek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table Design section</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Sekce Design stolu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table toolbar and Menu bar formatting</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formátování panelu nástrojů tabulky a panelu nabídek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table position and size</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Poloha a velikost stolu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deleting tables</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odstranění tabulek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whole table</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Celý stůl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Row or column</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Řádek nebo sloupec</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cell contents</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obsah buňky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Editing text hyperlinks</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Úprava textových hypertextových odkazů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Image maps</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázkové mapy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Image map tools</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nástroje pro tvorbu obrazových map</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When text is used in drawings, it is placed inside an object or inside a text box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je text použit v kresbách, je umístěn uvnitř objektu nebo v textovém poli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This chapter describes how to create, format, use, and delete text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato kapitola popisuje vytváření, formátování, používání a odstraňování textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It also discusses the various types of text that can be inserted into a drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pojednává také o různých typech textu, které lze do výkresu vložit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Finally, it provides information on how to insert special forms of text such as numbered or bulleted lists, tables, fields, hyperlinks, and Fontwork.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nakonec poskytuje informace o tom, jak vkládat speciální formy textu, jako jsou číslované seznamy nebo seznamy s odrážkami, tabulky, pole, hypertextové odkazy a práce s písmem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Before any text can be typed in a drawing, text mode has to be activated using one of the following methods.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Před zadáním jakéhokoli textu do výkresu je třeba aktivovat textový režim jedním z následujících způsobů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Text Formatting toolbar (Figure &lt;t0&gt;1&lt;/t0&gt;) automatically opens replacing the Line and Filling toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Automaticky se otevře panel nástrojů Formátování textu (obrázek &lt;t0&gt;1&lt;/t0&gt;), který nahradí panel nástrojů Čára a výplň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For horizontal text only, go to &lt;f0&gt;Insert &gt; Text Box&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pouze pro vodorovný text přejděte na &lt;f0&gt;Vložit &gt; Textové pole&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For horizontal text only, use the keyboard shortcut &lt;f0&gt;F2&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pouze pro vodorovný text použijte klávesovou zkratku &lt;f0&gt;F2&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Insert Text Box&lt;/f0&gt; for horizontal text or &lt;f1&gt;Insert Vertical Text&lt;/f1&gt; for vertical text on the Standard toolbar (Figure &lt;t2&gt;2&lt;/t2&gt;) or Drawing toolbar (Figure &lt;t3&gt;3&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Vložit textový rámeček&lt;/f0&gt; pro vodorovný text nebo &lt;f1&gt;Vložit svislý text&lt;/f1&gt; pro svislý text na panelu nástrojů Standardní (obrázek &lt;t2&gt;2&lt;/t2&gt;) nebo panelu nástrojů Kreslení (obrázek &lt;t3&gt;3&lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Text Formatting toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;1&lt;/seq0&gt;: Panel nástrojů Formátování textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Standard toolbar with Insert Vertical text added</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;2&lt;/seq0&gt;: Standardní panel nástrojů s přidaným textem Vložit svisle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Drawing toolbar with Insert Vertical Text added</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;3&lt;/seq0&gt;: Panel nástrojů Kreslení s přidaným Vložit svislý text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If &lt;f0&gt;Insert Vertical Text&lt;/f0&gt; is not visible on the Standard or Drawing toolbars, it can be added to the toolbar as follows:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud &lt;f0&gt;Vložit svislý text&lt;/f0&gt; není na panelu nástrojů Standardní nebo Kreslení viditelný, lze jej na panel nástrojů přidat následujícím způsobem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In &lt;f0&gt;Default Languages for Documents&lt;/f0&gt;, select the option &lt;f1&gt;Asian&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V okně &lt;f0&gt;Výchozí jazyky pro dokumenty&lt;/f0&gt; vyberte možnost &lt;f1&gt;Azijština&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Accept the default settings for this option.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přijměte výchozí nastavení této možnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to close the Options dialog and save the changes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na tlačítko &lt;f0&gt;OK&lt;/f0&gt; zavřete dialogové okno Možnosti a uložte změny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click in an empty area on the Standard or Drawing toolbar and select &lt;f0&gt;Visible Buttons&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem myši do prázdné oblasti na panelu nástrojů Standardní nebo Kreslení a v kontextové nabídce vyberte možnost &lt;f0&gt;Viditelná tlačítka&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;Vertical Text&lt;/f0&gt; from the drop-down list of options to add &lt;f1&gt;Insert Vertical Text&lt;/f1&gt; to the Standard or Drawing toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběrem možnosti &lt;f0&gt;Vertikální text&lt;/f0&gt; z rozevíracího seznamu možností přidáte možnost &lt;f1&gt;Vložit vertikální text&lt;/f1&gt; na panel nástrojů Standardní nebo Kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Text information in Status Bar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;4&lt;/seq0&gt;: Textové informace ve stavovém řádku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When text is added to a drawing, a text box is automatically created to contain the text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při přidávání textu do výkresu se automaticky vytvoří textové pole, které text obsahuje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, the text box expands horizontally to accommodate a single line of horizontal text, or expands vertically to accommodate a single line of vertical text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ve výchozím nastavení se textové pole rozšíří vodorovně, aby se do něj vešel jeden řádek vodorovného textu, nebo se rozšíří svisle, aby se do něj vešel jeden řádek svislého textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Activate text mode, see “&lt;bf0&gt;Text mode&lt;/bf0&gt;” above.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Aktivujte textový režim, viz výše “&lt;bf0&gt;Textový režim&lt;/bf0&gt;“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click at the approximate position in the drawing where the text box is to be placed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na přibližné místo ve výkresu, kam má být textové pole umístěno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A text box is created containing a flashing text cursor.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvoří se textové pole s blikajícím textovým kurzorem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Type or paste the text into the text box and the text box expands either horizontally or vertically to accommodate a single line of text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zadejte nebo vložte text do textového pole a textové pole se rozšíří buď vodorovně, nebo svisle tak, aby se do něj vešel jeden řádek textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Also, the left corner of the Status Bar indicates text edit mode and the position of the text cursor (Figure &lt;t0&gt;4&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V levém rohu stavového řádku je také zobrazen režim úprav textu a poloha textového kurzoru (obrázek &lt;t0&gt;4&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To create multiple lines in the text box, use one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li v textovém poli vytvořit více řádků, použijte jednu z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;f0&gt;Enter&lt;/f0&gt; key to create single line paragraphs inside the text box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí klávesy &lt;f0&gt;Enter&lt;/f0&gt; vytvoříte uvnitř textového pole jednořádkové odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The text box expands to accommodate more lines of text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Textové pole se rozšíří, aby se do něj vešlo více řádků textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Before typing text, click and drag the text cursor creating a text box with the approximate dimensions required.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Před psaním textu klikněte na textový kurzor a přetáhněte jej, čímž vytvoříte textové pole s přibližnými rozměry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As the limits of the text box are reached, the text automatically word wraps inside the text box and the text box expands as it fills.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po dosažení hranic textového pole se text automaticky zabalí dovnitř textového pole a textové pole se při jeho zaplnění rozšíří.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When creating or pasting text is complete, click outside the text box to exit text mode.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po dokončení vytváření nebo vkládání textu kliknutím mimo textové pole ukončete textový režim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Text Formatting toolbar automatically closes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Panel nástrojů Formátování textu se automaticky zavře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move, resize, rotate or format the text box as required.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Textové pole můžete podle potřeby přesouvat, měnit jeho velikost, otáčet nebo formátovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information, see the following sections and Chapter 3, Working with Objects and Object Points.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace naleznete v následujících částech a v kapitole 3, Práce s objekty a body objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If necessary, format the text using the various tools on the Text Formatting toolbar or in the various sections on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V případě potřeby naformátujte text pomocí různých nástrojů na panelu nástrojů Formátování textu nebo v různých sekcích na postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information on text formatting, see “&lt;bf0&gt;Formatting text&lt;/bf0&gt;” on page &lt;bf1&gt;12&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o formátování textu najdete v části “&lt;bf0&gt;Formátování textu&lt;/bf0&gt;“ na stránce &lt;bf1&gt;12&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text boxes cannot contain illustrations, inline pictures, formulas, tables or shapes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Textová pole nemohou obsahovat ilustrace, vložené obrázky, vzorce, tabulky ani tvary.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the text in a text box to activate the text mode and the text box border is displayed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na text v textovém poli aktivujete textový režim a zobrazí se rámeček textového pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Moving a text box</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;5&lt;/seq0&gt;: Přesun textového pole</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move the cursor over the border.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přesuňte kurzor na okraj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The cursor changes shape to the move symbol for the computer setup (for example, a clenched hand).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kurzor změní tvar na symbol pohybu pro nastavení počítače (například sevřená ruka).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the border and drag the text box to a new position in the drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na okraj a přetáhněte textové pole na nové místo ve výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A ghosted outline of the text box shows where it will be placed (Figure &lt;t0&gt;5&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrys textového pole ve tvaru ducha ukazuje, kde bude umístěno (obrázek &lt;t0&gt;5&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Release the mouse button when the text box is in the required position.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jakmile je textové pole v požadované poloze, uvolněte tlačítko myši.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To accurately position a text box, use the Position and Size dialog or the Position and Size section on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li přesně umístit textové pole, použijte dialogové okno Umístění a velikost nebo oddíl Umístění a velikost na postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 3, Working with Objects and Object Points for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace naleznete v kapitole 3, Práce s objekty a body objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the text in a text box to activate text mode and a text box border is displayed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na text v textovém poli aktivujete textový režim a zobrazí se rámeček textového pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move the cursor over one of the selection handles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přesuňte kurzor na jeden z úchytů výběru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The cursor changes shape to the resizing symbol for the computer setup (for example, a double-headed arrow).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kurzor změní tvar na symbol změny velikosti pro nastavení počítače (například šipka s dvojitou hlavou).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click and drag the border to a new position to resize the text box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím a přetažením rámečku na novou pozici změníte velikost textového pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A ghosted outline of the text box shows is displayed as the text box is resized (Figure &lt;t0&gt;6&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při změně velikosti textového pole se zobrazí jeho obrys (obrázek &lt;t0&gt;6&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Release the mouse button when the text box reaches the desired size.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jakmile textové pole dosáhne požadované velikosti, uvolněte tlačítko myši.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To accurately resize a text box, use the Position and Size dialog or the Position and Size section on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li přesně změnit velikost textového pole, použijte dialogové okno Pozice a velikost nebo oddíl Pozice a velikost na postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Rotating a text box</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;6&lt;/seq0&gt;: Otáčení textového pole</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Rotating text box</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;7&lt;/seq0&gt;: Otáčející se textové pole</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the text box border so that the selection handles are visible indicating that the text box is now in edit mode.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na okraj textového pole tak, aby byly viditelné úchyty pro výběr, což znamená, že textové pole je nyní v režimu úprav.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click again on the text border and the selection handles change shape and color.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Znovu klikněte na ohraničení textu a úchyty výběru změní tvar a barvu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on a corner selection handle and drag to rotate the text box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na rohový úchyt výběru a tažením otočte textové pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A ghosted outline of the text box being rotated appears and the current angle of rotation is shown in the status bar (Figure &lt;t0&gt;7&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zobrazí se obrys otáčeného textového pole a ve stavovém řádku se zobrazí aktuální úhel otočení (obrázek &lt;t0&gt;7&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Release the mouse button when the text box is at the desired rotation angle.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jakmile je textové pole v požadovaném úhlu natočení, uvolněte tlačítko myši.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To accurately rotate a text box, use the Rotation page in Position and Size dialog or the Position and Size section on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li přesně otočit textové pole, použijte záložku Otočení v dialogovém okně Pozice a velikost nebo oddíl Pozice a velikost na postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When in rotation mode, the top, bottom, and side selection handles, though visible, are not available for use for rotating a text box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V režimu otáčení nejsou horní, dolní a boční úchyty pro výběr, přestože jsou viditelné, k dispozici pro otáčení textového pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Also, text boxes cannot be sheared, slanted, flipped vertically, or flipped horizontally.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Textová pole nelze stříhat, šikmo, převracet na výšku ani na šířku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text boxes can be treated just like other basic shapes in a drawing when formatting the area fill or borders of a box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>S textovými rámečky lze při formátování výplně oblasti nebo okrajů rámečku zacházet stejně jako s ostatními základními tvary na výkrese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 3, Working with Objects and Object Points for more information on formatting the area fill or borders of a text box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o formátování výplně oblasti nebo okrajů textového pole najdete v kapitole 3, Práce s objekty a body objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To format how text appears inside a text box:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formátování zobrazení textu v textovém poli:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a text box and use one of the following methods to open the Text dialog (Figure &lt;t0&gt;8&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte textové pole a jedním z následujících způsobů otevřete dialogové okno Text (obrázek &lt;t0&gt;8&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the text box and select &lt;f0&gt;Text Attributes&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem myši na textové pole a z kontextové nabídky vyberte možnost &lt;f0&gt;Atributy textu&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Text Attributes&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Formát &gt; Atributy textu&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Text&lt;/f0&gt; in the Text dialog to open the &lt;f1&gt;Text&lt;/f1&gt; page and access to the formatting options:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;Text&lt;/f0&gt; v dialogovém okně Text otevřete stránku &lt;f1&gt;Text&lt;/f1&gt; a získáte přístup k možnostem formátování:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Drawing Object Text&lt;/f0&gt; – &lt;f1&gt;Fit width to text&lt;/f1&gt; – expands the width of the text box to the length of the text, if the text box is smaller than the text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Kreslení textu objektu&lt;/f0&gt; - &lt;f1&gt;Přizpůsobit šířku textu&lt;/f1&gt; - rozšíří šířku textového pole na délku textu, pokud je textové pole menší než text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Drawing Object Text&lt;/f0&gt; – &lt;f1&gt;Fit height to text&lt;/f1&gt; – expands the height of the text box to the height of the text, if the text box is smaller than the text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Kreslení textu objektu&lt;/f0&gt; - &lt;f1&gt;Přizpůsobit výšku textu&lt;/f1&gt; - rozšíří výšku textového pole na výšku textu, pokud je textové pole menší než text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Drawing Object Text&lt;/f0&gt; – &lt;f1&gt;Fit to frame&lt;/f1&gt; – resizes (distorts) the text to fit the entire area of the text box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Kreslení textu objektu&lt;/f0&gt; - &lt;f1&gt;Přizpůsobit rámu&lt;/f1&gt; - změní velikost (zkreslí) textu tak, aby se vešel do celé plochy textového pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option is not available if &lt;f2&gt;Fit width to text&lt;/f2&gt; and/or &lt;f3&gt;Fit height to text&lt;/f3&gt; options are selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato možnost není k dispozici, pokud jsou vybrány možnosti &lt;f2&gt;Přizpůsobit šířku textu&lt;/f2&gt; a/nebo &lt;f3&gt;Přizpůsobit výšku textu&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Text dialog - Text page</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;8&lt;/seq0&gt;: Dialogové okno Text - stránka Text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Text dialog - Text Animation page</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;9&lt;/seq0&gt;: Dialogové okno Text - stránka Animace textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Spacing to Borders&lt;/f0&gt; – specify the amount of space to leave between the text and the borders of the text box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Odstup od okrajů&lt;/f0&gt; - zadejte velikost mezery, která má být ponechána mezi textem a okraji textového pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Text Anchor&lt;/f0&gt; – select one of nine positions to anchor the text within the text box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Kotvení textu&lt;/f0&gt; - vyberte jednu z devíti pozic pro ukotvení textu v textovém poli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Full width&lt;/f0&gt; – anchors the text to the full width of the text box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Plná šířka&lt;/f0&gt; - ukotví text na celou šířku textového pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When selected, the top, middle or bottom center positions in &lt;f1&gt;Text Anchor&lt;/f1&gt; are used to anchor the text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je vybrána horní, střední nebo dolní středová pozice v poli &lt;f1&gt;Text Anchor&lt;/f1&gt;, použije se k ukotvení textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If required, click on &lt;f0&gt;Text Animation&lt;/f0&gt; to open the Text Animation page (Figure &lt;t1&gt;9&lt;/t1&gt;) to access options for animating the text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V případě potřeby klikněte na &lt;f0&gt;Animace textu&lt;/f0&gt; a otevřete stránku Animace textu (obrázek &lt;t1&gt;9&lt;/t1&gt;), kde jsou k dispozici možnosti animace textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, this is not recommended unless the drawing is going to be displayed as part of a presentation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>To se však nedoporučuje, pokud kresba nebude vystavena jako součást prezentace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;f2&gt;Impress Guide&lt;/f2&gt; for more information on text animation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o animaci textu naleznete v &lt;f2&gt;Příručce k tisku&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save the changes to text attributes and close the Text dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na tlačítko &lt;f0&gt;OK&lt;/f0&gt; uložte změny atributů textu a zavřete dialogové okno Text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move the cursor away from the text box, then click to end the text mode.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odsuňte kurzor od textového pole a kliknutím ukončete textový režim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the text box so that the selection handles are visible indicating that the text box is in edit mode.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na textové pole tak, aby byly viditelné úchyty pro výběr, což znamená, že textové pole je v režimu úprav.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The text box is deleted without any warning.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Textové pole se odstraní bez jakéhokoli upozornění.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text can be added to most Draw objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Text lze přidat do většiny objektů Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The exceptions are control elements, for example buttons, polygons, curves, or 3D objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výjimkou jsou ovládací prvky, například tlačítka, polygony, křivky nebo 3D objekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, an object is not dynamic when it is first created in Draw and does not behave like a text box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ve výchozím nastavení není objekt při prvním vytvoření v aplikaci Draw dynamický a nechová se jako textové pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text does not word wrap inside an object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Text se uvnitř objektu neobaluje slovy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Example of using word wrap</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;10&lt;/seq0&gt;: Příklad použití obtékání slovem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An example of adding text into a Draw object (Figure &lt;t0&gt;10&lt;/t0&gt;) and then using word wrap on the text is as follows:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Příklad přidání textu do objektu Draw (obrázek &lt;t0&gt;10&lt;/t0&gt;) a následného použití obtékání textu slovy je následující:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create an object in a drawing and make sure the object is selected with the selection handles displayed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvořte objekt ve výkresu a ujistěte se, že je objekt vybrán se zobrazenými úchyty výběru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter text mode on the selected object using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vstupte do textového režimu vybraného objektu pomocí jedné z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Insert Text Box&lt;/f0&gt; for horizontal text or &lt;f1&gt;Insert Vertical Text&lt;/f1&gt; for vertical text on the Standard or Drawing toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Vložit textové pole&lt;/f0&gt; pro vodorovný text nebo &lt;f1&gt;Vložit svislý text&lt;/f1&gt; pro svislý text na panelu nástrojů Standardní nebo Kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For horizontal text, double-click on the selected object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V případě vodorovného textu dvakrát klikněte na vybraný objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For vertical text, double-click on the selected object and click on &lt;f0&gt;Insert Vertical Text&lt;/f0&gt; on the Standard or Drawing toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro svislý text dvakrát klikněte na vybraný objekt a klikněte na &lt;f0&gt;Vložit svislý text&lt;/f0&gt; na panelu nástrojů Standardní nebo Kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start typing the text into the selected object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Začněte psát text do vybraného objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the text goes outside the object borders, use paragraphs, line breaks, smaller text size, increasing the object size, or a combination of all four methods to keep the text within the object borders.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud text přesahuje hranice objektu, použijte odstavce, zalomení řádků, menší velikost textu, zvětšení velikosti objektu nebo kombinaci všech čtyř metod, abyste udrželi text v hranicích objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Text dialog for text attributes in an object</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;11&lt;/seq0&gt;: Dialogové okno Text pro textové atributy v objektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, to make sure the text word wraps and stays within the borders of an object, proceed as follows:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud chcete zajistit, aby se textové slovo obtékalo a zůstalo v hranicích objektu, můžete postupovat následovně:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the text inside the object and select &lt;f0&gt;Text Attributes&lt;/f0&gt; from the context menu to open the Text dialog for text attributes (Figure &lt;t1&gt;11&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem myši na text uvnitř objektu a výběrem možnosti &lt;f0&gt;Atributy textu&lt;/f0&gt; z kontextové nabídky otevřete dialogové okno Text pro atributy textu (obrázek &lt;t1&gt;11&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Text&lt;/f0&gt; to open the &lt;f1&gt;Text&lt;/f1&gt; page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;Text&lt;/f0&gt; otevřete stránku &lt;f1&gt;Text&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In &lt;f0&gt;Custom Shape Text&lt;/f0&gt;, select the option &lt;f1&gt;Word wrap text in shape&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V okně &lt;f0&gt;Vlastní text tvaru&lt;/f0&gt; vyberte možnost &lt;f1&gt;Obtékání textu slovem ve tvaru&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to close the Text dialog and save the changes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;OK&lt;/f0&gt; zavřete dialogové okno Text a uložte změny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When finished typing text, click outside the object to cancel text mode and save the changes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po dokončení psaní textu kliknutím mimo objekt zrušte textový režim a uložte změny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The text inside the object now word wraps, as shown in Figure &lt;t0&gt;10&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Text uvnitř objektu se nyní obtéká slovy, jak je znázorněno na obrázku &lt;t0&gt;10&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If necessary, format the text inside the object using the various formatting tools that are available.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V případě potřeby naformátujte text uvnitř objektu pomocí různých formátovacích nástrojů, které jsou k dispozici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information, see “&lt;bf0&gt;Formatting text&lt;/bf0&gt;” on page &lt;bf1&gt;12&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace naleznete v části “&lt;bf0&gt;Formátování textu&lt;/bf0&gt;“ na straně &lt;bf1&gt;12&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text may be inserted into a text box or object by copying text from another document and pasting into a drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Text lze do textového pole nebo objektu vložit zkopírováním textu z jiného dokumentu a vložením do výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, pasted text retains the formatting from the source document and may not match the formatting of the text that has already been used on a drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vložený text si však zachovává formátování ze zdrojového dokumentu a nemusí odpovídat formátování textu, který již byl na výkresu použit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This may match the text format in a drawing on some occasions, but, in most cases, it is better to make sure that text format is consistent throughout a drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V některých případech může odpovídat formátu textu na výkresu, ale ve většině případů je lepší zajistit, aby byl formát textu na celém výkresu konzistentní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If copied text is pasted directly into a drawing and not into an object using &lt;f0&gt;Format &gt; Paste&lt;/f0&gt; on the Menu bar or the keyboard shortcut &lt;f1&gt;Ctrl+V&lt;/f1&gt;, the text is pasted as an OLE object and not as a Draw object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je zkopírovaný text vložen přímo do výkresu, a nikoli do objektu pomocí &lt;f0&gt;Formát &gt; Vložit&lt;/f0&gt; na panelu nabídek nebo klávesové zkratky &lt;f1&gt;Ctrl V&lt;/f1&gt;, je text vložen jako objekt OLE, a nikoli jako objekt Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is recommended to paste text into Draw as unformatted text to create a text object in Draw.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro vytvoření textového objektu v Draw se doporučuje vložit text do Draw jako neformátovaný text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Paste Special dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;12&lt;/seq0&gt;: Dialogové okno Vložit speciální</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is good practice to paste text without formatting and apply the formatting later so it matches the text already in a drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Je vhodné vkládat text bez formátování a formátování použít později, aby se shodoval s textem, který je již ve výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy the text and paste it as unformatted text into a drawing using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zkopírujte text a vložte jej jako neformátovaný text do výkresu některou z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Edit &gt; Paste Special &gt; Paste Unformatted&lt;/f0&gt; Text on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Upravit &gt; Vložit speciální &gt; Vložit neformátovaný&lt;/f0&gt; text na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Edit &gt; Paste Special &gt; Paste Special&lt;/f0&gt; on the Menu bar and the Paste Special dialog (Figure &lt;t1&gt;12&lt;/t1&gt;) opens.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Upravit &gt; Vložit speciální &gt; Vložit speciální&lt;/f0&gt; na panelu nabídek a otevře se dialogové okno Vložit speciální (obrázek &lt;t1&gt;12&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the option &lt;f2&gt;Unformatted text&lt;/f2&gt; and click &lt;f3&gt;OK&lt;/f3&gt; to close the dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte možnost &lt;f2&gt;Neformátovaný text&lt;/f2&gt; a kliknutím na &lt;f3&gt;OK&lt;/f3&gt; zavřete dialogové okno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the keyboard shortcut &lt;f0&gt;Control+Shift+V&lt;/f0&gt; and the Paste Special dialog opens.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte klávesovou zkratku &lt;f0&gt;Control Shift V&lt;/f0&gt; a otevře se dialogové okno Vložit speciální.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the option &lt;f1&gt;Unformatted text&lt;/f1&gt; and click &lt;f2&gt;OK&lt;/f2&gt; to close the dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte možnost &lt;f1&gt;Neformátovaný text&lt;/f1&gt; a kliknutím na &lt;f2&gt;OK&lt;/f2&gt; zavřete dialogové okno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the small triangle ▼ on the right of &lt;f0&gt;Paste&lt;/f0&gt; on the Standard toolbar and select &lt;f1&gt;Unformatted text&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na malý trojúhelník ▼ vpravo od &lt;f0&gt;Vložit&lt;/f0&gt; na panelu nástrojů Standardní a z kontextové nabídky vyberte &lt;f1&gt;Nezformátovaný text&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The unformatted text is pasted into a text box at the cursor position or inside a selected object and formatted to the default drawing style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Neformátovaný text se vloží do textového pole na pozici kurzoru nebo uvnitř vybraného objektu a naformátuje se podle výchozího stylu kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Format the pasted text to the drawing requirements or apply a drawing style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formátujte vložený text podle požadavků výkresu nebo použijte styl výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information, see “&lt;bf0&gt;Formatting text&lt;/bf0&gt;” below .</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace naleznete v části “&lt;bf0&gt;Formátování textu&lt;/bf0&gt;“ níže .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text formatting can give a drawing a more consistent and professional look without any distracting elements.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formátování textu může dát kresbě konzistentnější a profesionálnější vzhled bez rušivých prvků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text formatting tools are available on the Text Formatting toolbar and the drop-down menus in &lt;f0&gt;Format&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nástroje pro formátování textu jsou k dispozici na panelu nástrojů Formátování textu a v rozevíracích nabídkách &lt;f0&gt;Formát&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information on text formatting, see the &lt;f1&gt;Writer Guide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o formátování textu naleznete v &lt;f1&gt;Příručce pro pisatele&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If there are several text boxes and/or objects in a drawing that require the same text formatting, then it is recommended to use drawing styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je ve výkresu několik textových polí a/nebo objektů, které vyžadují stejné formátování textu, doporučujeme použít styly výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information on using and creating styles, see Chapter 4, Changing Object Attributes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o používání a vytváření stylů najdete v kapitole 4, Změna atributů objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After selecting text, the font size can be quickly increased or decreased using the tools &lt;f0&gt;Increase Font Size&lt;/f0&gt; (&lt;f1&gt;Ctrl+]&lt;/f1&gt;) and &lt;f2&gt;Decrease Font Size&lt;/f2&gt; (&lt;f3&gt;Ctrl+[&lt;/f3&gt;) on the Text Formatting toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po výběru textu lze velikost písma rychle zvětšit nebo zmenšit pomocí nástrojů &lt;f0&gt;Zvětšit velikost písma&lt;/f0&gt; (&lt;f1&gt;Ctrl ]&lt;/f1&gt;) a &lt;f2&gt;Zmenšit velikost písma&lt;/f2&gt; (&lt;f3&gt;Ctrl [&lt;/f3&gt;) na panelu nástrojů Formátování textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any formatting changes apply only to the selected text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Veškeré změny formátování se vztahují pouze na vybraný text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To format all the text in a text box or object, click once on the border of the text box or object to display the selection handles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li naformátovat veškerý text v textovém poli nebo objektu, klikněte jednou na okraj textového pole nebo objektu a zobrazte úchyty pro výběr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any formatting changes then apply to all text in the text box or object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Veškeré změny formátování se pak vztahují na veškerý text v textovém poli nebo objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Double-click on text to select a complete word or triple-click to select a whole paragraph.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dvojitým kliknutím na text vyberete celé slovo nebo trojitým kliknutím vyberete celý odstavec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click in the text, then press and hold the &lt;f0&gt;Shift&lt;/f0&gt; key and use the keyboard arrow keys to select text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte do textu, pak stiskněte a podržte klávesu &lt;f0&gt;Shift&lt;/f0&gt; a pomocí kláves se šipkami vyberte text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the text for formatting.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte text, který chcete formátovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Format the selected text using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zformátujte vybraný text jednou z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Various formatting tools on the Text Formatting toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Různé formátovací nástroje na panelu nástrojů Formátování textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Format&lt;/f0&gt; on the Menu bar and select a formatting option from the drop-down menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Formát&lt;/f0&gt; na panelu nabídek a vyberte možnost formátování z rozevírací nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selecting a formatting option opens either a context menu or a dialog providing further formatting options to apply to the selected text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběrem možnosti formátování se otevře kontextová nabídka nebo dialogové okno s dalšími možnostmi formátování, které lze použít na vybraný text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the options in the Paragraph and Character dialogs.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte možnosti v dialogových oknech Odstavec a Znak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the options in the &lt;f0&gt;Paragraph&lt;/f0&gt; and &lt;f1&gt;Character&lt;/f1&gt; sections in the Properties deck on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte možnosti v sekcích &lt;f0&gt;Odstavec&lt;/f0&gt; a &lt;f1&gt;Znak&lt;/f1&gt; v nabídce Vlastnosti na postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click outside the text box or object to deselect the text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím mimo textové pole nebo objekt zrušíte výběr textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click anywhere in the paragraph that is to be formatted.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte na libovolné místo v odstavci, který má být naformátován.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use one of the following methods to open the Paragraph dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dialogové okno Odstavec otevřete jedním z následujících způsobů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the selected text and select &lt;f0&gt;Paragraph&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem myši na vybraný text a z kontextové nabídky vyberte možnost &lt;f0&gt;Odstavec&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the various options on the tabbed pages of the Paragraph dialog to format the text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K formátování textu použijte různé možnosti na kartách dialogového okna Odstavec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save the changes and close the Paragraph dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;OK&lt;/f0&gt; uložte změny a zavřete dialogové okno Odstavec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Paragraph dialog - Indents &amp; Spacing page</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;13&lt;/seq0&gt;: Dialogové okno Odstavec - Odrážky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Indents &amp; Spacing page (Figure &lt;t0&gt;13&lt;/t0&gt;) in the Paragraph dialog has three main sections:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Indicie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Before text&lt;/f0&gt; – enter the amount of space required to indent the paragraph from the page margin.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Před textem&lt;/f0&gt; - zadejte velikost mezery potřebné k odsazení odstavce od okraje stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the paragraph is to extend into the page margin, enter a negative number.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud má odstavec zasahovat do okraje stránky, zadejte záporné číslo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;After text&lt;/f0&gt; – enter the amount of space required to indent the paragraph from the page margin.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Za textem&lt;/f0&gt; - zadejte velikost mezery potřebné k odsazení odstavce od okraje stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;First line&lt;/f0&gt; – indents the first line of a paragraph by the amount entered.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;První řádek&lt;/f0&gt; - odsadí první řádek odstavce o zadanou hodnotu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Above paragraph&lt;/f0&gt; – enter the amount of space required above a paragraph.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Nad odstavcem&lt;/f0&gt; - zadejte velikost požadované mezery nad odstavcem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Below paragraph&lt;/f0&gt; – enter the amount of space required below a paragraph.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Pod odstavcem&lt;/f0&gt; - zadejte velikost požadovaného prostoru pod odstavcem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Do not add space between paragraphs of the same style&lt;/f0&gt; – when selected, only the spacing below a paragraph is applied when the preceding and following paragraphs are of the same paragraph style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Nepřidávat mezeru mezi odstavce stejného stylu&lt;/f0&gt; - pokud je tato možnost vybrána, použije se pouze mezera pod odstavcem, pokud jsou předchozí a následující odstavce stejného stylu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;1.5 Lines&lt;/f0&gt; – sets the line spacing to 1.5 lines.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;1,5 řádku&lt;/f0&gt; - nastaví řádkování na 1,5 řádku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;At Least&lt;/f0&gt; – sets the minimum line spacing to the value entered in the box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Nejméně&lt;/f0&gt; - nastaví minimální řádkování na hodnotu zadanou v poli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If different font sizes are used within a paragraph, the line spacing is automatically adjusted to the largest font size.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud jsou v odstavci použity různé velikosti písma, řádkování se automaticky přizpůsobí největší velikosti písma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If identical spacing is required for all lines, specify a value that corresponds to the largest font size.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je požadováno stejné řádkování pro všechny řádky, zadejte hodnotu odpovídající největší velikosti písma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Setting the line spacing to less than 100% is a good method to place a lot of text into a text box or object when space is limited.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nastavení řádkování na méně než 100 % je dobrá metoda pro umístění velkého množství textu do textového pole nebo objektu, pokud je prostor omezený.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Change the default unit of measurement in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Impress &gt; General&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Změňte výchozí měrnou jednotku v &lt;f0&gt;Nástroje &gt; Možnosti &gt; LibreOffice Impress &gt; Obecné&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Asian Typography page (Figure &lt;t0&gt;14&lt;/t0&gt;) is only available when &lt;f1&gt;Asian&lt;/f1&gt; options are enabled in &lt;f2&gt;Tools &gt; Options &gt; Language Settings &gt; Languages&lt;/f2&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stránka Asijská typografie (obrázek &lt;t0&gt;14&lt;/t0&gt;) je k dispozici pouze v případě, že jsou v nabídce &lt;f2&gt;Nástroje &gt; Možnosti &gt; Nastavení jazyků &gt; Jazyky&lt;/f2&gt; na panelu nabídek povoleny možnosti &lt;f1&gt;Asian&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f3&gt;Line Change&lt;/f3&gt; options are as follows:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti &lt;f3&gt;Změna řádku&lt;/f3&gt; jsou následující:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the Tabs page (Figure &lt;t0&gt;15&lt;/t0&gt;) to create, edit, or delete the tab stops in a text box or object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na stránce Ouška (obrázek &lt;t0&gt;15&lt;/t0&gt;) můžete vytvořit, upravit nebo odstranit zarážky oušek v textovém poli nebo objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The options are as follow:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti jsou následující:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Centered&lt;/f0&gt; – aligns the center of the text to the tab stop.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Centered&lt;/f0&gt; - zarovná střed textu na zarážku tabulátoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the text box so that the selection handles on the text box border or object are displayed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte textové pole tak, aby se zobrazily úchyty pro výběr na okraji textového pole nebo objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the selected text box or object and select &lt;f0&gt;Paragraph&lt;/f0&gt; from the context menu or go to &lt;f1&gt;Format &gt; Paragraph&lt;/f1&gt; on the Menu bar to open the Paragraph dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem myši na vybrané textové pole nebo objekt a z kontextové nabídky vyberte možnost &lt;f0&gt;Odstavec&lt;/f0&gt; nebo přejděte na &lt;f1&gt;Formát &gt; Odstavec&lt;/f1&gt; na panelu nabídek, čímž otevřete dialogové okno Odstavec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the type is set to Decimal, the default character used is the character used for decimal points in the computer setup.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je typ nastaven na hodnotu Desetinná čárka, použije se výchozí znak používaný pro desetinnou čárku v nastavení počítače.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If required, specify the character to be used as the decimal point In Character box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V případě potřeby zadejte znak, který se má použít jako desetinná tečka V poli Znak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To use the new tab stop in more than one text paragraph in a text box or object:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použití nové zarážky tabulátoru ve více než jednom odstavci textu v textovém poli nebo objektu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modify or update the drawing style used for the text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Upravte nebo aktualizujte styl kresby použitý pro text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the tab for editing in the &lt;f0&gt;Position&lt;/f0&gt; preview box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V náhledovém poli &lt;f0&gt;Pozice&lt;/f0&gt; vyberte kartu pro úpravy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To change the tab position, delete the selected tab first, then create a new tab with the changes required.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li změnit pozici karty, nejprve odstraňte vybranou kartu a poté vytvořte novou kartu s požadovanými změnami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the &lt;f0&gt;Type&lt;/f0&gt; and &lt;f1&gt;Fill Character&lt;/f1&gt; required for the selected tab stop.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte &lt;f0&gt;Typ&lt;/f0&gt; a &lt;f1&gt;Znak výplně&lt;/f1&gt; požadovaný pro vybranou zarážku tabulátoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If necessary, update the drawing style used for the text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V případě potřeby aktualizujte styl kreslení použitý pro text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the tab for deletion in the &lt;f0&gt;Position&lt;/f0&gt; preview box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V náhledovém poli &lt;f0&gt;Pozice&lt;/f0&gt; vyberte kartu, kterou chcete odstranit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Delete&lt;/f0&gt; to delete the selected tab, or click &lt;f1&gt;Delete All&lt;/f1&gt; to delete all the tab stops that are set for the selected text box or object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;Odstranit&lt;/f0&gt; odstraníte vybraný jazýček na kartě nebo kliknutím na &lt;f1&gt;Odstranit vše&lt;/f1&gt; odstraníte všechny zarážky tabulátoru nastavené pro vybrané textové pole nebo objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;f0&gt;Alignment&lt;/f0&gt; page (Figure &lt;t1&gt;16&lt;/t1&gt;) to determine the text alignment in text boxes or objects:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí záložky &lt;f0&gt;Zarovnání&lt;/f0&gt; (obrázek &lt;t1&gt;16&lt;/t1&gt;) určete zarovnání textu v textových polích nebo objektech:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Text direction&lt;/f0&gt; – specifies the text direction for text that uses Complex Text Layout (CTL) and is only available if this option is enabled.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Směr textu&lt;/f0&gt; - určuje směr textu pro text, který používá složené rozvržení textu (CTL), a je k dispozici pouze v případě, že je tato možnost povolena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The formatting options in the Paragraph section are limited, but are similar in use to the formatting options in the various pages of the Paragraph dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti formátování v části Odstavec jsou omezené, ale jejich použití je podobné možnostem formátování na různých stránkách dialogového okna Odstavec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any formatting applied to a paragraph using the Sidebar is immediate.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jakékoli formátování použité na odstavec pomocí postranního panelu je okamžité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If necessary, click on the expansion symbol on the left of the &lt;f0&gt;Paragraph&lt;/f0&gt; title bar to open the &lt;f1&gt;Paragraph&lt;/f1&gt; section.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V případě potřeby klikněte na symbol rozšíření vlevo od titulkového pruhu &lt;f0&gt;Odstavec&lt;/f0&gt; a otevřete sekci &lt;f1&gt;Odstavec&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Format the text using the various tools in the &lt;f0&gt;Paragraph&lt;/f0&gt; section.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formátujte text pomocí různých nástrojů v části &lt;f0&gt;Odstavec&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See “&lt;bf1&gt;Paragraph dialog&lt;/bf1&gt;” on page &lt;bf2&gt;13&lt;/bf2&gt; for more information on formatting options.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o možnostech formátování najdete v části “&lt;bf1&gt;Dialogové okno Odstavec&lt;/bf1&gt;“ na straně &lt;bf2&gt;13&lt;/bf2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The text formatting options in the &lt;f0&gt;Paragraph&lt;/f0&gt; section in the Properties deck on the Sidebar are as follows.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti formátování textu v části &lt;f0&gt;Odstavec&lt;/f0&gt; v nabídce Vlastnosti na postranním panelu jsou následující.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Most of these tools are also available on the Text Formatting toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Většina těchto nástrojů je k dispozici také na panelu nástrojů Formátování textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Align Left&lt;/f0&gt;, &lt;f1&gt;Align Center&lt;/f1&gt;, &lt;f2&gt;Alight Right&lt;/f2&gt;, &lt;f3&gt;Align Justified&lt;/f3&gt; – determines how text is aligned to the text box or object margins.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Zarovnání vlevo&lt;/f0&gt;, &lt;f1&gt;Zarovnání na střed&lt;/f1&gt;, &lt;f2&gt;Zarovnání vpravo&lt;/f2&gt;, &lt;f3&gt;Zarovnání zarovnané&lt;/f3&gt; - určuje, jak bude text zarovnán k okrajům textového pole nebo objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Left-To-Right&lt;/f0&gt;, &lt;f1&gt;Right-To-Left&lt;/f1&gt; – only available when &lt;f2&gt;Complex Text Layout (CTL)&lt;/f2&gt; options have been selected in &lt;f3&gt;Tools &gt; Options &gt; Language Settings &gt; Languages&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Vlevo-vpravo&lt;/f0&gt;, &lt;f1&gt;Vpravo-vlevo&lt;/f1&gt; - k dispozici pouze v případě, že v &lt;f3&gt;Nástroje &gt; Možnosti &gt; Nastavení jazyka &gt; Jazyky&lt;/f3&gt; byly vybrány možnosti &lt;f2&gt;Komplexní rozložení textu (CTL)&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Align Top&lt;/f0&gt;, &lt;f1&gt;Center Vertically&lt;/f1&gt;, &lt;f2&gt;Align Bottom&lt;/f2&gt; – aligns text to the top, center or bottom of a text box or object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Zarovnat nahoru&lt;/f0&gt;, &lt;f1&gt;Střed na výšku&lt;/f1&gt;, &lt;f2&gt;Zarovnat dolů&lt;/f2&gt; - zarovná text nahoru, na střed nebo dolů textového pole nebo objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter the amount of spacing required in the text box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Do textového pole zadejte požadovaný odstup.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the small triangle ▼ to the right of the icon and select the type of line spacing required from the drop-down list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na malý trojúhelník napravo od ikony a v rozevíracím seznamu vyberte požadovaný typ řádkování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Increase Indent&lt;/f0&gt;, &lt;f1&gt;Decrease Indent&lt;/f1&gt; – each click increases or decreases the indent level of selected text by the default value for Draw.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Zvětšit odsazení&lt;/f0&gt;, &lt;f1&gt;Zmenšit odsazení&lt;/f1&gt; - každé kliknutí zvětší nebo zmenší úroveň odsazení vybraného textu o výchozí hodnotu pro Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To specify indent measurements, enter a value in the &lt;f2&gt;Before text&lt;/f2&gt;, &lt;f3&gt;After text&lt;/f3&gt; or &lt;f4&gt;First line&lt;/f4&gt; boxes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li zadat měření odsazení, zadejte hodnotu do polí &lt;f2&gt;Před textem&lt;/f2&gt;, &lt;f3&gt;Za textem&lt;/f3&gt; nebo &lt;f4&gt;První řádek&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Direct or manual character formatting can be applied to individual characters and words.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na jednotlivé znaky a slova lze použít přímé nebo ruční formátování znaků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Direct character formatting overrides any formatting that has been applied using direct text formatting and drawing styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přímé formátování znaků přepíše veškeré formátování, které bylo použito pomocí přímého formátování textu a stylů kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the characters for formatting, see “&lt;bf0&gt;Selecting text&lt;/bf0&gt;” on page &lt;bf1&gt;13&lt;/bf1&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte znaky pro formátování, další informace naleznete v části “&lt;bf0&gt;Výběr textu&lt;/bf0&gt;“ na straně &lt;bf1&gt;13&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selecting a formatting option opens either a context menu or dialog where further formatting options are selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběrem možnosti formátování se otevře kontextová nabídka nebo dialogové okno, kde lze vybrat další možnosti formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clicking &lt;f0&gt;OK&lt;/f0&gt; on the dialog applies the formatting changes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;OK&lt;/f0&gt; v dialogovém okně se změny formátování použijí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the options available in the &lt;f0&gt;Character&lt;/f0&gt; section in the Properties deck on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte možnosti dostupné v sekci &lt;f0&gt;Znak&lt;/f0&gt; v balíčku Vlastnosti na postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the characters for formatting and open the Character dialog using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte znaky pro formátování a otevřete dialogové okno Znaky jedním z následujících způsobů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the characters and select &lt;f0&gt;Character&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na znaky pravým tlačítkem myši a z kontextové nabídky vyberte možnost &lt;f0&gt;Znak&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Character&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Formát &gt; Znak&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the options on the tabbed pages of the Character dialog to format the selected characters.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K formátování vybraných znaků použijte možnosti na kartách dialogového okna Znaky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to apply the formatting changes and close the dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;OK&lt;/f0&gt; aplikujte změny formátování a zavřete dialogové okno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the Font page (Figure &lt;t0&gt;18&lt;/t0&gt;) in the Character dialog to select the font family, typeface (&lt;f1&gt;Italic&lt;/f1&gt;, &lt;f2&gt;Bold&lt;/f2&gt;, and so on), size, and language.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí záložky Písmo (obrázek &lt;t0&gt;18&lt;/t0&gt;) v dialogovém okně Znaky vyberte rodinu písma, řez písma (&lt;f1&gt;Italic&lt;/f1&gt;, &lt;f2&gt;Bold&lt;/f2&gt; atd.), velikost a jazyk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If support for Asian language or Complex Text Layout (CTL) has been enabled in &lt;f0&gt;Tools &gt; Options &gt; Language Settings &gt; Languages&lt;/f0&gt;, then character formatting options are also available for &lt;f1&gt;Asian Text Font&lt;/f1&gt; or &lt;f2&gt;CTL Font&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud byla v nabídce &lt;f0&gt;Nástroje &gt; Možnosti &gt; Nastavení jazyka &gt; Jazyky&lt;/f0&gt; povolena podpora asijského jazyka nebo složitého rozložení textu (CTL), jsou k dispozici také možnosti formátování znaků pro &lt;f1&gt;Asijské textové písmo&lt;/f1&gt; nebo &lt;f2&gt;CTL písmo&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The number of typefaces available depends on the font family that is selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Počet dostupných písem závisí na vybrané rodině písem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When creating a drawing in multiple languages, use the language setting to create styles that only differ in the language in formatting attributes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při vytváření výkresu ve více jazycích použijte nastavení jazyka k vytvoření stylů, které se liší pouze jazykem v atributech formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This allows for spelling checks of all of the drawing contents without affecting appearance.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>To umožňuje kontrolu pravopisu celého obsahu výkresu bez vlivu na vzhled.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The options on the &lt;f0&gt;Font Effects&lt;/f0&gt; page (Figure &lt;t1&gt;19&lt;/t1&gt;) apply font color, text decoration and effects to the selected text or characters.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti na stránce &lt;f0&gt;Efekty písma&lt;/f0&gt; (obrázek &lt;t1&gt;19&lt;/t1&gt;) aplikují na vybraný text nebo znaky barvu písma, dekoraci textu a efekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Overlining&lt;/f0&gt; – select the over lining style from the drop-down list and the over lining color from one of the available palettes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Overlining&lt;/f0&gt; - vyberte styl overliningu z rozevíracího seznamu a barvu overliningu z jedné z dostupných palet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If &lt;f1&gt;Automatic&lt;/f1&gt; is selected, the color is set to black for light backgrounds and to white for dark backgrounds.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je vybrána možnost &lt;f1&gt;Automatická&lt;/f1&gt;, je barva nastavena na černou pro světlé pozadí a na bílou pro tmavé pozadí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Underlining&lt;/f0&gt; – select the underlining style from the drop-down list and the underlining color from one of the available palettes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Podtržení&lt;/f0&gt; - vyberte styl podtržení z rozevíracího seznamu a barvu podtržení z jedné z dostupných palet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Individual words&lt;/f0&gt; – when selected, any over lining or underlining is applied to words only and spaces are ignored.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Jednotlivá slova&lt;/f0&gt; - pokud je vybráno, veškeré nadřádkování nebo podtržení se použije pouze na slova a mezery se ignorují.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Case&lt;/f0&gt; – select a capitalization effect from the drop-down list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Písmeno&lt;/f0&gt; - z rozevíracího seznamu vyberte efekt psaní velkých písmen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The options on the &lt;f0&gt;Position&lt;/f0&gt; page (Figure &lt;t1&gt;20&lt;/t1&gt;) allows setting of the position, scaling, and spacing of selected text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti na stránce &lt;f0&gt;Pozice&lt;/f0&gt; (obrázek &lt;t1&gt;20&lt;/t1&gt;) umožňují nastavit pozici, měřítko a odstupy vybraného textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter the amount to expand or condense the text in the text box or object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zadejte částku, o kterou se text v textovém poli nebo objektu rozšíří nebo zúží.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The options on the &lt;f0&gt;Highlighting&lt;/f0&gt; page (Figure &lt;t1&gt;21&lt;/t1&gt;) allows highlighting of text so that the characters are different color to the rest of the text in the text box or object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti na stránce &lt;f0&gt;Zvýraznění&lt;/f0&gt; (obrázek &lt;t1&gt;21&lt;/t1&gt;) umožňují zvýraznit text tak, aby znaky měly jinou barvu než zbytek textu v textovém poli nebo objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The color can also be selected by changing the values in the RGB boxes or using the Pick a Color dialog when &lt;f2&gt;Pick&lt;/f2&gt; is selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Barvu lze vybrat také změnou hodnot v polích RGB nebo pomocí dialogového okna Výběr barvy, když je vybrána možnost &lt;f2&gt;Vybrat&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The formatting options available in the Character section are limited, but are similar in use to the formatting options available in the various pages of the Character dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti formátování dostupné v části Znak jsou omezené, ale jejich použití je podobné možnostem formátování dostupným na různých stránkách dialogového okna Znak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Most of the options are also available on the Text Formatting toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Většina možností je k dispozici také na panelu nástrojů Formátování textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a text box or object so that the selection handles on the border are displayed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte textové pole nebo objekt tak, aby se zobrazily úchyty pro výběr na okraji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the expansion symbol on the left of the &lt;f0&gt;Character&lt;/f0&gt; title bar to open the &lt;f1&gt;Character&lt;/f1&gt; section.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na symbol rozšíření vlevo od titulkového pruhu &lt;f0&gt;Znak&lt;/f0&gt; otevřete sekci &lt;f1&gt;Znak&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Format the text using the tools in the &lt;f0&gt;Character&lt;/f0&gt; section.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formátujte text pomocí nástrojů v části &lt;f0&gt;Znak&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See “&lt;bf1&gt;Character dialog&lt;/bf1&gt;” on page &lt;bf2&gt;20&lt;/bf2&gt; for more information on formatting options.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o možnostech formátování naleznete v části “&lt;bf1&gt;Dialogové okno znaků&lt;/bf1&gt;“ na straně &lt;bf2&gt;20&lt;/bf2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Font Name&lt;/f0&gt; and &lt;f1&gt;Font Size&lt;/f1&gt; – select the font family and size from the drop-down lists.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Název písma&lt;/f0&gt; a &lt;f1&gt;Velikost písma&lt;/f1&gt; - vyberte rodinu a velikost písma z rozevíracích seznamů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Bold&lt;/f0&gt; and &lt;f1&gt;Italic&lt;/f1&gt; – applies a &lt;f2&gt;bold&lt;/f2&gt; or &lt;f3&gt;italic&lt;/f3&gt; typeface to the selected text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Tlusté&lt;/f0&gt; a &lt;f1&gt;Italic&lt;/f1&gt; - použije na vybraný text písmo &lt;f2&gt;tučné&lt;/f2&gt; nebo &lt;f3&gt;italic&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the small triangle ▼ to the right and select the type of underlining from the drop-down list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na malý trojúhelníček vpravo a z rozevíracího seznamu vyberte typ podtržení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Actual size depends on the computer setup.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Skutečná velikost závisí na nastavení počítače.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A custom value for character spacing can also be set.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Lze také nastavit vlastní hodnotu odstupu mezi znaky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bulleted and numbered lists can be created in text boxes and objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V textových polích a objektech lze vytvářet seznamy s odrážkami a číslované seznamy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, when creating lists in objects, please remember that Draw objects are not dynamic and do not automatically expand as a list is created.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při vytváření seznamů v objektech však mějte na paměti, že objekty Draw nejsou dynamické a při vytváření seznamu se automaticky nerozbalují.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating bulleted or numbered lists in Draw is similar to LibreOffice Writer, but the functionality in Draw has been reduced.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytváření seznamů s odrážkami nebo číslovaných seznamů v aplikaci Draw je podobné jako v aplikaci LibreOffice Writer, ale funkce v aplikaci Draw byly omezeny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bulleted or numbered lists can be created in text boxes or Draw objects as follows:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Seznamy s odrážkami nebo číslované seznamy lze vytvářet v textových polích nebo v objektech Draw následujícím způsobem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select all of the text required for a list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte veškerý text požadovaný pro seznam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Text Formatting toolbar automatically opens.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Automaticky se otevře panel nástrojů Formátování textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create a list using one of the following methods and default settings for lists:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvořte seznam pomocí jedné z následujících metod a výchozích nastavení seznamů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Toggle Bullet List&lt;/f0&gt; or &lt;f1&gt;Toggle Numbered List&lt;/f1&gt; on the Text Formatting toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Přepnout seznam s odrážkami&lt;/f0&gt; nebo &lt;f1&gt;Přepnout číslovaný seznam&lt;/f1&gt; na panelu nástrojů Formátování textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Toggle Bullet List&lt;/f0&gt; or &lt;f1&gt;Toggle Numbered List&lt;/f1&gt; in the &lt;f2&gt;Lists&lt;/f2&gt; section on the Properties deck of the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Přepnout seznam s odrážkami&lt;/f0&gt; nebo &lt;f1&gt;Přepnout číslovaný seznam&lt;/f1&gt; v sekci &lt;f2&gt;Seznamy&lt;/f2&gt; na panelu Vlastnosti postranního panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Lists &gt; Bulleted List&lt;/f0&gt; or &lt;f1&gt;Numbered List&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Formát &gt; Seznamy &gt; Seznam s odrážkami&lt;/f0&gt; nebo &lt;f1&gt;Číslovaný seznam&lt;/f1&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To change the format of the list as the list is created, click on the small triangle ▼ on the right of the list icons and select a list style from the options in the pop-up window (Figures &lt;t0&gt;23&lt;/t0&gt; and&lt;t1&gt;24&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li změnit formát seznamu při jeho vytváření, klikněte na malý trojúhelníček ▼ vpravo od ikon seznamu a z možností ve vyskakovacím okně vyberte styl seznamu (obrázky &lt;t0&gt;23&lt;/t0&gt; a&lt;t1&gt;24&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;23&lt;/seq0&gt;: More bullet lists</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;23&lt;/seq0&gt;: Další seznamy odrážek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;24&lt;/seq0&gt;: More numbered lists</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;24&lt;/seq0&gt;: Další číslované seznamy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;25&lt;/seq0&gt;: Lists section in Properties deck on Sidebar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;25&lt;/seq0&gt;: Sekce Seznamy v nabídce Vlastnosti na postranním panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each item in a bulleted or numbered list can have its level demoted or promoted within a list, or moved up or down in list order as follows:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Každé položce v seznamu s odrážkami nebo číslovaném seznamu lze v rámci seznamu snížit nebo zvýšit úroveň nebo ji posunout nahoru či dolů v pořadí seznamu následujícím způsobem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on a list item to demote, promote, or move up or down.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na položku seznamu ji můžete degradovat, povýšit nebo přesunout nahoru či dolů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To demote a list item one level at a time, use one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li položku seznamu degradovat po jednotlivých úrovních, použijte jednu z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;f0&gt;Tab&lt;/f0&gt; key.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte klávesu &lt;f0&gt;Tab&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Lists &gt; Demote&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Formát &gt; Seznamy &gt; Odebrat&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;f0&gt;Demote&lt;/f0&gt; in the &lt;f1&gt;Lists&lt;/f1&gt; section on the Properties deck of the Sidebar (Figure &lt;t2&gt;25&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V části &lt;f1&gt;Seznamy&lt;/f1&gt; na kartě Vlastnosti postranního panelu použijte příkaz &lt;f0&gt;Odstranit&lt;/f0&gt; (obrázek &lt;t2&gt;25&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To promote a list item one level at a time, use one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li položku seznamu povýšit po jednotlivých úrovních, použijte jednu z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the key combination &lt;f0&gt;Shift+Tab&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte kombinaci kláves &lt;f0&gt;Shift Tab&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Lists &gt; Promote&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Formát &gt; Seznamy &gt; Propagovat&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;f0&gt;Promote&lt;/f0&gt; in the &lt;f1&gt;Lists&lt;/f1&gt; section on the Properties deck of the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte &lt;f0&gt;Propagovat&lt;/f0&gt; v části &lt;f1&gt;Seznamy&lt;/f1&gt; na kartě Vlastnosti postranního panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To change the position of a list item in the list order, use one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li změnit pozici položky seznamu v pořadí seznamu, použijte jednu z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Lists &gt; Move Down&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Formát &gt; Seznamy &gt; Posunout dolů&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;f0&gt;Move Down&lt;/f0&gt; in the &lt;f1&gt;Lists&lt;/f1&gt; section on the Properties deck of the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte &lt;f0&gt;Přesunout dolů&lt;/f0&gt; v části &lt;f1&gt;Seznamy&lt;/f1&gt; na kartě Vlastnosti postranního panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To change the position of the list item in the list order, use one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li změnit pozici položky seznamu v pořadí seznamu, použijte jednu z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Lists &gt; Move Up&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Formát &gt; Seznamy &gt; Posunout nahoru&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;f0&gt;Move Up&lt;/f0&gt; in the &lt;f1&gt;Lists&lt;/f1&gt; section on the Properties deck of the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte &lt;f0&gt;Přesunout nahoru&lt;/f0&gt; v části &lt;f1&gt;Seznamy&lt;/f1&gt; na kartě Vlastnosti postranního panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the Bullets and Numbering dialog (Figure &lt;t0&gt;26&lt;/t0&gt;) for more control on the format of a list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro větší kontrolu nad formátem seznamu použijte dialogové okno Bodování a číslování (obrázek &lt;t0&gt;26&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select text in a text box or object and open the dialog using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte text v textovém poli nebo objektu a otevřete dialogové okno pomocí jedné z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the selected text and select &lt;f0&gt;Bullets and Numbering&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem myši na vybraný text a v kontextové nabídce vyberte možnost &lt;f0&gt;Bullets and Numbering&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;More Bullets&lt;/f0&gt; or &lt;f1&gt;More Numbering&lt;/f1&gt; after clicking on the small triangle ▼ on the right of &lt;f2&gt;Toggle Bulleted List&lt;/f2&gt; or &lt;f3&gt;Toggle Numbered List&lt;/f3&gt; on the &lt;f4&gt;Lists&lt;/f4&gt; section in the Properties deck on the Sidebar (Figures &lt;t5&gt;23&lt;/t5&gt; and&lt;t6&gt;24&lt;/t6&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Více odrážek&lt;/f0&gt; nebo &lt;f1&gt;Více číslování&lt;/f1&gt; po kliknutí na malý trojúhelníček ▼ vpravo od &lt;f2&gt;Přepnout seznam s odrážkami&lt;/f2&gt; nebo &lt;f3&gt;Přepnout číslovaný seznam&lt;/f3&gt; v části &lt;f4&gt;Seznamy&lt;/f4&gt; v paletě Vlastnosti na postranním panelu (obrázky &lt;t5&gt;23&lt;/t5&gt; a&lt;t6&gt;24&lt;/t6&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;More Bullets&lt;/f0&gt; or &lt;f1&gt;More Numbering&lt;/f1&gt; after clicking on the small triangle ▼ on the right of &lt;f2&gt;Toggle Bulleted List&lt;/f2&gt; or &lt;f3&gt;Toggle Numbered List&lt;/f3&gt; on the Text Formatting toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Více odrážek&lt;/f0&gt; nebo &lt;f1&gt;Více číslování&lt;/f1&gt; po kliknutí na malý trojúhelník ▼ vpravo od &lt;f2&gt;Přepnout seznam s odrážkami&lt;/f2&gt; nebo &lt;f3&gt;Přepnout číslovaný seznam&lt;/f3&gt; na panelu nástrojů Formátování textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;26&lt;/seq0&gt;: Bullets and Numbering dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;26&lt;/seq0&gt;: Dialogové okno odrážky a číslování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following options are available in the Bullets and Numbering dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V dialogovém okně Bullets and Numbering jsou k dispozici následující možnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Level&lt;/f0&gt; – select the level(s) required to define the formatting options for a list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Úroveň&lt;/f0&gt; - vyberte úroveň (úrovně) potřebnou k definování možností formátování seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The selected levels are highlighted in the preview.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrané úrovně jsou v náhledu zvýrazněny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Type&lt;/f0&gt; – select the style for the list indicator from the drop-down list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Typ&lt;/f0&gt; - v rozevíracím seznamu vyberte styl indikátoru seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Character&lt;/f0&gt; – when &lt;f1&gt;Bullet&lt;/f1&gt; is selected as &lt;f2&gt;Type&lt;/f2&gt;, select the character from the Special Characters dialog that opens.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Znak&lt;/f0&gt; - pokud je jako &lt;f2&gt;Typ&lt;/f2&gt; vybrána &lt;f1&gt;Kule&lt;/f1&gt;, vyberte znak v otevřeném dialogovém okně Speciální znaky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Start at&lt;/f0&gt; – when a numeric style list is selected in &lt;f1&gt;Type&lt;/f1&gt;, enter a starting number for the current level.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Začít od&lt;/f0&gt; - pokud je v poli &lt;f1&gt;Typ&lt;/f1&gt; vybrán seznam číselných stylů, zadejte počáteční číslo aktuální úrovně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Default starting number is 1.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí startovní číslo je 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Separator&lt;/f0&gt; – this option becomes available when a numeric style list is selected in &lt;f1&gt;Type&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Oddělovač&lt;/f0&gt; - tato možnost je k dispozici, když je v poli &lt;f1&gt;Typ&lt;/f1&gt; vybrán číselný styl seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, to create a list that uses the style (1, enter ( in this box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li například vytvořit seznam, který používá styl (1, zadejte do tohoto pole (.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, to create a list that uses the style A), enter ) in this box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li například vytvořit seznam, který používá styl A), zadejte do tohoto pole ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Indent&lt;/f0&gt; – sets the indent measurement of the list point and the margin.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Indent&lt;/f0&gt; - nastavuje velikost odsazení bodu seznamu a okraje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Width&lt;/f0&gt; – set the indent measurement of the between the list indicator and the text in the list point.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Šířka&lt;/f0&gt; - nastavuje velikost odsazení mezi indikátorem seznamu a textem v bodě seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, this option is useful when large numbers are used in a list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato možnost je užitečná například v případě, že jsou v seznamu použita velká čísla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Page&lt;/f0&gt; – applies the changes to the drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Stránka&lt;/f0&gt; - aplikuje změny na výkres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Preview&lt;/f0&gt; – displays how the list will look when changes to the format are used.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Náhled&lt;/f0&gt; - zobrazí, jak bude seznam vypadat při použití změn formátu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tables are a powerful mechanism to convey structured information quickly when used in a drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tabulky jsou účinným mechanismem pro rychlé předání strukturovaných informací, pokud jsou použity ve výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tables can be added directly to a drawing eliminating the need to embed a Calc spreadsheet or a Writer text table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tabulky lze přidávat přímo do výkresu, takže není nutné vkládat tabulku Calcu nebo textovou tabulku Writeru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, in some circumstances, it makes sense to embed a spreadsheet into a drawing, especially when greater functionality is required in the table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Za určitých okolností však má smysl tabulku do výkresu vložit, zejména pokud je v tabulce vyžadována větší funkčnost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The tables provided by Draw do have a limited functionality.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tabulky poskytované nástrojem Draw mají omezenou funkčnost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Several predefined table designs are provided in the &lt;f0&gt;Table Design&lt;/f0&gt; section in the Properties deck on the Sidebar (Figure &lt;t1&gt;27&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Několik předdefinovaných návrhů tabulek je k dispozici v části &lt;f0&gt;Návrh tabulky&lt;/f0&gt; v nabídce Vlastnosti na postranním panelu (obrázek &lt;t1&gt;27&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f2&gt;Table Design&lt;/f2&gt; section is only available when a table is selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Sekce &lt;f2&gt;Návrh tabulky&lt;/f2&gt; je k dispozici pouze v případě, že je vybrána tabulka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When working with tables in Draw, the Table toolbar (Figure &lt;t0&gt;28&lt;/t0&gt;) automatically opens providing tools for creating and formatting a table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při práci s tabulkami v aplikaci Draw se automaticky otevře panel nástrojů Tabulka (obrázek &lt;t0&gt;28&lt;/t0&gt;), který poskytuje nástroje pro vytváření a formátování tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default position for the toolbar when it opens is docked at the bottom of the Workspace.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí poloha panelu nástrojů při otevření je zakotvena v dolní části pracovní plochy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the Table toolbar does not open when a table is selected, go to &lt;f1&gt;View &gt; Toolbars &gt; Table&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud se panel nástrojů Tabulka při výběru tabulky neotevře, přejděte na &lt;f1&gt;Zobrazení &gt; Panely nástrojů &gt; Tabulka&lt;/f1&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;27&lt;/seq0&gt;: Table Design section in Properties deck on Sidebar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;27&lt;/seq0&gt;: Sekce Návrh tabulky v nabídce Vlastnosti na postranním panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;28&lt;/seq0&gt;: Table toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;28&lt;/seq0&gt;: Panel nástrojů Tabulka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;29&lt;/seq0&gt;: Insert Table dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;29&lt;/seq0&gt;: Dialogové okno Vložit tabulku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When working with tables, it is useful to know the number of rows and columns required as well as the appearance.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při práci s tabulkami je užitečné znát počet požadovaných řádků a sloupců i jejich vzhled.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tables are placed at the center of a drawing and cannot be placed into objects or shapes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tabulky jsou umístěny uprostřed výkresu a nelze je umístit do objektů nebo tvarů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Also, unlike text boxes and other objects, tables cannot be rotated.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na rozdíl od textových polí a jiných objektů nelze tabulky otáčet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To create and insert a table using the Insert Table dialog (Figure &lt;t0&gt;29&lt;/t0&gt;):</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvoření a vložení tabulky pomocí dialogového okna Vložit tabulku (obrázek &lt;t0&gt;29&lt;/t0&gt;):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Insert &gt; Table&lt;/f0&gt; on the Menu bar to open the Insert Table dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Vložit &gt; Tabulka&lt;/f0&gt; na panelu nabídek a otevřete dialogové okno Vložit tabulku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter the number of rows and columns required.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zadejte požadovaný počet řádků a sloupců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to insert the table into the center of a drawing and close the dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na tlačítko &lt;f0&gt;OK&lt;/f0&gt; vložíte tabulku do středu výkresu a zavřete dialogové okno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;30&lt;/seq0&gt;: Table grid</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;30&lt;/seq0&gt;: Mřížka tabulky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, to create and insert a table using the Table grid (Figure &lt;t0&gt;30&lt;/t0&gt;):</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Případně můžete vytvořit a vložit tabulku pomocí mřížky Tabulka (obrázek &lt;t0&gt;30&lt;/t0&gt;):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Table&lt;/f0&gt; on the Standard toolbar to open the Table grid.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;Tabulka&lt;/f0&gt; na panelu nástrojů Standardní otevřete mřížku Tabulka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click and drag the cursor until the required number of columns and rows are selected,</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte a přetáhněte kurzor, dokud není vybrán požadovaný počet sloupců a řádků,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click again to insert the table into the center of a drawing and close the Table grid.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dalším kliknutím vložíte tabulku do středu výkresu a zavřete mřížku Tabulka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If necessary, click on &lt;f0&gt;More Options&lt;/f0&gt; to open the Insert Table dialog to select the number of rows and columns required.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V případě potřeby klikněte na &lt;f0&gt;Další možnosti&lt;/f0&gt; a otevřete dialogové okno Vložit tabulku, kde vyberete požadovaný počet řádků a sloupců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move the table into position by clicking on the border and dragging it to its new position.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přesuňte tabulku na místo kliknutím na okraj a přetažením na nové místo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When inserting tables into a drawing, the table is created using the default style and settings already applied.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při vkládání tabulek do výkresu se tabulka vytvoří s použitím výchozího stylu a již použitého nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The table can be formatted after insertion to the drawing requirements.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tabulku lze po vložení naformátovat podle požadavků výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To open and use the &lt;f0&gt;Table Design&lt;/f0&gt; section in the Properties deck on the Sidebar:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevření a použití oddílu &lt;f0&gt;Design tabulky&lt;/f0&gt; v nabídce Vlastnosti na postranním panelu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert a table into a drawing) or select a table in a drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vložit tabulku do výkresu) nebo vybrat tabulku ve výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Table Design&lt;/f0&gt; in the Properties deck on the Sidebar to open the &lt;f1&gt;Table Design&lt;/f1&gt; section, or click on &lt;f2&gt;Table Design&lt;/f2&gt; on the Table toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;Návrh tabulky&lt;/f0&gt; v nabídce Vlastnosti na postranním panelu otevřete část &lt;f1&gt;Návrh tabulky&lt;/f1&gt; nebo klikněte na &lt;f2&gt;Návrh tabulky&lt;/f2&gt; na panelu nástrojů Tabulka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a design for the table and the types of rows and columns from the available options.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Z dostupných možností vyberte design tabulky a typy řádků a sloupců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Total row&lt;/f0&gt; – if selected, changes the background of the last row to make it stand out from other rows.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Celkový řádek&lt;/f0&gt; - pokud je vybráno, změní pozadí posledního řádku, aby vynikl nad ostatními řádky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Banded rows&lt;/f0&gt; – selected by default.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Pásové řádky&lt;/f0&gt; - vybráno ve výchozím nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternate rows have different backgrounds making it easier to read data entered into the rows.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Střídavé řádky mají odlišné pozadí, což usnadňuje čtení údajů zadaných do řádků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a table is selected, the Table toolbar automatically opens providing the following tools for formatting a table to the drawing requirements.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po výběru tabulky se automaticky otevře panel nástrojů Tabulka, který obsahuje následující nástroje pro formátování tabulky podle požadavků výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The formatting tools are also available by going to &lt;f0&gt;Format &gt; Table&lt;/f0&gt; on the Menu bar and selecting a formatting option from the submenu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formátovací nástroje jsou k dispozici také tak, že na panelu nabídek přejdete na &lt;f0&gt;Formát &gt; Tabulka&lt;/f0&gt; a v podnabídce vyberete možnost formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Table&lt;/f0&gt; – inserts a new table in a drawing using the Insert Table dialog or the Table grid.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Tabulka&lt;/f0&gt; - vloží do výkresu novou tabulku pomocí dialogového okna Vložit tabulku nebo mřížky Tabulka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See “&lt;bf1&gt;Inserting tables&lt;/bf1&gt;” above for more information on inserting tables.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o vkládání tabulek naleznete v části “&lt;bf1&gt;Vkládání tabulek&lt;/bf1&gt;“ výše.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Border Style&lt;/f0&gt; – changes the line style of the borders of selected cells.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Styl ohraničení&lt;/f0&gt; - změní styl čar ohraničení vybraných buněk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the small triangle ▼ next to the icon to open a drop-down list and select from a range of predefined styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na malý trojúhelník ▼ vedle ikony otevřete rozevírací seznam a vyberte si z řady předdefinovaných stylů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, click on &lt;f0&gt;Table Properties&lt;/f0&gt;, or right-click on the selected cells and select &lt;f1&gt;Table Properties&lt;/f1&gt; from the context menu, or go to &lt;f2&gt;Format &gt; Table &gt; Properties&lt;/f2&gt; on the Menu bar to open the Table Properties dialog and change the line style for table borders.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Případně klikněte na &lt;f0&gt;Vlastnosti tabulky&lt;/f0&gt; nebo klikněte pravým tlačítkem myši na vybrané buňky a z kontextové nabídky vyberte &lt;f1&gt;Vlastnosti tabulky&lt;/f1&gt; nebo přejděte na &lt;f2&gt;Formát &gt; Tabulka &gt; Vlastnosti&lt;/f2&gt; na panelu nabídek, čímž otevřete dialogové okno Vlastnosti tabulky a změníte styl čar pro okraje tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Border Color&lt;/f0&gt; – changes the color of the borders of selected cells.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Barva okrajů&lt;/f0&gt; - změní barvu okrajů vybraných buněk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the small triangle ▼ next to the icon to open a drop-down list and select a color from a range of predefined palettes or create a custom color.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na malý trojúhelník ▼ vedle ikony otevřete rozevírací seznam a vyberte barvu z řady předdefinovaných palet nebo vytvořte vlastní barvu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, click on &lt;f0&gt;Table Properties&lt;/f0&gt;, or right-click on the selected cells and select &lt;f1&gt;Table Properties&lt;/f1&gt; from the context menu, or go to &lt;f2&gt;Format &gt; Table &gt; Properties&lt;/f2&gt; on the Menu bar to open the Table Properties dialog and change the border color.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Případně klikněte na &lt;f0&gt;Vlastnosti tabulky&lt;/f0&gt; nebo klikněte pravým tlačítkem myši na vybrané buňky a z kontextové nabídky vyberte &lt;f1&gt;Vlastnosti tabulky&lt;/f1&gt; nebo přejděte na &lt;f2&gt;Formát &gt; Tabulka &gt; Vlastnosti&lt;/f2&gt; na panelu nabídek, čímž otevřete dialogové okno Vlastnosti tabulky a změníte barvu ohraničení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Borders&lt;/f0&gt; – selects predefined border configurations for selected cells.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Okraje&lt;/f0&gt; - vybere předdefinované konfigurace okrajů pro vybrané buňky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the small triangle ▼ next to the icon to open a drop-down list and select a border configuration.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na malý trojúhelník vedle ikony otevřete rozevírací seznam a vyberte konfiguraci rámečku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, click on &lt;f0&gt;Table Properties&lt;/f0&gt;, or right-click on the selected cells and select &lt;f1&gt;Table Properties&lt;/f1&gt; from the context menu, or go to &lt;f2&gt;Format &gt; Table &gt; Properties&lt;/f2&gt; on the Menu bar to open the Table Properties dialog and change the line style for cell borders.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Případně klikněte na &lt;f0&gt;Vlastnosti tabulky&lt;/f0&gt; nebo klikněte pravým tlačítkem myši na vybrané buňky a z kontextové nabídky vyberte &lt;f1&gt;Vlastnosti tabulky&lt;/f1&gt; nebo přejděte na &lt;f2&gt;Formát &gt; Tabulka &gt; Vlastnosti&lt;/f2&gt; na panelu nabídek, čímž otevřete dialogové okno Vlastnosti tabulky a změníte styl čar pro ohraničení buněk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Area Style/Filling&lt;/f0&gt; – select the cells to be filled, then select the type of fill from the drop-down list: &lt;f1&gt;None&lt;/f1&gt;, &lt;f2&gt;Color&lt;/f2&gt;, &lt;f3&gt;Gradient&lt;/f3&gt;, &lt;f4&gt;Hatching&lt;/f4&gt;, &lt;f5&gt;Bitmap&lt;/f5&gt; or &lt;f6&gt;Pattern&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Styl vyplnění oblasti&lt;/f0&gt; - vyberte buňky, které mají být vyplněny, a poté vyberte typ výplně z rozevíracího seznamu: &lt;f1&gt;Žádná&lt;/f1&gt;, &lt;f2&gt;Barva&lt;/f2&gt;, &lt;f3&gt;Gradientní&lt;/f3&gt;, &lt;f4&gt;Šrafování&lt;/f4&gt;, &lt;f5&gt;Bitmapa&lt;/f5&gt; nebo &lt;f6&gt;Vzor&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The drop-down menu for fill options changes to show the fillings for each area type.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rozbalovací nabídka možností výplně se změní a zobrazí výplně pro jednotlivé typy oblastí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, click on &lt;f0&gt;Table Properties&lt;/f0&gt;, or right-click on the selected cells and select &lt;f1&gt;Table Properties&lt;/f1&gt; from the context menu, or go to &lt;f2&gt;Format &gt; Table &gt; Properties&lt;/f2&gt; on the Menu bar to open the Table Properties dialog and change the background area style/filling.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Případně klikněte na &lt;f0&gt;Vlastnosti tabulky&lt;/f0&gt; nebo klikněte pravým tlačítkem myši na vybrané buňky a z kontextové nabídky vyberte &lt;f1&gt;Vlastnosti tabulky&lt;/f1&gt; nebo přejděte na &lt;f2&gt;Formát &gt; Tabulka &gt; Vlastnosti&lt;/f2&gt; na panelu nabídek, čímž otevřete dialogové okno Vlastnosti tabulky a změníte styl/výplň oblasti pozadí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that the contents of the merged cells are also merged.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Všimněte si, že obsah sloučených buněk je také sloučen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, right-click on selected cells and select &lt;f0&gt;Merge Cells&lt;/f0&gt; from the context menu, or go to &lt;f1&gt;Format &gt; Table &gt; Merge Cells&lt;/f1&gt; on the Menu bar to merge the selected cells.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Případně klikněte pravým tlačítkem myši na vybrané buňky a z kontextové nabídky vyberte příkaz &lt;f0&gt;Sloučit buňky&lt;/f0&gt; nebo přejděte na &lt;f1&gt;Formát &gt; Tabulka &gt; Sloučit buňky&lt;/f1&gt; na panelu nabídek a sloučte vybrané buňky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure that the cursor is positioned on the cell, then click on &lt;f1&gt;Split Cells&lt;/f1&gt; to open the Split Cells dialog (Figure &lt;t2&gt;31&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ujistěte se, že je kurzor umístěn na buňce, a kliknutím na &lt;f1&gt;Rozdělit buňky&lt;/f1&gt; otevřete dialogové okno Rozdělit buňky (obrázek &lt;t2&gt;31&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, go to &lt;f0&gt;Format &gt; Table &gt; Split Cells&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Případně přejděte na &lt;f0&gt;Formát &gt; Tabulka &gt; Rozdělit buňky&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;31&lt;/seq0&gt;: Split Cells dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;31&lt;/seq0&gt;: Dialogové okno Rozdělit buňky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the Split Cells dialog, select the number of cells required when splitting a cell and whether to split the cell horizontally or vertically.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V dialogovém okně Rozdělit buňky vyberte počet buněk požadovaných při rozdělení buňky a zda chcete buňku rozdělit vodorovně nebo svisle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If necessary, when splitting horizontally, select &lt;f0&gt;Into equal proportions&lt;/f0&gt; to create cells of equal size.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V případě potřeby při horizontálním dělení vyberte možnost &lt;f0&gt;Ve stejném poměru&lt;/f0&gt;, abyste vytvořili buňky stejné velikosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clicking on &lt;f1&gt;Optimize&lt;/f1&gt; opens the Optimize toolbar (Figure &lt;t2&gt;32&lt;/t2&gt;) which &lt;s3/&gt;contains the following tools:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na &lt;f1&gt;Optimalizovat&lt;/f1&gt; se otevře panel nástrojů Optimalizace (obrázek &lt;t2&gt;32&lt;/t2&gt;), který &lt;s3/&gt;obsahuje následující nástroje:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;32&lt;/seq0&gt;: Optimize toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;32&lt;/seq0&gt;: Optimalizace panelu nástrojů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, click on &lt;f1&gt;Format &gt; Table &gt; Minimal Row Height&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Případně klikněte na &lt;f1&gt;Formát &gt; Tabulka &gt; Minimální výška řádku&lt;/f1&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, click on &lt;f1&gt;Format &gt; Table &gt; Minimal Column Width&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Případně klikněte na &lt;f1&gt;Formát &gt; Tabulka &gt; Minimální šířka sloupce&lt;/f1&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, click on &lt;f1&gt;Format &gt; Table &gt; Optimal Row Height&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Případně klikněte na &lt;f1&gt;Formát &gt; Tabulka &gt; Optimální výška řádku&lt;/f1&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, click on &lt;f1&gt;Format &gt; Table &gt; Optimal Column Width&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Případně klikněte na &lt;f1&gt;Formát &gt; Tabulka &gt; Optimální šířka sloupce&lt;/f1&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, click on &lt;f1&gt;Format &gt; Table &gt; Distribute Rows Equally&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Případně klikněte na &lt;f1&gt;Formát &gt; Tabulka &gt; Rozdělit řádky rovnoměrně&lt;/f1&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, click on &lt;f1&gt;Format &gt; Table &gt; Distribute Columns Evenly&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Případně klikněte na &lt;f1&gt;Formát &gt; Tabulka &gt; Rozdělit sloupce rovnoměrně&lt;/f1&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Align Top&lt;/f0&gt;, &lt;f1&gt;Center Vertically&lt;/f1&gt;, &lt;f2&gt;Align Bottom&lt;/f2&gt; – sets the vertical alignment of text in selected cells.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Zarovnat nahoru&lt;/f0&gt;, &lt;f1&gt;Zarovnat svisle&lt;/f1&gt;, &lt;f2&gt;Zarovnat dolů&lt;/f2&gt; - nastavuje svislé zarovnání textu ve vybraných buňkách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, go to &lt;f0&gt;Format &gt; Align Text&lt;/f0&gt; on the Menu bar and select the required alignment from the context menu for vertical or horizontal alignment of text in selected cells.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Případně přejděte na &lt;f0&gt;Formát &gt; Zarovnat text&lt;/f0&gt; na panelu nabídek a z kontextové nabídky vyberte požadované zarovnání pro svislé nebo vodorovné zarovnání textu ve vybraných buňkách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;33&lt;/seq0&gt;: Insert Rows dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;33&lt;/seq0&gt;: Dialogové okno Vložit řádky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;34&lt;/seq0&gt;: Insert Columns dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;34&lt;/seq0&gt;: Dialogové okno Vložit sloupce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Insert Row Above&lt;/f0&gt;, &lt;f1&gt;Insert Row Below&lt;/f1&gt;, &lt;f2&gt;Insert Column Before&lt;/f2&gt;, &lt;f3&gt;Insert Column After&lt;/f3&gt; – select a row or column and use these four tools to insert a row or column.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Vložit řádek nad&lt;/f0&gt;, &lt;f1&gt;Vložit řádek pod&lt;/f1&gt;, &lt;f2&gt;Vložit sloupec před&lt;/f2&gt;, &lt;f3&gt;Vložit sloupec za&lt;/f3&gt; - vyberte řádek nebo sloupec a pomocí těchto čtyř nástrojů vložte řádek nebo sloupec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, go to &lt;f0&gt;Format &gt; Table &gt; Insert Rows&lt;/f0&gt; or &lt;f1&gt;Insert Columns&lt;/f1&gt; on the Menu bar to open the Insert Row dialog (Figure &lt;t2&gt;33&lt;/t2&gt;) or Insert Column dialog (Figure &lt;t3&gt;34&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Případně přejděte na &lt;f0&gt;Formát &gt; Tabulka &gt; Vložit řádky&lt;/f0&gt; nebo &lt;f1&gt;Vložit sloupce&lt;/f1&gt; na panelu nabídek a otevřete dialogové okno Vložit řádek (obrázek &lt;t2&gt;33&lt;/t2&gt;) nebo Vložit sloupec (obrázek &lt;t3&gt;34&lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the number of rows or columns and the insertion position, then click &lt;f4&gt;OK&lt;/f4&gt; to insert and close the dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zvolte počet řádků nebo sloupců a pozici vložení, poté klikněte na &lt;f4&gt;OK&lt;/f4&gt; pro vložení a zavřete dialogové okno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Delete Row&lt;/f0&gt;, &lt;f1&gt;Delete Column&lt;/f1&gt;, &lt;f2&gt;Delete Table&lt;/f2&gt; – clicking on these tools deletes a single row or column that contains the selected cell.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Odstranit řádek&lt;/f0&gt;, &lt;f1&gt;Odstranit sloupec&lt;/f1&gt;, &lt;f2&gt;Odstranit tabulku&lt;/f2&gt; - kliknutím na tyto nástroje odstraníte jeden řádek nebo sloupec, který obsahuje vybranou buňku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To delete more than one row or column, highlight cells across the number of rows or columns as required, then click on &lt;f3&gt;Delete Row&lt;/f3&gt; or &lt;f4&gt;Delete Column&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li odstranit více než jeden řádek nebo sloupec, označte buňky v požadovaném počtu řádků nebo sloupců a klikněte na &lt;f3&gt;Odstranit řádek&lt;/f3&gt; nebo &lt;f4&gt;Odstranit sloupec&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To delete the whole table, place the cursor in a cell and select &lt;f5&gt;Delete Table&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li odstranit celou tabulku, umístěte kurzor do buňky a vyberte možnost &lt;f5&gt;Odstranit tabulku&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, right-click in a cell and select &lt;f0&gt;Delete &gt; Delete Row&lt;/f0&gt; or &lt;f1&gt;Delete Column&lt;/f1&gt; or &lt;f2&gt;Delete Table&lt;/f2&gt; from the context menu, or go to &lt;f3&gt;Format &gt; Table &gt; Delete Row&lt;/f3&gt; or &lt;f4&gt;Delete Column&lt;/f4&gt; or &lt;f5&gt;Delete Table&lt;/f5&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Případně klikněte pravým tlačítkem myši do buňky a z kontextové nabídky vyberte &lt;f0&gt;Odstranit &gt; Odstranit řádek&lt;/f0&gt; nebo &lt;f1&gt;Odstranit sloupec&lt;/f1&gt; nebo &lt;f2&gt;Odstranit tabulku&lt;/f2&gt; nebo přejděte na &lt;f3&gt;Formát &gt; Tabulka &gt; Odstranit řádek&lt;/f3&gt; nebo &lt;f4&gt;Odstranit sloupec&lt;/f4&gt; nebo &lt;f5&gt;Odstranit tabulku&lt;/f5&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Select Table&lt;/f0&gt;, &lt;f1&gt;Select Column&lt;/f1&gt;, &lt;f2&gt;Select Row&lt;/f2&gt; – select a table, column, or row if the same attributes are going to be applied to a table, column, or row.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Vybrat tabulku&lt;/f0&gt;, &lt;f1&gt;Vybrat sloupec&lt;/f1&gt;, &lt;f2&gt;Vybrat řádek&lt;/f2&gt; - vyberte tabulku, sloupec nebo řádek, pokud se na tabulku, sloupec nebo řádek použijí stejné atributy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, go to &lt;f0&gt;Format &gt; Table &gt; Select Row&lt;/f0&gt; or &lt;f1&gt;Select Column&lt;/f1&gt; or &lt;f2&gt;Select Table&lt;/f2&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Případně přejděte na &lt;f0&gt;Formát &gt; Tabulka &gt; Vybrat řádek&lt;/f0&gt; nebo &lt;f1&gt;Vybrat sloupec&lt;/f1&gt; nebo &lt;f2&gt;Vybrat tabulku&lt;/f2&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See “&lt;bf2&gt;Table Design section&lt;/bf2&gt;” on page &lt;bf3&gt;30&lt;/bf3&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace naleznete v části “&lt;bf2&gt;Část Návrh tabulky&lt;/bf2&gt;“ na straně &lt;bf3&gt;30&lt;/bf3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Table Properties&lt;/f0&gt; – opens the Table Properties dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Vlastnosti tabulky&lt;/f0&gt; - otevře dialogové okno Vlastnosti tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, right-click on the table and select &lt;f0&gt;Table Properties&lt;/f0&gt; from the context menu, go to &lt;f1&gt;Format &gt; Table &gt; Properties&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Případně klikněte na tabulku pravým tlačítkem myši a z kontextové nabídky vyberte &lt;f0&gt;Vlastnosti tabulky&lt;/f0&gt;, na panelu nabídek přejděte na &lt;f1&gt;Formát &gt; Tabulka &gt; Vlastnosti&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;35&lt;/seq0&gt;: Table Properties dialog - Font page</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;35&lt;/seq0&gt;: Dialogové okno Vlastnosti tabulky - stránka Písmo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Table Properties dialog (Figure &lt;t0&gt;35&lt;/t0&gt;) has five tabbed pages that provide formatting options for &lt;f1&gt;Font&lt;/f1&gt;, &lt;f2&gt;Font Effects&lt;/f2&gt;, &lt;f3&gt;Borders&lt;/f3&gt;, &lt;f4&gt;Background&lt;/f4&gt;, and &lt;f5&gt;Shadow&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dialogové okno Vlastnosti tabulky (obrázek &lt;t0&gt;35&lt;/t0&gt;) má pět stránek s kartami, které poskytují možnosti formátování pro &lt;f1&gt;Písmo&lt;/f1&gt;, &lt;f2&gt;Efekty písma&lt;/f2&gt;, &lt;f3&gt;Okraje&lt;/f3&gt;, &lt;f4&gt;Pozadí&lt;/f4&gt; a &lt;f5&gt;Stín&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To open the Table Properties dialog use one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dialogové okno Vlastnosti tabulky otevřete jedním z následujících způsobů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The formatting options on each dialog page are as follows:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti formátování na každé stránce dialogu jsou následující:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Font&lt;/f0&gt; (Figure &lt;t1&gt;35&lt;/t1&gt;) – select the required &lt;f2&gt;Family&lt;/f2&gt;, &lt;f3&gt;Style&lt;/f3&gt;, &lt;f4&gt;Size&lt;/f4&gt; and &lt;f5&gt;Language&lt;/f5&gt; for text in the table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Font&lt;/f0&gt; (obrázek &lt;t1&gt;35&lt;/t1&gt;) - vyberte požadované &lt;f2&gt;Rodina&lt;/f2&gt;, &lt;f3&gt;Styl&lt;/f3&gt;, &lt;f4&gt;Velikost&lt;/f4&gt; a &lt;f5&gt;Jazyk&lt;/f5&gt; pro text v tabulce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Font Effects&lt;/f0&gt; (Figure &lt;t1&gt;36&lt;/t1&gt;) – select the required &lt;f2&gt;Font Color&lt;/f2&gt;, &lt;f3&gt;Text Decoration&lt;/f3&gt; and &lt;f4&gt;Effects&lt;/f4&gt; for the text in the table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Efekty písma&lt;/f0&gt; (obrázek &lt;t1&gt;36&lt;/t1&gt;) - vyberte požadované &lt;f2&gt;Barva písma&lt;/f2&gt;, &lt;f3&gt;Ozdoba textu&lt;/f3&gt; a &lt;f4&gt;Efekty&lt;/f4&gt; pro text v tabulce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Borders&lt;/f0&gt; (Figure &lt;t1&gt;37&lt;/t1&gt;) – select the required Line Arrangement, Line and Padding for the table and cell borders.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Ohraničení&lt;/f0&gt; (obrázek &lt;t1&gt;37&lt;/t1&gt;) - vyberte požadované Uspořádání čar, Čáru a Polštářek pro ohraničení tabulky a buněk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These options are similar to the tools &lt;f2&gt;Border Style&lt;/f2&gt;, &lt;f3&gt;Border Color&lt;/f3&gt; and &lt;f4&gt;Borders&lt;/f4&gt; on the Table toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tyto možnosti jsou podobné nástrojům &lt;f2&gt;Styl ohraničení&lt;/f2&gt;, &lt;f3&gt;Barva ohraničení&lt;/f3&gt; a &lt;f4&gt;Ohraničení&lt;/f4&gt; na panelu nástrojů Tabulka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 4, Changing Object Attributes for more information on the lines used for table and cell borders.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o čarách používaných pro ohraničení tabulek a buněk najdete v kapitole 4, Změna atributů objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Background&lt;/f0&gt; (Figure &lt;t1&gt;38&lt;/t1&gt;) – select a background as the area fill for the table and/or selected cells.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Pozadí&lt;/f0&gt; (obrázek &lt;t1&gt;38&lt;/t1&gt;) - vyberte pozadí jako výplň oblasti tabulky a/nebo vybraných buněk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This dialog page provides the same functions as &lt;f2&gt;Area Style/Filling&lt;/f2&gt; tools on the Table toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato dialogová stránka poskytuje stejné funkce jako nástroje &lt;f2&gt;Styl plochy/vyplnění&lt;/f2&gt; na panelu nástrojů Tabulka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 4, Changing Object Attributes for more information on area style and filling used for table and cell backgrounds.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o stylu oblasti a výplni používané pro pozadí tabulek a buněk najdete v kapitole 4, Změna atributů objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Shadow&lt;/f0&gt; (Figure &lt;t1&gt;39&lt;/t1&gt;) – adds a shadow to the table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Stín&lt;/f0&gt; (obrázek &lt;t1&gt;39&lt;/t1&gt;) - přidá do tabulky stín.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The options adjust the look and position of the shadow.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti upravují vzhled a polohu stínu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 4, Changing Object Attributes for more information on table shadows.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o stínech tabulek naleznete v kapitole 4, Změna atributů objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;36&lt;/seq0&gt;: Table Properties dialog - Font Effects page</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;36&lt;/seq0&gt;: Dialogové okno Vlastnosti tabulky - stránka Efekty písma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;37&lt;/seq0&gt;: Table Properties dialog - Borders page</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;37&lt;/seq0&gt;: Dialogové okno Vlastnosti tabulky - stránka Ohraničení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;38&lt;/seq0&gt;: Table Properties dialog - Background page</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;38&lt;/seq0&gt;: Dialogové okno Vlastnosti tabulky - stránka Pozadí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;39&lt;/seq0&gt;: Table Properties dialog - Shadow page</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;39&lt;/seq0&gt;: Dialogové okno Vlastnosti tabulky - stránka Stínování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tables are placed into boxes when created and are treated just like any other object in a drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tabulky se při vytváření umisťují do rámečků a zachází se s nimi stejně jako s ostatními objekty ve výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, only the Position and Size dialog (Figure &lt;t0&gt;40&lt;/t0&gt;) can be used for tables.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro tabulky však lze použít pouze dialogové okno Pozice a velikost (obrázek &lt;t0&gt;40&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some options are greyed out and are not available for tables.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Některé možnosti jsou šedé a nejsou pro tabulky k dispozici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 3, Working with Objects for more information on position and size.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o poloze a velikosti najdete v kapitole 3, Práce s objekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After selecting the table, open the Position and Size dialog using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po výběru tabulky otevřete dialogové okno Pozice a velikost jedním z následujících způsobů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the table and select &lt;f0&gt;Position and Size&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem myši na tabulku a z kontextové nabídky vyberte možnost &lt;f0&gt;Pozice a velikost&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Position and Size&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Formát &gt; Pozice a velikost&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;40&lt;/seq0&gt;: Position and Size dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;40&lt;/seq0&gt;: Dialogové okno Poloha a velikost</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table position can be changed by dragging with the cursor and text box size can be changed by dragging one of the selection handles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pozici tabulky lze měnit tažením kurzoru a velikost textového pole lze měnit tažením jednoho z úchytů výběru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See “&lt;bf0&gt;Text boxes&lt;/bf0&gt;” on page &lt;bf1&gt;6&lt;/bf1&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace naleznete v části “&lt;bf0&gt;Textová pole&lt;/bf0&gt;“ na straně &lt;bf1&gt;6&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the size of a table box is changed, the table and cell contents also increases or decreases in size to match the box size.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když se změní velikost rámečku tabulky, zvětší se nebo zmenší i obsah tabulky a buněk tak, aby odpovídal velikosti rámečku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure the table is selected and the selection handles are visible on the table border, then delete the table using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ujistěte se, že je tabulka vybrána a úchyty výběru jsou viditelné na okraji tabulky, a poté tabulku odstraňte některou z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Table &gt; Delete Table&lt;/f0&gt;, &lt;f1&gt;Delete Row&lt;/f1&gt; or &lt;f2&gt;Delete Column&lt;/f2&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Formát &gt; Tabulka &gt; Odstranit tabulku&lt;/f0&gt;, &lt;f1&gt;Odstranit řádek&lt;/f1&gt; nebo &lt;f2&gt;Odstranit sloupec&lt;/f2&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;Delete Table&lt;/f0&gt;, &lt;f1&gt;Delete Row&lt;/f1&gt; or &lt;f2&gt;Delete Column&lt;/f2&gt; on the Table toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na panelu nástrojů Tabulka vyberte možnost &lt;f0&gt;Odstranit tabulku&lt;/f0&gt;, &lt;f1&gt;Odstranit řádek&lt;/f1&gt; nebo &lt;f2&gt;Odstranit sloupec&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click and select &lt;f0&gt;Delete &gt; Delete Table&lt;/f0&gt;, &lt;f1&gt;Delete Row&lt;/f1&gt; or &lt;f2&gt;Delete Column&lt;/f2&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem myši a z kontextové nabídky vyberte možnost &lt;f0&gt;Odstranit &gt; Odstranit tabulku&lt;/f0&gt;, &lt;f1&gt;Odstranit řádek&lt;/f1&gt; nebo &lt;f2&gt;Odstranit sloupec&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click in a table cell, then delete the table row or column using one of the following methods.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na buňku tabulky a odstraňte řádek nebo sloupec tabulky jedním z následujících způsobů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure the table selection handles are not be displayed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ujistěte se, že se nezobrazují úchyty pro výběr tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Table &gt; Delete Row&lt;/f0&gt; or &lt;f1&gt;Delete Column&lt;/f1&gt; on the Menu bar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Formát &gt; Tabulka &gt; Odstranit řádek&lt;/f0&gt; nebo &lt;f1&gt;Odstranit sloupec&lt;/f1&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;Delete Row&lt;/f0&gt; or &lt;f1&gt;Delete Column&lt;/f1&gt; on the Table toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na panelu nástrojů Tabulka vyberte možnost &lt;f0&gt;Odstranit řádek&lt;/f0&gt; nebo &lt;f1&gt;Odstranit sloupec&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click and select &lt;f0&gt;Delete &gt; Delete Row&lt;/f0&gt; or &lt;f1&gt;Delete Column&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem myši a z kontextové nabídky vyberte možnost &lt;f0&gt;Odstranit &gt; Odstranit řádek&lt;/f0&gt; nebo &lt;f1&gt;Odstranit sloupec&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete cell contents in a table as follows:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obsah buněk v tabulce odstraníte následujícím způsobem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the cell or cells.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte buňku nebo buňky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press the &lt;f0&gt;Delete&lt;/f0&gt; or &lt;f1&gt;Backspace&lt;/f1&gt; key on the keyboard.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na klávesnici stiskněte klávesu &lt;f0&gt;Delete&lt;/f0&gt; nebo &lt;f1&gt;Backspace&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fields allow for the automatic insertion of text into a drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pole umožňují automatické vkládání textu do výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fields are commonly used when creating templates and drawing masters.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pole se běžně používají při vytváření šablon a předloh výkresů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information on templates and master drawings, see Chapter 11, Advanced Drawing Techniques.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o šablonách a hlavních výkresech najdete v kapitole 11, Pokročilé techniky kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A text box is created when a field is inserted into the center of a drawing and can be repositioned just like any other text box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Textové pole se vytvoří, když je pole vloženo do středu výkresu, a jeho polohu lze měnit stejně jako u jiných textových polí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See “&lt;bf0&gt;Formatting text&lt;/bf0&gt;” on page &lt;bf1&gt;12&lt;/bf1&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace naleznete v části “&lt;bf0&gt;Formátování textu&lt;/bf0&gt;“ na straně &lt;bf1&gt;12&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The fields available in Draw are as follows:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V aplikaci Draw jsou k dispozici následující pole:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Date (fixed)&lt;/f0&gt; – inserts the current date into a drawing as a fixed field.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Date (fixed)&lt;/f0&gt; - vloží do výkresu aktuální datum jako pevné pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Available date formats depend on the language setting in &lt;f1&gt;Tools &gt; Options &gt; Language Settings &gt; Language&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dostupné formáty data závisí na nastavení jazyka v &lt;f1&gt;Nástroje &gt; Možnosti &gt; Nastavení jazyka &gt; Jazyk&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the date field and select the required date format from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem myši na pole data a z kontextové nabídky vyberte požadovaný formát data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Date (variable)&lt;/f0&gt; – inserts the current date into a drawing as a variable field.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Date (proměnná)&lt;/f0&gt; - vloží do výkresu aktuální datum jako proměnné pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The date is automatically updated each time the file is opened.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Datum se automaticky aktualizuje při každém otevření souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Time (fixed)&lt;/f0&gt; – inserts the current time into a drawing as a fixed field.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Čas (pevný)&lt;/f0&gt; - vloží do výkresu aktuální čas jako pevné pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Available time formats depend on the language setting in &lt;f1&gt;Tools &gt; Options &gt; Language Settings &gt; Language&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dostupné časové formáty závisí na nastavení jazyka v &lt;f1&gt;Nástroje &gt; Možnosti &gt; Nastavení jazyka &gt; Jazyk&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the time field and select the required time format from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem myši na časové pole a z kontextové nabídky vyberte požadovaný formát času.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Time (variable)&lt;/f0&gt; – inserts the current time into a drawing as a variable field.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Čas (proměnná)&lt;/f0&gt; - vloží do výkresu aktuální čas jako proměnné pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The time is automatically updated each time the file is opened.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Čas se automaticky aktualizuje při každém otevření souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Author&lt;/f0&gt; – inserts the first and last names of the author of the drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Autor&lt;/f0&gt; - vloží jméno a příjmení autora výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Page Number&lt;/f0&gt; – inserts the page number into the current drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Číslo stránky&lt;/f0&gt; - vloží číslo stránky do aktuálního výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, go to &lt;f1&gt;Insert &gt; Page Number&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Případně přejděte na &lt;f1&gt;Vložit &gt; Číslo stránky&lt;/f1&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If a page number is to be added to every page in the drawing, go to &lt;f2&gt;View &gt; Master&lt;/f2&gt; on the Menu bar and insert the page number field.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud má být na každou stránku výkresu přidáno číslo stránky, přejděte na &lt;f2&gt;Zobrazení &gt; Hlavní&lt;/f2&gt; na panelu nabídek a vložte pole s číslem stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Page Title&lt;/f0&gt; – inserts the page title.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Název stránky&lt;/f0&gt; - vloží název stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default slide name is Page # if the page has not been renamed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud stránka nebyla přejmenována, je výchozím názvem snímku Strana #.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Page Count&lt;/f0&gt; – inserts the total number of pages in a drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Počet stránek&lt;/f0&gt; - vloží celkový počet stránek výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;File Name&lt;/f0&gt; – inserts the name of the file used for the drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Název souboru&lt;/f0&gt; - vloží název souboru použitého pro výkres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The file name only appears after the file has been saved.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Název souboru se zobrazí až po jeho uložení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When inserting text that can be used as a hyperlink (for example, a website address or URL), Draw formats it automatically, creating the hyperlink and applying color and underlining.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při vkládání textu, který lze použít jako hypertextový odkaz (například adresu webové stránky nebo URL), jej Draw automaticky zformátuje, vytvoří hypertextový odkaz a použije barvu a podtržení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To prevent LibreOffice from automatically turning website addresses or URLs into hyperlinks, go to &lt;f0&gt;Tools &gt; AutoCorrect Options &gt; Options&lt;/f0&gt; on the Menu bar and deselect &lt;f1&gt;URL Recognition&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li LibreOffice zabránit automatickému převádění webových adres nebo adres URL na hypertextové odkazy, přejděte na &lt;f0&gt;Nástroje &gt; Možnosti automatických oprav &gt; Možnosti&lt;/f0&gt; na panelu nabídek a zrušte výběr možnosti &lt;f1&gt;Rozpoznávání URL&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note this color change changes the color for all hyperlinks across all components of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Všimněte si, že tato změna barvy změní barvu všech hypertextových odkazů ve všech součástech LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click in the text box at the required position for the hyperlink.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte do textového pole na požadované místo hypertextového odkazu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Insert &gt; Hyperlink&lt;/f0&gt; on the Menu bar, or use the keyboard shortcut &lt;f1&gt;Ctrl+K&lt;/f1&gt; to open the Hyperlink dialog (Figure &lt;t2&gt;41&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Vložit &gt; Hypertextový odkaz&lt;/f0&gt; na panelu nabídek nebo pomocí klávesové zkratky &lt;f1&gt;Ctrl K&lt;/f1&gt; otevřete dialogové okno Hypertextový odkaz (obrázek &lt;t2&gt;41&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the type of hyperlink required and the required options.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte požadovaný typ hypertextového odkazu a požadované možnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See “&lt;bf0&gt;Hyperlink types&lt;/bf0&gt;” below for hyperlink types and the options available for each type.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Typy hypertextových odkazů a možnosti dostupné pro každý typ najdete v části “&lt;bf0&gt;Typy hypertextových odkazů&lt;/bf0&gt;“ níže.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;Apply&lt;/f0&gt; to insert the hyperlink and save your selections.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;Použít&lt;/f0&gt; vložte hypertextový odkaz a uložte výběr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If several hyperlinks are being created, click &lt;f1&gt;Apply&lt;/f1&gt; after inserting each hyperlink.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud vytváříte několik hypertextových odkazů, klikněte po vložení každého hypertextového odkazu na &lt;f1&gt;Použít&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save the changes and close the Hyperlink dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;OK&lt;/f0&gt; uložte změny a zavřete dialogové okno Hypertextový odkaz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the left side, select one of the four types of hyperlinks.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na levé straně vyberte jeden ze čtyř typů hypertextových odkazů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The dialog changes according to the type of hyperlink selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dialogové okno se mění podle typu vybraného hypertextového odkazu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Internet&lt;/f0&gt; – select whether the link is Web or FTP.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Internet&lt;/f0&gt; - vyberte, zda se jedná o odkaz na web nebo FTP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter the required web address (URL) and any necessary text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zadejte požadovanou webovou adresu (URL) a případný text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Mail&lt;/f0&gt; – enter the recipient details and subject for the email.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Pošta&lt;/f0&gt; - zadejte údaje příjemce a předmět e-mailu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;41&lt;/seq0&gt;: Hyperlink dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;41&lt;/seq0&gt;: Dialogové okno Hypertextový odkaz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter the file path for the document, or click on &lt;f0&gt;Open File&lt;/f0&gt; to open a file browser.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zadejte cestu k souboru dokumentu nebo kliknutím na &lt;f0&gt;Otevřít soubor&lt;/f0&gt; otevřete prohlížeč souborů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Leave this blank if the link is to a target in the same drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud odkaz směřuje na cíl ve stejném výkresu, ponechte tuto položku prázdnou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specify a target, for example.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zadejte cíl, například.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>a specific page in a drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>určitou stránku ve výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Target&lt;/f0&gt; to open the Target in Document dialog, where a target can be selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;Cíl&lt;/f0&gt; otevřete dialogové okno Cíl v dokumentu, kde lze vybrat cíl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the name of the target is known, enter its name into the box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je název cíle znám, zadejte jej do pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If necessary, enter the URL of the document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V případě potřeby zadejte adresu URL dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These hyperlinks are commonly referred to as a bookmark.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tyto hypertextové odkazy se běžně označují jako záložky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;New Document&lt;/f0&gt; – creates a hyperlink to a new document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Nový dokument&lt;/f0&gt; - vytvoří hypertextový odkaz na nový dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;Edit now&lt;/f0&gt; to edit the newly created document immediately, or &lt;f1&gt;Edit later&lt;/f1&gt; to create a new document and edit it later.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběrem možnosti &lt;f0&gt;Upravit nyní&lt;/f0&gt; můžete nově vytvořený dokument ihned upravit, nebo &lt;f1&gt;Upravit později&lt;/f1&gt; můžete vytvořit nový dokument a upravit jej později.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the type of document to create (text, spreadsheet, etc.).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte typ dokumentu, který chcete vytvořit (text, tabulka atd.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Select path&lt;/f0&gt; to open a file browser and navigate to the folder where the new document is going to be saved.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;Zvolte cestu&lt;/f0&gt; otevřete prohlížeč souborů a přejděte do složky, kam bude nový dokument uložen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Further Settings&lt;/f0&gt; section in the Hyperlink dialog is common to all the hyperlink types, although some options are more relevant to some types of links.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Oddíl &lt;f0&gt;Další nastavení&lt;/f0&gt; v dialogovém okně Hypertextový odkaz je společný pro všechny typy hypertextových odkazů, i když některé možnosti jsou pro některé typy odkazů důležitější.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Frame&lt;/f0&gt; – determines how the hyperlink opens.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Rámeček&lt;/f0&gt; - určuje způsob otevření hypertextového odkazu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Text&lt;/f0&gt; – specifies what text is visible to the user.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Text&lt;/f0&gt; - určuje, jaký text bude pro uživatele viditelný.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It specifies the text added as a NAME attribute in the HTML code behind the hyperlink.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Určuje text přidaný jako atribut NAME v kódu HTML za hypertextovým odkazem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the hyperlink.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte hypertextový odkaz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Edit &gt; Hyperlink&lt;/f0&gt; on the Menu bar to open the Hyperlink dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Upravit &gt; Hypertextový odkaz&lt;/f0&gt; na panelu nabídek a otevřete dialogové okno Hypertextový odkaz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make editing changes using the available options, then click &lt;f0&gt;Apply&lt;/f0&gt; when done.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Proveďte změny úprav pomocí dostupných možností a po dokončení klikněte na &lt;f0&gt;Použít&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If several hyperlinks are to be edited, click &lt;f1&gt;Apply&lt;/f1&gt; after editing each hyperlink.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud chcete upravit několik hypertextových odkazů, klikněte po úpravě každého hypertextového odkazu na &lt;f1&gt;Použít&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In Draw, clicking on a hotspot opens the linked page in the appropriate program (for example, default browser for HTML pages; LibreOffice Writer for ODT files; PDF viewer for PDF files).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V aplikaci Draw se kliknutím na sledovaný bod otevře odkazovaná stránka v příslušném programu (například výchozí prohlížeč pro stránky HTML; LibreOffice Writer pro soubory ODT; prohlížeč PDF pro soubory PDF).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hotspots can be created in various shapes, such as rectangles, ellipses, and polygons, and include several hotspots in the same image.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Hotspoty lze vytvářet v různých tvarech, například obdélníky, elipsy a mnohoúhelníky, a zahrnout několik hotspotů do jednoho obrázku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a hotspot is clicked on, the URL opens in a browser window or frame that has been specified.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po kliknutí na hotspot se adresa URL otevře v zadaném okně nebo rámu prohlížeče.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The text that appears when the cursor hovers over a hotspot can also be specified.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Lze také zadat text, který se zobrazí, když kurzor najede na sledovaný bod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select an image in a drawing to use as a hotspot.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte obrázek ve výkresu, který chcete použít jako sledovaný bod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Tools &gt; ImageMap&lt;/f0&gt; on the Menu bar to open the Image Map Editor dialog (Figure &lt;t1&gt;42&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Nástroje &gt; ImageMap&lt;/f0&gt; na panelu nabídek a otevřete dialogové okno Editor obrazových map (obrázek &lt;t1&gt;42&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the type of hotspot area required from the icons at the top of the Image Map Editor dialog – &lt;f0&gt;Rectangle&lt;/f0&gt;, &lt;f1&gt;Ellipse&lt;/f1&gt;, &lt;f2&gt;Polygon&lt;/f2&gt;, &lt;f3&gt;Freeform Polygon&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte požadovaný typ oblasti hotspotu z ikon v horní části dialogového okna Editoru obrazových map - &lt;f0&gt;Obdélník&lt;/f0&gt;, &lt;f1&gt;Elipsa&lt;/f1&gt;, &lt;f2&gt;Polygon&lt;/f2&gt;, &lt;f3&gt;Volný tvar mnohoúhelníku&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Draw the hotspot area onto the selected image.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nakreslete oblast hotspotu na vybraný obrázek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;42&lt;/seq0&gt;: Image Map Editor dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;42&lt;/seq0&gt;: Dialogové okno Editor obrazových map</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter the hyperlink address for the hotspot in the &lt;f0&gt;Address&lt;/f0&gt; text box using the address format: &lt;a1&gt;&lt;f2&gt;file:///&lt;/f2&gt;&lt;/a1&gt;&lt;f3&gt;&lt;path&gt;/document_name#anchor_name&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Do textového pole &lt;f0&gt;Adresa&lt;/f0&gt; zadejte adresu hypertextového odkazu pro hotspot ve formátu adresy: &lt;f3&gt;&lt;path&gt;/název_dokumentu#název_kotvy&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Save&lt;/f0&gt; to save the image map to a file, then close the Image Map Editor dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;Uložit&lt;/f0&gt; uložte obrazovou mapu do souboru a zavřete dialogové okno Editor obrazových map.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The ImageMap Editor contains the following tools:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Editor ImageMap obsahuje následující nástroje:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Apply&lt;/f0&gt; – applies the changes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Použít&lt;/f0&gt; - provede změny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Open&lt;/f0&gt; – loads into the Image Map Editor an existing image map in the MAP-CERN, MAP-NCSA or SIP StarView image map file format.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Otevřít&lt;/f0&gt; - načte do Editoru obrazových map existující obrazovou mapu ve formátu MAP-CERN, MAP-NCSA nebo SIP StarView.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Save&lt;/f0&gt; – saves the image map in the MAP-CERN, MAP-NCSA or SIP StarView image map file format.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Uložit&lt;/f0&gt; - uloží obrazovou mapu ve formátu MAP-CERN, MAP-NCSA nebo SIP StarView.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Select&lt;/f0&gt; – selects a hotspot in the image map for editing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Vybrat&lt;/f0&gt; - vybere sledované místo na mapě obrázku k úpravám.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Rectangle&lt;/f0&gt;, &lt;f1&gt;Ellipse&lt;/f1&gt;, &lt;f2&gt;Polygon&lt;/f2&gt;, &lt;f3&gt;Freeform Polygon&lt;/f3&gt; – draws a hotspot on the selected image in the shape selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Obdélník&lt;/f0&gt;, &lt;f1&gt;Elipsa&lt;/f1&gt;, &lt;f2&gt;Polygon&lt;/f2&gt;, &lt;f3&gt;Volný tvar mnohoúhelníku&lt;/f3&gt; - nakreslí na vybraný obrázek hotspot ve vybraném tvaru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Edit Points&lt;/f0&gt; – change the shape of the selected hotspot by editing the anchor points.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Upravit body&lt;/f0&gt; - změna tvaru vybraného sledovaného bodu úpravou kotevních bodů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Move Points&lt;/f0&gt; – move the individual anchor points of the selected hotspot.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Přesun bodů&lt;/f0&gt; - přesun jednotlivých kotevních bodů vybraného sledovaného bodu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Insert Points&lt;/f0&gt; – adds an anchor point at the selected point on the outline of the hotspot.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Vložit body&lt;/f0&gt; - přidá kotevní bod ve vybraném bodě na obrys hotspotu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Delete Points&lt;/f0&gt; – &lt;s1/&gt;deletes a selected anchor point.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Odstranit body&lt;/f0&gt; - &lt;s1/&gt;odstraní vybraný kotevní bod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Undo&lt;/f0&gt; – cancels the previous action.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Undo&lt;/f0&gt; - zruší předchozí akci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Redo&lt;/f0&gt; – reapplies the previous cancelled action.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Redo&lt;/f0&gt; - znovu použije předchozí zrušenou akci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Active&lt;/f0&gt; – toggles the status of a selected hotspot between active and inactive.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Aktivní&lt;/f0&gt; - přepíná stav vybraného hotspotu mezi aktivním a neaktivním.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Macro&lt;/f0&gt; – assign a macro that runs when the hotspot is clicked on.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Makro&lt;/f0&gt; - přiřadí makro, které se spustí po kliknutí na sledovaný bod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Properties&lt;/f0&gt; – define the properties of the selected hotspot.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Vlastnosti&lt;/f0&gt; - definuje vlastnosti vybraného hotspotu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Address&lt;/f0&gt; – enter the URL for the file that opens when the selected hotspot is clicked on.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Adresa&lt;/f0&gt; - zadejte adresu URL souboru, který se otevře po kliknutí na vybraný hotspot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The address format to be used: &lt;a1&gt;&lt;f2&gt;file:///&lt;/f2&gt;&lt;/a1&gt;&lt;f3&gt;&lt;path&gt;/document_name#anchor_name&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formát adresy, který se má použít: &lt;a1&gt;&lt;f2&gt;file:///&lt;/f2&gt;&lt;/a1&gt;&lt;f3&gt;&lt;path&gt;/název_dokumentu#název_kotvy&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Text&lt;/f0&gt; – enter the text that is displayed when the cursor rests on the hotspot .</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Text&lt;/f0&gt; - zadejte text, který se zobrazí, když kurzor spočine na sledovaném místě .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If no text is entered, the &lt;f1&gt;Address&lt;/f1&gt; is displayed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud není zadán žádný text, zobrazí se &lt;f1&gt;Adresa&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Frame&lt;/f0&gt; – enter the name of the target frame for the hotspot.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Rámeček&lt;/f0&gt; - zadejte název cílového rámečku pro hotspot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Standard frame name can be selected from the drop-down list and used instead.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Z rozevíracího seznamu lze vybrat standardní název rámu a použít jej místo něj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Graphic view&lt;/f0&gt; – displays the image map so that the hotspots can be selected and edited.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Grafické zobrazení&lt;/f0&gt; - zobrazí obrazovou mapu, aby bylo možné vybírat a upravovat sledované body.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using Fontwork creates graphical text as objects to make a drawing look more attractive.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí nástroje Fontwork vytvoříte grafický text jako objekt, aby výkres vypadal atraktivněji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are many different settings for Fontwork (line, area, position, size, and more) to match the requirements of a drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro práci s písmem existuje mnoho různých nastavení (čára, plocha, pozice, velikost a další), která odpovídají požadavkům výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fontwork is also available with the Writer, Calc, and Impress modules of LibreOffice, but there are small differences in the way that each LibreOffice module displays Fontwork.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Práce s písmem je k dispozici také v modulech Writer, Calc a Impress kancelářského balíku LibreOffice, ale způsob, jakým jednotlivé moduly LibreOffice práci s písmem zobrazují, se mírně liší.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;43&lt;/seq0&gt;: Fontwork Gallery dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;43&lt;/seq0&gt;: Dialog Galerie písem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;44&lt;/seq0&gt;: Fontwork example</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;44&lt;/seq0&gt;: Příklad práce s písmem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;45&lt;/seq0&gt;: Fontwork toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;45&lt;/seq0&gt;: Panel nástrojů Fontwork</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;46&lt;/seq0&gt;: Fontwork Shape toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;46&lt;/seq0&gt;: Panel nástrojů Tvar písma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the Fontwork Gallery dialog (Figure &lt;t0&gt;43&lt;/t0&gt;) using one of the following methods.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dialogové okno Galerie písem (obrázek &lt;t0&gt;43&lt;/t0&gt;) otevřete jedním z následujících způsobů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Insert &gt; Fontwork&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Vložit &gt; Písmo&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Insert Fontwork Text&lt;/f0&gt; on the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Vložit text písma&lt;/f0&gt; na panelu nástrojů Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Insert Fontwork Text&lt;/f0&gt; on the Fontwork toolbar, if this toolbar is visible.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Vložit text písma&lt;/f0&gt; na panelu nástrojů Práce s písmem, pokud je tento panel nástrojů viditelný.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The selected Fontwork object appears in the center of the drawing and the dialog closes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybraný objekt Písmo se zobrazí uprostřed výkresu a dialogové okno se zavře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Double-click on the black text in the Fontwork object to switch on editing mode.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dvakrát klikněte na černý text v objektu Písmo a zapněte režim úprav.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Type the required text which replaces the black text in the Fontwork object as shown in Figure &lt;t0&gt;44&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zadejte požadovaný text, který nahradí černý text v objektu Písmo, jak je znázorněno na obrázku &lt;t0&gt;44&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press the &lt;f0&gt;Esc&lt;/f0&gt; key or click outside the selected area to apply the change.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Změnu provedete stisknutím klávesy &lt;f0&gt;Esc&lt;/f0&gt; nebo kliknutím mimo vybranou oblast.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Fontwork toolbar (Figure &lt;t0&gt;45&lt;/t0&gt;) becomes visible and active on the workspace when a Fontwork object is selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Panel nástrojů Práce s písmem (obrázek &lt;t0&gt;45&lt;/t0&gt;) je na pracovní ploše viditelný a aktivní, když je vybrán objekt Práce s písmem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following tools are available for editing a Fontwork object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro úpravy objektu Fontwork jsou k dispozici následující nástroje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on Fontwork Shape to open a pop-up toolbar and select a Fontwork shape for the available options.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na Tvar písma otevřete vyskakovací panel nástrojů a z dostupných možností vyberte tvar písma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The shapes are shown in the Fontwork Shape floating toolbar (Figure &lt;t1&gt;46&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tvary jsou zobrazeny na plovoucím panelu nástrojů Tvar písma (obrázek &lt;t1&gt;46&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Options are &lt;f1&gt;Left Align&lt;/f1&gt;, &lt;f2&gt;Center&lt;/f2&gt;, &lt;f3&gt;Right Align&lt;/f3&gt;, &lt;f4&gt;Word Justify&lt;/f4&gt;, and &lt;f5&gt;Stretch Justify&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti jsou &lt;f1&gt;Zarovnání vlevo&lt;/f1&gt;, &lt;f2&gt;Zarovnání na střed&lt;/f2&gt;, &lt;f3&gt;Zarovnání vpravo&lt;/f3&gt;, &lt;f4&gt;Zarovnání slova&lt;/f4&gt; a &lt;f5&gt;Zarovnání roztažení&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Options are &lt;f1&gt;Very Tight&lt;/f1&gt;, &lt;f2&gt;Tight&lt;/f2&gt;, &lt;f3&gt;Normal&lt;/f3&gt;, &lt;f4&gt;Loose&lt;/f4&gt;, &lt;f5&gt;Very Loose&lt;/f5&gt; and &lt;f6&gt;Custom&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti jsou &lt;f1&gt;Velmi těsné&lt;/f1&gt;, &lt;f2&gt;Těsné&lt;/f2&gt;, &lt;f3&gt;Normální&lt;/f3&gt;, &lt;f4&gt;Volné&lt;/f4&gt;, &lt;f5&gt;Velmi volné&lt;/f5&gt; a &lt;f6&gt;Vlastní&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For &lt;f7&gt;Custom&lt;/f7&gt; spacing, input a percentage value: 100% is normal character spacing, less than 100% character spacing is tighter, and more than 100% character spacing is looser.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro &lt;f7&gt;Vlastní&lt;/f7&gt; rozestupy zadejte procentuální hodnotu: 100 % je normální rozestup znaků, méně než 100 rozestupů je užší a více než 100 rozestupů je volnější.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 7, 3D Objects for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace naleznete v kapitole 7, 3D objekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A Fontwork object can be treated like any other object in Draw.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>S objektem Fontwork lze zacházet jako s jakýmkoli jiným objektem v aplikaci Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It can be resized, rotated, skewed, slanted, flipped, and so on.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Lze měnit jeho velikost, otáčet ho, zkosit, naklonit, převrátit atd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information on modifying a Fontwork object, see Chapter 3, Working With Objects, Chapter 4, Changing Object Attributes and Chapter 5, Combining Multiple Objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o úpravách objektu Fontwork naleznete v kapitole 3, Práce s objekty, kapitole 4, Změna atributů objektu a kapitole 5, Kombinace více objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fontwork is text and all text formatting that has been described in this chapter can be applied.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Práce s písmem je text a lze použít veškeré formátování textu popsané v této kapitole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Assign line properties only to Fontwork that is NOT going to be converted to 3D effect using Toggle Extrusion, otherwise line properties will not be visible.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přiřaďte vlastnosti čar pouze těm dílům písma, které NEBUDOU převedeny na 3D efekt pomocí funkce Toggle Extrusion, jinak nebudou vlastnosti čar viditelné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some of the Fontwork shapes can be modified.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Některé tvary písma lze upravit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, to change the angles of trapezoid or parallelogram basic shapes by moving the dot that is displayed along with the selection handles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například pro změnu úhlů základních tvarů lichoběžníku nebo rovnoběžníku posunutím tečky, která je zobrazena spolu s úchyty výběru.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

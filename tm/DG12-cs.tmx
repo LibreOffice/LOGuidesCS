@@ -1,0 +1,1302 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" segtype="sentence" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 12, User Interface Variants&lt;segment 23084&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 12, Varianty uživatelského rozhraní&lt;segment 23084&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Tabbed UI&lt;/t0&gt; | &lt;t1&gt;11&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Tabulkové uživatelské rozhraní&lt;/t0&gt; | &lt;t1&gt;11&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;6&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Chapter 12, User Interface Variants&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;6&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Kapitola 12, Varianty uživatelského rozhraní&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Chapter 12, User Interface Variants&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Kapitola 12, Varianty uživatelského rozhraní&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;0&lt;/t0&gt;| &lt;t1&gt;Chapter 12, User Interface Variants&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;0&lt;/t0&gt;| &lt;t1&gt;Kapitola 12, Varianty uživatelského rozhraní&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 12, &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 12, &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User Interface Variants</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Varianty uživatelského rozhraní</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This document maybe distributed and/or modified under the terms of either the GNU General Public License (&lt;a2&gt;https://www.gnu.org/licenses/gpl.html&lt;/a2&gt;), version 3 or later, or the Creative Commons Attribution License (&lt;a3&gt;https://creativecommons.org/licenses/by/4.0/&lt;/a3&gt;), version 4.0 or later.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento dokument může být šířen a/nebo upravován za podmínek buď GNU General Public License (&lt;a2&gt;https://www.gnu.org/licenses/gpl.html&lt;/a2&gt;), verze 3 nebo novější, nebo Creative Commons Attribution License (&lt;a3&gt;https://creativecommons.org/licenses/by/4.0/&lt;/a3&gt;), verze 4.0 nebo novější.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>First issue of this chapter.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>První vydání této kapitoly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Everything sent to a mailing list, including email addresses and any other personal information that is written in the message, is publicly archived and cannot be deleted.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vše, co je odesláno do poštovního seznamu, včetně e-mailových adres a dalších osobních údajů, které jsou ve zprávě napsány, je veřejně archivováno a nemůže být smazáno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Published &lt;t0&gt;July&lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt;2021&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vydáno &lt;t0&gt;červenec&lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt;2021&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Based on LibreOffice &lt;ud3&gt;7.1&lt;/ud3&gt;&lt;s4/&gt;Community.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Založeno na LibreOffice &lt;ud3&gt;7.1&lt;/ud3&gt;&lt;s4/&gt;Komunita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other versions of LibreOffice may differ in appearance and functionality.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jiné verze LibreOffice se mohou lišit vzhledem a funkčností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selecting user interface</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběr uživatelského rozhraní</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Standard Toolbar UI</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Standardní uživatelské rozhraní panelu nástrojů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tabbed UI</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Uživatelské rozhraní s kartami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fixed tabs</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pevné karty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File tab</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Karta Soubor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Home tab</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Karta Domů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert tab</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Karta Vložit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Layout tab</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Karta Rozložení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Review tab</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Karta Recenze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>View tab</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zobrazit kartu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Extension tab</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Karta Rozšíření</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tools tab</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Karta Nástroje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;Addi&lt;/a0&gt;&lt;a1&gt;tional&lt;/a1&gt;&lt;a2&gt; tabs</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;a0&gt;Dodatečné&lt;/a0&gt;&lt;a1&gt;nepovinné&lt;/a1&gt;&lt;a2&gt; záložky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Draw tab</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Karta Draw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Image tab</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Karta Obrázek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Object tab</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Karta Objekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table tab</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Karta Tabulka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Media tab</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Karta Média</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tabbed Compact UI</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kompaktní uživatelské rozhraní s kartami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Groupedbar Compact UI</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kompaktní uživatelské rozhraní Groupedbar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contextual Single UI</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kontextové jednotné uživatelské rozhraní</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Single Toolbar UI &amp; Sidebar UI</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Uživatelské rozhraní jednoho panelu nástrojů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, commands and tools used in LibreOffice Draw are grouped in a user interface consisting of cascading menus and toolbars.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ve výchozím nastavení jsou příkazy a nástroje používané v LibreOffice Draw seskupeny v uživatelském rozhraní, které se skládá z kaskádových nabídek a panelů nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The functions and use of these cascading menus and toolbars are described in previous chapters of this user guide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Funkce a použití těchto kaskádových nabídek a panelů nástrojů jsou popsány v předchozích kapitolách této uživatelské příručky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This chapter describes the user interface variants that are available for LibreOffice Draw.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato kapitola popisuje varianty uživatelského rozhraní, které jsou k dispozici pro LibreOffice Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A user then has the option to select the user interface that suits their requirements and methods of creating drawings in LibreOffice Draw.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Uživatel má pak možnost vybrat si uživatelské rozhraní, které vyhovuje jeho požadavkům a způsobům vytváření výkresů v LibreOffice Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When changing the user interface, the variant can be applied only to LibreOffice Draw, or applied to all the modules in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při změně uživatelského rozhraní lze variantu použít pouze pro LibreOffice Draw nebo pro všechny moduly LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To select a user interface variant or switching between the user interface variants:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběr varianty uživatelského rozhraní nebo přepínání mezi variantami uživatelského rozhraní:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;View &gt; User Interface&lt;/f0&gt; on the Menu bar to open the Select Your Preferred User Interface dialog (Figure &lt;t1&gt;1&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Zobrazení &gt; Uživatelské rozhraní&lt;/f0&gt; na panelu nabídek a otevřete dialogové okno Zvolte preferované uživatelské rozhraní (obrázek &lt;t1&gt;1&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In &lt;f0&gt;UI variants&lt;/f0&gt;, select one of the variants.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V části &lt;f0&gt;Varianty uživatelského rozhraní&lt;/f0&gt; vyberte jednu z variant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An example of the selected variant is shown in the &lt;f1&gt;Preview&lt;/f1&gt; box, along with a short description.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Příklad vybrané varianty se zobrazí v poli &lt;f1&gt;Náhled&lt;/f1&gt; spolu s krátkým popisem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Apply to Draw&lt;/f0&gt; to apply the variant selection to LibreOffice Draw only, or click on &lt;f1&gt;Apply to All&lt;/f1&gt; to apply the variant to all the LibreOffice modules.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;Použít na Draw&lt;/f0&gt; použijete výběr varianty pouze na LibreOffice Draw, nebo kliknutím na &lt;f1&gt;Použít na vše&lt;/f1&gt; použijete variantu na všechny moduly LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The LibreOffice window changes to match the selected variant.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Okno LibreOffice se změní podle vybrané varianty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;Close&lt;/f0&gt; to close the dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;Zavřít&lt;/f0&gt; dialogové okno zavřete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Select Your Preferred User Interface dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;1&lt;/seq0&gt;: Dialogové okno Vyberte preferované uživatelské rozhraní</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the option &lt;f0&gt;Enable experimental features&lt;/f0&gt; has been selected in the &lt;f1&gt;Tools &gt; Options &gt; Advanced&lt;/f1&gt; dialog, several more variants appear in &lt;f2&gt;UI variants&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud byla v dialogovém okně &lt;f1&gt;Nástroje &gt; Možnosti &gt; Upřesnit&lt;/f1&gt; vybrána možnost &lt;f0&gt;Povolit experimentální funkce&lt;/f0&gt;, objeví se v &lt;f2&gt;Varianty uživatelského rozhraní&lt;/f2&gt; několik dalších variant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Being experimental, these variants are not described in this user guide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Protože se jedná o experimentální varianty, nejsou v této uživatelské příručce popsány.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Standard Toolbar user interface in LibreOffice Draw</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;2&lt;/seq0&gt;: Standardní uživatelské rozhraní panelu nástrojů v LibreOffice Draw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In all the user interface variants, the Sidebar can be hidden or shown by clicking on the &lt;f0&gt;Hide/Show&lt;/f0&gt; button on the left of the Sidebar,</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ve všech variantách uživatelského rozhraní lze postranní panel skrýt nebo zobrazit kliknutím na tlačítko &lt;f0&gt;Skrýt/zobrazit&lt;/f0&gt; vlevo od postranního panelu,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Standard Toolbar&lt;/f0&gt; user interface is the default view when LibreOffice is installed and the Workspace opened for the first time.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Uživatelské rozhraní &lt;f0&gt;Standardní panel nástrojů&lt;/f0&gt; je výchozím zobrazením po instalaci LibreOffice a prvním otevření pracovní plochy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;t1&gt;2&lt;/t1&gt; shows an example of the default Workspace view in LibreOffice Draw, which normally consists of the following.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;t1&gt;2&lt;/t1&gt; ukazuje příklad výchozího zobrazení pracovní plochy v LibreOffice Draw, které se obvykle skládá z následujících položek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Menu bar at the top of the Workspace.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Panel nabídek v horní části pracovní plochy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Standard toolbar positioned below the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Standardní panel nástrojů umístěný pod panelem nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line and Filling toolbar positioned below the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Panel nástrojů Čára a výplň umístěný pod panelem nástrojů Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Drawing toolbar positioned vertically on the left of the Workspace.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Panel nástrojů Kreslení umístěný svisle na levé straně pracovní plochy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sidebar positioned on the right of the Workspace.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postranní panel umístěný vpravo od pracovní plochy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information on the Draw Workspace, see Chapter 1, Introducing Draw.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o pracovním prostoru Draw naleznete v kapitole 1, Představení aplikace Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Tabbed&lt;/f0&gt; user interface provides a familiar interface for users coming from proprietary office suites, for example Microsoft Office.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Uživatelské rozhraní &lt;f0&gt;Tabbed&lt;/f0&gt; poskytuje uživatelům známé rozhraní z proprietárních kancelářských balíků, například Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This user interface is divided into tabs, where each tab displays a set of tools grouped by context.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Toto uživatelské rozhraní je rozděleno na karty, přičemž každá karta zobrazuje sadu nástrojů seskupených podle kontextu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The context changes depending on the object selected and the LibreOffice module being used.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kontext se mění v závislosti na vybraném objektu a použitém modulu LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It includes a Menu bar, a Tab bar, and tool icons grouped in context that would be normally used in LibreOffice Draw.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obsahuje panel nabídek, panel karet a ikony nástrojů seskupené v kontextu, který se běžně používá v LibreOffice Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the tool icons on a tab page do not fit into the width of the Draw window, a double chevron &gt;&gt; appears at the right end of the row.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud se ikony nástrojů na stránce s kartou nevejdou na šířku okna Draw, zobrazí se na pravém konci řádku dvojitý šikmý pruh &gt;&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the double chevron &gt;&gt; to display more commands.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další příkazy zobrazíte kliknutím na dvojitý chevron &gt;&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Quick menu options</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;3&lt;/seq0&gt;: Možnosti rychlého menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Icon bar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;4&lt;/seq0&gt;: Panel ikon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On Windows and Linux operating systems, the Menu bar can be hidden or displayed by clicking on &lt;f0&gt;Menubar&lt;/f0&gt; at the left end of the Tab bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V operačních systémech Windows a Linux lze panel nabídek skrýt nebo zobrazit kliknutím na &lt;f0&gt;Menubar&lt;/f0&gt; na levém konci pásu karet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the right of the Tab bar, a Quick menu (≡) (Figure &lt;t0&gt;3&lt;/t0&gt;) is available giving access to some commonly used commands and links.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vpravo od pásu karet je k dispozici rychlá nabídka (≡) (obrázek &lt;t0&gt;3&lt;/t0&gt;), která umožňuje přístup k některým běžně používaným příkazům a odkazům.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some of the Quick menu items have submenus, indicated by a small triangle ► on the right.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Některé položky rychlé nabídky mají podnabídky, které jsou označeny malým trojúhelníkem ► vpravo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Quick menu is the same for all tabs.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rychlá nabídka je stejná pro všechny karty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the left of the Tab bar, an Icon bar (Figure &lt;t0&gt;4&lt;/t0&gt;) is available giving access to some commonly used tools – &lt;f1&gt;Menu bar&lt;/f1&gt;; &lt;f2&gt;Open&lt;/f2&gt; (&lt;f3&gt;Ctrl+O&lt;/f3&gt;); &lt;f4&gt;Save&lt;/f4&gt; (&lt;f5&gt;Ctrl+S&lt;/f5&gt;); &lt;f6&gt;Undo&lt;/f6&gt; (&lt;f7&gt;Ctrl+Z&lt;/f7&gt;);&lt;f8&gt; Redo&lt;/f8&gt; (&lt;f9&gt;Ctrl+Y&lt;/f9&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vlevo od pásu karet je k dispozici panel ikon (obrázek &lt;t0&gt;4&lt;/t0&gt;), který umožňuje přístup k některým běžně používaným nástrojům - &lt;f1&gt;Pás nabídek&lt;/f1&gt;; &lt;f2&gt;Otevřít&lt;/f2&gt; (&lt;f3&gt;Ctrl O&lt;/f3&gt;); &lt;f4&gt;Uložit&lt;/f4&gt; (&lt;f5&gt;Ctrl S&lt;/f5&gt;); &lt;f6&gt;Undo&lt;/f6&gt; (&lt;f7&gt;Ctrl Z&lt;/f7&gt;);&lt;f8&gt;Přepsat&lt;/f8&gt; (&lt;f9&gt;Ctrl Y&lt;/f9&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Tabbed user interface can be customized using the &lt;f0&gt;Notebookbar&lt;/f0&gt; page of the Customize dialog to show or hide the individual tools on the various tabs.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Uživatelské rozhraní s kartami lze přizpůsobit pomocí záložky &lt;f0&gt;Notebookbar&lt;/f0&gt; dialogového okna Přizpůsobit a zobrazit nebo skrýt jednotlivé nástroje na různých kartách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information on customization of LibreOffice, see the &lt;f1&gt;Getting Started Guide&lt;/f1&gt; and the &lt;f2&gt;Writer Guide&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o přizpůsobení LibreOffice naleznete v &lt;f1&gt;Příručce pro začátek&lt;/f1&gt; a &lt;f2&gt;Příručce pro zapisovatele&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When using the Tabbed user interface, the Draw toolbars are removed from view.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při použití uživatelského rozhraní s kartami jsou panely nástrojů Draw odstraněny ze zobrazení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If it is necessary, toolbars can be opened and used by going to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; on the Menu bar or &lt;f1&gt;Quick menu &gt; Toolbars&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V případě potřeby lze panely nástrojů otevřít a používat pomocí &lt;f0&gt;Zobrazení &gt; Panely nástrojů&lt;/f0&gt; na panelu nabídek nebo &lt;f1&gt;Rychlá nabídka &gt; Panely nástrojů&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The fixed tabs in the Tabbed user interface for Draw are described on the following pages.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pevné karty v uživatelském rozhraní s kartami pro aplikaci Draw jsou popsány na následujících stránkách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The illustrations show the left and right ends of the tabs separately so they are large enough to more easily see the commands.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na obrázcích jsou zobrazeny levý a pravý konec karet zvlášť, aby byly dostatečně velké a příkazy byly lépe vidět.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;File&lt;/f0&gt; tab (Figure &lt;t1&gt;5&lt;/t1&gt;) is a fixed tab providing commands to create new documents; open, save, print, and close documents; manage templates; export to PDF and EPUB; display document properties; add a digital signature; and sign an existing PDF.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Karta &lt;f0&gt;Soubor&lt;/f0&gt; (obrázek &lt;t1&gt;5&lt;/t1&gt;) je pevná karta poskytující příkazy pro vytváření nových dokumentů, otevírání, ukládání, tisk a zavírání dokumentů, správu šablon, export do PDF a EPUB, zobrazení vlastností dokumentu, přidání digitálního podpisu a podepsání existujícího PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;File&lt;/f0&gt; tab has two menus (Figures &lt;t1&gt;6&lt;/t1&gt; and &lt;t2&gt;7&lt;/t2&gt;): &lt;f3&gt;File&lt;/f3&gt; and &lt;f4&gt;Help&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Karta &lt;f0&gt;Soubor&lt;/f0&gt; má dvě nabídky (obrázky &lt;t1&gt;6&lt;/t1&gt; a &lt;t2&gt;7&lt;/t2&gt;): &lt;f3&gt;Soubor&lt;/f3&gt; a &lt;f4&gt;Nápověda&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f5&gt;File&lt;/f5&gt; tab menu contains the same commands as the tools available on the tab.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nabídka karty &lt;f5&gt;Soubor&lt;/f5&gt; obsahuje stejné příkazy jako nástroje dostupné na kartě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f6&gt;Help&lt;/f6&gt; tab menu provides links to a variety of resources.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nabídka karty &lt;f6&gt;Nápověda&lt;/f6&gt; obsahuje odkazy na různé zdroje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Tabbed user interface - File tab</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;5&lt;/seq0&gt;: Uživatelské rozhraní s kartami - karta Soubor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: File tab menu</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;6&lt;/seq0&gt;: Nabídka karty Soubor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Help tab menu</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;7&lt;/seq0&gt;: Nabídka karty Nápověda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Home&lt;/f0&gt; tab (Figure &lt;t1&gt;8&lt;/t1&gt;) is a fixed tab providing commands to cut, copy, paste, and format text; insert common items (for example images, tables, charts); apply, update, and edit drawing styles; and so on.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Karta &lt;f0&gt;Home&lt;/f0&gt; (obrázek &lt;t1&gt;8&lt;/t1&gt;) je pevná karta poskytující příkazy pro vyjmutí, kopírování, vložení a formátování textu, vkládání běžných položek (například obrázků, tabulek, grafů), použití, aktualizaci a úpravu stylů kreslení atd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f2&gt;Home&lt;/f2&gt; tab menu (Figure &lt;t3&gt;9&lt;/t3&gt;) at the right end of the Tab bar provides additional commands that are not on the tab.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nabídka karty &lt;f2&gt;Home&lt;/f2&gt; (obrázek &lt;t3&gt;9&lt;/t3&gt;) na pravém konci pásu karet poskytuje další příkazy, které nejsou na kartě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Tabbed user interface - Home tab</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;8&lt;/seq0&gt;: Uživatelské rozhraní s kartami - karta Domů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Home tab menu</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;9&lt;/seq0&gt;: Nabídka karty Domů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Insert&lt;/f0&gt; tab (Figure &lt;t1&gt;10&lt;/t1&gt;) is a fixed tab providing commands to insert many commonly used items.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Karta &lt;f0&gt;Vložit&lt;/f0&gt; (obrázek &lt;t1&gt;10&lt;/t1&gt;) je pevná karta, která poskytuje příkazy pro vložení mnoha běžně používaných položek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f2&gt;Insert&lt;/f2&gt; tab menu (Figure &lt;t3&gt;11&lt;/t3&gt;) at the right end of the Tab bar provides some of the same commands.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nabídka &lt;f2&gt;Vložit&lt;/f2&gt; na kartě (obrázek &lt;t3&gt;11&lt;/t3&gt;) na pravém konci pásu karet poskytuje některé ze stejných příkazů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Tabbed user interface - Insert tab</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;10&lt;/seq0&gt;: Uživatelské rozhraní s kartami - karta Vložit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Insert tab menu</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;11&lt;/seq0&gt;: Nabídka karty Vložit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Layout&lt;/f0&gt; tab (Figure &lt;t1&gt;12&lt;/t1&gt;) is a fixed tab providing commands to create the drawing page layout.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Karta &lt;f0&gt;Rozložení&lt;/f0&gt; (obrázek &lt;t1&gt;12&lt;/t1&gt;) je pevná karta, která poskytuje příkazy pro vytvoření rozvržení stránky výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f2&gt;Layout&lt;/f2&gt; tab menu (Figure &lt;t3&gt;13&lt;/t3&gt;) provides extra commands to create the drawing page layout.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nabídka karty &lt;f2&gt;Rozložení&lt;/f2&gt; (obrázek &lt;t3&gt;13&lt;/t3&gt;) poskytuje další příkazy pro vytvoření rozvržení stránky výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Tabbed user interface - Layout tab</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;12&lt;/seq0&gt;: Uživatelské rozhraní s kartami - karta Rozložení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Layout tab menu</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;13&lt;/seq0&gt;: Nabídka karty Rozložení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Review&lt;/f0&gt; tab (Figure &lt;t1&gt;14&lt;/t1&gt;) is a fixed tab providing commands for spell checking text; inserting and deleting review comments; and redaction.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Karta &lt;f0&gt;Review&lt;/f0&gt; (obrázek &lt;t1&gt;14&lt;/t1&gt;) je pevná karta poskytující příkazy pro kontrolu pravopisu textu, vkládání a mazání komentářů k recenzím a redakční úpravy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f2&gt;Review&lt;/f2&gt; tab menu (Figure &lt;t3&gt;15&lt;/t3&gt;) provides additional text editing commands.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nabídka karty &lt;f2&gt;Přehled&lt;/f2&gt; (obrázek &lt;t3&gt;15&lt;/t3&gt;) poskytuje další příkazy pro úpravu textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some of these commands appear only if &lt;f4&gt;Asian&lt;/f4&gt; or &lt;f5&gt;Complex Text Layout&lt;/f5&gt; are selected in &lt;f6&gt;Tools &gt; Options &gt; Language Settings &gt; Languages&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Některé z těchto příkazů se zobrazí pouze v případě, že je v nabídce &lt;f6&gt;Nástroje &gt; Možnosti &gt; Nastavení jazyka &gt; Jazyky&lt;/f6&gt; vybrána možnost &lt;f4&gt;Azijský jazyk&lt;/f4&gt; nebo &lt;f5&gt;Složené rozložení textu&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Tabbed user interface - Review tab</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;14&lt;/seq0&gt;: Uživatelské rozhraní s kartami - karta Přehled</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: Review tab menu</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;15&lt;/seq0&gt;: Nabídka karty Review</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;View&lt;/f0&gt; tab (Figure &lt;t1&gt;16&lt;/t1&gt;) is a fixed tab providing commands for the display of a drawing on screen.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Karta &lt;f0&gt;Zobrazení&lt;/f0&gt; (obrázek &lt;t1&gt;16&lt;/t1&gt;) je pevná karta poskytující příkazy pro zobrazení výkresu na obrazovce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f2&gt;View&lt;/f2&gt; tab menu (Figure &lt;t3&gt;17&lt;/t3&gt;) provides additional commands relating to the display on a drawing on screen.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nabídka karty &lt;f2&gt;Zobrazení&lt;/f2&gt; (obrázek &lt;t3&gt;17&lt;/t3&gt;) poskytuje další příkazy týkající se zobrazení výkresu na obrazovce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Tabbed user interface - View tab</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;16&lt;/seq0&gt;: Uživatelské rozhraní s kartami - karta Zobrazení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: View tab menu</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;17&lt;/seq0&gt;: Nabídka karty Zobrazení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Extension&lt;/f0&gt; tab (Figure &lt;t1&gt;18&lt;/t1&gt;) is a fixed tab containing only the command to access the Extension Manager allowing the installation of extensions that are compatible for use in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Karta &lt;f0&gt;Rozšíření&lt;/f0&gt; (obrázek &lt;t1&gt;18&lt;/t1&gt;) je pevná karta obsahující pouze příkaz pro přístup ke Správci rozšíření, který umožňuje instalaci rozšíření kompatibilních pro použití v LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Tabbed user interface - Extension tab</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;18&lt;/seq0&gt;: Uživatelské rozhraní s kartami - karta Rozšíření</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Tools&lt;/f0&gt; tab (Figure &lt;t1&gt;19&lt;/t1&gt;) is a fixed tab providing several tools for macros; color replacer; media player; and form creation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Karta &lt;f0&gt;Nástroje&lt;/f0&gt; (obrázek &lt;t1&gt;19&lt;/t1&gt;) je pevná karta poskytující několik nástrojů pro makra, nahrazení barev, přehrávač médií a vytváření formulářů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f2&gt;Tools&lt;/f2&gt; tab menu (Figure &lt;t3&gt;20&lt;/t3&gt;) provides some of the same commands, plus extra tools for organizing macros and dialogs; image map; data sources; filter settings; extension manager; and options.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nabídka karty &lt;f2&gt;Nástroje&lt;/f2&gt; (obrázek &lt;t3&gt;20&lt;/t3&gt;) poskytuje některé stejné příkazy a navíc další nástroje pro organizaci maker a dialogových oken, mapu obrázků, zdroje dat, nastavení filtrů, správce rozšíření a možnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: Tabbed user interface - Tools tab</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;19&lt;/seq0&gt;: Uživatelské rozhraní s kartami - karta Nástroje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: Tools tab menu</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;20&lt;/seq0&gt;: Nabídka karty Nástroje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Additional tabs</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další karty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Additional tabs appear when an object in Draw is selected and are displayed between the &lt;f0&gt;View&lt;/f0&gt; and &lt;f1&gt;Extension&lt;/f1&gt; tabs.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další karty se zobrazí, když je vybrán objekt v aplikaci Draw, a jsou zobrazeny mezi kartami &lt;f0&gt;Pohled&lt;/f0&gt; a &lt;f1&gt;Rozšíření&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Draw&lt;/f0&gt; tab (Figure &lt;t1&gt;21&lt;/t1&gt;) is only available when a draw object is selected in a drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Karta &lt;f0&gt;Kreslení&lt;/f0&gt; (obrázek &lt;t1&gt;21&lt;/t1&gt;) je k dispozici pouze tehdy, když je ve výkresu vybrán objekt kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It provides commands for editing, transforming, grouping, aligning, and distributing draw objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Poskytuje příkazy pro úpravy, transformaci, seskupování, zarovnávání a distribuci objektů výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f2&gt;Draw&lt;/f2&gt; tab menu (Figure &lt;t3&gt;22&lt;/t3&gt;) provides a similar set of commands for editing, transforming and converting draw objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nabídka karty &lt;f2&gt;Kreslení&lt;/f2&gt; (obrázek &lt;t3&gt;22&lt;/t3&gt;) poskytuje podobnou sadu příkazů pro úpravy, transformaci a konverzi objektů kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;: Tabbed user Interface - Draw tab</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;21&lt;/seq0&gt;: Uživatelské rozhraní s kartami - karta Kreslení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;22&lt;/seq0&gt;: Draw tab menu</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;22&lt;/seq0&gt;: Nabídka karty Draw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Image&lt;/f0&gt; tab (Figure &lt;t1&gt;23&lt;/t1&gt;) only becomes available when an image is selected in a drawing such as a photograph, Fontwork, OLE object, or QR code.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Karta &lt;f0&gt;Obrázek&lt;/f0&gt; (obrázek &lt;t1&gt;23&lt;/t1&gt;) je k dispozici pouze tehdy, když je ve výkresu vybrán obrázek, například fotografie, dílo písma, objekt OLE nebo kód QR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It provides commands for working with these images, including captions, cropping, borders and area styles and colors, anchors, wrapping, positioning, and filtering.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Poskytuje příkazy pro práci s těmito obrázky, včetně popisků, ořezávání, stylů a barev okrajů a oblastí, kotev, obtékání, umisťování a filtrování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f2&gt;Image&lt;/f2&gt; tab menu (Figure &lt;t3&gt;24&lt;/t3&gt;) provides links to dialogs for working with images.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nabídka karty &lt;f2&gt;Obrázek&lt;/f2&gt; (obrázek &lt;t3&gt;24&lt;/t3&gt;) obsahuje odkazy na dialogová okna pro práci s obrázky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;23&lt;/seq0&gt;: Tabbed user interface - Image tab</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;23&lt;/seq0&gt;: Uživatelské rozhraní s kartami - karta Obrázek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;24&lt;/seq0&gt;: Image tab menu</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;24&lt;/seq0&gt;: Nabídka karty Obrázek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;25&lt;/seq0&gt;: Tabbed user interface - Object tab</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;25&lt;/seq0&gt;: Uživatelské rozhraní s kartami - karta Objekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Object&lt;/f0&gt; tab (Figure &lt;t1&gt;25&lt;/t1&gt;) only becomes available when an object, such as a chart, is selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Karta &lt;f0&gt;Objekt&lt;/f0&gt; (obrázek &lt;t1&gt;25&lt;/t1&gt;) je k dispozici pouze tehdy, když je vybrán objekt, například graf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It provides commands to position, resize, choose colors and borders for the selected object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Poskytuje příkazy pro umístění, změnu velikosti, výběr barev a ohraničení vybraného objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f2&gt;Object&lt;/f2&gt; tab menu (Figure &lt;t3&gt;26&lt;/t3&gt;) provides extra commands to match the type of object selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nabídka karty &lt;f2&gt;Objekt&lt;/f2&gt; (obrázek &lt;t3&gt;26&lt;/t3&gt;) poskytuje další příkazy odpovídající typu vybraného objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;26&lt;/seq0&gt;: Object tab menu</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;26&lt;/seq0&gt;: Nabídka karty Objekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Table&lt;/f0&gt; tab (Figure &lt;t1&gt;27&lt;/t1&gt;) only becomes available when a table is selected in a drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Karta &lt;f0&gt;Tabulka&lt;/f0&gt; (obrázek &lt;t1&gt;27&lt;/t1&gt;) je k dispozici pouze tehdy, když je ve výkresu vybrána tabulka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It provides tools to format a table to the drawing requirements.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Poskytuje nástroje pro formátování tabulky podle požadavků výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f2&gt;Table&lt;/f2&gt; tab menu (Figure &lt;t3&gt;28&lt;/t3&gt;) includes extra commands for editing a table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nabídka karty &lt;f2&gt;Tabulka&lt;/f2&gt; (obrázek &lt;t3&gt;28&lt;/t3&gt;) obsahuje další příkazy pro úpravu tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;27&lt;/seq0&gt;: Tabbed user interface - Table tab</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;27&lt;/seq0&gt;: Uživatelské rozhraní s kartami - karta Tabulka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;28&lt;/seq0&gt;: Table tab menu</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;28&lt;/seq0&gt;: Nabídka karty Tabulka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Media&lt;/f0&gt; tab (Figure &lt;t1&gt;29&lt;/t1&gt;) only becomes available when a media object is selected in a drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Karta &lt;f0&gt;Média&lt;/f0&gt; (obrázek &lt;t1&gt;29&lt;/t1&gt;) je k dispozici pouze tehdy, když je ve výkresu vybrán objekt média.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It provides commands for positioning and running an audio or video file.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Poskytuje příkazy pro umístění a spuštění zvukového nebo video souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f2&gt;Media&lt;/f2&gt; tab menu (Figure &lt;t3&gt;30&lt;/t3&gt;) includes extra commands for editing a media object</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nabídka karty &lt;f2&gt;Média&lt;/f2&gt; (obrázek &lt;t3&gt;30&lt;/t3&gt;) obsahuje další příkazy pro úpravu objektu média.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;29&lt;/seq0&gt;: Tabbed user interface - Media tab</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;29&lt;/seq0&gt;: Uživatelské rozhraní s kartami - karta Média</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;30&lt;/seq0&gt;: Media tab menu</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;30&lt;/seq0&gt;: Nabídka karty Média</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Tabbed Compact&lt;/f0&gt; user interface has the same tabs as the &lt;f1&gt;Tabbed&lt;/f1&gt; user interface, but the commands on each tab are arranged as a single row of tools.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Uživatelské rozhraní &lt;f0&gt;Složené s kartami&lt;/f0&gt; má stejné karty jako uživatelské rozhraní &lt;f1&gt;Složené s kartami&lt;/f1&gt;, ale příkazy na každé kartě jsou uspořádány jako jedna řada nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some of these tools have drop‑down menus with extra options.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Některé z těchto nástrojů mají rozevírací nabídky s dalšími možnostmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;t2&gt;31&lt;/t2&gt; shows an example of the &lt;f3&gt;File&lt;/f3&gt; tab in the &lt;f4&gt;Tabbed Compact&lt;/f4&gt; user interface.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;t2&gt;31&lt;/t2&gt; ukazuje příklad karty &lt;f3&gt;Soubor&lt;/f3&gt; v uživatelském rozhraní &lt;f4&gt;Kompaktní s kartami&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The tab menu on the right of the &lt;f0&gt;Tabbed Compact&lt;/f0&gt; user interface provides the same options as the tab menus in the &lt;f1&gt;Tabbed&lt;/f1&gt; user interface, see “&lt;bf2&gt;Tabbed UI&lt;/bf2&gt;” on page &lt;bf3&gt;5&lt;/bf3&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nabídka karet na pravé straně uživatelského rozhraní &lt;f0&gt;Tabbed Compact&lt;/f0&gt; poskytuje stejné možnosti jako nabídky karet v uživatelském rozhraní &lt;f1&gt;Tabbed&lt;/f1&gt;, další informace naleznete v části “&lt;bf2&gt;Uživatelské rozhraní s kartami&lt;/bf2&gt;“ na straně &lt;bf3&gt;5&lt;/bf3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;31&lt;/seq0&gt;: Tabbed Compact user interface - File tab</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;31&lt;/seq0&gt;: Uživatelské rozhraní s kartou Compact - karta Soubor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Groupedbar Compact&lt;/f0&gt; user interface is divided into groups that contain commands organized as sets of tools and menus.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Uživatelské rozhraní &lt;f0&gt;Groupedbar Compact&lt;/f0&gt; je rozděleno do skupin, které obsahují příkazy uspořádané jako sady nástrojů a nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The tools and menus that are available change to suit the type of object that has been selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dostupné nástroje a nabídky se mění podle typu vybraného objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;t1&gt;32&lt;/t1&gt; shows an example of &lt;f2&gt;Groupedbar Compact&lt;/f2&gt; user interface when a draw object is selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;t1&gt;32&lt;/t1&gt; ukazuje příklad uživatelského rozhraní &lt;f2&gt;Skupinový panel Compact&lt;/f2&gt; při výběru objektu kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clicking on the double chevron &gt;&gt; displays more tools for editing an object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na dvojitý chevron &gt;&gt; zobrazíte další nástroje pro úpravu objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;t0&gt;33&lt;/t0&gt; shows an example of these tools when a draw object is selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;t0&gt;33&lt;/t0&gt; ukazuje příklad těchto nástrojů, když je vybrán objekt kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Groupedbar&lt;/f0&gt; menu (Figure &lt;t1&gt;34&lt;/t1&gt;) on the right-hand end of this interface provides extra commands for working with LibreOffice Draw, including convenient ways to change the user interface and access toolbars.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nabídka &lt;f0&gt;Skupinový panel&lt;/f0&gt; (obrázek &lt;t1&gt;34&lt;/t1&gt;) na pravém konci tohoto rozhraní poskytuje další příkazy pro práci s LibreOffice Draw, včetně pohodlných způsobů změny uživatelského rozhraní a přístupu k panelům nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;32&lt;/seq0&gt;: Example of Groupedbar Compact user interface with draw object selected</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;32&lt;/seq0&gt;: Příklad uživatelského rozhraní Groupedbar Compact s vybraným objektem draw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;33&lt;/seq0&gt;: Example of more tools with draw object selected</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;33&lt;/seq0&gt;: Příklad dalších nástrojů s vybraným objektem kreslení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;34&lt;/seq0&gt;: Groupedbar menu</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;34&lt;/seq0&gt;: Nabídka seskupených panelů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Contextual Single user interface displays a single toolbar to suit the type of object that has been selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kontextové jednoduché uživatelské rozhraní zobrazuje jeden panel nástrojů odpovídající typu vybraného objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;t0&gt;35&lt;/t0&gt; shows an example of Contextual Single user interface when a draw object is selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;t0&gt;35&lt;/t0&gt; ukazuje příklad uživatelského rozhraní Contextual Single při výběru objektu kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;t0&gt;36&lt;/t0&gt; shows an example of these tools when a draw object is selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;t0&gt;36&lt;/t0&gt; ukazuje příklad těchto nástrojů, když je vybrán objekt kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;35&lt;/seq0&gt;: Example of Contextual Single user interface with draw object selected</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;35&lt;/seq0&gt;: Příklad kontextového jednoduchého uživatelského rozhraní s vybraným objektem kreslení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;36&lt;/seq0&gt;: Example of more tools with draw object selected</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;36&lt;/seq0&gt;: Příklad dalších nástrojů s vybraným objektem kreslení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When selected, the &lt;f0&gt;Single Toolbar&lt;/f0&gt; and &lt;f1&gt;Sidebar&lt;/f1&gt; user interfaces only show the Menu bar with no toolbars.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je vybrána možnost &lt;f0&gt;Jediný panel nástrojů&lt;/f0&gt; a &lt;f1&gt;Boční panel&lt;/f1&gt;, zobrazí se pouze panel Nabídka bez panelů nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, toolbars can be added to either of these user interfaces by going to &lt;f2&gt;View &gt; Toolbars&lt;/f2&gt; on the Menu bar and selecting the required toolbar from the options available.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Panely nástrojů však lze přidat do kteréhokoli z těchto uživatelských rozhraní tak, že na panelu nabídek přejdete na &lt;f2&gt;Zobrazení &gt; Panely nástrojů&lt;/f2&gt; a z dostupných možností vyberete požadovaný panel nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information on toolbars, see Appendix B, Toolbars in this guide and the &lt;f3&gt;Getting Started Guide&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o panelech nástrojů naleznete v Dodatku B, Panely nástrojů v této příručce a v &lt;f3&gt;Příručce pro začátečníky&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
