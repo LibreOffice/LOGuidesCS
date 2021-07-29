@@ -1,0 +1,1398 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" segtype="sentence" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv lang="en">
+        <seg>Appendix A, Keyboard Shortcuts</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dodatek A, Klávesové zkratky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dodatek A, Klávesové zkratky&lt;segment 25507 +1 more&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dodatek A, Klávesové zkratky&lt;segment 25507 1 more&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Toolbar function key and keyboard shortcuts&lt;/t0&gt; | &lt;t1&gt;17&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Funkční klávesy a klávesové zkratky na panelu nástrojů&lt;/t0&gt; | &lt;t1&gt;17&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;14&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Appendix A, Keyboard Shortcuts&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;14&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Příloha A, Klávesové zkratky&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Appendix A, &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Příloha A, &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This document maybe distributed and/or modified under the terms of either the GNU General Public License (&lt;a2&gt;https://www.gnu.org/licenses/gpl.html&lt;/a2&gt;), version 3 or later, or the Creative Commons Attribution License (&lt;a3&gt;https://creativecommons.org/licenses/by/4.0/&lt;/a3&gt;), version 4.0 or later.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento dokument může být šířen a/nebo upravován za podmínek buď GNU General Public License (&lt;a2&gt;https://www.gnu.org/licenses/gpl.html&lt;/a2&gt;), verze 3 nebo novější, nebo Creative Commons Attribution License (&lt;a3&gt;https://creativecommons.org/licenses/by/4.0/&lt;/a3&gt;), verze 4.0 nebo novější.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Published July &lt;t0&gt;2021&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vydáno v červenci &lt;t0&gt;2021&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Based on LibreOffice &lt;ud1&gt;7.1&lt;/ud1&gt;&lt;s2/&gt;Community.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Založeno na LibreOffice &lt;ud1&gt;7.1&lt;/ud1&gt;&lt;s2/&gt;Komunita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other versions of LibreOffice may differ in appearance and functionality.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jiné verze LibreOffice se mohou lišit vzhledem a funkčností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Draw function key and keyboard shortcuts</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kreslení funkčních kláves a klávesových zkratek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Draw function keys</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kreslení funkčních kláves</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Draw keyboard shortcuts</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kreslení klávesových zkratek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Editing text keyboard shortcuts</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klávesové zkratky pro úpravu textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Menu function key and keyboard shortcuts</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Funkční klávesy menu a klávesové zkratky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shape menu</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nabídka tvarů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>General function key and keyboard shortcuts</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obecné funkční klávesy a klávesové zkratky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Accessing Menu bar commands</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přístup k příkazům na panelu nabídek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Accessing toolbar commands</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přístup k příkazům panelu nástrojů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Toolbar function key and keyboard shortcuts</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Funkční klávesy panelu nástrojů a klávesové zkratky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LibreOffice can be used without requiring a pointing device, such as a mouse or trackball, using keyboard shortcuts.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>LibreOffice lze používat bez použití ukazovacího zařízení, jako je myš nebo trackball, pomocí klávesových zkratek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tasks as varied and complex as docking and undocking toolbars and windows, or changing the size or position of objects can all be accomplished with these shortcuts.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí těchto klávesových zkratek lze provádět tak rozmanité a složité úlohy, jako je dokování a odkrývání panelů nástrojů a oken nebo změna velikosti či polohy objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Although LibreOffice has an extensive set of shortcuts, each LibreOffice module has keyboard shortcuts that are specific to that module.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přestože LibreOffice obsahuje rozsáhlou sadu klávesových zkratek, každý modul LibreOffice má klávesové zkratky, které jsou pro daný modul specifické.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In addition to using keyboard shortcuts that are listed in this appendix, additional keyboard shortcuts can be defined.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kromě použití klávesových zkratek, které jsou uvedeny v této příloze, lze definovat další klávesové zkratky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can assign shortcuts to standard Draw functions or macros and then save them for use with Draw only, or with the other modules in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Standardním funkcím nebo makrům aplikace Draw můžete přiřadit zkratky a uložit je pro použití pouze v aplikaci Draw nebo v ostatních modulech LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To customize keyboard shortcuts, see the &lt;f0&gt;Getting Started Guide&lt;/f0&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o přizpůsobení klávesových zkratek naleznete v &lt;f0&gt;Příručce pro začátečníky&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some keyboard shortcuts are not available for computers using macOS and are indicated in the following tables by a blank cell.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Některé klávesové zkratky nejsou pro počítače se systémem macOS k dispozici a v následujících tabulkách jsou označeny prázdnou buňkou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens LibreOffice Draw help.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevře nápovědu LibreOffice Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enters a group of objects for editing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vloží skupinu objektů k úpravám.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exits a group of objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ukončí skupinu objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Forward navigation of the emphasis within the on screen elements.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Posunutí důrazu dopředu v rámci prvků na obrazovce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Backward navigation of the emphasis within the on screen elements.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zpětná navigace důrazu v rámci prvků na obrazovce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only available in text editing mode.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K dispozici pouze v režimu úprav textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the Edit Points toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevře panel nástrojů Upravit body.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fits text to frame of a selected object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přizpůsobí text rámečku vybraného objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Zooms in.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přiblížení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Zooms out.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zvětšení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fits the drawing to fill the Workspace view.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přizpůsobí výkres tak, aby vyplnil zobrazení pracovní plochy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Groups selected objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Seskupí vybrané objekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shift + Ctrl + Alt + G</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Shift Ctrl Alt G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>⌘ + Shift + Option + G</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>⌘ Možnost posunu G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ungroups selected group.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zruší seskupení vybrané skupiny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enters a group to edit individual objects in the group.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vstupuje do skupiny a upravuje jednotlivé objekty ve skupině.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl + Shift + K</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ctrl Shift K</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>⌘ + Shift + K</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>⌘ Posun K</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Combines selected objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kombinuje vybrané objekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl + Shift + Alt + K</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ctrl Shift Alt K</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>⌘ + Shift + Option + K</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>⌘ Možnost posunu K</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Splits a selected object that has been combined from a group of two or more objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rozdělí vybraný objekt, který byl spojen ze skupiny dvou nebo více objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Brings current selection forward.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přenese aktuální výběr dopředu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Brings current selection to the front.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přenese aktuální výběr do popředí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sends current selection backward.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odešle aktuální výběr zpět.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sends current selection to the back.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odešle aktuální výběr dozadu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switches to previous page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přepne na předchozí stránku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No function on the first page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na první stránce není žádná funkce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switches to next page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přepne na další stránku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No function on the last page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na poslední stránce není žádná funkce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switches to previous layer.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přepne na předchozí vrstvu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switches to next layer.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přepne na další vrstvu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Arrow</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Šipka Ctrl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Moves the page view in the direction of the arrow.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přesune zobrazení stránky ve směru šipky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Left Arrow</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Šipka doleva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With Pages Pane selected, switches to the previous page in a drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při vybraném podokně Stránky se přepne na předchozí stránku výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right Arrow</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Šipka doprava</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With Pages Pane selected, switches to the next page in a drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při vybraném podokně Stránky se přepne na další stránku výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When selecting objects, adds or removes object to or from a selection of objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při výběru objektů přidává nebo odebírá objekt do výběru objektů nebo z něj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hold down &lt;f0&gt;Shift&lt;/f0&gt; then click and drag a selection handle when resizing an object to maintain the proportions of the object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při změně velikosti objektu podržte klávesu &lt;f0&gt;Shift&lt;/f0&gt; a poté klikněte a přetáhněte úchyt výběru, abyste zachovali proporce objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hold down the &lt;f0&gt;Shift&lt;/f0&gt; key while moving a selected object to constrain the movement in multiples of 45 degrees.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Podržením klávesy &lt;f0&gt;Shift&lt;/f0&gt; při pohybu vybraného objektu omezíte pohyb v násobcích 45 stupňů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hold down the &lt;f0&gt;Shift&lt;/f0&gt; key before selecting several adjacent objects or characters.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Před výběrem několika sousedních objektů nebo znaků podržte klávesu &lt;f0&gt;Shift&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click at the start of a selection, move to the end of the selection.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na začátek výběru a přesuňte se na jeho konec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ctrl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that this shortcut works only when the &lt;f2&gt;Copy when moving option&lt;/f2&gt; in &lt;f3&gt;LibreOffice &gt; Preferences &gt; LibreOffice Draw &gt; General&lt;/f3&gt; is enabled (this option is enabled by default).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Všimněte si, že tato klávesová zkratka funguje pouze v případě, že je povolena možnost &lt;f2&gt;Kopírovat při přesunu&lt;/f2&gt; v &lt;f3&gt;LibreOffice &gt; Předvolby &gt; LibreOffice Draw &gt; Obecné&lt;/f3&gt; (tato možnost je ve výchozím nastavení povolena).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alt</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Alt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hold down the &lt;f0&gt;Alt (Option)&lt;/f0&gt; key when selecting an object that is behind the currently selected object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při výběru objektu, který je za aktuálně vybraným objektem, podržte stisknutou klávesu &lt;f0&gt;Alt (Option)&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alt+ Shift</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Alt Shift</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Option + Shift</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnost Posun</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hold down the &lt;f0&gt;Alt (Option) + Shift&lt;/f0&gt; keys when selecting an object that is in front of the currently selected object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při výběru objektu, který je před aktuálně vybraným objektem, podržte stisknuté klávesy &lt;f0&gt;Alt (Option) Shift&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selects objects in the order in which they were created.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybere objekty v pořadí, v jakém byly vytvořeny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selects objects in the reverse order in which they were created.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybere objekty v opačném pořadí, než byly vytvořeny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exits current mode.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ukončí aktuální režim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enters text mode if a text object in the drawing is selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejde do textového režimu, pokud je ve výkresu vybrán textový objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserts a new page after the selected page in a drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vloží novou stránku za vybranou stránku ve výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Home/End</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Domů/Konec</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selects the first/last page in a drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybere první/poslední stránku výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserts a custom hyphen (soft hyphen) in text at the cursor position.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vloží do textu na pozici kurzoru vlastní pomlčku (měkkou pomlčku).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserts a non-breaking hyphen (hard hyphen) in text at the cursor position.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vloží do textu na pozici kurzoru nezlomitelnou pomlčku (tvrdou pomlčku).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserts a non-breaking space, which is not used for hyphenation and is not expanded if the text is justified.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vloží nezalomitelnou mezeru, která se nepoužívá pro spojovník a není rozšířena, pokud je text zarovnán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserts a line break without paragraph change.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vloží zlom řádku bez změny odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deletes the text from the cursor position to the end of the word.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odstraní text od pozice kurzoru po konec slova.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deletes the text from the cursor position to the end of the sentence.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odstraní text od pozice kurzoru po konec věty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deletes the text from the cursor position to the beginning of the word.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odstraní text od pozice kurzoru po začátek slova.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deletes the text from the cursor position to the beginning of the sentence.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odstraní text od pozice kurzoru po začátek věty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The function key and keyboard shortcuts listed in the following tables are available in menu categories on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Funkční klávesy a klávesové zkratky uvedené v následujících tabulkách jsou k dispozici v kategoriích nabídek na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the &lt;f0&gt;Open&lt;/f0&gt; file browser allowing navigation to a folder and file selection.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevře &lt;f0&gt;Otevřít&lt;/f0&gt; prohlížeč souborů umožňující navigaci do složky a výběr souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Saves the open drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Uloží otevřený výkres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the &lt;f0&gt;Save as&lt;/f0&gt; file browser allowing navigation to a folder and saving the open drawing as a new file.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevře prohlížeč souborů &lt;f0&gt;Uložit jako&lt;/f0&gt;, který umožňuje přejít do složky a uložit otevřený výkres jako nový soubor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the &lt;f0&gt;Print&lt;/f0&gt; dialog allowing selection of how the drawing is printed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevře dialogové okno &lt;f0&gt;Tisk&lt;/f0&gt; umožňující vybrat způsob tisku výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Places the object on the clipboard into the drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Umístí objekt ve schránce do výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pastes the contents of the clipboard at the cursor position in a format that is specified using the Paste Special dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vloží obsah schránky na pozici kurzoru ve formátu zadaném pomocí dialogového okna Vložit speciální.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selects all objects in a drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybere všechny objekty ve výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the Edit Points toolbar if there is an object on the drawing that uses editable points, for example a freeform line.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevře panel nástrojů Upravit body, pokud je na výkrese objekt, který používá upravitelné body, například volná čára.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserts a new comment box onto the selected page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vloží na vybranou stránku nové pole pro komentář.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alt + Shift + Space</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Alt Shift Mezera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserts a narrow non-breaking space at the cursor position.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vloží na pozici kurzoru úzkou nezlomitelnou mezeru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserts a narrow no-width optional break at the cursor position.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vloží na pozici kurzoru úzký nepovinný zlom bez šířky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>⌘ + Shift + P</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>⌘ Posun P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reduces the font size of the selected text and raises the text above the baseline.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zmenší velikost písma vybraného textu a zvýší text nad základní čáru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reduces the font size of the selected text and lowers the text below the baseline.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zmenší velikost písma vybraného textu a sníží text pod základní čáru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Align Text &gt; Left</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zarovnat text &gt; Vlevo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Align Text &gt; Center</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zarovnat text &gt; Na střed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Align Text &gt; Right</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zarovnat text &gt; Vpravo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Align Text &gt; Justified</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zarovnat text &gt; Zarovnaný</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Duplicate</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Duplikát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When an object is selected, opens the Duplicate dialog, which provides options for duplicating the selected object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když je objekt vybrán, otevře se dialogové okno Duplikovat, které nabízí možnosti duplikování vybraného objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Starts spelling checker.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Spustí kontrolu pravopisu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the thesaurus dialog for the language being used.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevře dialogové okno tezauru pro použitý jazyk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If there is only one window, closes Draw.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je k dispozici pouze jedno okno, zavře se okno Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alt + &lt;?&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Alt &lt;?&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press the &lt;f0&gt;Alt&lt;/f0&gt; key first, then select the underlined character of the menu to be opened.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nejprve stiskněte klávesu &lt;f0&gt;Alt&lt;/f0&gt; a poté vyberte podtržený znak nabídky, kterou chcete otevřít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f1&gt;&lt;?&gt;&lt;/f1&gt; is the underlined character in the menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f1&gt;&lt;?&gt;&lt;/f1&gt; je podtržený znak v nabídce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, &lt;f2&gt;Alt+F&lt;/f2&gt; opens the File menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například &lt;f2&gt;Alt F&lt;/f2&gt; otevře nabídku Soubor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With the menu open, menu items have an underlined character.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při otevřené nabídce jsou položky nabídky podtržené.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To access these menu items directly, press the underlined character key.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li k těmto položkám nabídky přistupovat přímo, stiskněte klávesu s podtrženým znakem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If an item in a menu has no underlined character, click on the menu item directly.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud položka v nabídce nemá podtržený znak, klikněte na ni přímo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repeatedly pressing &lt;f0&gt;F6&lt;/f0&gt; cycles the focus through the following objects:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Opakovaným stisknutím klávesy &lt;f0&gt;F6&lt;/f0&gt; se cyklicky zaostří na následující objekty:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Menu bar (Windows and Linux operating systems only)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Panel nabídek (pouze operační systémy Windows a Linux)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each toolbar from top to bottom and from left to right</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Každý panel nástrojů shora dolů a zleva doprava</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each free window from left to right</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Každé volné okno zleva doprava</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repeatedly pressing &lt;f0&gt;Shift+F6&lt;/f0&gt; cycles the focus in the opposite direction.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Opakovaným stisknutím klávesy &lt;f0&gt;Shift F6&lt;/f0&gt; se zaostření cykluje v opačném směru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl + F6</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ctrl F6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cycles the focus back to the drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vrátí zaostření zpět na výkres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switches the access on or off for the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zapne nebo vypne přístup k panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press &lt;f0&gt;F6&lt;/f0&gt; to select the first item on the Menu bar (the File menu).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stisknutím klávesy &lt;f0&gt;F6&lt;/f0&gt; vyberte první položku na panelu nabídek (nabídka Soubor).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press the right arrow to select the next menu to the right.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stisknutím šipky doprava vyberte další nabídku vpravo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press the left arrow to select the previous menu to the left.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stisknutím šipky doleva vyberte předchozí nabídku vlevo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press the &lt;f0&gt;Home&lt;/f0&gt; and &lt;f1&gt;End&lt;/f1&gt; keys to select the first or last item on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stisknutím tlačítek &lt;f0&gt;Home&lt;/f0&gt; a &lt;f1&gt;End&lt;/f1&gt; vyberte první nebo poslední položku na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press the down arrow to open a selected menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stisknutím šipky dolů otevřete vybranou nabídku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An additional press on the down arrow or up arrow moves the selection through the menu commands.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dalším stisknutím šipky dolů nebo šipky nahoru se výběr přesune mezi příkazy nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press the right arrow to open any submenus on the selected menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stisknutím šipky doprava otevřete všechny podnabídky vybrané nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Submenus are indicated by a triangle ► next to the menu item.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Podnabídky jsou označeny trojúhelníkem ► vedle položky nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press F6 repeatedly until the first tool on a toolbar is selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Opakovaně stiskněte klávesu F6, dokud není vybrán první nástroj na panelu nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the right and left arrows to select a tool on a horizontal toolbar, or the up and down arrows to select a tool on a vertical toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Šipkami doprava a doleva vyberte nástroj na vodorovném panelu nástrojů nebo šipkami nahoru a dolů vyberte nástroj na svislém panelu nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press the &lt;f0&gt;Home&lt;/f0&gt; key to select the first tool on a toolbar, or the &lt;f1&gt;End&lt;/f1&gt; key to select the last tool on a toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stisknutím klávesy &lt;f0&gt;Home&lt;/f0&gt; vyberete první nástroj na panelu nástrojů nebo klávesy &lt;f1&gt;End&lt;/f1&gt; vyberete poslední nástroj na panelu nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press &lt;f0&gt;Enter&lt;/f0&gt; to activate the selected tool.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stisknutím &lt;f0&gt;Enter&lt;/f0&gt; aktivujete vybraný nástroj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press the right arrow to open any sub-toolbar on the selected toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stisknutím šipky doprava otevřete libovolný dílčí panel nástrojů na vybraném panelu nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sub-toolbars are indicated by a triangle ▼ next to the tool.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dílčí nástroje jsou označeny trojúhelníkem ▼ vedle nástroje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep pressing the right arrow to select a tool on a sub-toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stisknutím šipky doprava vyberte nástroj na dílčím panelu nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press &lt;f0&gt;Ctrl+Enter&lt;/f0&gt; to insert the selected draw object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stisknutím &lt;f0&gt;Ctrl Enter&lt;/f0&gt; vložíte vybraný objekt kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The draw object is placed in the center of the drawing, with a predefined size.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Objekt kreslení se umístí do středu výkresu s předem definovanou velikostí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When any dialog is opened, one element (for example a button or option field) indicates it has focus by highlighting, a check mark, or a dotted box around the field or button name.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při otevření jakéhokoli dialogového okna je jeden z prvků (například tlačítko nebo pole možností) označen zvýrazněním, zaškrtnutím nebo tečkovaným rámečkem kolem názvu pole nebo tlačítka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Activates the selected option.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Aktivuje vybranou možnost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Where no option is selected, &lt;f0&gt;Enter&lt;/f0&gt; is the equivalent to clicking on &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud není vybrána žádná možnost, &lt;f0&gt;Enter&lt;/f0&gt; je ekvivalentní kliknutí na &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Closes a dialog without saving any changes made while it was open,&lt;f0&gt; &lt;/f0&gt;the equivalent to selecting &lt;f1&gt;Cancel&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zavře dialogové okno bez uložení změn provedených v době, kdy bylo otevřené, &lt;f0&gt;&lt;/f0&gt;, což je ekvivalentní volbě &lt;f1&gt;Zrušit&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Up or down arrow keys</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klávesy se šipkou nahoru nebo dolů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Increases or decreases the value of a variable.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zvyšuje nebo snižuje hodnotu proměnné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Left or right arrow keys</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klávesy se šipkou vlevo nebo vpravo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Moves the focus to the previous section or element in a dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přesune fokus na předchozí část nebo prvek v dialogu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alt + Down Arrow</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Alt Šipka dolů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shows the options available in a drop-down list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zobrazí možnosti dostupné v rozevíracím seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Checks or selects an empty checkbox.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zaškrtne nebo vybere prázdné zaškrtávací políčko.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clears or deselects a checked checkbox.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zruší nebo zruší zaškrtnutí zaškrtávacího políčka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Draw provides several toolbars for the creation and editing of drawings.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Aplikace Draw nabízí několik panelů nástrojů pro vytváření a úpravy výkresů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some tools on the Draw toolbars can be activated using a function key or keyboard shortcut.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Některé nástroje na panelech nástrojů Draw lze aktivovat pomocí funkční klávesy nebo klávesové zkratky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Draw toolbars are listed in the same order displayed in the context menu that is opened by going to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Panely nástrojů Draw jsou uvedeny ve stejném pořadí, v jakém jsou zobrazeny v kontextové nabídce, kterou otevřete výběrem &lt;f0&gt;Zobrazení &gt; Panely nástrojů&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>⌘ + Option + H</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>⌘ Možnost H</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Finds and replaces all instances of text in a drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyhledá a nahradí všechny výskyty textu v kresbě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens a new drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevře nový výkres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the Templates dialog to create a new drawing using a template.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevře dialogové okno Šablony a vytvoří nový výkres pomocí šablony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the Open file browser to allow navigation to a folder and selection of a drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevře prohlížeč Otevřít soubor a umožní navigaci do složky a výběr výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the Save as file browser to save the open drawing as a new drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevře prohlížeč Uložit jako soubor a uloží otevřený výkres jako nový výkres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switches on edit mode when a drawing is in read only mode.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zapne režim úprav, když je výkres v režimu pouze pro čtení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the Print dialog to select how to print the drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevře dialogové okno Tisk, ve kterém vyberete způsob tisku výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clear</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přehledně</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto Spellcheck</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Automatická kontrola pravopisu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selects all the text in a text box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybere veškerý text v textovém poli.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

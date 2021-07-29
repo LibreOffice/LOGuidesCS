@@ -1,0 +1,3342 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" segtype="sentence" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 6, Editing Pictures</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 6, Úpravy obrázků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 6, Editing Pictures&lt;segment 21227&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 6, Úpravy obrázků&lt;segment 21227&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;0&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Chapter 6, Editing Pictures&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;0&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Kapitola 6, Úprava obrázků&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Chapter 6, Editing Pictures&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;27&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Kapitola 6, Úpravy obrázků&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;27&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;26&lt;/t0&gt;| &lt;t1&gt;Chapter 6, Editing Pictures&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;26&lt;/t0&gt;| &lt;t1&gt;Kapitola 6, Úprava obrázků&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 6, &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 6, &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Editing Images</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Úpravy obrázků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Raster Graphics</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rastrová grafika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This document maybe distributed and/or modified under the terms of either the GNU General Public License (&lt;a2&gt;https://www.gnu.org/licenses/gpl.html&lt;/a2&gt;), version 3 or later, or the Creative Commons Attribution License (&lt;a3&gt;https://creativecommons.org/licenses/by/4.0/&lt;/a3&gt;), version 4.0 or later.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento dokument může být šířen a/nebo upravován za podmínek buď GNU General Public License (&lt;a2&gt;https://www.gnu.org/licenses/gpl.html&lt;/a2&gt;), verze 3 nebo novější, nebo Creative Commons Attribution License (&lt;a3&gt;https://creativecommons.org/licenses/by/4.0/&lt;/a3&gt;), verze 4.0 nebo novější.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Elzett Kotze</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Elzett Kotze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>John Cleland</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>John Cleland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Everything sent to a mailing list, including email addresses and any other personal information that is written in the message, is publicly archived and cannot be deleted.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vše, co je odesláno do poštovního seznamu, včetně e-mailových adres a dalších osobních údajů, které jsou ve zprávě napsány, je veřejně archivováno a nemůže být smazáno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Published July &lt;t0&gt;2021&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vydáno v červenci &lt;t0&gt;2021&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Based on LibreOffice &lt;ud1&gt;7.1&lt;/ud1&gt;&lt;s2/&gt;Community.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Založeno na LibreOffice &lt;ud1&gt;7.1&lt;/ud1&gt;&lt;s2/&gt;Komunita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other versions of LibreOffice may differ in appearance and functionality.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jiné verze LibreOffice se mohou lišit vzhledem a funkčností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Importing images</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Import obrázků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Linking</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Propojení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Editing links</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Úprava odkazů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scanning</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Skenování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copying and pasting</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kopírování a vkládání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exporting files</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Exportování souborů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exporting objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Exportování objektů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Formatting images (raster objects)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formátování obrázků (rastrových objektů)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;Naming &lt;/a0&gt;&lt;a1&gt;images&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;a0&gt;Pojmenování &lt;/a0&gt;&lt;a1&gt;obrázků&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Quick cropping</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rychlé oříznutí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Crop dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dialogové okno oříznutí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exporting cropped graphics</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Export oříznuté grafiky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Color Replacer dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dialogové okno Nahrazovač barev</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Conversion</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Konverze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contour conversion</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Konverze obrysů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Polygon conversion</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Převod polygonů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Conversion options and controls</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti konverze a ovládání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Converting</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Převod</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Breaking</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Prolomení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bitmap conversion</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Konverze bitových map</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Earlier chapters of this Draw Guide have dealt only with vector graphics.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Předchozí kapitoly této příručky Draw se zabývaly pouze vektorovou grafikou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The most common types of vector graphics in use are as follows:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nejčastěji používané typy vektorové grafiky jsou následující:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;SVG&lt;/f0&gt; (Scalable Vector Graphics) – an Extensible Markup Language (XML) based vector image format for two-dimensional graphics with support for interactivity and animation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;SVG&lt;/f0&gt; (Scalable Vector Graphics) - formát vektorových obrázků založený na rozšiřitelném značkovacím jazyce (XML) pro dvourozměrnou grafiku s podporou interaktivity a animace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;EPS&lt;/f0&gt; (Encapsulated PostScript) – a PostScript document format usable as a graphics file format.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;EPS&lt;/f0&gt; (Encapsulated PostScript) - formát dokumentu PostScript použitelný jako formát grafického souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>EPS files are more-or-less self-contained, reasonably predictable PostScript documents that describe an image or drawing and can be placed within another PostScript document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Soubory EPS jsou víceméně samostatné, přiměřeně předvídatelné postscriptové dokumenty, které popisují obrázek nebo kresbu a mohou být umístěny v jiném postscriptovém dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;AI&lt;/f0&gt; (Adobe Illustrator) – a proprietary file format developed by Adobe Systems for representing single-page vector-based drawings in either the EPS or PDF formats.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;AI&lt;/f0&gt; (Adobe Illustrator) - proprietární formát souborů vyvinutý společností Adobe Systems pro reprezentaci jednostránkových vektorových kreseb ve formátu EPS nebo PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, Draw also contains a number of functions for handling raster graphics (bitmaps) such as photographs and scanned pictures, including import, export, and conversion from one format to another.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Draw však obsahuje také řadu funkcí pro práci s rastrovou grafikou (bitmapami), jako jsou fotografie a naskenované obrázky, včetně importu, exportu a převodu z jednoho formátu do druhého.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Draw can read all the majority of graphic file formats.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Program Draw umí číst většinu grafických formátů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It has a subset of capabilities similar to raster graphics programs like Adobe Photoshop or Gimp.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Má podobnou podmnožinu funkcí jako programy pro rastrovou grafiku, jako je Adobe Photoshop nebo Gimp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Raster graphics are generally images or pictures that use one of the following formats, which are the most common formats in use:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rastrová grafika jsou obecně obrázky nebo obrázky, které používají jeden z následujících formátů, které jsou nejčastěji používané:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;JPG/JPEG&lt;/f0&gt; – acronym for Joint Photographic Experts Group which created the format.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;JPG/JPEG&lt;/f0&gt; - zkratka pro Joint Photographic Experts Group, která tento formát vytvořila.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is the most common image format on websites and most digital cameras produce JPEG images as default.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Je to nejběžnější formát obrázků na webových stránkách a většina digitálních fotoaparátů vytváří obrázky JPEG jako výchozí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;GIF&lt;/f0&gt; (Graphics Interchange Format) – GIF is a bitmap image format that is popular because of its wide support and portability.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;GIF&lt;/f0&gt; (Graphics Interchange Format) - GIF je bitmapový formát obrázků, který je oblíbený díky své široké podpoře a přenositelnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;PNG&lt;/f0&gt; (Portable Network Graphics) – PNG is a raster image format which supports lossless data compression and also background transparency.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;PNG&lt;/f0&gt; (Portable Network Graphics) - PNG je formát rastrového obrázku, který podporuje bezeztrátovou kompresi dat a také průhlednost pozadí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;TIF/TIFF&lt;/f0&gt; (Tagged Image File Format) – TIFF is flexible, adaptable, and capable of storing image data in a lossless format.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;TIF/TIFF&lt;/f0&gt; (Tagged Image File Format) - formát TIFF je flexibilní, přizpůsobivý a umožňuje ukládat obrazová data v bezeztrátovém formátu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;BMP&lt;/f0&gt; (BitMaP) – it is also known as bitmap image file, which is a dot matrix data structure.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;BMP&lt;/f0&gt; (BitMaP) - je také známý jako bitmapový obrazový soubor, který je bodovou maticovou datovou strukturou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To import image files into a drawing, go to &lt;f0&gt;Insert &gt; Image&lt;/f0&gt; on the Menu bar or click on &lt;f1&gt;Insert Image&lt;/f1&gt; on the Standard toolbar to open the Insert Image dialog (Figure &lt;t2&gt;1&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li do výkresu importovat obrazové soubory, přejděte na &lt;f0&gt;Vložit &gt; Obrázek&lt;/f0&gt; na panelu nabídek nebo klikněte na &lt;f1&gt;Vložit obrázek&lt;/f1&gt; na panelu nástrojů Standardní a otevřete dialogové okno Vložit obrázek (obrázek &lt;t2&gt;1&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Draw contains import filters for the majority of graphic formats.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Aplikace Draw obsahuje importní filtry pro většinu grafických formátů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the file being imported has a graphic format not covered by the import filters, then it is recommended to use one of the many free graphic conversion programs to convert the file into a format that Draw recognizes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud má importovaný soubor grafický formát, na který se nevztahují importní filtry, doporučujeme použít některý z mnoha bezplatných programů pro převod grafiky do formátu, který aplikace Draw rozpozná.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If &lt;f0&gt;Preview&lt;/f0&gt; is selected in the Insert Image dialog, a preview of the file is shown in the box on the right-hand side.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je v dialogovém okně Vložit obrázek vybrána možnost &lt;f0&gt;Náhled&lt;/f0&gt;, zobrazí se náhled souboru v rámečku na pravé straně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This makes it easier to select the file required and also checks that Draw can import the file format used.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>To usnadňuje výběr požadovaného souboru a také kontroluje, zda Draw může importovat použitý formát souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Embedding a graphic into a drawing makes the image a permanent part of the drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vložením grafiky do výkresu se obrázek stane trvalou součástí výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any changes made to an embedded graphic only appear in the drawing where the graphic was embedded.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Veškeré změny provedené ve vložené grafice se zobrazí pouze ve výkresu, do kterého byla grafika vložena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The original graphic file is not affected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Původní grafický soubor není ovlivněn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Embedding happens when a graphic is imported into a drawing using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K vložení dojde při importu grafiky do výkresu pomocí jedné z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Image dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dialogové okno Vložit obrázek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copying and pasting.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kopírování a vkládání.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scanning a graphic.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Skenování grafiky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dragging and dropping between open files.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přetahování mezi otevřenými soubory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The main advantage of embedding graphics into a drawing is that the graphic is always available no matter what computer is used to open the drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Hlavní výhodou vložení grafiky do výkresu je, že grafika je vždy k dispozici bez ohledu na to, z jakého počítače je výkres otevřen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The main disadvantage of embedding graphics is that it creates large file sizes, which may not be desirable if there is limited capacity for storing computer files.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Hlavní nevýhodou vkládání grafiky je, že vytváří velké soubory, což nemusí být žádoucí, pokud je omezená kapacita pro ukládání počítačových souborů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Also, if the original graphic is altered, then the embedded graphic is not updated each time the drawing is opened.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je původní grafika změněna, pak se vložená grafika neaktualizuje při každém otevření výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a graphic is to be embedded into a LibreOffice drawing, make sure that the &lt;f0&gt;Insert as Link&lt;/f0&gt; option is not selected in the Insert Image dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud má být grafika vložena do výkresu LibreOffice, ujistěte se, že v dialogovém okně Vložit obrázek není vybrána možnost &lt;f0&gt;Vložit jako odkaz&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Confirm Linked Graphic dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;2&lt;/seq0&gt;: Dialogové okno Potvrzení propojené grafiky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Linking to the original graphic does not insert the graphic into a drawing, but creates a link to where the original graphic file is located on the computer.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odkaz na původní grafiku nevloží grafiku do výkresu, ale vytvoří odkaz na místo, kde se původní grafický soubor nachází v počítači.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each time the drawing is opened, any linked graphics are displayed in the drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při každém otevření výkresu se v něm zobrazí veškerá propojená grafika.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The main advantage of linking a graphic file when placed in a drawing is that if the original graphic file is altered or replaced with a graphic using the same filename, the version of the graphic in the drawing is always up to date.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Hlavní výhodou propojení grafického souboru při umístění do výkresu je, že pokud je původní grafický soubor změněn nebo nahrazen grafikou se stejným názvem souboru, je verze grafiky ve výkresu vždy aktuální.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The next time the drawing is opened, the latest version of the graphic is also opened in the drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při dalším otevření výkresu se ve výkresu otevře také nejnovější verze grafiky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Also the file size of the drawing is much smaller and the original graphic can easily be edited with specialized external applications.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Také velikost souboru výkresu je mnohem menší a původní grafiku lze snadno upravovat pomocí specializovaných externích aplikací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The main disadvantage of linking graphics is that the link must be maintained between the drawing and the embedded graphic file for linking to work correctly.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Hlavní nevýhodou propojování grafiky je, že pro správnou funkci propojení je nutné udržovat vazbu mezi výkresem a vloženým grafickým souborem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the drawing or original graphic file is moved to another computer location, then any links must be updated to include the new location.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je výkres nebo původní grafický soubor přesunut na jiné místo v počítači, je třeba aktualizovat všechny odkazy tak, aby obsahovaly nové umístění.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the Insert Image dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevřete dialogové okno Vložit obrázek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the &lt;f0&gt;Insert as Link&lt;/f0&gt; option in the Insert Image dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V dialogovém okně Vložit obrázek vyberte možnost &lt;f0&gt;Vložit jako odkaz&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the required graphic file and click on &lt;f0&gt;Open&lt;/f0&gt; to open the Confirm Linked Graphic dialog (Figure &lt;t1&gt;2&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte požadovaný grafický soubor a kliknutím na &lt;f0&gt;Otevřít&lt;/f0&gt; otevřete dialogové okno Potvrdit propojenou grafiku (obrázek &lt;t1&gt;2&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Keep Link&lt;/f0&gt; to link the file and close the Confirm Linked Graphic dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;Připojit&lt;/f0&gt; propojte soubor a zavřete dialogové okno Potvrdit propojenou grafiku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If necessary, click on &lt;f0&gt;Embed Graphic&lt;/f0&gt; to embed the file if it is not to be linked.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V případě potřeby klikněte na &lt;f0&gt;Embed Graphic&lt;/f0&gt; a soubor vložte, pokud nemá být propojen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This also closes the Confirm Linked Graphic dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tím se také zavře dialogové okno Potvrdit propojenou grafiku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a graphic file is linked to a LibreOffice drawing, the format of the linked graphic is not changed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při propojení grafického souboru s výkresem LibreOffice se formát propojené grafiky nezmění.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Links can be updated, modified, or broken as follows:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odkazy lze aktualizovat, upravovat nebo rušit následujícím způsobem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Edit &gt; Links to External File&lt;/f0&gt; on the Menu bar to open the Edit Links dialog (Figure &lt;t1&gt;3&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Upravit &gt; Odkazy na externí soubor&lt;/f0&gt; na panelu nabídek a otevřete dialogové okno Upravit odkazy (obrázek &lt;t1&gt;3&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the link to be edited.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte odkaz, který chcete upravit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Edit Links dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;3&lt;/seq0&gt;: Dialogové okno Upravit odkazy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Modify&lt;/f0&gt;, &lt;f1&gt;Break Link&lt;/f1&gt;, or &lt;f2&gt;Update&lt;/f2&gt; as appropriate.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Podle potřeby klikněte na &lt;f0&gt;Modify&lt;/f0&gt;, &lt;f1&gt;Break Link&lt;/f1&gt; nebo &lt;f2&gt;Update&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Modify&lt;/f0&gt; – changes the graphic file in the drawing to the graphic file that uses the selected link.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Změnit&lt;/f0&gt; - změní grafický soubor ve výkresu na grafický soubor, který používá vybraný odkaz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Break Link&lt;/f0&gt; – breaks the link between the selected file and the current document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Přerušit propojení&lt;/f0&gt; - přeruší propojení mezi vybraným souborem a aktuálním dokumentem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The version of the graphic file in the drawing becomes embedded into the drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Verze grafického souboru ve výkresu se vloží do výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A confirmation dialog opens asking if the link is to be broken.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevře se potvrzovací dialogové okno s dotazem, zda má být odkaz přerušen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f1&gt;Yes&lt;/f1&gt; to confirm the breaking of the link.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na &lt;f1&gt;Ano&lt;/f1&gt; potvrďte přerušení propojení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Update&lt;/f0&gt; – updates the selected link so that the most recent version of the linked file is displayed in the drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Aktualizovat&lt;/f0&gt; - aktualizuje vybraný odkaz tak, aby se ve výkresu zobrazovala nejnovější verze odkazovaného souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Close&lt;/f0&gt; to save the changes to the link and close the Edit Links dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;Zavřít&lt;/f0&gt; uložte změny odkazu a zavřete dialogové okno Upravit odkazy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With most scanners a scanned image can be inserted into a drawing or document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>U většiny skenerů lze naskenovaný obrázek vložit do výkresu nebo dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scanned images are embedded using PNG format.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Naskenované obrázky jsou vloženy ve formátu PNG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure the scanner is configured for the computer and supported by the SANE system for a Linux operating system, or TWAIN for a Windows or Mac operating system.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ujistěte se, že je skener nakonfigurován pro daný počítač a podporován systémem SANE pro operační systém Linux nebo TWAIN pro operační systém Windows nebo Mac.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place a document, drawing, or photograph in the scanner and make sure that the scanner is switched on and ready.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vložte do skeneru dokument, výkres nebo fotografii a ujistěte se, že je skener zapnutý a připravený.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If this is the first time the scanner has been used with LibreOffice, go to &lt;f0&gt;Insert &gt; Media &gt; Scan &gt; Select Source&lt;/f0&gt; on the Menu bar to select the scanner.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je skener používán s LibreOffice poprvé, přejděte na &lt;f0&gt;Vložit &gt; Média &gt; Skenovat &gt; Vybrat zdroj&lt;/f0&gt; na panelu nabídek a vyberte skener.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the scanner has been used before, go to &lt;f1&gt;Insert &gt; Image &gt; Scan &gt; Request&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud byl skener již dříve použit, přejděte na &lt;f1&gt;Vložit &gt; Obraz &gt; Skenovat &gt; Požadavek&lt;/f1&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The rest of the procedure depends on the scanner driver, interface, and computer operating system.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další postup závisí na ovladači skeneru, rozhraní a operačním systému počítače.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Normally, scanning options need to be specified such as resolution, scan window, and so on.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obvykle je třeba zadat možnosti skenování, jako je rozlišení, okno skenování atd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Consult the documentation that came with the scanner for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace naleznete v dokumentaci dodané se skenerem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the image has been scanned, Draw places it in the drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po naskenování obrázku jej Draw umístí do výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>At this point it can be edited like any other graphic.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V tomto okamžiku ji lze upravovat jako jakoukoli jinou grafiku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If more than one scanning device is connected to the computer, the device is selected when the source is selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je k počítači připojeno více než jedno skenovací zařízení, vybere se zařízení při výběru zdroje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This selection becomes the default source when using scan requests until another device is used as the scanning source.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento výběr se stane výchozím zdrojem při použití požadavků na skenování, dokud není jako zdroj skenování použito jiné zařízení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copying and pasting a graphic into a drawing is another way of embedding graphics.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dalším způsobem vložení grafiky je kopírování a vkládání grafiky do výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The copied graphic can be an image already embedded in another document or drawing, or it can be a graphic file such as a drawing, document, or photograph.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kopírovaná grafika může být obrázek již vložený do jiného dokumentu nebo výkresu, nebo může jít o grafický soubor, například výkres, dokument nebo fotografii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After copying, select the format for pasting a graphic into Draw using &lt;f0&gt;Edit &gt; Paste Special &gt; Paste Special&lt;/f0&gt; on the Menu bar to open the Paste Special dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po zkopírování vyberte formát pro vložení grafiky do aplikace Draw pomocí &lt;f0&gt;Upravit &gt; Vložit speciální &gt; Vložit speciální&lt;/f0&gt; na panelu nabídek, čímž otevřete dialogové okno Vložit speciální.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Available formats for pasting depend on the type of image copied onto the clipboard.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dostupné formáty pro vkládání závisí na typu obrázku zkopírovaného do schránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When copying and pasting images into a drawing, please respect the copyright and license of the image being copied.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při kopírování a vkládání obrázků do výkresu respektujte autorská práva a licenci kopírovaného obrázku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dragging and dropping is another method of embedding graphics into a drawing and can be used on graphics that have been embedded or linked.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další metodou vkládání grafiky do výkresu je přetahování, které lze použít na vloženou nebo propojenou grafiku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The way that dragging and dropping works is determined by the computer operating system.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Způsob, jakým přetahování funguje, závisí na operačním systému počítače.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Behavior of dragging and dropping is normally controlled using the &lt;f0&gt;Ctrl&lt;/f0&gt; or &lt;f1&gt;Ctrl+Shift&lt;/f1&gt; keys in combination with the mouse.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chování při přetahování se obvykle ovládá pomocí kláves &lt;f0&gt;Ctrl&lt;/f0&gt; nebo &lt;f1&gt;Ctrl Shift&lt;/f1&gt; v kombinaci s myší.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Objects and images which are used frequently can be stored in the Draw Gallery.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Často používané objekty a obrázky lze uložit do Galerie kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From the Gallery, a copy of the object or image can be simply dragged onto the drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Z Galerie lze kopii objektu nebo obrázku jednoduše přetáhnout na výkres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Working with the Gallery is dealt with in Chapter 11, Advanced Draw Techniques.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Práci s galerií se věnuje kapitola 11, Pokročilé techniky kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default Draw saves drawings in the &lt;f0&gt;*.ODG &lt;/f0&gt;format.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ve výchozím nastavení ukládá Draw výkresy ve formátu &lt;f0&gt;*.ODG &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some software programs cannot open &lt;f1&gt;*.ODG&lt;/f1&gt; files.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Některé softwarové programy neumí otevřít soubory &lt;f1&gt;*.ODG&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To make drawings available for other programs, the file can be exported in various formats.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Aby byly výkresy k dispozici pro jiné programy, lze soubor exportovat v různých formátech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The export procedure used depends on the computer setup and computer operating system being used.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použitý postup exportu závisí na nastavení počítače a použitém operačním systému.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following procedure is an example export procedure.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Následující postup je příkladem postupu exportu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the ODG file being exported.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevřete exportovaný soubor ODG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;File &gt; Export&lt;/f0&gt; on the Menu bar and open the Export dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Soubor &gt; Export&lt;/f0&gt; na panelu nabídek a otevřete dialogové okno Export.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An example of an export dialog is shown in Figure &lt;t1&gt;4&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Příklad dialogového okna pro export je uveden na obrázku &lt;t1&gt;4&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter a new filename for the exported file and navigate to the folder where the exported file is to be saved.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zadejte nový název exportovaného souboru a přejděte do složky, kam má být exportovaný soubor uložen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the required file format from the options in the drop-down list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Z možností v rozevíracím seznamu vyberte požadovaný formát souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;Export&lt;/f0&gt; and the file is exported as a new file in the selected file format.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Exportovat&lt;/f0&gt; a soubor se vyexportuje jako nový soubor ve zvoleném formátu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Example export dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;4&lt;/seq0&gt;: Příklad dialogového okna exportu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Depending on the file format selected, another dialog may open allowing options to be selected for the export format.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V závislosti na zvoleném formátu souboru se může otevřít další dialogové okno, ve kterém lze vybrat možnosti formátu exportu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Depending on the additional dialog that may open, click on &lt;f0&gt;Export&lt;/f0&gt;, &lt;f1&gt;Create&lt;/f1&gt;, or &lt;f2&gt;OK&lt;/f2&gt; and the file is exported as a new file in its new format.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V závislosti na dalším dialogovém okně, které se může otevřít, klikněte na &lt;f0&gt;Exportovat&lt;/f0&gt;, &lt;f1&gt;Vytvořit&lt;/f1&gt; nebo &lt;f2&gt;OK&lt;/f2&gt; a soubor se vyexportuje jako nový soubor v novém formátu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exporting individual objects, or a group of objects, from a drawing file is similar to “&lt;bf0&gt;Exporting files&lt;/bf0&gt;” above.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Export jednotlivých objektů nebo skupiny objektů ze souboru výkresu je podobný jako v části “&lt;bf0&gt;Export souborů&lt;/bf0&gt;“ výše.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open a drawing file and then select the object or objects for export.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevřete soubor výkresu a poté vyberte objekt nebo objekty pro export.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure to choose the &lt;f1&gt;Selection&lt;/f1&gt; option in the export dialog, as shown in Figure &lt;t2&gt;4&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V dialogovém okně exportu nezapomeňte vybrat možnost &lt;f1&gt;Výběr&lt;/f1&gt;, jak je znázorněno na obrázku &lt;t2&gt;4&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using this method, an imported image can be modified, annotations added to it, and make other changes, then select it and export for use in another drawing or document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí této metody lze importovaný obrázek upravit, přidat k němu poznámky a provést další změny, poté jej vybrat a exportovat pro použití v jiném výkresu nebo dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Images (raster graphics) can be edited and formatted using one of the following methods to add or change filters and adjust the properties of color, lines, areas, and shadows:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázky (rastrovou grafiku) lze upravovat a formátovat některým z následujících způsobů přidávání nebo změny filtrů a úpravy vlastností barev, čar, ploch a stínů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Image&lt;/f0&gt; on the Menu bar and use one of the tools in the sub-menu that opens.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Formát &gt; Obrázek&lt;/f0&gt; na panelu nabídek a použijte jeden z nástrojů v otevřené podnabídce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the tools on the Image toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte nástroje na panelu nástrojů Obrázek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See “&lt;bf0&gt;Image toolbar&lt;/bf0&gt;” on below for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace naleznete v části “&lt;bf0&gt;Obrázkový panel nástrojů&lt;/bf0&gt;“ níže.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the tools available in the &lt;f0&gt;Shadow&lt;/f0&gt; and &lt;f1&gt;Image&lt;/f1&gt; sections on the Properties deck of the Sidebar (Figure &lt;t2&gt;6&lt;/t2&gt; on page &lt;t3&gt;12&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte nástroje dostupné v oddílech &lt;f0&gt;Stín&lt;/f0&gt; a &lt;f1&gt;Obrázek&lt;/f1&gt; na kartě Vlastnosti postranního panelu (obrázek &lt;t2&gt;6&lt;/t2&gt; na straně &lt;t3&gt;12&lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some raster graphics may have a text element.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Některé rastrové grafiky mohou obsahovat textový prvek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information on formatting text, see Chapter 9, Adding and Formatting Text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o formátování textu najdete v kapitole 9, Přidávání a formátování textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Raster graphics included in a group behave like other objects when the properties of the group are edited and formatted.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rastrová grafika obsažená ve skupině se při úpravě a formátování vlastností skupiny chová jako ostatní objekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any formatting changes made to a graphic using the tools in LibreOffice only appear in the drawing where the graphic was modified.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Veškeré změny formátování provedené v grafice pomocí nástrojů v LibreOffice se zobrazí pouze v kresbě, kde byla grafika upravena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Naming images</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pojmenování obrázků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Draw names objects, including inserted images, Shape 1, Shape 2, and so on, in the order of insertion into a drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kreslení názvů objektů, včetně vložených obrázků, Tvar 1, Tvar 2 atd., v pořadí vložení do výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is recommended to rename objects, including images in a drawing, with a unique name Names make images and other objects easily identifiable in the LibreOffice Navigator.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Doporučujeme přejmenovat objekty, včetně obrázků ve výkresu, pomocí jedinečného názvu Názvy umožňují snadnou identifikaci obrázků a dalších objektů v aplikaci LibreOffice Navigator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select an image, then use one of the following methods to open the Name dialog, where a unique name can be entered for the selected image:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte obrázek a jedním z následujících způsobů otevřete dialogové okno Název, kde lze zadat jedinečný název vybraného obrázku:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Name&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Formát &gt; Název&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the image and select &lt;f0&gt;Name&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na obrázek pravým tlačítkem myši a z kontextové nabídky vyberte možnost &lt;f0&gt;Název&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter a name in the &lt;f0&gt;Name&lt;/f0&gt; box and click &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Do pole &lt;f0&gt;Název&lt;/f0&gt; zadejte název a klikněte na &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Image toolbar (Figure &lt;t0&gt;5&lt;/t0&gt;) normally appears when an image or picture that is a raster graphic is selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Panel nástrojů Obrázek (obrázek &lt;t0&gt;5&lt;/t0&gt;) se obvykle zobrazí, když je vybrán obrázek nebo obrázek, který je rastrovou grafikou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Image toolbar can be fixed at the top of a drawing or as a floating toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Panel nástrojů Obrázek může být pevně umístěn v horní části výkresu nebo jako plovoucí panel nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default set of tools on the Image toolbar are as follows.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí sada nástrojů na panelu nástrojů Obrázek je následující.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information on the Image toolbar and the available tools, see Appendix B, Toolbars.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o panelu nástrojů Obrázek a dostupných nástrojích naleznete v dodatku B, Panely nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Position and Size&lt;/f0&gt; (&lt;f1&gt;F4&lt;/f1&gt;) – opens the Position and Size dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Pozice a velikost&lt;/f0&gt; (&lt;f1&gt;F4&lt;/f1&gt;) - otevře dialogové okno Pozice a velikost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 3, Working with Objects for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace naleznete v kapitole 3, Práce s objekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Align Objects&lt;/f0&gt; – opens a sub-toolbar giving access to alignment tools for aligning selected objects in relation to each other.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Zarovnání objektů&lt;/f0&gt; - otevře dílčí panel nástrojů, který umožňuje přístup k nástrojům pro zarovnání vybraných objektů vůči sobě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 5, Combining Multiple Objects for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace naleznete v kapitole 5, Kombinace více objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Bring to Front&lt;/f0&gt; (&lt;f1&gt;Shift+Ctrl++&lt;/f1&gt;) – brings the selected object to the front of a group of objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Přesunout na začátek&lt;/f0&gt; (&lt;f1&gt;Shift Ctrl &lt;/f1&gt;) - přesune vybraný objekt na začátek skupiny objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Bring Forward&lt;/f0&gt; (&lt;f1&gt;Ctrl++&lt;/f1&gt;) – brings the selected object forward one step.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Přesunout dopředu&lt;/f0&gt; (&lt;f1&gt;Ctrl &lt;/f1&gt;) - přesune vybraný objekt o jeden krok dopředu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Send Backward&lt;/f0&gt; (&lt;f1&gt;Ctrl+&lt;/f1&gt;–) – sends the selected object one step backward.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Odeslat zpět&lt;/f0&gt; (&lt;f1&gt;Ctrl &lt;/f1&gt;-) - odešle vybraný objekt o krok zpět.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Send to Back&lt;/f0&gt; (&lt;f1&gt;Shift+Ctrl+&lt;/f1&gt;–) – sends the selected object to the back of a group of objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Odeslat dozadu&lt;/f0&gt; (&lt;f1&gt;Shift Ctrl &lt;/f1&gt;-) - odešle vybraný objekt dozadu do skupiny objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;In Front of Object&lt;/f0&gt; – moves the selected object in front of another selected object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Před objektem&lt;/f0&gt; - přesune vybraný objekt před jiný vybraný objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Behind Object&lt;/f0&gt; – moves the selected object behind another selected object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Za objektem&lt;/f0&gt; - přesune vybraný objekt za jiný vybraný objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Reverse&lt;/f0&gt; – reverses the order of the selected objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Reverse&lt;/f0&gt; - změní pořadí vybraných objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This tool is grayed out if only one object is selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento nástroj je šedý, pokud je vybrán pouze jeden objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Image toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;5&lt;/seq0&gt;: Panel nástrojů Obrázek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Line Style&lt;/f0&gt; – opens a drop-down list with different line styles used for the outline of the border.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Styl čáry&lt;/f0&gt; - otevře rozevírací seznam s různými styly čáry použitými pro obrys rámečku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 4, Changing Object Attributes for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace naleznete v kapitole 4, Změna atributů objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Line Width&lt;/f0&gt; – used to change the width of a line.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Šířka řádku&lt;/f0&gt; - slouží ke změně šířky řádku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Line Color&lt;/f0&gt; – used to change the color of a line.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Barva čáry&lt;/f0&gt; - slouží ke změně barvy čáry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Area Style/Filling&lt;/f0&gt; – used to change the type of filling used in a shape.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Styl výplně plochy&lt;/f0&gt; - slouží ke změně typu výplně použité ve tvaru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Shadow&lt;/f0&gt; – sets the default shadow effect around the picture.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Stín&lt;/f0&gt; - nastaví výchozí efekt stínu kolem obrázku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The shadow attributes are adjusted using the &lt;f1&gt;Shadow&lt;/f1&gt; section in the Properties deck on the Sidebar (Figure &lt;t2&gt;6&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Atributy stínu se upravují pomocí oddílu &lt;f1&gt;Stín&lt;/f1&gt; v nabídce Vlastnosti na postranním panelu (obrázek &lt;t2&gt;6&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 4, Changing Object Attributes for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace naleznete v kapitole 4, Změna atributů objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Filter&lt;/f0&gt; – opens the Image Filter toolbar which is described in “&lt;bf1&gt;Image filters&lt;/bf1&gt;” on page &lt;bf2&gt;16&lt;/bf2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Filtr&lt;/f0&gt; - otevře panel nástrojů Filtry obrázků, který je popsán v části “&lt;bf1&gt;Filtry obrázků&lt;/bf1&gt;“ na straně &lt;bf2&gt;16&lt;/bf2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Image Mode&lt;/f0&gt; – changes the display of the graphic from color to grayscale, black and white, or a watermark.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Režim obrázku&lt;/f0&gt; - změní zobrazení grafiky z barevné na černobílou, černobílou nebo na vodoznak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This setting affects only the display and printing of the picture; the original picture file remains unchanged.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Toto nastavení ovlivňuje pouze zobrazení a tisk obrázku; původní soubor obrázku zůstává nezměněn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The image mode setting can also be changed using &lt;f1&gt;Color mode&lt;/f1&gt; in the &lt;f2&gt;Image&lt;/f2&gt; section in the Properties deck on the Sidebar (Figure &lt;t3&gt;6&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nastavení režimu obrazu lze změnit také pomocí &lt;f1&gt;Barevný režim&lt;/f1&gt; v části &lt;f2&gt;Obraz&lt;/f2&gt; v nabídce Vlastnosti na postranním panelu (obrázek &lt;t3&gt;6&lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Default&lt;/f0&gt; – the graphic is displayed unaltered in color.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Výchozí&lt;/f0&gt; - grafika se zobrazí v nezměněné barvě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Grayscale&lt;/f0&gt; – the graphic is displayed in 256 shades of gray.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Grayscale&lt;/f0&gt; - grafika se zobrazí ve 256 odstínech šedé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Black/White&lt;/f0&gt; – the graphic is displayed in black and white.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Černá/bílá&lt;/f0&gt; - grafika se zobrazí černobíle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Watermark&lt;/f0&gt; – the color, brightness, contrast, and gamma settings are reduced so that the graphic can be used as a watermark (background).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Vodoznak&lt;/f0&gt; - nastavení barev, jasu, kontrastu a gama se sníží, aby bylo možné grafiku použít jako vodoznak (pozadí).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These default settings can be adjusted using the Color toolbar (Figure &lt;t1&gt;7&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato výchozí nastavení lze upravit pomocí panelu nástrojů Barva (obrázek &lt;t1&gt;7&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Crop&lt;/f0&gt; – crops or trims a picture.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Ořezat&lt;/f0&gt; - ořízne nebo ořízne obrázek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When using this tool, crop marks appear around the picture.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při použití tohoto nástroje se kolem obrázku zobrazí ořezové značky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Drag one or more of these marks to crop the picture to the desired size.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přetažením jedné nebo více těchto značek ořízněte obrázek na požadovanou velikost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information on cropping, see “&lt;bf1&gt;Cropping images&lt;/bf1&gt;” on page &lt;bf2&gt;13&lt;/bf2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o ořezávání najdete v části “&lt;bf1&gt;Ořezávání snímků&lt;/bf1&gt;“ na stránce &lt;bf2&gt;13&lt;/bf2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Vertically&lt;/f0&gt; – flips the selected object vertically.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Vertikálně&lt;/f0&gt; - otočí vybraný objekt na výšku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Horizontally&lt;/f0&gt; – flips the selected object horizontally.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Horizontálně&lt;/f0&gt; - otočí vybraný objekt vodorovně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Transformations&lt;/f0&gt; – opens the Transformations toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Transformace&lt;/f0&gt; - otevře panel nástrojů Transformace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Transparency&lt;/f0&gt; – adjusts the degree of transparency of the picture between 0% (opaque) and 100% (fully transparent).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Průhlednost&lt;/f0&gt; - nastavuje stupeň průhlednosti obrázku mezi 0 % (neprůhledný) a 100 % (zcela průhledný).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The transparency setting can also be adjusted using the &lt;f1&gt;Image&lt;/f1&gt; section in the Properties deck on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nastavení průhlednosti lze upravit také pomocí oddílu &lt;f1&gt;Obrázek&lt;/f1&gt; v nabídce Vlastnosti na postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Shadow and Image sections in Properties deck on Sidebar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;6&lt;/seq0&gt;: Sekce Stín a Obrázek v nabídce Vlastnosti na postranním panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Color toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;7&lt;/seq0&gt;: Barevný panel nástrojů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Color&lt;/f0&gt; – opens the Color toolbar (Figure &lt;t1&gt;7&lt;/t1&gt;) to adjust the values of the RGB colors, brightness, contrast, and Gamma.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Barva&lt;/f0&gt; - otevře panel nástrojů Barva (obrázek &lt;t1&gt;7&lt;/t1&gt;), na kterém lze nastavit hodnoty barev RGB, jasu, kontrastu a gamy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These adjustments do not affect the original picture, but the values are stored in Draw as a separate formatting set.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tyto úpravy nemají vliv na původní obrázek, ale hodnoty jsou uloženy v aplikaci Draw jako samostatná sada formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The color settings can also be adjusted using the &lt;f2&gt;Image&lt;/f2&gt; section in the Properties deck on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nastavení barev lze upravit také pomocí oddílu &lt;f2&gt;Obrázek&lt;/f2&gt; v nabídce Vlastnosti na postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Red, Green, Blue&lt;/f0&gt; – select values between –100% (no color) to +100% (full intensity); 0% represents the original color value of the graphic.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Červená, zelená, modrá&lt;/f0&gt; - vyberte hodnoty od -100 % (žádná barva) do 100 % (plná intenzita); 0 % představuje původní hodnotu barvy grafiky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Brightness&lt;/f0&gt; – select a value between –100% (totally black) and +100% (totally white).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Jas&lt;/f0&gt; - vyberte hodnotu mezi -100 % (zcela černá) a 100 % (zcela bílá).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Contrast&lt;/f0&gt; – select a value between –100% (minimum) and +100% (maximum).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Kontrast&lt;/f0&gt; - vyberte hodnotu mezi -100 % (minimum) a 100 % (maximum).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Gamma&lt;/f0&gt; – this affects the brightness of the middle color tones.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Gamma&lt;/f0&gt; - ovlivňuje jas středních barevných tónů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a value between 0.10 (minimum) to 10 (maximum) Try adjusting this value if changing brightness or contrast does not give the required result.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zvolte hodnotu v rozmezí 0,10 (minimum) až 10 (maximum) Zkuste tuto hodnotu upravit, pokud změna jasu nebo kontrastu nepřinese požadovaný výsledek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cropping is a method of hiding unwanted areas of an image or changing the size of an image in a drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Oříznutí je metoda skrývání nežádoucích oblastí obrázku nebo změny velikosti obrázku v kresbě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changes made when cropping an image only change the display of the graphic in a drawing and not the original graphic file.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Změny provedené při ořezávání obrázku mění pouze zobrazení grafiky ve výkresu, nikoli původní grafický soubor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After selecting a graphic, it can be cropped quickly using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po výběru grafiky ji lze rychle oříznout některou z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Crop Image&lt;/f0&gt; on the Standard or Image toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Oříznout obrázek&lt;/f0&gt; na panelu nástrojů Standardní nebo Obrázek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the image and select &lt;f0&gt;Crop&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem myši na obrázek a z kontextové nabídky vyberte možnost &lt;f0&gt;Oříznout&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selection handles appear around the selected image (Figure &lt;t0&gt;8&lt;/t0&gt;) and the image is cropped as follows:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kolem vybraného obrázku se zobrazí úchyty pro výběr (obrázek &lt;t0&gt;8&lt;/t0&gt;) a obrázek se ořízne následujícím způsobem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Top, bottom, left, and right selection handles crop the image in one direction only.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Horní, dolní, levá a pravá rukojeť výběru ořízne obrázek pouze v jednom směru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Example image ready for cropping with selection handles</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;8&lt;/seq0&gt;: Příklad obrázku připraveného k oříznutí pomocí úchytů pro výběr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Corner selection handles crop the image vertically and horizontally in two directions.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Úchyty pro výběr rohů oříznou obrázek vertikálně a horizontálně ve dvou směrech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To maintain the ratio between vertical and horizontal dimensions, hold down the &lt;f0&gt;Shift&lt;/f0&gt; key while moving a selection handle.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li zachovat poměr mezi svislými a vodorovnými rozměry, podržte při přesouvání úchytu výběru klávesu &lt;f0&gt;Shift&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more control and accuracy over the cropping functions, it is recommended to use the Crop dialog (Figure &lt;t0&gt;9&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro větší kontrolu a přesnost funkcí ořezu se doporučuje použít dialogové okno Ořez (obrázek &lt;t0&gt;9&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After selecting an image, go to &lt;f1&gt;Format &gt; Image &gt; Crop Dialog&lt;/f1&gt; on the Menu bar to open the Crop dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po výběru obrázku přejděte na &lt;f1&gt;Formát &gt; Obrázek &gt; Dialog oříznutí&lt;/f1&gt; na panelu nabídek a otevřete dialogové okno Oříznout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Crop&lt;/f0&gt; – use this section to trim or scale the selected graphic, or to add white space around the graphic.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Oříznutí&lt;/f0&gt; - v této části můžete vybranou grafiku oříznout nebo zmenšit, případně přidat bílé místo kolem grafiky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Keep scale&lt;/f0&gt; – maintains the original scale of the graphic when cropping so that only the size of the graphic changes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Zachovat měřítko&lt;/f0&gt; - při ořezávání zachová původní měřítko grafiky, takže se změní pouze velikost grafiky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Keep image size&lt;/f0&gt; – maintains the original size of the graphic when you crop so that only the scale of the graphic changes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Zachovat velikost obrázku&lt;/f0&gt; - při oříznutí zachová původní velikost grafiky, takže se změní pouze měřítko grafiky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Crop dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;9&lt;/seq0&gt;: Dialogové okno oříznutí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Left&lt;/f0&gt; and &lt;f1&gt;Right&lt;/f1&gt; – if &lt;f2&gt;Keep scale&lt;/f2&gt; is selected, enter a positive amount to trim the left or right edge of the graphic, or a negative amount to add white space to the left or right of the graphic.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Levý&lt;/f0&gt; a &lt;f1&gt;Pravý&lt;/f1&gt; - pokud je vybrána možnost &lt;f2&gt;Zachovat měřítko&lt;/f2&gt;, zadejte kladnou hodnotu pro oříznutí levého nebo pravého okraje grafiky nebo zápornou hodnotu pro přidání bílého místa vlevo nebo vpravo od grafiky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If &lt;f3&gt;Keep image size&lt;/f3&gt; is selected, enter a positive amount to increase the horizontal scale of the graphic, or a negative amount to decrease the horizontal scale of the graphic.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je vybrána možnost &lt;f3&gt;Zachovat velikost obrázku&lt;/f3&gt;, zadejte kladnou hodnotu pro zvětšení vodorovného měřítka grafiky nebo zápornou hodnotu pro zmenšení vodorovného měřítka grafiky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Top&lt;/f0&gt; and &lt;f1&gt;Bottom&lt;/f1&gt; – if &lt;f2&gt;Keep scale&lt;/f2&gt; is selected, enter a positive amount to trim the top or bottom of the graphic, or a negative amount to add white space above or below the graphic.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Horní část&lt;/f0&gt; a &lt;f1&gt;Dolní část&lt;/f1&gt; - pokud je vybrána možnost &lt;f2&gt;Zachovat měřítko&lt;/f2&gt;, zadejte kladnou hodnotu pro oříznutí horní nebo dolní části grafiky nebo zápornou hodnotu pro přidání bílého místa nad nebo pod grafiku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If &lt;f3&gt;Keep image&lt;/f3&gt; size is selected, enter a positive amount to increase the vertical scale of the graphic, or a negative amount to decrease the vertical scale of the graphic.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je vybrána možnost &lt;f3&gt;Zachovat velikost obrázku&lt;/f3&gt;, zadejte kladnou hodnotu pro zvětšení svislého měřítka grafiky nebo zápornou hodnotu pro zmenšení svislého měřítka grafiky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Scale&lt;/f0&gt; – this section is used to change the scale of the selected graphic as it appears in a drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Měřítko&lt;/f0&gt; - tato část slouží ke změně měřítka vybrané grafiky, jak se zobrazuje ve výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Width&lt;/f0&gt; – enter a percentage value to change the width of a selected graphic.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Šířka&lt;/f0&gt; - zadáním procentuální hodnoty změníte šířku vybrané grafiky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Height&lt;/f0&gt; – enter a percentage value to change the height of a selected graphic.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Výška&lt;/f0&gt; - zadejte procentuální hodnotu pro změnu výšky vybrané grafiky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Image Size&lt;/f0&gt; – this section is used to change the size of the selected graphic.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Velikost obrázku&lt;/f0&gt; - tato část slouží ke změně velikosti vybrané grafiky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Width&lt;/f0&gt; – enter a value for the width of the selected graphic.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Šířka&lt;/f0&gt; - zadejte hodnotu šířky vybrané grafiky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Height&lt;/f0&gt; – enter a value for the height of the selected graphic.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Výška&lt;/f0&gt; - zadejte hodnotu výšky vybrané grafiky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Original Size&lt;/f0&gt; – the original size of the graphic is displayed above the option.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Původní velikost&lt;/f0&gt; - nad možností se zobrazí původní velikost grafiky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clicking on this option and then clicking &lt;f1&gt;OK&lt;/f1&gt; resets the selected graphic to its original size.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na tuto možnost a následným kliknutím na &lt;f1&gt;OK&lt;/f1&gt; obnovíte původní velikost vybrané grafiky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the Crop dialog, the &lt;f0&gt;Width&lt;/f0&gt; and &lt;f1&gt;Height&lt;/f1&gt; are treated as independent values.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V dialogovém okně Oříznout jsou údaje &lt;f0&gt;Šířka&lt;/f0&gt; a &lt;f1&gt;Výška&lt;/f1&gt; považovány za nezávislé hodnoty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changing one without the other can result in significant distortion of the image and this may not be what is required.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Změna jednoho bez druhého může vést k výraznému zkreslení obrazu a to nemusí být to, co je požadováno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If a cropped graphic is to be used in another drawing, use one of the following methods after selecting the cropped graphic:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud má být oříznutá grafika použita v jiném výkresu, použijte po výběru oříznuté grafiky jednu z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;File &gt; Export&lt;/f0&gt; on the Menu bar to open the Export dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Soubor &gt; Export&lt;/f0&gt; na panelu nabídek a otevřete dialogové okno Export.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Navigate to the destination folder, then enter a filename, choose the &lt;f1&gt;Selection&lt;/f1&gt; option, and click on &lt;f2&gt;Export&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte do cílové složky, zadejte název souboru, vyberte možnost &lt;f1&gt;Výběr&lt;/f1&gt; a klikněte na &lt;f2&gt;Exportovat&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See “&lt;bf3&gt;Exporting graphics&lt;/bf3&gt;” on page &lt;bf4&gt;8&lt;/bf4&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace naleznete v části “&lt;bf3&gt;Exportování grafiky&lt;/bf3&gt;“ na stránce &lt;bf4&gt;8&lt;/bf4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Image &gt; Save&lt;/f0&gt; on the Menu bar or right click on the cropped graphic and select &lt;f1&gt;Save&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Formát &gt; Obrázek &gt; Uložit&lt;/f0&gt; na panelu nabídek nebo klikněte pravým tlačítkem myši na oříznutou grafiku a z kontextové nabídky vyberte &lt;f1&gt;Uložit&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f2&gt;Yes&lt;/f2&gt; to save the modified image and open an Image Export dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na &lt;f2&gt;Ano&lt;/f2&gt; uložíte upravený obrázek a otevřete dialogové okno Export obrázku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the file format required, navigate to the destination folder, then enter a filename and click on &lt;f3&gt;Save&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte požadovaný formát souboru, přejděte do cílové složky, zadejte název souboru a klikněte na &lt;f3&gt;Uložit&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If a large image is inserted into a drawing and resized to fit into the layout of the drawing, the complete full-size original image is stored in the drawing file.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je do výkresu vložen velký obrázek a jeho velikost je změněna tak, aby se vešel do rozvržení výkresu, je v souboru výkresu uložen celý původní obrázek v plné velikosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This preserves its content, possibly resulting in a large file to store or send by mail.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tím se zachová jeho obsah, což může vést k tomu, že soubor bude velký a bude se muset uložit nebo poslat poštou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If some loss of image quality can be accepted, the image can be compressed reducing its data volume while preserving its display in the page layout;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud lze akceptovat určitou ztrátu kvality obrazu, lze obraz komprimovat, čímž se sníží jeho datový objem a zároveň se zachová jeho zobrazení v rozvržení stránky;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the Compress Image dialog (Figure &lt;t0&gt;10&lt;/t0&gt;) using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevřete dialogové okno Komprese obrázku (obrázek &lt;t0&gt;10&lt;/t0&gt;) jedním z následujících způsobů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the image and select &lt;f0&gt;Compress&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na obrázek pravým tlačítkem myši a z kontextové nabídky vyberte možnost &lt;f0&gt;Komprimovat&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Image &gt; Compress&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Formát &gt; Obrázek &gt; Komprimovat&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Compress Image dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;10&lt;/seq0&gt;: Dialogové okno Komprimovat obrázek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the type of compression and the resolution required.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte typ komprese a požadované rozlišení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Calculate New Size&lt;/f0&gt; to update the image information when the &lt;f1&gt;Compression&lt;/f1&gt; and &lt;f2&gt;Resolution&lt;/f2&gt; settings are changed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;Vypočítat novou velikost&lt;/f0&gt; aktualizujete informace o obrázku při změně nastavení &lt;f1&gt;Komprese&lt;/f1&gt; a &lt;f2&gt;Rozlišení&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When satisfied with the new settings, click &lt;f0&gt;OK&lt;/f0&gt; to apply the settings.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud jste s novým nastavením spokojeni, kliknutím na tlačítko &lt;f0&gt;OK&lt;/f0&gt; nastavení použijte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the resulting image is not acceptable, use the keyboard shortcut &lt;f0&gt;Ctrl+Z&lt;/f0&gt; to undo the changes and select another compression setting.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud výsledný obrázek není přijatelný, použijte klávesovou zkratku &lt;f0&gt;Ctrl Z&lt;/f0&gt; pro zrušení změn a výběr jiného nastavení komprese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Draw offers eleven filter effects that work on a selected graphic and they can be combined.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Draw nabízí jedenáct efektů filtrů, které pracují s vybranou grafikou a lze je kombinovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filters always apply to the entire graphic and it is not possible to use filters to edit only a part of the graphic.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Filtry se vždy vztahují na celou grafiku a není možné použít filtry k úpravě pouze části grafiky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a raster graphic to open the Image toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběrem rastrové grafiky otevřete panel nástrojů Obrázek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Apply an image filter using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte filtr obrázku pomocí jedné z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Filter&lt;/f0&gt; to open the Image Filter toolbar (Figure &lt;t1&gt;11&lt;/t1&gt;), then select an image filter to apply.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;Filtr&lt;/f0&gt; otevřete panel nástrojů Filtr obrázku (obrázek &lt;t1&gt;11&lt;/t1&gt;) a poté vyberte filtr obrázku, který chcete použít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Image &gt; Filter&lt;/f0&gt; on the Menu bar and select an image filter from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Formát &gt; Obrázek &gt; Filtr&lt;/f0&gt; na panelu nabídek a z kontextové nabídky vyberte filtr obrázku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If a graphic is embedded into a drawing, any image filters are applied directly to a selected graphic and the original graphic file is not changed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je grafika vložena do výkresu, veškeré obrazové filtry se použijí přímo na vybranou grafiku a původní grafický soubor se nezmění.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save the drawing to retain any filter effects applied to the graphic in a drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Uložením výkresu zachováte všechny efekty filtru použité na grafiku ve výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Image Filter toolbar and available filters</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;11&lt;/seq0&gt;: Panel nástrojů Filtr obrázku a dostupné filtry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After a drawing is saved and closed, the effects of image filters become permanent.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po uložení a zavření výkresu se účinky obrazových filtrů stanou trvalými.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If image filter effects are not satisfactory, use &lt;f0&gt;Edit &gt; Undo&lt;/f0&gt; on the Menu bar to cancel the filter effects before saving the drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud efekty obrazových filtrů nejsou uspokojivé, použijte &lt;f0&gt;Upravit &gt; Zrušit&lt;/f0&gt; na panelu nabídek a zrušte efekty filtrů před uložením výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The image filters available for application to a raster graphic are as follows:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na rastrovou grafiku lze použít následující obrazové filtry:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Apply the filter again to revert to the original graphic (Figure &lt;t1&gt;12&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Opětovným použitím filtru se vrátíte k původní grafice (obrázek &lt;t1&gt;12&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Invert image filter</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;12&lt;/seq0&gt;: Inverzní filtr obrazu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This reduces the contrast between neighboring pixels and produces a lack of sharpness making the image appear smoother (Figure &lt;t1&gt;13&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tím se sníží kontrast mezi sousedními pixely a obraz se stane neostrým, takže vypadá hladší (obrázek &lt;t1&gt;13&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The effect of the smooth filter can be very subtle.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Účinek hladkého filtru může být velmi jemný.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, the following example shows the &lt;f2&gt;Smooth&lt;/f2&gt; image filter applied at a &lt;f3&gt;Smooth radius&lt;/f3&gt; setting of 50 making the image smooth, but blurred.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Následující příklad však ukazuje filtr &lt;f2&gt;Hladký&lt;/f2&gt; aplikovaný při nastavení &lt;f3&gt;Hladký poloměr&lt;/f3&gt; na hodnotu 50, takže obrázek je hladký, ale rozmazaný.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selecting this filter opens the Smooth dialog (Figure &lt;t0&gt;14&lt;/t0&gt;) where the smooth radius parameter is set.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběrem tohoto filtru se otevře dialogové okno Vyhlazení (obrázek &lt;t0&gt;14&lt;/t0&gt;), kde se nastaví parametr poloměru vyhlazení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Smooth image filter</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;13&lt;/seq0&gt;: Filtr hladkého obrazu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Smooth dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;14&lt;/seq0&gt;: Vyhlazovací dialogové okno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Sharpen&lt;/f0&gt; – sharpens the image by applying a high pass filter, adjusting the contrast between neighboring pixels.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Zostřit&lt;/f0&gt; - doostří obrázek použitím vysokofrekvenčního filtru a upraví kontrast mezi sousedními pixely.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The effect increases if the filter is applied several times making the colors appear faded, as shown by the example in Figure &lt;t1&gt;15&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Efekt se zvýší, pokud je filtr aplikován několikrát, takže barvy vypadají vybledle, jak ukazuje příklad na obrázku &lt;t1&gt;15&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: Sharpen image filter</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;15&lt;/seq0&gt;: Filtr pro doostření obrazu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Remove Noise image filter</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;16&lt;/seq0&gt;: Odstranění filtru obrazu šumu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The amount of picture information does not increase each time the filter is applied.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Množství obrazových informací se při každém použití filtru nezvyšuje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, there are fewer contrast changes resulting in an image that looks smoother and the effect is very subtle (Figure &lt;t1&gt;16&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dochází však k menším změnám kontrastu, což má za následek, že obraz vypadá hladší a efekt je velmi jemný (obrázek &lt;t1&gt;16&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Solarization&lt;/f0&gt; – solarization refers to an effect that looks like what can happen when there is too much light during photo development and the colors have become partly inverted.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Solarizace&lt;/f0&gt; - solarizace označuje efekt, který vypadá jako to, co se může stát, když je při vyvolávání fotografií příliš mnoho světla a barvy se částečně invertují.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the digital world of photography, solarization creates a change or reversal of color (Figure &lt;t1&gt;17&lt;/t1&gt;), similar to the effect of the &lt;f2&gt;Invert&lt;/f2&gt; image filter.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V digitálním světě fotografie vytváří solarizace změnu nebo obrácení barev (obrázek &lt;t1&gt;17&lt;/t1&gt;), podobně jako obrazový filtr &lt;f2&gt;Invert&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selecting &lt;f0&gt;Solarization&lt;/f0&gt; opens the Solarization dialog (Figure &lt;t1&gt;18&lt;/t1&gt;), where the degree of solarization (&lt;f2&gt;Threshold value)&lt;/f2&gt; can be specified.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběrem možnosti &lt;f0&gt;Solarizace&lt;/f0&gt; se otevře dialogové okno Solarizace (obrázek &lt;t1&gt;18&lt;/t1&gt;), kde lze zadat stupeň solarizace (&lt;f2&gt;Prahová hodnota)&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Entering a value above 70% reverses the inversion effect on colors.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zadáním hodnoty vyšší než 70 % se inverzní efekt na barvy změní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selecting &lt;f3&gt;Invert&lt;/f3&gt; reverses the effect of the &lt;f4&gt;Solarization&lt;/f4&gt; image filter.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběrem možnosti &lt;f3&gt;Invertovat&lt;/f3&gt; obrátíte účinek obrazového filtru &lt;f4&gt;Solarizace&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: Solarization image filter</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;17&lt;/seq0&gt;: Solarizační filtr obrazu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Solarization dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;18&lt;/seq0&gt;: Dialogové okno Solarizace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Aging&lt;/f0&gt; – aging creates a look that resembles photographs developed in the early days of photography (Figure &lt;t1&gt;19&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Stárnutí&lt;/f0&gt; - stárnutí vytváří vzhled, který připomíná fotografie vytvořené v počátcích fotografie (obrázek &lt;t1&gt;19&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All pixels are set to their gray values and then the green and blue color channels are reduced by the amount specified in &lt;f2&gt;Aging degree&lt;/f2&gt; in the Aging dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>U všech pixelů se nastaví jejich šedé hodnoty a poté se zelené a modré barevné kanály sníží o hodnotu zadanou v poli &lt;f2&gt;Stupeň stárnutí&lt;/f2&gt; v dialogovém okně Stárnutí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selecting the &lt;f0&gt;Aging&lt;/f0&gt; filter opens the Aging dialog (Figure &lt;t1&gt;20&lt;/t1&gt;), where the &lt;f2&gt;Aging degree&lt;/f2&gt; can be defined and create an old look for the image.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběrem filtru &lt;f0&gt;Stárnutí&lt;/f0&gt; se otevře dialogové okno Stárnutí (obrázek &lt;t1&gt;20&lt;/t1&gt;), kde lze definovat &lt;f2&gt;Stupeň stárnutí&lt;/f2&gt; a vytvořit starý vzhled obrázku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: Aging image filter</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;19&lt;/seq0&gt;: Filtr stárnutí obrazu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: Aging dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;20&lt;/seq0&gt;: Dialogové okno stárnutí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Posterize&lt;/f0&gt; – posterizing reduces the number of colors in an image.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Posterizace&lt;/f0&gt; - posterizace snižuje počet barev v obrázku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, a photograph will probably look like a painting when the number of colors is reduced (Figure &lt;t1&gt;21&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například fotografie bude pravděpodobně vypadat jako malba, když se sníží počet barev (obrázek &lt;t1&gt;21&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selecting &lt;f0&gt;Posterize&lt;/f0&gt; opens the Posterize dialog (Figure &lt;t1&gt;22&lt;/t1&gt;), where the number of poster colors can be defined to produce the effect required.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběrem možnosti &lt;f0&gt;Posterizovat&lt;/f0&gt; se otevře dialogové okno Posterizovat (obrázek &lt;t1&gt;22&lt;/t1&gt;), kde lze definovat počet barev plakátu pro dosažení požadovaného efektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;: Posterize image filter</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;21&lt;/seq0&gt;: Posterizační filtr obrazu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;22&lt;/seq0&gt;: Posterize dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;22&lt;/seq0&gt;: Dialog Posterizace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Pop Art&lt;/f0&gt; – changes the colors of an image converting it to a pop-art format (Figure &lt;t1&gt;23&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Pop Art&lt;/f0&gt; - změní barvy obrázku a převede jej do formátu pop-art (obrázek &lt;t1&gt;23&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;23&lt;/seq0&gt;: Pop Art image filter</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;23&lt;/seq0&gt;: Obrázkový filtr Pop Art</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Charcoal Sketch&lt;/f0&gt; – displays an image as a charcoal sketch.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Skica uhlím&lt;/f0&gt; - zobrazí obrázek jako skicu uhlím.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The contours of the image are drawn in black and the original colors are suppressed (Figure &lt;t1&gt;24&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrysy obrazu jsou vykresleny černě a původní barvy jsou potlačeny (obrázek &lt;t1&gt;24&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;24&lt;/seq0&gt;: Charcoal Sketch image filter</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;24&lt;/seq0&gt;: Obrazový filtr Charcoal Sketch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Relief&lt;/f0&gt; – calculates the edges of an image in relief as if the image is illuminated by a light source (Figure &lt;t1&gt;25&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Reliéf&lt;/f0&gt; - vypočítá okraje reliéfu obrazu, jako by byl obraz osvětlen zdrojem světla (obrázek &lt;t1&gt;25&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selecting &lt;f2&gt;Relief&lt;/f2&gt; opens the Emboss dialog (Figure &lt;t3&gt;26&lt;/t3&gt;) where the position of the &lt;f4&gt;Light source&lt;/f4&gt; is selected producing shadows that differ in direction and magnitude.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběrem možnosti &lt;f2&gt;Odlehčení&lt;/f2&gt; se otevře dialogové okno Reliéf (obrázek &lt;t3&gt;26&lt;/t3&gt;), ve kterém se vybere poloha &lt;f4&gt;Zdroje světla&lt;/f4&gt; a vytvoří se stíny, které se liší směrem a velikostí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;25&lt;/seq0&gt;: Relief image filter</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;25&lt;/seq0&gt;: Filtr reliéfního obrazu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;26&lt;/seq0&gt;: Emboss dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;26&lt;/seq0&gt;: Dialogové okno Vyražení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Mosaic&lt;/f0&gt; – this image filter joins groups of pixels and converts them into rectangles of a single color creating an image that appears to be a mosaic (Figure &lt;t1&gt;27&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Mozaika&lt;/f0&gt; - tento filtr spojuje skupiny pixelů a převádí je na obdélníky jedné barvy, čímž vytváří obraz, který vypadá jako mozaika (obrázek &lt;t1&gt;27&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The larger the individual rectangles created, the fewer details in the mosaic graphic.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Čím větší jsou jednotlivé vytvořené obdélníky, tím méně detailů je v mozaikové grafice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selecting this image filter opens the Mosaic dialog (Figure &lt;t0&gt;28&lt;/t0&gt;), where the number of pixels for &lt;f1&gt;Width&lt;/f1&gt; and &lt;f2&gt;Height&lt;/f2&gt; of the tiles is set.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběrem tohoto filtru obrázků se otevře dialogové okno Mozaika (obrázek &lt;t0&gt;28&lt;/t0&gt;), kde se nastaví počet pixelů pro &lt;f1&gt;Šířka&lt;/f1&gt; a &lt;f2&gt;Výška&lt;/f2&gt; dlaždic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selecting &lt;f3&gt;Enhanced edges&lt;/f3&gt; enhances the edges of each tile, creating a sharper definition.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběrem možnosti &lt;f3&gt;Zvýšené okraje&lt;/f3&gt; zvýrazníte okraje jednotlivých dlaždic a vytvoříte ostřejší definici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;27&lt;/seq0&gt;: Mosaic image filter</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;27&lt;/seq0&gt;: Filtr mozaikového obrazu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;28&lt;/seq0&gt;: Mosaic dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;28&lt;/seq0&gt;: Dialogové okno Mozaika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Color Replacer&lt;/f0&gt; tool only allows replacement or changing a color in an embedded graphic for another color or set a color as transparent.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nástroj &lt;f0&gt;Záměna barvy&lt;/f0&gt; umožňuje pouze nahradit nebo změnit barvu ve vložené grafice za jinou barvu nebo nastavit barvu jako průhlednou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An area of the graphic cannot be selected for editing as this tool only works on the entire graphic.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Oblast grafiky nelze vybrat k úpravám, protože tento nástroj pracuje pouze s celou grafikou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The selection of replacement colors can only be from one of the available palettes in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběr náhradních barev může být pouze z jedné z dostupných palet v LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>New colors cannot be defined here, but custom colors can be created before using the &lt;f0&gt;Color Replacer&lt;/f0&gt; tool.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zde nelze definovat nové barvy, ale vlastní barvy lze vytvořit před použitím nástroje &lt;f0&gt;Zástupce barev&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information on creating colors, see Chapter 11, Advanced Draw Techniques.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o vytváření barev najdete v kapitole 11, Pokročilé techniky kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Color Replacer&lt;/f0&gt; can only be used on embedded graphics.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Funkci &lt;f0&gt;Color Replacer&lt;/f0&gt; lze použít pouze pro vloženou grafiku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the &lt;f1&gt;Color Replacer&lt;/f1&gt; is used on a linked graphic, the following error message appears “&lt;f2&gt;This image is linked to a document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je na propojené grafice použit nástroj &lt;f1&gt;Color Replacer&lt;/f1&gt;, zobrazí se následující chybová zpráva "&lt;f2&gt;Tento obrázek je propojen s dokumentem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to unlink the image in order to edit it?&lt;/f2&gt;”.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete zrušit propojení obrázku, abyste jej mohli upravit?&lt;/f2&gt;“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f3&gt;Yes&lt;/f3&gt; to unlink and embed the graphic.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na &lt;f3&gt;Ano&lt;/f3&gt; zrušíte propojení a vložíte grafiku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Pipette&lt;/f0&gt; – switches color selection on when selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Pipeta&lt;/f0&gt; - zapne výběr barvy, když je vybrána.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Replace&lt;/f0&gt; – replaces the selected source colors in the selected image with the colors specified in the &lt;f1&gt;Replace with&lt;/f1&gt; boxes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Nahradit&lt;/f0&gt; - nahradí vybrané zdrojové barvy ve vybraném obrázku barvami zadanými v polích &lt;f1&gt;Nahradit pomocí&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Colors&lt;/f0&gt; – lists the source colors and the replacement colors.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Barvy&lt;/f0&gt; - seznam zdrojových a náhradních barev.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Source color checkbox&lt;/f0&gt; – select this checkbox to replace the current &lt;f1&gt;Source color&lt;/f1&gt; with the color that specified in the &lt;f2&gt;Replace with&lt;/f2&gt; box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Zaškrtávací políčko Barva zdroje&lt;/f0&gt; - zaškrtnutím tohoto políčka se aktuální &lt;f1&gt;Barva zdroje&lt;/f1&gt; nahradí barvou zadanou v poli &lt;f2&gt;Nahradit barvou&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Tolerance&lt;/f0&gt; – set the tolerance for replacing a source color in the source image.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Tolerance&lt;/f0&gt; - nastaví toleranci pro nahrazení zdrojové barvy ve zdrojovém obrázku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To replace colors that are similar to the color selected, enter a low value.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li nahradit barvy, které jsou podobné vybrané barvě, zadejte nízkou hodnotu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To replace a wider range of colors, enter a higher value.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li nahradit širší rozsah barev, zadejte vyšší hodnotu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Replace with&lt;/f0&gt; – lists the available color palettes and replacement colors.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Nahradit pomocí&lt;/f0&gt; - zobrazí seznam dostupných barevných palet a náhradních barev.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Transparency&lt;/f0&gt; – replaces transparent areas in the selected image with the color selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Průhlednost&lt;/f0&gt; - nahradí průhledné oblasti ve vybraném obrázku vybranou barvou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Tools &gt; Color Replacer&lt;/f0&gt; on the Menu bar to open the Color Replacer dialog (Figure &lt;t1&gt;29&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Nástroje &gt; Nahrazovač barev&lt;/f0&gt; na panelu nabídek a otevřete dialogové okno Nahrazovač barev (obrázek &lt;t1&gt;29&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move the cursor over the color to be replaced in the selected image and a preview of the color appears in the box next to &lt;f0&gt;Pipette&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přesuňte kurzor nad barvu, která má být ve vybraném obrázku nahrazena, a v rámečku vedle &lt;f0&gt;Pipeta&lt;/f0&gt; se zobrazí náhled barvy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the color.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na barvu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The selected color appears in the first &lt;f0&gt;Source color&lt;/f0&gt; preview box and a check mark appears next to it</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybraná barva se zobrazí v prvním náhledovém poli &lt;f0&gt;Zdrojová barva&lt;/f0&gt; a vedle ní se objeví zaškrtávací znaménko.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To select another color, place a check mark next to the second &lt;f0&gt;Source color&lt;/f0&gt; preview box and click on another color in the selected image.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vybrat jinou barvu, zaškrtněte políčko vedle druhého náhledového pole &lt;f0&gt;Zdrojová barva&lt;/f0&gt; a klikněte na jinou barvu ve vybraném obrázku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A maximum of four colors can be selected in the Color Replacer dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V dialogovém okně Color Replacer lze vybrat maximálně čtyři barvy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter the amount of tolerance required for replacing each selected color in the &lt;f0&gt;Tolerance&lt;/f0&gt; boxes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Do políček &lt;f0&gt;Tolerance&lt;/f0&gt; zadejte velikost tolerance požadované pro nahrazení každé vybrané barvy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In &lt;f0&gt;Replace with&lt;/f0&gt;, select a color palette from the drop-down list, then select the required color from the color palette.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V okně &lt;f0&gt;Nahradit pomocí&lt;/f0&gt; vyberte z rozevíracího seznamu paletu barev a poté vyberte požadovanou barvu z palety barev.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After selecting up to four colors for replacement, click &lt;f0&gt;Replace&lt;/f0&gt; to replace the colors in the selected graphic.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po výběru až čtyř barev k nahrazení klikněte na tlačítko &lt;f0&gt;Nahradit&lt;/f0&gt; a nahraďte barvy ve vybrané grafice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An example of color replacement is shown in Figure &lt;t1&gt;30&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Příklad nahrazení barvy je uveden na obrázku &lt;t1&gt;30&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the result is not satisfactory, select &lt;f0&gt;Edit &gt; Undo &gt; Color Replacer&lt;/f0&gt; in the Menu bar and repeat the color replacement.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud výsledek není uspokojivý, vyberte na panelu nabídek &lt;f0&gt;Upravit &gt; Vrátit zpět &gt; Nahrazení barev&lt;/f0&gt; a zopakujte nahrazení barev.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;29&lt;/seq0&gt;: Color Replacer dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;29&lt;/seq0&gt;: Dialogové okno Color Replacer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;30&lt;/seq0&gt;: Example of using color replacer</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;30&lt;/seq0&gt;: Příklad použití nahrazovače barev</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using the Color Replacer replaces all occurrences of the &lt;f0&gt;Source color&lt;/f0&gt; that are in the selected image.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použití nástroje Náhrada barev nahradí všechny výskyty &lt;f0&gt;zdrojové barvy&lt;/f0&gt;, které se nacházejí ve vybraném obrázku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default selection of &lt;f0&gt;Transparent&lt;/f0&gt; in the &lt;f1&gt;Replace with&lt;/f1&gt; boxes removes the selected color from the image and creates transparent areas in the selected image.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí volba &lt;f0&gt;Transparentní&lt;/f0&gt; v polích &lt;f1&gt;Nahradit pomocí&lt;/f1&gt; odstraní vybranou barvu z obrázku a vytvoří průhledné oblasti ve vybraném obrázku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To replace any transparent areas in an image with a color use the following procedure:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li nahradit průhledné oblasti v obrázku barvou, použijte následující postup:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Tools &gt; Color Replacer&lt;/f0&gt; on the Menu bar to open the Color Replacer dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Nástroje &gt; Nahrazovač barev&lt;/f0&gt; na panelu nabídek a otevřete dialogové okno Nahrazovač barev.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the image with transparent areas to select the image.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na obrázek s průhlednými oblastmi jej vyberte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;Transparency&lt;/f0&gt; in the Color Replacer dialog so that a check mark appears next to &lt;f1&gt;Transparency&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V dialogovém okně Color Replacer vyberte možnost &lt;f0&gt;Transparency&lt;/f0&gt; tak, aby se vedle položky &lt;f1&gt;Transparency&lt;/f1&gt; objevilo zaškrtávací políčko.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a color palette from the drop-down list next to &lt;f0&gt;Transparency&lt;/f0&gt;, then select a color from the selected palette.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V rozevíracím seznamu vedle položky &lt;f0&gt;Průhlednost&lt;/f0&gt; vyberte paletu barev a poté vyberte barvu z vybrané palety.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Replace&lt;/f0&gt; and the transparent areas are filled with the selected color.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Nahradit&lt;/f0&gt; a průhledné oblasti se vyplní vybranou barvou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the result is not what you required, select &lt;f0&gt;Edit &gt; Undo &gt; Color Replacer&lt;/f0&gt; in the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud výsledek neodpovídá vašim požadavkům, vyberte na panelu nabídek &lt;f0&gt;Upravit &gt; Vrátit zpět &gt; Nahradit barvu&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contour conversion converts a selected object to a polygon, or a group of polygons, with four corner points.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Převod obrysu převede vybraný objekt na mnohoúhelník nebo skupinu mnohoúhelníků se čtyřmi rohovými body.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If an image was converted to a contour, then the converted image is set as a background graphic.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud byl obrázek převeden na obrys, je převedený obrázek nastaven jako grafika pozadí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the conversion creates a group of polygons (for example, contour conversion of a text object), then enter the polygon group before selecting an individual polygon within the group.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud převod vytváří skupinu polygonů (například obrysový převod textového objektu), zadejte skupinu polygonů před výběrem jednotlivého polygonu ve skupině.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information on working with groups, see Chapter 5, Combining Multiple Objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o práci se skupinami naleznete v kapitole 5, Kombinování více objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After an object is converted to a contour, the object can no longer be edited normally.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po převedení objektu na obrys již nelze objekt normálně upravovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Instead, the contour converted object is edited using &lt;f0&gt;Edit &gt; Points&lt;/f0&gt; on the Menu bar to adjust its shape.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Místo toho se objekt převedený na obrys upraví pomocí &lt;f0&gt;Upravit &gt; Body&lt;/f0&gt; na panelu nabídek, aby se upravil jeho tvar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information on editing points, see Chapter 3, Working with Objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o úpravách bodů najdete v kapitole 3, Práce s objekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any editing to an object must be completed before carrying out a contour conversion because any further editing is not possible on the converted object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jakékoli úpravy objektu musí být dokončeny před provedením konverze obrysů, protože další úpravy na převedeném objektu nejsou možné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Carry out all necessary editing on the object before converting to a contour.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Před převedením na obrys proveďte všechny potřebné úpravy objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure the object is selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zkontrolujte, zda je objekt vybrán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Convert the object to a contour using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Převeďte objekt na obrys pomocí jedné z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Shape &gt; Convert &gt; To Contour&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Tvar &gt; Převést &gt; Na obrys&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the selected object and select &lt;f0&gt;Convert &gt; To Contour&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem myši na vybraný objekt a z kontextové nabídky vyberte možnost &lt;f0&gt;Konvertovat &gt; Na obrys&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No confirmation dialog is provided for a contour conversion.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při převodu obrysů není k dispozici potvrzovací dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Polygon conversion is used to convert a selected image into a group of polygons filled with color.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Konverze polygonů slouží k převodu vybraného obrázku na skupinu polygonů vyplněných barvou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The image is also converted to a vector graphic and can be resized with no loss of image quality or distortion of any text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek je také převeden na vektorovou grafiku a lze měnit jeho velikost bez ztráty kvality obrazu nebo zkreslení textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After conversion, the graphic can be broken into groups of polygons and then split into individual polygons.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po převodu lze grafiku rozdělit na skupiny polygonů a poté na jednotlivé polygony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Breaking and splitting allows editing or deletion of individual colors within the graphic.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Členění a dělení umožňuje upravovat nebo odstraňovat jednotlivé barvy v rámci grafiky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Number of colors&lt;/f0&gt; – enter the number of colors to be displayed in the converted image.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Počet barev&lt;/f0&gt; - zadejte počet barev, které se mají zobrazit v převedeném obrázku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LibreOffice generates a polygon for each occurrence of a color in the image.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>LibreOffice generuje polygon pro každý výskyt barvy v obrázku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The range for the number of colors is between 8 and 32.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rozsah počtu barev je 8 až 32.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Point reduction&lt;/f0&gt; – removes color polygons that are smaller than the pixel value entered.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Zmenšení bodů&lt;/f0&gt; - odstraní barevné polygony, které jsou menší než zadaná hodnota pixelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The range for point reduction is between 0 and 32 pixels.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rozsah zmenšení bodu je 0 až 32 pixelů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Fill holes&lt;/f0&gt; – fills the blank areas in the graphic that can be created when applying a point reduction.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Vyplnit díry&lt;/f0&gt; - vyplní prázdné oblasti v grafice, které mohou vzniknout při použití redukce bodů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Tile size&lt;/f0&gt; – enter the size of the rectangle for the background fill.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Velikost dlaždice&lt;/f0&gt; - zadejte velikost obdélníku pro výplň pozadí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The range of tile sizes is between 8 and 128 pixels.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rozsah velikostí dlaždic je 8 až 128 pixelů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Source image&lt;/f0&gt; – preview of the original image.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Zdrojový obrázek&lt;/f0&gt; - náhled původního obrázku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Vectorized image&lt;/f0&gt; – preview of the converted image.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Vektorizovaný obrázek&lt;/f0&gt; - náhled převedeného obrázku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Preview&lt;/f0&gt; – creates a preview of the converted image in &lt;f1&gt;Vectorized image&lt;/f1&gt; without applying any changes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Preview&lt;/f0&gt; - vytvoří náhled převedeného obrázku v &lt;f1&gt;Vektorizovaný obrázek&lt;/f1&gt; bez použití jakýchkoli změn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;OK&lt;/f0&gt; – converts the image to a vector graphic consisting of polygons.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;OK&lt;/f0&gt; - převede obrázek na vektorovou grafiku složenou z polygonů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The result is a metafile in SVM format (StarView Metafile) used by LibreOffice and allows transfer of the converted image to other LibreOffice documents.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výsledkem je metasoubor ve formátu SVM (StarView Metafile), který používá kancelářský balík LibreOffice a který umožňuje přenos převedeného obrázku do jiných dokumentů LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select an image in a drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběr obrázku v kresbě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;31&lt;/seq0&gt;: Convert to Polygon dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;31&lt;/seq0&gt;: Dialogové okno Převést na mnohoúhelník</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Convert the image into a polygon using one of the following methods and open the Convert to Polygon dialog (Figure &lt;t0&gt;31&lt;/t0&gt;):</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Převeďte obrázek na polygon pomocí jedné z následujících metod a otevřete dialogové okno Převést na polygon (obrázek &lt;t0&gt;31&lt;/t0&gt;):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Shape &gt; Convert &gt; To Polygon&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Tvar &gt; Převést &gt; Na mnohoúhelník&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the image and select &lt;f0&gt;Convert &gt; To Polygon&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem myši na obrázek a z kontextové nabídky vyberte možnost &lt;f0&gt;Konvertovat &gt; Na mnohoúhelník&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Number of colors and &lt;f0&gt;Point reduction&lt;/f0&gt; to be used in the conversion.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte Počet barev a &lt;f0&gt;Redukce bodu&lt;/f0&gt;, které se mají použít při převodu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;Fill holes&lt;/f0&gt; to prevent any blank areas appearing in the converted image.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li zabránit tomu, aby se v převedeném obrázku objevily prázdné oblasti, vyberte možnost &lt;f0&gt;Vyplnit díry&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter the number of pixels to use for &lt;f0&gt;Tile size&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zadejte počet pixelů, které se mají použít pro &lt;f0&gt;Velikost dlaždice&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;Preview&lt;/f0&gt; to check how the converted graphic will look.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;Preview&lt;/f0&gt; zkontrolujte, jak bude převedená grafika vypadat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make any necessary changes to the settings and check the preview again.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Proveďte potřebné změny nastavení a znovu zkontrolujte náhled.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the converted image meets the expected requirements, click &lt;f0&gt;OK&lt;/f0&gt; to convert the image to a polygon and close the Convert to Polygon dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud převedený obrázek splňuje očekávané požadavky, kliknutím na tlačítko &lt;f0&gt;OK&lt;/f0&gt; převedete obrázek na polygon a zavřete dialogové okno Převést na polygon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No confirmation dialog is provided for a polygon conversion.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při převodu polygonů není k dispozici potvrzovací dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After converting an image to polygons, the vectorized image can be broken into groups of polygons.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po převodu obrázku na polygony lze vektorizovaný obrázek rozdělit na skupiny polygonů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each group of polygons consists of one color and becomes an object that can be used in another drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Každá skupina mnohoúhelníků se skládá z jedné barvy a stává se objektem, který lze použít v jiném výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Convert an image to polygons, see “&lt;bf0&gt;Converting&lt;/bf0&gt;” above.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Převod obrázku na polygony, viz výše “&lt;bf0&gt;Převod&lt;/bf0&gt;“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure the converted image is selected, then use one of the following methods to break the image into groups of polygons:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ujistěte se, že je vybrán převedený obrázek, a poté použijte jednu z následujících metod pro rozdělení obrázku na skupiny polygonů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Shape &gt; Break&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Tvar &gt; Přerušení&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the image and select &lt;f0&gt;Break&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem myši na obrázek a z kontextové nabídky vyberte možnost &lt;f0&gt;Zlomit&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on a color in the image and drag the group of polygons filled with that color out of the image to create a new image.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na barvu v obrázku a přetažením skupiny polygonů vyplněných touto barvou z obrázku vytvořte nový obrázek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, press &lt;f0&gt;Delete&lt;/f0&gt; and delete the color from the image.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Případně stiskněte &lt;f0&gt;Odstranit&lt;/f0&gt; a barvu z obrázku vymažte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After converting an image to polygons and breaking the image into groups of polygons, these polygon groups can be split into individual polygons.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po převedení obrázku na polygony a rozdělení obrázku na skupiny polygonů lze tyto skupiny polygonů rozdělit na jednotlivé polygony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Break the image into groups of polygons, see “&lt;bf0&gt;Breaking&lt;/bf0&gt;” above.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rozdělte obrázek na skupiny polygonů, viz výše “&lt;bf0&gt;Rozdělení&lt;/bf0&gt;“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the image, then use one of the following methods to split the groups of polygons into individual polygons:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte obrázek a poté použijte jednu z následujících metod pro rozdělení skupin polygonů na jednotlivé polygony:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Shape &gt; Split&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Tvar &gt; Rozdělit&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the image and select &lt;f0&gt;Shapes &gt; Split&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem myši na obrázek a z kontextové nabídky vyberte možnost &lt;f0&gt;Tvary &gt; Rozdělit&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the keyboard shortcut &lt;f0&gt;Ctrl+Alt+Shift+K&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte klávesovou zkratku &lt;f0&gt;Ctrl Alt Shift K&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select an individual polygon (or several polygons) in the image and drag the polygon from the image to create a new image in the drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte jednotlivý polygon (nebo několik polygonů) v obrázku a přetažením polygonu z obrázku vytvořte nový obrázek v kresbě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, press &lt;f0&gt;Delete&lt;/f0&gt; to delete the selected polygon(s) from the image.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Případně stisknutím tlačítka &lt;f0&gt;Odstranit&lt;/f0&gt; odstraníte vybrané polygony z obrázku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All drawing objects placed into a LibreOffice drawing are vector graphics and these vector graphics can be converted to a bitmap (raster graphic) in PNG format.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Všechny kreslící objekty umístěné do výkresu LibreOffice jsou vektorovou grafikou a tuto vektorovou grafiku lze převést na bitmapu (rastrovou grafiku) ve formátu PNG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any transparency effects in the original vector graphic are lost during conversion even though the PNG format used by LibreOffice Draw supports transparencies.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Veškeré efekty průhlednosti v původní vektorové grafice se při převodu ztratí, přestože formát PNG používaný aplikací LibreOffice Draw průhlednost podporuje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use one of the following methods to convert a vector graphic to a bitmap:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K převodu vektorové grafiky na bitmapu použijte jednu z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Shape &gt; Convert &gt; To Bitmap&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Tvar &gt; Převést &gt; Na bitmapu&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the graphic and select &lt;f0&gt;Convert &gt; To Bitmap&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na grafiku pravým tlačítkem myši a z kontextové nabídky vyberte možnost &lt;f0&gt;Konvertovat &gt; Na bitmapu&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No confirmation dialog is provided for a bitmap conversion.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při převodu bitových map není k dispozici potvrzovací dialog.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
