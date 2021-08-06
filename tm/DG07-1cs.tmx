@@ -1,0 +1,2503 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" segtype="sentence" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 7, Working with 3D Objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 7, Práce s 3D objekty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 7, Working with 3D Objects&lt;segment 21814&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 7, Práce s 3D objekty&lt;segment 21814&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Assembling 3D objects&lt;/t0&gt; | &lt;t1&gt;21&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Skládání 3D objektů&lt;/t0&gt; | &lt;t1&gt;21&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Chapter 7, Working with 3D Objects&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Kapitola 7, Práce s 3D objekty&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Chapter 7, Working with 3D Objects&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;0&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Kapitola 7, Práce s 3D objekty&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;0&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;0&lt;/t0&gt;| &lt;t1&gt;Chapter 7, Working with 3D Objects&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;0&lt;/t0&gt;| &lt;t1&gt;Kapitola 7, Práce s 3D objekty&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 7, &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 7, &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Working with 3D Objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Práce s 3D objekty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This document maybe distributed and/or modified under the terms of either the GNU General Public License (&lt;a2&gt;https://www.gnu.org/licenses/gpl.html&lt;/a2&gt;), version 3 or later, or the Creative Commons Attribution License (&lt;a3&gt;https://creativecommons.org/licenses/by/4.0/&lt;/a3&gt;), version 4.0 or later.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento dokument může být šířen a/nebo upravován za podmínek buď GNU General Public License (&lt;a2&gt;https://www.gnu.org/licenses/gpl.html&lt;/a2&gt;), verze 3 nebo novější, nebo Creative Commons Attribution License (&lt;a3&gt;https://creativecommons.org/licenses/by/4.0/&lt;/a3&gt;), verze 4.0 nebo novější.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Elzett Kotze</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Elzett Kotze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>John Cleland</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>John Cleland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Everything sent to a mailing list, including email addresses and any other personal information that is written in the message, is publicly archived and cannot be deleted.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vše, co je odesláno do poštovního seznamu, včetně e-mailových adres a dalších osobních údajů, které jsou ve zprávě napsány, je veřejně archivováno a nemůže být smazáno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Published July &lt;t0&gt;2021&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vydáno v červenci &lt;t0&gt;2021&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Based on LibreOffice &lt;ud1&gt;7.1&lt;/ud1&gt;&lt;s2/&gt;Community.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Založeno na LibreOffice &lt;ud1&gt;7.1&lt;/ud1&gt;&lt;s2/&gt;Komunita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other versions of LibreOffice may differ in appearance and functionality.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jiné verze LibreOffice se mohou lišit vzhledem a funkčností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>3D object types</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Typy 3D objektů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>3D scenes</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>3D scény</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>3D shapes</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>3D tvary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating 3D objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytváření 3D objektů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>3D ready made objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>3D ready made objekty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Extrusion</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytlačování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To 3D Rotation Object and Convert to Rotation Object</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na 3D objekt rotace a Převést na objekt rotace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Editing 3D objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Úprava 3D objektů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Position, Size and Rotation</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Poloha, velikost a natočení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>3D settings</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nastavení 3D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>3D effects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>3D efekty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>3D conversion</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>3D konverze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>3D Effects – Geometry</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>3D efekty - Geometrie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>3D Effects – Shading</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>3D efekty - stínování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>3D Effects – Illumination</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>3D efekty - osvětlení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>3D Effects – Textures</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>3D efekty - textury</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>3D Effects – Material</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>3D efekty - Materiál</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Assembling 3D objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Sestavování 3D objektů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Although Draw does not match the functionality of leading drawing or image editing programs, it is capable of producing and editing 3D drawings.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přestože se Draw nevyrovná funkcím předních programů pro kreslení nebo úpravu obrázků, dokáže vytvářet a upravovat 3D výkresy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In Draw, two types of 3D objects are available: 3D scenes and extruded 3D shapes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V aplikaci Draw jsou k dispozici dva typy 3D objektů: 3D scény a extrudované 3D tvary.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Status Bar&lt;/f0&gt; indicates when a 3D scene has been selected (Figure &lt;t1&gt;1&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na &lt;f0&gt;Stavovém řádku&lt;/f0&gt; se zobrazí informace o výběru 3D scény (obrázek &lt;t1&gt;1&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, the &lt;f2&gt;Status Bar&lt;/f2&gt; only indicates a shape has been selected (Figure &lt;t3&gt;2&lt;/t3&gt;) when an extruded 3D shape is selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na &lt;f2&gt;Stavovém řádku&lt;/f2&gt; se však zobrazí pouze informace o výběru tvaru (obrázek &lt;t3&gt;2&lt;/t3&gt;), pokud je vybrán extrudovaný 3D tvar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Status Bar showing 3D scene selected</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;1&lt;/seq0&gt;: Stavový řádek zobrazující vybranou 3D scénu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Status Bar showing shape selected</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;2&lt;/seq0&gt;: Stavový řádek zobrazující vybraný tvar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Depending on which type is selected, there are different possibilities for further editing of the object (rotation, illumination, perspective, and so on).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Podle toho, který typ je zvolen, existují různé možnosti dalších úprav objektu (otáčení, osvětlení, perspektiva atd.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Extruded 3D shapes are simpler to set up and edit, but 3D scenes allow for greater customization.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Extrudované 3D tvary se jednodušeji nastavují a upravují, ale 3D scény umožňují větší přizpůsobení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>3D objects are created using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>3D objekty se vytvářejí jednou z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;3D Objects&lt;/f0&gt; – these are ready made 3D objects and are 3D scenes selected using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;3D objekty&lt;/f0&gt; - jedná se o hotové 3D objekty a 3D scény vybrané jednou z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on 3D Objects in the Drawing toolbar (Figure &lt;t0&gt;3&lt;/t0&gt; on page &lt;t1&gt;5&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na 3D objekty na panelu nástrojů Kreslení (obrázek &lt;t0&gt;3&lt;/t0&gt; na straně &lt;t1&gt;5&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a 3D object in 3D Objects in the Shapes deck on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte 3D objekt v nabídce 3D objekty v balíčku Tvary na postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Convert a 2D object into a 3D object use one of the following tools on the Drawing toolbar:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>2D objekt převedete na 3D objekt pomocí některého z následujících nástrojů na panelu nástrojů Kreslení:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;To 3D&lt;/f0&gt; – creates a 3D scene containing an extrusion object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Do 3D&lt;/f0&gt; - vytvoří 3D scénu obsahující objekt vytlačování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;To 3D Rotation Object&lt;/f0&gt; – creates a 3D scene into a rotation object using a default rotation axis.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Do 3D rotačního objektu&lt;/f0&gt; - vytvoří 3D scénu do rotačního objektu s použitím výchozí osy otáčení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;In 3D Rotation Object&lt;/f0&gt; – creates a 3D scene into a rotation object using a user defined rotation axis.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;V 3D objektu rotace&lt;/f0&gt; - vytvoří 3D scénu do objektu rotace pomocí uživatelem definované osy rotace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Toggle Extrusion&lt;/f0&gt; – creates a 3D shape by extruding a 2D object into 3D.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Přepnout extruzi&lt;/f0&gt; - vytvoří 3D tvar extrudováním 2D objektu do 3D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only 3D shapes that have been extruded can be converted back to a 2D object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pouze 3D tvary, které byly extrudovány, lze převést zpět na 2D objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;3D scenes&lt;/f0&gt; are created from objects with dimensions using x, y, and z coordinates and can contain object types, such as cube, sphere, extrusion object or rotation object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;3D scény&lt;/f0&gt; jsou vytvořeny z objektů s rozměry pomocí souřadnic x, y a z a mohou obsahovat typy objektů, jako je krychle, koule, objekt vytlačování nebo objekt rotace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These object types do not exist outside a 3D scene.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tyto typy objektů neexistují mimo 3D scénu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Status Bar&lt;/f0&gt; displays &lt;f1&gt;3D scene selected&lt;/f1&gt; when a 3D object is selected that has been created from a 2D object using body rotation or conversion, or it is a ready-made 3D object that has been inserted into a drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na panelu &lt;f0&gt;Stav&lt;/f0&gt; se zobrazí &lt;f1&gt;Vybrána 3D scéna&lt;/f1&gt;, pokud je vybrán 3D objekt, který byl vytvořen z 2D objektu pomocí rotace nebo konverze tělesa, nebo se jedná o hotový 3D objekt, který byl vložen do výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A 3D scene acts similar to a group.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>3D scéna se chová podobně jako skupina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Just like a group, a 3D scene can be entered for editing an individual object in the 3D scene and then exit after editing is completed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stejně jako do skupiny lze i do 3D scény vstoupit za účelem úpravy jednotlivého objektu v 3D scéně a po dokončení úprav ji opustit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 5, Combining Multiple Objects for more information on entering, editing and exiting groups.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o zadávání, úpravách a ukončování skupin naleznete v kapitole 5, Kombinace více objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a 3D scene is created from a selection of more than one 2D object, a group is automatically created as a single 3D scene.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je 3D scéna vytvořena z výběru více než jednoho 2D objektu, automaticky se vytvoří skupina jako jedna 3D scéna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This 3D scene can be entered so that individual objects within the 3D scene can be changed, edited and rotate.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Do této 3D scény lze vstoupit a měnit, upravovat a otáčet jednotlivé objekty v rámci 3D scény.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Individual objects cannot be ungrouped when a 3D scene has been created from a selection of 2D objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud byla 3D scéna vytvořena z vybraných 2D objektů, nelze jednotlivé objekty seskupit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;3D shapes&lt;/f0&gt; are solid objects that have three dimensions: length, width, and height.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;3D tvary&lt;/f0&gt; jsou pevné objekty, které mají tři rozměry: délku, šířku a výšku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>While 2D shapes are flat, 3D shapes have depth.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zatímco 2D tvary jsou ploché, 3D tvary mají hloubku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A 3D shape is created when a 2D shape or an object from the Fontwork Gallery is turned into 3D using &lt;f0&gt;Toggle Extrusion&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>3D tvar se vytvoří, když se 2D tvar nebo objekt z Galerie písem změní na 3D pomocí &lt;f0&gt;Přepnout extruzi&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Status Bar displays &lt;f1&gt;Shape selected&lt;/f1&gt; when this type of 3D object is selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je vybrán tento typ 3D objektu, zobrazí se na stavovém řádku &lt;f1&gt;Vybraný tvar&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A 3D shape can be viewed and edited in 3D or 2D mode.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>3D tvar lze prohlížet a upravovat v režimu 3D nebo 2D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To edit in 2D mode, switch off extrusion, make the editing changes, and switch back to 3D mode using &lt;f0&gt;Toggle Extrusion&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li upravovat ve 2D režimu, vypněte extruzi, proveďte změny úprav a přepněte zpět do 3D režimu pomocí &lt;f0&gt;Přepnout extruzi&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Extrusion, using &lt;f0&gt;Toggle Extrusion&lt;/f0&gt;, can only be used when a 2D shape, a 3D object that has been extruded from a 2D shape, or an object from the Fontwork Gallery is selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytlačování pomocí &lt;f0&gt;Přepnout vytlačování&lt;/f0&gt; lze použít pouze tehdy, je-li vybrán 2D tvar, 3D objekt, který byl vytlačen z 2D tvaru, nebo objekt z Galerie písem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is not available for text, lines, arrows, curves, and polygons.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Není k dispozici pro text, čáry, šipky, křivky a mnohoúhelníky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Before creating 3D objects in a drawing, it is recommended that the 3D tools are added to the Drawing toolbar (Figure &lt;t0&gt;3&lt;/t0&gt;) using Visible Buttons or the Customize dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Před vytvořením 3D objektů ve výkresu se doporučuje přidat 3D nástroje na panel nástrojů Kreslení (obrázek &lt;t0&gt;3&lt;/t0&gt;) pomocí Viditelných tlačítek nebo dialogového okna Přizpůsobit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For information on using Visible Buttons and the Customize dialog, see Appendix B, Toolbars and the &lt;f1&gt;Getting Started Guide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Informace o používání viditelných tlačítek a dialogového okna Přizpůsobit najdete v dodatku B, Panely nástrojů a v &lt;f1&gt;Příručce pro začátečníky&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After installing 3D tools onto the Drawing toolbar, these tools only become available when a 2D object is selected in a drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po instalaci 3D nástrojů na panel nástrojů Kreslení jsou tyto nástroje k dispozici pouze tehdy, když je ve výkresu vybrán 2D objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Drawing toolbar with 3D tools added</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;3&lt;/seq0&gt;: Panel nástrojů pro kreslení s přidanými 3D nástroji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: 3D Objects toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;4&lt;/seq0&gt;: Panel nástrojů 3D objekty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>3D ready made objects are 3D scenes and are inserted into a drawing using one of the following methods.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Hotové 3D objekty jsou 3D scény a do výkresu se vkládají jednou z následujících metod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The selection and drawing of 3D objects is the same for all methods of inserting a 3D ready made object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběr a kreslení 3D objektů je u všech metod vkládání hotového 3D objektu stejné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the triangle ▼ to the right of &lt;f0&gt;3D Objects&lt;/f0&gt; on the Drawing toolbar and select a 3D object from the sub-toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na trojúhelník ▼ vpravo od &lt;f0&gt;3D objektů&lt;/f0&gt; na panelu nástrojů Kreslení a vyberte 3D objekt z dílčího panelu nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f1&gt;3D Objects&lt;/f1&gt; icon displayed on the Drawing toolbar depends on the 3D object that had been previously selected and used.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ikona &lt;f1&gt;3D objekty&lt;/f1&gt; zobrazená na panelu nástrojů Kreslení závisí na dříve vybraném a použitém 3D objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;View &gt; Toolbars &gt; 3D-Objects&lt;/f0&gt; on the Menu bar to open the 3D-Objects toolbar (Figure &lt;t1&gt;4&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Zobrazení &gt; Panely nástrojů &gt; 3D-objekty&lt;/f0&gt; na panelu nabídek a otevřete panel nástrojů 3D-objekty (obrázek &lt;t1&gt;4&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Shapes &gt; Insert &gt; 3D Objects&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Shapes &gt; Insert &gt; 3D Objects&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Shapes &gt; Default &gt; 3D Objects&lt;/f0&gt; on the Sidebar and select a 3D object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Tvary &gt; Výchozí &gt; 3D objekty&lt;/f0&gt; na postranním panelu a vyberte 3D objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ready made 3D objects can be repositioned, resized, and edited in the same way as 2D objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Hotové 3D objekty lze přemisťovat, měnit jejich velikost a upravovat je stejně jako 2D objekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 3, Working with Objects for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace naleznete v kapitole 3, Práce s objekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Extrusion converts a 2D object into a 3D scene by extruding the 2D object toward the observer.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Extrudace převede 2D objekt na 3D scénu tak, že 2D objekt vytlačí směrem k pozorovateli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The scene is rotated by 20 degrees around the horizontal axis to make the 3D effect more visible.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Scéna je otočena o 20 stupňů kolem vodorovné osy, aby byl 3D efekt lépe viditelný.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Examples of 3D conversion using extrusion are shown in Figure &lt;t0&gt;5&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Příklady 3D převodu pomocí vytlačování jsou uvedeny na obrázku &lt;t0&gt;5&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After selecting a 2D object in a drawing, convert it to a 3D scene with &lt;f0&gt;To 3D&lt;/f0&gt; using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po výběru 2D objektu ve výkresu jej pomocí &lt;f0&gt;Do 3D&lt;/f0&gt; převeďte na 3D scénu pomocí jedné z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the 2D object and select &lt;f0&gt;Convert &gt; To 3D&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem myši na 2D objekt a z kontextové nabídky vyberte možnost &lt;f0&gt;Konvertovat &gt; Do 3D&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;To 3D&lt;/f0&gt; in the Drawing toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Do 3D&lt;/f0&gt; na panelu nástrojů Kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Shape &gt; Convert &gt; To 3D&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Tvar &gt; Převést &gt; Do 3D&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Convert to 3D&lt;/f0&gt; in the 3D Effects dialog (Figure &lt;t1&gt;11&lt;/t1&gt; on page &lt;t2&gt;10&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Konvertovat do 3D&lt;/f0&gt; v dialogovém okně 3D efekty (obrázek &lt;t1&gt;11&lt;/t1&gt; na straně &lt;t2&gt;10&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Example of using extrusion for 3D conversion</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;5&lt;/seq0&gt;: Příklad použití extruze pro 3D konverzi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;To 3D Rotation Object&lt;/f0&gt; or &lt;f1&gt;Convert to Rotation Object&lt;/f1&gt; converts a 2D object into a 3D scene by rotating the object using the left edge of the bounding box around the object as the axis of rotation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Do 3D rotačního objektu&lt;/f0&gt; nebo &lt;f1&gt;Převést na rotační objekt&lt;/f1&gt; převede 2D objekt na 3D scénu otočením objektu s použitím levého okraje ohraničujícího rámečku kolem objektu jako osy otáčení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Examples of 3D conversion using either of these rotation tools are shown in Figure &lt;t2&gt;6&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Příklady 3D převodu pomocí některého z těchto rotačních nástrojů jsou uvedeny na obrázku &lt;t2&gt;6&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The actual 3D scene created depends on the angle and shape of the object being rotated.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Skutečně vytvořená 3D scéna závisí na úhlu a tvaru otáčeného objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After selecting a 2D object in a drawing, convert it to a 3D scene using rotation with one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po výběru 2D objektu na výkrese jej převeďte na 3D scénu pomocí rotace jednou z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on a 2D object and select &lt;f0&gt;Convert &gt; To 3D Rotation Object&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem myši na 2D objekt a v kontextové nabídce vyberte možnost &lt;f0&gt;Konvertovat &gt; Na 3D rotační objekt&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;To 3D Rotation Object&lt;/f0&gt; in the Drawing toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Na 3D objekt rotace&lt;/f0&gt; na panelu nástrojů Kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Shape &gt; Convert &gt; To 3D Rotation Object&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Shape &gt; Convert &gt; To 3D Rotation Object&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Convert To Rotation Object&lt;/f0&gt; in the 3D Effects dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V dialogovém okně 3D efekty klikněte na &lt;f0&gt;Konvertovat na rotační objekt&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Examples of using rotation for 3D conversion</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;6&lt;/seq0&gt;: Příklady použití rotace pro 3D převod</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Example of moving rotation axis using In 3D Rotation Object</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;7&lt;/seq0&gt;: Příklad přesunu osy otáčení pomocí objektu In 3D Rotation Object</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;In 3D Rotation Object&lt;/f0&gt; converts a 2D object into a 3D scene by rotating the object through a movable axis of rotation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Objekt 3D rotace&lt;/f0&gt; převede 2D objekt na 3D scénu otáčením objektu přes pohyblivou osu otáčení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An example of moving the rotation axis and changing the rotation angle is shown in Figure &lt;t1&gt;7&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Příklad posunu osy otáčení a změny úhlu natočení je uveden na obrázku &lt;t1&gt;7&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The actual 3D scene created also depends on the angle and shape of the object being rotated.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Skutečně vytvořená 3D scéna závisí také na úhlu a tvaru otáčeného objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a 2D object in a drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte 2D objekt na výkrese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;In 3D Rotation Object&lt;/f0&gt; in the Drawing toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Objekt rotace 3D&lt;/f0&gt; na panelu nástrojů Kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Adjust the position and angle of the rotation axis.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nastavte polohu a úhel osy otáčení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is shown as a dashed line with rotation points at each end.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ta je znázorněna přerušovanou čarou s rotačními body na obou koncích.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click anywhere outside the 2D object and it is converted into a 3D scene, as shown in Figure &lt;t0&gt;7&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte kamkoli mimo 2D objekt a ten se převede na 3D scénu, jak ukazuje obrázek &lt;t0&gt;7&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Extrusion is where parallel surfaces are moved to create a 3D shape.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytlačování je proces, při kterém se paralelní plochy posouvají a vytvářejí 3D tvar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In Draw, the 2D surface is moved forwards out of the drawing level.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V aplikaci Draw se 2D plocha posune dopředu mimo úroveň výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>At the same time the object is slightly tilted and central projection turned on, creating the impression of a 3D shape.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Současně je objekt mírně nakloněn a zapnuta centrální projekce, což vytváří dojem 3D tvaru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Draw uses a default value for this extrusion (body depth) based on the size of the 2D object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Draw používá výchozí hodnotu pro toto vytlačení (hloubku těla) na základě velikosti 2D objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The value can be changed after the extrusion, see “&lt;bf0&gt;Editing 3D objects&lt;/bf0&gt;” below.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Hodnotu lze změnit po vytlačení, viz níže “&lt;bf0&gt;Úprava 3D objektů&lt;/bf0&gt;“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Extrusion conversion is carried out using &lt;f0&gt;Toggle Extrusion&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přepočet extruze se provádí pomocí &lt;f0&gt;Přepnout extruzi&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Extrusion only works on basic shapes, symbol shapes, block arrows, flowcharts, callouts, and stars and banners that are included as a part of the default set of tools on the Drawing toolbar or in the Shapes deck on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytlačování funguje pouze u základních tvarů, tvarů symbolů, blokových šipek, vývojových diagramů, výzev a hvězd a praporků, které jsou součástí výchozí sady nástrojů na panelu nástrojů Kreslení nebo v balíčku Tvary na postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Extrusion can also be used on any objects created using Fontwork.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytlačování lze použít také na všechny objekty vytvořené pomocí nástroje Fontwork.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Examples of toggle extrusion are shown in Figure &lt;t1&gt;8&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Příklady přepínacího vytlačování jsou uvedeny na obrázku &lt;t1&gt;8&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a 2D object in a drawing that has been created from basic shapes, symbol shapes, block arrows, flowcharts, callouts, or stars and banners.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte 2D objekt ve výkresu, který byl vytvořen ze základních tvarů, tvarů symbolů, blokových šipek, vývojových diagramů, výzev nebo hvězd a praporů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Toggle Extrusion&lt;/f0&gt; on the Drawing toolbar to convert the 2D object into a 3D shape.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;Přepnout extruzi&lt;/f0&gt; na panelu nástrojů Kreslení převedete 2D objekt na 3D tvar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To convert a 3D conversion back into a 2D object, select the 3D object and click on &lt;f0&gt;Toggle Extrusion&lt;/f0&gt; on the Drawing toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li převést 3D převod zpět na 2D objekt, vyberte 3D objekt a klikněte na &lt;f0&gt;Přepnout extruzi&lt;/f0&gt; na panelu nástrojů Kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Extrusion cannot be used on text objects created using &lt;f0&gt;Insert Text Box&lt;/f0&gt; or &lt;f1&gt;Insert Vertical Text&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytlačování nelze použít na textové objekty vytvořené pomocí &lt;f0&gt;Vložit textový rámeček&lt;/f0&gt; nebo &lt;f1&gt;Vložit svislý text&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Examples of toggle extrusion</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;8&lt;/seq0&gt;: Příklady vytlačování přepínačů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Where 3D scenes have been created from more than one 2D object, a 3D scene group is automatically created.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud byly 3D scény vytvořeny z více než jednoho 2D objektu, automaticky se vytvoří skupina 3D scén.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This 3D scene group cannot be ungrouped and any editing carried out will affect all 3D objects within the group.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tuto skupinu 3D scén nelze rozdělit do skupin a veškeré provedené úpravy ovlivní všechny 3D objekty ve skupině.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To edit an individual 3D object within this 3D scene group, enter the group.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li upravit jednotlivý 3D objekt v rámci této skupiny 3D scén, vstupte do skupiny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 5, Combining Multiple Objects more information on working with groups.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o práci se skupinami naleznete v kapitole 5, Kombinace více objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: 3D Settings toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;9&lt;/seq0&gt;: Panel nástrojů Nastavení 3D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Editing the position, size and rotation of 3D objects is similar to 2D objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Úprava polohy, velikosti a natočení 3D objektů je podobná jako u 2D objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To open the 3D‑Settings toolbar (Figure &lt;t0&gt;9&lt;/t0&gt;), go to &lt;f1&gt;View &gt; Toolbars &gt; 3D‑Settings&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li otevřít panel nástrojů 3D-Nastavení (obrázek &lt;t0&gt;9&lt;/t0&gt;), přejděte na &lt;f1&gt;Zobrazení &gt; Panely nástrojů &gt; 3D-Nastavení&lt;/f1&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The 3D‑Settings toolbar only becomes active when a 3D shape is selected that has been created from a 2D object using “&lt;bf2&gt;Toggle Extrusion&lt;/bf2&gt;” above.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Panel nástrojů 3D-Nastavení se aktivuje pouze tehdy, když je vybrán 3D tvar, který byl vytvořen z 2D objektu pomocí výše uvedené funkce “&lt;bf2&gt;Přepnout vytlačování&lt;/bf2&gt;“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The tools available for editing 3D shapes are as follows.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K úpravám 3D tvarů jsou k dispozici následující nástroje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The result of any changes made using these editing tools is applied to the selected 3D shape immediately displaying the effect of the 3D setting applied.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výsledek všech změn provedených pomocí těchto nástrojů pro úpravy se okamžitě aplikuje na vybraný 3D tvar a zobrazí efekt použitého 3D nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Tilt Down&lt;/f0&gt; – tilts the selected object downward (horizontal axis rotation) by 5 degrees each time the icon is used.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Naklonit dolů&lt;/f0&gt; - při každém použití ikony nakloní vybraný objekt o 5 stupňů směrem dolů (otočení vodorovné osy).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Tilt Up&lt;/f0&gt; – tilts the selected object upward (horizontal axis rotation) by 5 degrees each time the icon is used.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Naklonit nahoru&lt;/f0&gt; - při každém použití ikony nakloní vybraný objekt o 5 stupňů nahoru (otáčení ve vodorovné ose).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Tilt Left&lt;/f0&gt; – tilts the selected object left (vertical axis rotation) by 5 degrees each time the icon is used.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Naklonit doleva&lt;/f0&gt; - při každém použití ikony nakloní vybraný objekt doleva (otočení svislé osy) o 5 stupňů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Tilt Right&lt;/f0&gt; – tilts the selected object right (vertical axis rotation) by 5 degrees each time the icon is used.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Naklonit doprava&lt;/f0&gt; - při každém použití ikony nakloní vybraný objekt doprava (otočení svislé osy) o 5 stupňů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Depth&lt;/f0&gt; – opens a pop-up menu where where the extrusion depth can be set from an object by a fixed or custom amount.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Hloubka&lt;/f0&gt; - otevře vyskakovací nabídku, ve které lze nastavit hloubku vytlačování z objektu pevnou nebo vlastní hodnotou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Direction&lt;/f0&gt; – opens a pop-up menu where the view direction can be set to create an extrusion in either a perspective or parallel projection.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Směr&lt;/f0&gt; - otevře vyskakovací nabídku, ve které lze nastavit směr pohledu pro vytvoření výlisku v perspektivní nebo rovnoběžné projekci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Lighting&lt;/f0&gt; – opens a pop-up menu where the direction and intensity of the lighting can be set when creating an extrusion.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Osvětlení&lt;/f0&gt; - otevře vyskakovací nabídku, ve které lze při vytváření výlisku nastavit směr a intenzitu osvětlení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Surface&lt;/f0&gt; – opens a pop-up menu where the surface of the extrusion can be set as matt, or wireframe display.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Povrch&lt;/f0&gt; - otevře kontextovou nabídku, ve které lze nastavit matný povrch výlisku nebo zobrazení drátěného rámu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;3D Color&lt;/f0&gt; – opens a pop-up menu where the color used for the extrusion can be set.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;3D Color&lt;/f0&gt; - otevře vyskakovací nabídku, ve které lze nastavit barvu použitou pro vytlačování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This color does not have to be the same as the color used for the original 2D object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato barva nemusí být stejná jako barva použitá pro původní 2D objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;t0&gt;10&lt;/t0&gt; shows an example of tilting left, increasing extrusion depth, and changing 3D color using the 3D‑Settings toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;t0&gt;10&lt;/t0&gt; ukazuje příklad naklonění doleva, zvětšení hloubky vytlačování a změny 3D barvy pomocí panelu nástrojů 3D-Nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The 3D Effects dialog cannot be used on 3D shapes created using Toggle Extrusion because the correct formatting results will not be achieved.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dialogové okno 3D efekty nelze použít pro 3D tvary vytvořené pomocí funkce Toggle Extrusion, protože nebude dosaženo správných výsledků formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the 3D Effects dialog is used in error, remove any incorrect formatting by going to &lt;f0&gt;Format &gt; Default Formatting&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je dialogové okno 3D efekty použito chybně, odstraňte nesprávné formátování pomocí &lt;f0&gt;Formát &gt; Výchozí formátování&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Example of changing 3D settings</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;10&lt;/seq0&gt;: Příklad změny 3D nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: 3D Effects dialog - Geometry page</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;11&lt;/seq0&gt;: Dialogové okno 3D efekty - stránka Geometrie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The 3D Effects dialog &lt;s0/&gt;(Figure &lt;t1&gt;11&lt;/t1&gt;) offers a wide range of possible settings for editing 3D ready made objects or 3D scenes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dialogové okno 3D efekty &lt;s0/&gt;(obrázek &lt;t1&gt;11&lt;/t1&gt;) nabízí širokou škálu možných nastavení pro úpravy hotových 3D objektů nebo 3D scén.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This dialog can also be used to convert a 2D object to 3D using the tools in the bottom left corner of the dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Toto dialogové okno lze také použít k převodu 2D objektu na 3D pomocí nástrojů v levém dolním rohu dialogového okna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To open the 3D Effects dialog, click on &lt;f2&gt;3D Effects&lt;/f2&gt; on the Line and Filling toolbar, or go to &lt;f3&gt;Format &gt; 3D-Effects&lt;/f3&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li otevřít dialogové okno 3D efekty, klikněte na &lt;f2&gt;3D efekty&lt;/f2&gt; na panelu nástrojů Čáry a výplně nebo přejděte na &lt;f3&gt;Formát &gt; 3D-efekty&lt;/f3&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any 3D effects applied to a 3D scene are not carried out until &lt;f0&gt;Assign&lt;/f0&gt; is clicked in the top right of the 3D Effects dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Veškeré 3D efekty použité na 3D scénu se provedou až po kliknutí na tlačítko &lt;f0&gt;Přidat&lt;/f0&gt; v pravém horním rohu dialogového okna 3D efekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This allows for all 3D effect changes to be carried out before applying them to a 3D scene.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>To umožňuje provést všechny změny 3D efektů před jejich použitím na 3D scénu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any options on the pages in the 3D Effects dialog that are grayed out cannot be used for the selected object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Žádné možnosti na stránkách dialogového okna 3D efekty, které jsou šedé, nelze pro vybraný objekt použít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the bottom left corner of the 3D Effects dialog are tools for converting a 2D object into a 3D scene and changing the projection used in a 3D scene.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V levém dolním rohu dialogového okna 3D efekty jsou nástroje pro převod 2D objektu na 3D scénu a pro změnu projekce použité ve 3D scéně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Convert to 3D&lt;/f0&gt; – converts the selected object into a 3D scene.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Převést do 3D&lt;/f0&gt; - převede vybraný objekt na 3D scénu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This tool works in the same way as using “&lt;bf1&gt;Extrusion&lt;/bf1&gt;” on page &lt;bf2&gt;6&lt;/bf2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento nástroj funguje stejně jako nástroj “&lt;bf1&gt;Vytlačení&lt;/bf1&gt;“ na straně &lt;bf2&gt;6&lt;/bf2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Convert to Rotation Object&lt;/f0&gt; – converts a 2D object into a 3D scene using body rotation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Převést na rotační objekt&lt;/f0&gt; - převede 2D objekt na 3D scénu pomocí rotace tělesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This tool works in the same way as using “&lt;bf1&gt;Rotation&lt;/bf1&gt;” on page &lt;bf2&gt;6&lt;/bf2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento nástroj funguje stejně jako nástroj “&lt;bf1&gt;Rotace&lt;/bf1&gt;“ na straně &lt;bf2&gt;6&lt;/bf2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Perspective On/Off&lt;/f0&gt; – switches perspective projection on or off for a 3D scene.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Perspektiva zapnuta/vypnuta&lt;/f0&gt; - zapne nebo vypne perspektivní projekci pro 3D scénu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Perspective projection is a technique to create a linear illusion of depth.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Perspektivní projekce je technika pro vytvoření lineární iluze hloubky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As objects get further away from the viewer, a perspective drawing decreases in size at a constant rate.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jak se objekty vzdalují od diváka, zmenšuje se perspektivní kresba konstantní rychlostí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Geometry&lt;/f0&gt; in the 3D Effects dialog (Figure &lt;t1&gt;11&lt;/t1&gt;) to open the Geometry page and use the options available to change the geometry of a 3D object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;Geometrie&lt;/f0&gt; v dialogovém okně 3D efekty (obrázek &lt;t1&gt;11&lt;/t1&gt;) otevřete stránku Geometrie a pomocí dostupných možností změňte geometrii 3D objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Geometry&lt;/f0&gt; – defines the properties of an object in a 3D scene.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Geometrie&lt;/f0&gt; - definuje vlastnosti objektu ve 3D scéně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Rounded edges&lt;/f0&gt; – enter the amount required to round the corners of a 3D shape as shown by the example in Figure &lt;t1&gt;12&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Zaoblené hrany&lt;/f0&gt; - zadejte množství potřebné k zaoblení rohů 3D tvaru, jak ukazuje příklad na obrázku &lt;t1&gt;12&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default setting for rounded edges is 10%.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí nastavení pro zaoblené hrany je 10 %.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Example of rounded edges</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;12&lt;/seq0&gt;: Příklad zaoblených hran</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Scaled depth&lt;/f0&gt; – enter the amount required to increase or decrease the frontal area of a selected 3D object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Hloubka měřítka&lt;/f0&gt; - zadejte hodnotu potřebnou ke zvětšení nebo zmenšení čelní plochy vybraného 3D objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;t1&gt;13&lt;/t1&gt; shows an example where the scaled depth has been increased to 150% and then decreased to 50%.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;t1&gt;13&lt;/t1&gt; ukazuje příklad, kdy byla měřítková hloubka zvětšena na 150.
+a poté snížena na 50 %.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default setting for scaled depth is 100%.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí nastavení měřítka hloubky je 100 %.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Example of changing scaled depth</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;13&lt;/seq0&gt;: Příklad změny měřítka hloubky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Rotation angle&lt;/f0&gt; – enter the angle in degrees to rotate a 2D object that has been converted to 3D using &lt;f1&gt;To 3D Rotation Object&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Úhel natočení&lt;/f0&gt; - zadejte úhel ve stupních pro natočení 2D objektu, který byl převeden do 3D pomocí &lt;f1&gt;Na 3D objekt natočení&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;t2&gt;14&lt;/t2&gt; shows an example of a 2D circle where the rotation angle is changed to 150 degrees.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;t2&gt;14&lt;/t2&gt; ukazuje příklad 2D kružnice, u které je úhel natočení změněn na 150 stupňů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Example of changing rotation angle</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;14&lt;/seq0&gt;: Příklad změny úhlu natočení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Depth&lt;/f0&gt; – enter the extrusion depth for the selected 2D object that has been converted to 3D using &lt;f1&gt;To 3D&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Hloubka&lt;/f0&gt; - zadejte hloubku vytlačování pro vybraný 2D objekt, který byl převeden do 3D pomocí &lt;f1&gt;Do 3D&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;t2&gt;15&lt;/t2&gt;&lt;s3/&gt;shows an example of a 2D circle converted to a 3D cylinder with the extrusion depth increased to 3 cm.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;t2&gt;15&lt;/t2&gt;&lt;s3/&gt;ukazuje příklad 2D kružnice převedené na 3D válec s hloubkou vytlačování zvětšenou na 3 cm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: Example of increasing depth</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;15&lt;/seq0&gt;: Příklad zvětšující se hloubky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Segments&lt;/f0&gt; – changes the number of segments that Draw uses to draw a 3D rotation object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Segmenty&lt;/f0&gt; - změní počet segmentů, které Draw použije pro vykreslení objektu 3D rotace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The higher the number of segments, the smoother the object surface will be.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Čím vyšší je počet segmentů, tím hladší je povrch objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, a high segment number may increase the time it takes to generate the 3D object on a display.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vysoký počet segmentů však může prodloužit dobu potřebnou k vygenerování 3D objektu na displeji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;t1&gt;16&lt;/t1&gt; shows the difference on a 3D sphere when the segments have been increased from 10 to 30 segments horizontally and vertically.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;t1&gt;16&lt;/t1&gt; ukazuje rozdíl na 3D kouli při zvětšení segmentů z 10 na 30 horizontálně a vertikálně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Horizontal&lt;/f0&gt; – enter the number of horizontal segments used in the selected 3D rotation object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Horizontální&lt;/f0&gt; - zadejte počet horizontálních segmentů použitých ve vybraném objektu 3D rotace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Vertical&lt;/f0&gt; – enter the number of vertical segments used in the selected 3D rotation object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Vertikální&lt;/f0&gt; - zadejte počet vertikálních segmentů použitých ve vybraném objektu 3D rotace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Example of segments</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;16&lt;/seq0&gt;: Příklad segmentů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Normals&lt;/f0&gt; – modifies the rendering style of the 3D surface (Figure &lt;t1&gt;17&lt;/t1&gt; and Figure &lt;t2&gt;18&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Normály&lt;/f0&gt; - upravuje styl vykreslování 3D povrchu (obrázek &lt;t1&gt;17&lt;/t1&gt; a obrázek &lt;t2&gt;18&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Object-Specific&lt;/f0&gt; – renders the 3D surface according to the shape of the object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Konkrétní objekt&lt;/f0&gt; - vykreslí 3D povrch podle tvaru objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, a circular shape is rendered with a spherical surface.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například kruhový tvar je vykreslen kulovým povrchem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Flat&lt;/f0&gt; – renders the 3D surface as polygons.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Flat&lt;/f0&gt; - vykreslí 3D povrch jako polygony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Spherical&lt;/f0&gt; – renders a smooth 3D surface regardless of the shape of the object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Sférický&lt;/f0&gt; - vykreslí hladký 3D povrch bez ohledu na tvar objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Invert Normals&lt;/f0&gt; – an inverted normal is a normal that is pointing in the wrong direction.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Invertovat normály&lt;/f0&gt; - invertovaná normála je normála, která směřuje špatným směrem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This tells a computer that an outside face is actually an inside face when it is not.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>To počítači říká, že vnější strana je ve skutečnosti vnitřní strana, i když tomu tak není.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If there is a hollow design, an inverted normal can be indicated because both surfaces facing are in and out in the same model.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud se jedná o dutinovou konstrukci, lze uvést obrácenou normálu, protože obě plochy směřující dovnitř a ven jsou ve stejném modelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Double-Sided Illumination&lt;/f0&gt; – lights the outside and the inside of the object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Double-Sided Illumination&lt;/f0&gt; - osvětluje vnější i vnitřní stranu objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This has only an effect, if the inside is drawn at all, see &lt;f1&gt;Double-Sided&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>To má vliv pouze v případě, že je vnitřek vůbec vykreslen, viz &lt;f1&gt;Double-Sided&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is a setting for the whole of the 3D scene and not for a single object within the scene.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jedná se o nastavení pro celou 3D scénu, nikoli pro jednotlivý objekt ve scéně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: Examples of object specific, flat and spherical effects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;17&lt;/seq0&gt;: Příklady specifických, plošných a sférických efektů na objekty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Examples of invert normals and double sided illumination</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;18&lt;/seq0&gt;: Příklady inverzních normál a oboustranného osvětlení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;t0&gt;18&lt;/t0&gt; demonstrates the 3D effect of using &lt;f1&gt;Invert Normals&lt;/f1&gt; in conjunction with using the 3D effect &lt;f2&gt;Double-Sided Illumination&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;t0&gt;18&lt;/t0&gt; demonstruje 3D efekt při použití &lt;f1&gt;Invertovat normály&lt;/f1&gt; ve spojení s použitím 3D efektu &lt;f2&gt;Double-Sided Illumination&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Double-Sided&lt;/f0&gt; – a 3D object has outside (front) and inside (back) faces.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Dvoustranný&lt;/f0&gt; - 3D objekt má vnější (přední) a vnitřní (zadní) stranu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With &lt;f1&gt;Double-Sided&lt;/f1&gt; switched off, only the outside face of the object is rendered.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je funkce &lt;f1&gt;Double-Sided&lt;/f1&gt; vypnutá, vykreslí se pouze vnější strana objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The effect, when looking from outside, is that the object is solid, but, when looking from inside, the front face is transparent.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při pohledu zvenčí se zdá, že objekt je pevný, ale při pohledu zevnitř je čelní strana průhledná.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If there is no view to the inside face, normal for an extruded 3D object with solid texture, &lt;f2&gt;Double-Sided&lt;/f2&gt; should be switched off to improve performance during rendering.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud není vidět na vnitřní stranu, normální pro extrudovaný 3D objekt s pevnou texturou, měla by být funkce &lt;f2&gt;Double-Sided&lt;/f2&gt; vypnuta, aby se zlepšil výkon při vykreslování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any 3D object created using rotation often allows an inside view and it is recommended that &lt;f3&gt;Double-Sided&lt;/f3&gt; is switched on.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jakýkoli 3D objekt vytvořený pomocí rotace často umožňuje vnitřní pohled a doporučuje se zapnout funkci &lt;f3&gt;Double-Sided&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the &lt;f0&gt;Shading&lt;/f0&gt; page of the 3D Effects dialog (Figure &lt;t1&gt;19&lt;/t1&gt;) provides options to set the shading, shadow, and camera effects on a selected 3D object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na stránce &lt;f0&gt;Stínování&lt;/f0&gt; dialogového okna 3D efekty (obrázek &lt;t1&gt;19&lt;/t1&gt;) jsou k dispozici možnosti nastavení stínování, stínu a efektů kamery na vybraném 3D objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Shading&lt;/f0&gt; – specifies the mode of shading applied to a 3D object (Figure &lt;t1&gt;20&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Stínování&lt;/f0&gt; - určuje způsob stínování aplikovaný na 3D objekt (obrázek &lt;t1&gt;20&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Gouraud&lt;/f0&gt; – this shading mode is a method used in computer graphics to simulate the differing effects of light and color across the surface of an object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Gouraud&lt;/f0&gt; - tento režim stínování je metoda používaná v počítačové grafice k simulaci rozdílných účinků světla a barvy na povrchu objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In practice, it is used to achieve smooth lighting on low-polygon surfaces without the heavy computational requirements of calculating lighting for each pixel.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V praxi se používá k dosažení plynulého osvětlení na plochách s malým počtem polygonů bez velkých výpočetních nároků na výpočet osvětlení pro každý pixel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Phong&lt;/f0&gt; – this shading mode is an interpolation technique for surface shading calculating the normal of a point in the polygon by interpolating the normals of the vertices.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Phong&lt;/f0&gt; - tento režim stínování je interpolační technika pro stínování povrchu, která počítá normálu bodu v polygonu interpolací normál vrcholů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The angle between normal and lighting direction determines how much of the lighting is used to color the pixel.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Úhel mezi normálou a směrem osvětlení určuje, jak velká část osvětlení se použije k obarvení pixelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Flat&lt;/f0&gt; – this shading mode refers to the depiction of depth perception in 3D models or illustrations by varying the level of darkness.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Plochý&lt;/f0&gt; - tento režim stínování se týká zobrazení vnímání hloubky v 3D modelech nebo ilustracích pomocí různé úrovně tmavosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It assigns a single color of shading to a single segment on the surface of the object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přiřazuje jednu barvu stínování jednomu segmentu na povrchu objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: 3D Effects dialog - Shading page</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;19&lt;/seq0&gt;: Dialogové okno 3D efekty - stránka Stínování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: Examples of shading mode</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;20&lt;/seq0&gt;: Příklady režimu stínování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Shadow&lt;/f0&gt; – adds or removes a shadow from a selected 3D object (Figure &lt;t1&gt;21&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Stín&lt;/f0&gt; - přidá nebo odstraní stín z vybraného 3D objektu (obrázek &lt;t1&gt;21&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A shadow is generated only from the first light source.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stín se vytváří pouze z prvního zdroje světla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter a &lt;f2&gt;Surface Angle&lt;/f2&gt; from the light source to the surface between 0 to 90 degrees to cast a shadow.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zadejte &lt;f2&gt;Úhel povrchu&lt;/f2&gt; od zdroje světla k povrchu v rozmezí 0 až 90 stupňů pro vržení stínu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;: Examples of shadow surface angle</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;21&lt;/seq0&gt;: Příklady úhlu povrchu stínu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Camera&lt;/f0&gt; – sets the camera options for a selected 3D scene as if a camera is being used to take a photograph (Figure &lt;t1&gt;22&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Fotoaparát&lt;/f0&gt; - nastaví možnosti fotoaparátu pro vybranou 3D scénu, jako by se používal fotoaparát k pořízení fotografie (obrázek &lt;t1&gt;22&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The settings affect only central perspective and not parallel projection.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nastavení ovlivňuje pouze centrální perspektivu, nikoli paralelní projekci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Distance&lt;/f0&gt; – enter the distance to leave between the camera and the center of the selected 3D scene.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Vzdálenost&lt;/f0&gt; - zadejte vzdálenost, kterou chcete ponechat mezi kamerou a středem vybrané 3D scény.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default setting for distance is 2.6cm.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí nastavení vzdálenosti je 2,6 cm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Focal length&lt;/f0&gt; – enter the focal length of the camera lens, where a small value corresponds to a fish-eye lens and a large value to a telephoto lens.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Ohnisková vzdálenost&lt;/f0&gt; - zadejte ohniskovou vzdálenost objektivu fotoaparátu, přičemž malá hodnota odpovídá objektivu typu rybí oko a velká hodnota teleobjektivu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default setting for focal length is 10cm.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí nastavení ohniskové vzdálenosti je 10 cm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;22&lt;/seq0&gt;: Example of changing camera settings</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;22&lt;/seq0&gt;: Příklad změny nastavení fotoaparátu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Illumination&lt;/f0&gt; page of the 3D Effects dialog (Figure &lt;t1&gt;23&lt;/t1&gt;) defines how a 3D scene is lit and the settings apply to all 3D objects in a scene.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stránka &lt;f0&gt;Osvětlení&lt;/f0&gt; dialogového okna 3D efekty (obrázek &lt;t1&gt;23&lt;/t1&gt;) určuje způsob osvětlení 3D scény a nastavení se vztahuje na všechny 3D objekty ve scéně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The direction of the light source, color of the light source, and the ambient light can be specified for the 3D scene.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro 3D scénu lze zadat směr zdroje světla, barvu zdroje světla a okolní světlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, one light source is already selected when the Illumination page is opened.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ve výchozím nastavení je při otevření stránky Osvětlení již vybrán jeden zdroj světla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>More light sources can be selected for illumination.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro osvětlení lze zvolit více zdrojů světla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A maximum of eight sources can be used and each light source can use a different color.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Lze použít maximálně osm zdrojů a každý zdroj světla může mít jinou barvu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;t0&gt;23&lt;/t0&gt; shows three light sources selected with each light source having a different color.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na obrázku &lt;t0&gt;23&lt;/t0&gt; jsou zobrazeny tři vybrané zdroje světla, přičemž každý zdroj světla má jinou barvu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;23&lt;/seq0&gt;: 3D Effects dialog - Illumination page</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;23&lt;/seq0&gt;: Dialogové okno 3D efekty - stránka Osvětlení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a &lt;f0&gt;Light source&lt;/f0&gt; to turn the light source on.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběrem položky &lt;f0&gt;Zdroj světla&lt;/f0&gt; zapnete zdroj světla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The icon changes to an illuminated bulb.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ikona se změní na svítící žárovku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click again on the selected light source to adjust the color for the light source.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Opětovným kliknutím na vybraný zdroj světla upravíte barvu zdroje světla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a color for the light from one of the color palettes in the &lt;f0&gt;Light source&lt;/f0&gt; drop-down list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte barvu světla z jedné z barevných palet v rozevíracím seznamu &lt;f0&gt;Zdroj světla&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A different color can be used for each light source selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro každý zvolený zdroj světla lze použít jinou barvu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a color from one of the color palettes in the &lt;f0&gt;Ambient light&lt;/f0&gt; drop-down list to set the color of the surrounding light.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběrem barvy z jedné z barevných palet v rozevíracím seznamu &lt;f0&gt;Okolní světlo&lt;/f0&gt; nastavte barvu okolního světla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To deselect a light source, select a light source already selected and click on it again.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li zrušit výběr zdroje světla, vyberte již vybraný zdroj světla a znovu na něj klikněte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The light source location and color are shown in the lower right corner of the Illumination page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Umístění a barva světelného zdroje jsou zobrazeny v pravém dolním rohu stránky Osvětlení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The vertical slider bar adjusts the lighting angle and the horizontal slider bar rotates the light about the object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Svislý posuvník nastavuje úhel osvětlení a vodorovný posuvník otáčí světlo kolem objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, click on the light point and drag the light source to the required position.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Případně klikněte na světelný bod a přetáhněte zdroj světla na požadované místo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To change the preview from a sphere to a cube, click on the small square to the right of the horizontal slider bar and below the vertical slider bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li změnit náhled z koule na krychli, klikněte na malý čtvereček napravo od vodorovného posuvníku a pod svislým posuvníkem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each light source selected is shown as a small colored sphere in the color specified for it.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Každý vybraný zdroj světla se zobrazí jako malá barevná kulička v barvě, která je pro něj určena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The larger colored sphere indicates the active light source.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Větší barevná koule označuje aktivní zdroj světla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the &lt;f0&gt;Textures&lt;/f0&gt; page of the 3D Effects dialog (Figure &lt;t1&gt;24&lt;/t1&gt;) the properties of the surface texture can be set for a selected 3D object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na stránce &lt;f0&gt;Textures&lt;/f0&gt; dialogového okna 3D efekty (obrázek &lt;t1&gt;24&lt;/t1&gt;) lze nastavit vlastnosti textury povrchu pro vybraný 3D objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f2&gt;Textures&lt;/f2&gt; is only available after the area fill of a 3D object is set to &lt;f3&gt;Gradient&lt;/f3&gt;, &lt;f4&gt;Hatching,&lt;/f4&gt; or &lt;f5&gt;Bitmap&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Funkce &lt;f2&gt;Textures&lt;/f2&gt; je k dispozici pouze po nastavení výplně plochy 3D objektu na &lt;f3&gt;Gradient&lt;/f3&gt;, &lt;f4&gt;Hatching,&lt;/f4&gt; nebo &lt;f5&gt;Bitmap&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information on changing area fill, see Chapter 4, Changing Object Attributes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o změně výplně oblasti naleznete v kapitole 4, Změna atributů objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Type&lt;/f0&gt; – sets the color properties of the texture.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Typ&lt;/f0&gt; - nastavuje barevné vlastnosti textury.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Black &amp; White&lt;/f0&gt; – converts the texture to black and white.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Černá</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Color&lt;/f0&gt; – converts the texture to color.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Barva&lt;/f0&gt; - převede texturu na barvu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;24&lt;/seq0&gt;: 3D Effects dialog - Textures page</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;24&lt;/seq0&gt;: Dialogové okno 3D efekty - stránka Textury</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Mode&lt;/f0&gt; – shows or hides shading.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Režim&lt;/f0&gt; - zobrazí nebo skryje stínování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Only Texture&lt;/f0&gt; – applies the texture without shading.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Pouze textura&lt;/f0&gt; - aplikuje texturu bez stínování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Texture and Shading&lt;/f0&gt; – applies the texture with shading.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Textura a stínování&lt;/f0&gt; - aplikuje texturu se stínováním.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To define the shading options for the texture, see “&lt;bf1&gt;3D Effects – Shading&lt;/bf1&gt;” above.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti stínování textury naleznete v části “&lt;bf1&gt;3D efekty - stínování&lt;/bf1&gt;“ výše.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Texture, Shadow and Color&lt;/f0&gt; &lt;s1/&gt;– applies the texture with a shadow and color.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Textura, stín a barva&lt;/f0&gt;&lt;s1/&gt;- aplikuje texturu se stínem a barvou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To define the shading options for the texture, see “&lt;bf2&gt;3D Effects – Shading&lt;/bf2&gt;” above.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti stínování textury naleznete v části “&lt;bf2&gt;3D efekty - stínování&lt;/bf2&gt;“ výše.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Projection X&lt;/f0&gt; – sets the options for displaying the texture along the X axis.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Projekce X&lt;/f0&gt; - nastavuje možnosti zobrazení textury podél osy X.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only one of the three following options can be selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Lze vybrat pouze jednu z následujících tří možností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Object-Specific&lt;/f0&gt; – automatically adjusts the texture for best fit based on the shape and size of the object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Konkrétní objekt&lt;/f0&gt; - automaticky upraví texturu tak, aby co nejlépe odpovídala tvaru a velikosti objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is the default setting except for extrusion objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Toto je výchozí nastavení s výjimkou objektů pro vytlačování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Parallel&lt;/f0&gt; – applies the texture parallel to the horizontal axis and is mirrored on the rear side of the object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Rovnoběžně&lt;/f0&gt; - aplikuje texturu rovnoběžně s vodorovnou osou a zrcadlí se na zadní straně objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is the default setting for extrusion objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jedná se o výchozí nastavení pro vytlačovací objekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Circular&lt;/f0&gt; – wraps the horizontal axis of the texture pattern around an object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Kruhový&lt;/f0&gt; - obtáčí vodorovnou osu vzoru textury kolem objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Projection Y&lt;/f0&gt; – sets the options for displaying the texture along the Y axis.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Projekce Y&lt;/f0&gt; - nastavuje možnosti zobrazení textury podél osy Y.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Parallel&lt;/f0&gt; – applies the texture parallel to the vertical axis and is mirrored on the rear side of the object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Rovnoběžně&lt;/f0&gt; - aplikuje texturu rovnoběžně se svislou osou a zrcadlí se na zadní straně objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Circular&lt;/f0&gt; – wraps the vertical axis of the texture pattern around an object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Kruhový&lt;/f0&gt; - obtáčí svislou osu vzoru textury kolem objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Filtering&lt;/f0&gt; – filters out noise that can occur when a texture is applied to a 3D object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Filtrace&lt;/f0&gt; - odfiltruje šum, který může vzniknout při aplikaci textury na 3D objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Filtering On/Off&lt;/f0&gt; – applies a soft focus filter blurring the texture slightly to remove unwanted speckles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Filtrace zapnuta/vypnuta&lt;/f0&gt; - aplikuje filtr jemného zaostření, který mírně rozostří texturu a odstraní nežádoucí skvrny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the &lt;f0&gt;Materials&lt;/f0&gt; page of the 3D Effects dialog (Figure &lt;t1&gt;25&lt;/t1&gt;) the appearance of a 3D object can be changed to represent different materials.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na stránce &lt;f0&gt;Materiály&lt;/f0&gt; dialogového okna 3D efekty (obrázek &lt;t1&gt;25&lt;/t1&gt;) lze změnit vzhled 3D objektu tak, aby reprezentoval různé materiály.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Materials and textures can be combined with each other and it is a matter of trial and error to achieve the desired result.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Materiály a textury lze vzájemně kombinovat a dosáhnout požadovaného výsledku je otázkou pokusů a omylů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Material&lt;/f0&gt; – assigns a color from a color palette.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Materiál&lt;/f0&gt; - přiřadí barvu z palety barev.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For custom colors, see Chapter 11, Advanced Draw Techniques for more information on creating custom colors.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o vytváření vlastních barev naleznete v kapitole 11, Pokročilé techniky kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Favorites&lt;/f0&gt; – select a material type for the selected object from the &lt;f1&gt;Favorites&lt;/f1&gt; drop-down list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Oblíbené&lt;/f0&gt; - vyberte typ materiálu pro vybraný objekt z rozevíracího seznamu &lt;f1&gt;Oblíbené&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Object color&lt;/f0&gt; – select a color from one of the color palettes in the &lt;f1&gt;Object color&lt;/f1&gt; drop-down list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Barva objektu&lt;/f0&gt; - vyberte barvu z jedné z barevných palet v rozevíracím seznamu &lt;f1&gt;Barva objektu&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Illumination color&lt;/f0&gt; – select a color from one of the color palettes in the &lt;f1&gt;Illumination color&lt;/f1&gt; drop-down list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Barva osvětlení&lt;/f0&gt; - vyberte barvu z jedné z barevných palet v rozevíracím seznamu &lt;f1&gt;Barva osvětlení&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This illuminates the object and brightens parts of the object which lie in shadow making the object seem more illuminated.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tím se objekt osvětlí a části objektu, které jsou ve stínu, se rozjasní, takže se objekt zdá být více osvětlený.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Specular&lt;/f0&gt; – sets the light reflection properties for the selected object simulating the reflecting capacity of the surface.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Speculární&lt;/f0&gt; - nastaví vlastnosti odrazu světla pro vybraný objekt simulující odrazivost povrchu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The position of the illuminated point is determined by the setting of the first light source.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Poloha osvětleného bodu je určena nastavením prvního světelného zdroje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Color&lt;/f0&gt; – select a color to be reflected from the object from one of the color palettes in the &lt;f1&gt;Color&lt;/f1&gt; drop-down list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Barva&lt;/f0&gt; - v rozevíracím seznamu &lt;f1&gt;Barva&lt;/f1&gt; vyberte barvu, která se má od objektu odrážet, z jedné z barevných palet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Intensity&lt;/f0&gt; – enter the intensity of the specular effect as a percentage.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Intenzita&lt;/f0&gt; - zadejte intenzitu zrcadlového efektu v procentech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;25&lt;/seq0&gt;: 3D Effects dialog - Materials page</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;25&lt;/seq0&gt;: Dialogové okno 3D efekty - stránka Materiály</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Colors Dialog&lt;/f0&gt; – opens the Pick a Color dialog where custom colors are defined using the two-dimensional graphic and numerical gradient chart.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Dialogové okno Barvy&lt;/f0&gt; - otevře dialogové okno Výběr barvy, ve kterém se definují vlastní barvy pomocí dvourozměrného grafického a číselného grafu gradientu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any colors created are stored in the custom palette.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Všechny vytvořené barvy jsou uloženy ve vlastní paletě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 11, Advanced Draw Techniques for more information on creating custom colors.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o vytváření vlastních barev najdete v kapitole 11, Pokročilé techniky kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Metallic and glass surfaces do not simulate well because the appearance of these materials is produced using reflection.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kovové a skleněné povrchy nelze dobře simulovat, protože vzhled těchto materiálů je vytvářen pomocí odrazu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do not use a very high brightness value for individual colors.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nepoužívejte pro jednotlivé barvy příliš vysokou hodnotu jasu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Colors are additive and it is easy to end up with a colored area that is white.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Barvy jsou aditivní a snadno se může stát, že barevná plocha bude bílá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Multiple 3D objects cannot be combined using &lt;f0&gt;Shape &gt; Combine&lt;/f0&gt; on the Menu bar or the keyboard shortcut &lt;f1&gt;Shift+Ctrl+K&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Více 3D objektů nelze kombinovat pomocí &lt;f0&gt;Shape &gt; Combine&lt;/f0&gt; na panelu nabídek nebo klávesové zkratky &lt;f1&gt;Shift Ctrl K&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Multiple 2D objects have to be created first, then a single 3D object created as follows (see Chapter 5 Combining Multiple Objects for more information on combining objects):</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nejprve je třeba vytvořit více 2D objektů a poté jeden 3D objekt (více informací o kombinování objektů naleznete v kapitole 5 Kombinování více objektů):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create multiple 2D objects and carry out all the necessary editing changes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvořte více 2D objektů a proveďte všechny potřebné úpravy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure that all 2D objects are selected to create a single 3D object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ujistěte se, že jsou vybrány všechny 2D objekty, abyste vytvořili jeden 3D objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create a single 3D object combining the multiple 2D objects using one of the following methods (example conversions are shown in Figure &lt;t0&gt;26&lt;/t0&gt;):</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvořte jeden 3D objekt kombinací několika 2D objektů pomocí jedné z následujících metod (příklady převodů jsou uvedeny na obrázku &lt;t0&gt;26&lt;/t0&gt;):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;To 3D&lt;/f0&gt; or &lt;f1&gt;To 3D Rotation Object&lt;/f1&gt; on the Drawing toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Do 3D&lt;/f0&gt; nebo &lt;f1&gt;Do 3D rotačního objektu&lt;/f1&gt; na panelu nástrojů Kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the selected multiple 2D objects and select &lt;f0&gt;Convert &gt; To 3D&lt;/f0&gt; or &lt;f1&gt;To 3D Rotation Object&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem myši na vybrané vícenásobné 2D objekty a z kontextové nabídky vyberte možnost &lt;f0&gt;Konvertovat &gt; Do 3D&lt;/f0&gt; nebo &lt;f1&gt;Do 3D rotačního objektu&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Shape &gt; Convert &gt; To 3D&lt;/f0&gt; or &lt;f1&gt;To 3D Rotation Object&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Shape &gt; Convert &gt; To 3D&lt;/f0&gt; nebo &lt;f1&gt;To 3D Rotation Object&lt;/f1&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;26&lt;/seq0&gt;: Example of creating single 3D object from multiple 2D objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;26&lt;/seq0&gt;: Příklad vytvoření jednoho 3D objektu z více 2D objektů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>3D objects that each form a separate 3D scene can be combined or assembled into a single 3D scene.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>3D objekty, z nichž každý tvoří samostatnou 3D scénu, lze kombinovat nebo skládat do jedné 3D scény.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An example procedure for assembling 3D objects is as follows and shown in Figure &lt;t0&gt;27&lt;/t0&gt;:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Příklad postupu sestavování 3D objektů je uveden na obrázku &lt;t0&gt;27&lt;/t0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a 3D object (for example, a cube) from &lt;f0&gt;3D Objects&lt;/f0&gt; on the Drawing toolbar or Shapes deck on the Sidebar and place it in a drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte 3D objekt (například krychli) z nabídky &lt;f0&gt;3D objekty&lt;/f0&gt; na panelu nástrojů Kreslení nebo z nabídky Tvary na postranním panelu a umístěte jej do výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a second 3D object (for example, a sphere) from &lt;f0&gt;3D Objects&lt;/f0&gt; on the Drawing toolbar or Shapes deck on the Sidebar and place it in the drawing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte druhý 3D objekt (například kouli) z nabídky &lt;f0&gt;3D objekty&lt;/f0&gt; na panelu nástrojů Kreslení nebo z nabídky Tvary na postranním panelu a umístěte jej do výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If necessary, set the area fill to &lt;f0&gt;None&lt;/f0&gt; and the lines to &lt;f1&gt;Continuous&lt;/f1&gt; to create wire frame objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V případě potřeby nastavte výplň oblasti na &lt;f0&gt;Nic&lt;/f0&gt; a čáry na &lt;f1&gt;Souvislé&lt;/f1&gt;, abyste vytvořili objekty drátěného rámečku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This makes it easier to position both objects in the assembled 3D scene.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>To usnadňuje umístění obou objektů do sestavené 3D scény.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the second 3D object (sphere) and go to &lt;f0&gt;Edit &gt; Cut&lt;/f0&gt; on the Menu bar or right-click on the object and select &lt;f1&gt;Cut&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte druhý 3D objekt (kouli) a přejděte na &lt;f0&gt;Upravit &gt; Vyjmout&lt;/f0&gt; na panelu nabídek nebo klikněte na objekt pravým tlačítkem myši a z kontextové nabídky vyberte &lt;f1&gt;Vyjmout&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Double-click the first 3D object (cube) to enter the group or go &lt;f0&gt;Shape &gt; Group &gt; Enter Group&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dvakrát klikněte na první 3D objekt (krychli), abyste vstoupili do skupiny, nebo přejděte na &lt;f0&gt;Tvar &gt; Skupina &gt; Vstoupit do skupiny&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;27&lt;/seq0&gt;: Example of assembling 3D objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázek &lt;seq0&gt;27&lt;/seq0&gt;: Příklad sestavení 3D objektů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Edit &gt; Paste&lt;/f0&gt; on the Menu bar or right-click on the first 3D object and select &lt;f1&gt;Paste&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Upravit &gt; Vložit&lt;/f0&gt; na panelu nabídek nebo klikněte pravým tlačítkem myši na první 3D objekt a z kontextové nabídky vyberte &lt;f1&gt;Vložit&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The sphere now appears inside the cube and is now part of the same group.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Koule se nyní objeví uvnitř krychle a je nyní součástí stejné skupiny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If required, edit the individual objects or change their position within the group.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V případě potřeby upravte jednotlivé objekty nebo změňte jejich pozici ve skupině.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Double-click outside the 3D assembled scene to exit the group, or go to &lt;f0&gt;Shape &gt; Group &gt; Exit Group&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Skupinu ukončíte dvojklikem mimo sestavenou 3D scénu nebo přejděte na &lt;f0&gt;Shape &gt; Group &gt; Exit Group&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The second object also reappears in its original position when &lt;f0&gt;Paste&lt;/f0&gt; is carried out.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Druhý objekt se rovněž objeví na svém původním místě, když se provede &lt;f0&gt;Vložit&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This object is NOT part of the assembled 3D scene and can be deleted if necessary.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento objekt NENÍ součástí sestavené 3D scény a v případě potřeby jej lze odstranit.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
