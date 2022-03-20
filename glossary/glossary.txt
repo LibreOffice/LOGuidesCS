@@ -10,3 +10,4 @@ Getting Started Guide	příručka Začínáme s LibreOffice
 Reset	Vrátit
 Getting Started Guide	Začínáme s LibreOffice
 Writer	Writer
+Writer Guide	Příručka aplikace Writer
