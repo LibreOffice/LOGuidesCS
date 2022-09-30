@@ -1,0 +1,2631 @@
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" creationtoolversion="4.3.2" segtype="sentence" o-tmf="OmegaT TMX" adminlang="EN-US" srclang="EN" datatype="plaintext">
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN">
+        <seg>Optionally you can type the function name in the Search box and the search narrows on each character inserted (Figure &lt;t1&gt;17&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Voliteln&#283; m&#367;&#382;ete zadat n&#225;zev funkce do pole Hledat a vyhled&#225;v&#225;n&#237; se z&#250;&#382;&#237; na ka&#382;d&#253; vlo&#382;en&#253; znak (obr&#225;zek &lt;t1&gt;17&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You need to enter the cell address for the entry, the range of entries, and the type of rank (0 for the rank from the highest, or any other value for the rank from the bottom).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Je t&#345;eba zadat adresu bu&#328;ky pro polo&#382;ku, rozsah polo&#382;ek a typ po&#345;ad&#237; (0 pro po&#345;ad&#237; od nejvy&#353;&#353;&#237;ho nebo jakoukoli jinou hodnotu pro po&#345;ad&#237; od nejni&#382;&#353;&#237;ho).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Convert document references to PDF targets:&lt;/f0&gt; If you have defined links to other documents with OpenDocument extensions (such as .odt, .ods, and .odp), this option converts the file extensions to .pdf in the exported PDF document.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;f0&gt;P&#345;ev&#233;st odkazy na dokumenty na c&#237;le PDF:&lt;/f0&gt; Pokud jste definovali odkazy na jin&#233; dokumenty s p&#345;&#237;ponami OpenDocument (nap&#345;&#237;klad .odt, .ods a .odp), tato mo&#382;nost p&#345;evede v exportovan&#233;m dokumentu PDF tyto p&#345;&#237;pony soubor&#367; na .pdf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can swap to another scenario by selecting it in this list.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V&#253;b&#283;rem v tomto seznamu m&#367;&#382;ete p&#345;ej&#237;t na jin&#253; sc&#233;n&#225;&#345;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select a function to aggregate your data in the &lt;f0&gt;Function&lt;/f0&gt; drop-down list.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V rozev&#237;rac&#237;m seznamu &lt;f0&gt;Funkce&lt;/f0&gt; vyberte funkci pro agregaci dat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Chi-Square Test tool calculates the chi-square test of a data sample, which determines how well a set of measured values fit a corresponding set of expected values.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>N&#225;stroj Test ch&#237;-kvadr&#225;t vypo&#269;&#237;t&#225; test ch&#237;-kvadr&#225;t vzorku dat, kter&#253; ur&#269;uje, jak dob&#345;e odpov&#237;d&#225; soubor nam&#283;&#345;en&#253;ch hodnot odpov&#237;daj&#237;c&#237;mu souboru o&#269;ek&#225;van&#253;ch hodnot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you double-click on a cell in either a row or column field area, the Show Detail dialog opens (Figure &lt;t2&gt;39&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pokud dvakr&#225;t kliknete na bu&#328;ku v oblasti &#345;&#225;dkov&#233;ho nebo sloupcov&#233;ho pole, otev&#345;e se dialogov&#233; okno Zobrazit detail (obr&#225;zek &lt;t2&gt;39&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0&gt;Chapter 6 Printing, Exporting, Emailing, and Signing&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;t0&gt;Kapitola 6 Tisk, export, odes&#237;l&#225;n&#237; e-mailem a podepisov&#225;n&#237;&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However in this case the speed measurements are grouped into intervals of 10 km/h.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V tomto p&#345;&#237;pad&#283; jsou v&#353;ak m&#283;&#345;en&#237; rychlosti seskupena do interval&#367; po 10 km/h.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0&gt;18&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Chapter 9 Data Analysis&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;t0&gt;18&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Kapitola 9 Anal&#253;za dat&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;t3&gt;57&lt;/t3&gt;&lt;s4/&gt;shows the F-test results calculated for this input data using the settings shown in Figure &lt;t5&gt;56&lt;/t5&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;t3&gt;57&lt;/t3&gt;&lt;s4/&gt; zobrazuje v&#253;sledky F-testu vypo&#269;ten&#233; pro tato vstupn&#237; data s pou&#382;it&#237;m nastaven&#237; uveden&#253;ch na obr&#225;zku &lt;t5&gt;56&lt;/t5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The profits for the different sale prices and quantities are now shown in the range E2:H11 (Figure &lt;t1&gt;23&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Zisky pro r&#367;zn&#233; prodejn&#237; ceny a mno&#382;stv&#237; jsou nyn&#237; zobrazeny v rozsahu E2:H11 (obr&#225;zek &lt;t1&gt;23&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To illustrate some of the features of regular expressions, consider the simple spreadsheet shown in Figure &lt;t0&gt;29&lt;/t0&gt;&lt;s1/&gt;and assume that &lt;f2&gt;Enable regular expressions in formulas&lt;/f2&gt; is selected.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pro ilustraci n&#283;kter&#253;ch vlastnost&#237; regul&#225;rn&#237;ch v&#253;raz&#367; uva&#382;ujme jednoduchou tabulku na obr&#225;zku &lt;t0&gt;29&lt;/t0&gt;&lt;s1/&gt;a p&#345;edpokl&#225;dejme, &#382;e je vybr&#225;n &lt;f2&gt;Povolit regul&#225;rn&#237; v&#253;razy ve vzorc&#237;ch&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With the mouse, select the range containing both the variable range that you defined in step &lt;bf0&gt;2)&lt;/bf0&gt;&lt;s1/&gt;and the adjacent empty cells that follow it.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pomoc&#237; my&#353;i vyberte rozsah obsahuj&#237;c&#237; jak rozsah prom&#283;nn&#253;ch, kter&#253; jste definovali v kroku &lt;bf0&gt;2)&lt;/bf0&gt;&lt;s1/&gt;, tak sousedn&#237; pr&#225;zdn&#233; bu&#328;ky, kter&#233; n&#225;sleduj&#237; za n&#237;m.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;t0&gt;37&lt;/t0&gt;&lt;s1/&gt;shows a small data set comprising student examination results in three subjects.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;t0&gt;37&lt;/t0&gt;&lt;s1/&gt; zobrazuje mal&#253; soubor dat obsahuj&#237;c&#237; v&#253;sledky zkou&#353;ek &#382;&#225;k&#367; ze t&#345;&#237; p&#345;edm&#283;t&#367;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the Digital Signatures dialog, click &lt;f0&gt;Sign Document&lt;/f0&gt; to open the Select X.509 Certificate dialog (Figure &lt;t1&gt;23&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V dialogov&#233;m okn&#283; Digit&#225;ln&#237; podpisy kliknut&#237;m na &lt;f0&gt;Podepsat dokument&lt;/f0&gt; otev&#345;ete dialogov&#233; okno V&#253;b&#283;r certifik&#225;tu X.509 (obr&#225;zek &lt;t1&gt;23&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With the formula &lt;f0&gt;=COUNTIF(A1:A6,".*r.d.*")&lt;/f0&gt; entered in cell A7 and S&lt;f1&gt;earch criteria = and &lt;&gt; must apply to whole cells&lt;/f1&gt; selected, the value 5 is again shown in cell A7.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Po zad&#225;n&#237; vzorce &lt;f0&gt;=COUNTIF(A1:A6,".*r.d.*")&lt;/f0&gt; do bu&#328;ky A7 a v&#253;b&#283;ru S&lt;f1&gt;krit&#233;ria hled&#225;n&#237; = a &lt;&gt; mus&#237; platit pro cel&#233; bu&#328;ky&lt;/f1&gt; se v bu&#328;ce A7 op&#283;t zobraz&#237; hodnota 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Double-click the name of the page style on the Status Bar.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dvakr&#225;t klikn&#283;te na n&#225;zev stylu str&#225;nky na stavov&#233;m &#345;&#225;dku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0&gt;Using print ranges&lt;/t0&gt; | &lt;t1&gt;13&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;t0&gt;Pou&#382;it&#237; rozsah&#367; tisku&lt;/t0&gt; | &lt;t1&gt;13&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the certificate you want to use and click &lt;f0&gt;Sign&lt;/f0&gt; to close the Select X.509 Certificate dialog.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Vyberte certifik&#225;t, kter&#253; chcete pou&#382;&#237;t, a kliknut&#237;m na tla&#269;&#237;tko &lt;f0&gt;Podepsat&lt;/f0&gt; zav&#345;ete dialogov&#233; okno V&#253;b&#283;r certifik&#225;tu X.509.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select a range of 3 x 5 cells on another part of the spreadsheet, enter the formula &lt;f1&gt;=10*A1:C5&lt;/f1&gt; and confirm this entry using the key combination &lt;f2&gt;Ctrl+Shift+Enter&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Vyberte rozsah 3 x 5 bun&#283;k v jin&#233; &#269;&#225;sti tabulky, zadejte vzorec &lt;f1&gt;=10*A1:C5&lt;/f1&gt; a potvr&#271;te tento z&#225;pis kombinac&#237; kl&#225;ves &lt;f2&gt;Ctrl+Shift+Enter&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, the text contents are in black characters and the numeric contents are in blue.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Ve v&#253;choz&#237;m nastaven&#237; je textov&#253; obsah vyveden &#269;ern&#253;mi znaky a &#269;&#237;seln&#253; obsah je vyveden mod&#345;e.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;45&lt;/seq0&gt;: Exponential Smoothing dialog</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;45&lt;/seq0&gt;: Dialogov&#233; okno Exponenci&#225;ln&#237; vyhlazen&#237;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also select a named range in the drop-down list to the left of the field.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V rozev&#237;rac&#237;m seznamu vlevo od pole m&#367;&#382;ete tak&#233; vybrat pojmenovan&#253; rozsah.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter the following formula into B5: &lt;f0&gt;=B4*(B1-B2)-B3.&lt;/f0&gt; This formula represents the equation &lt;f1&gt;Profit = Quantity * (Selling price &#8211; Direct costs) &#8211; Fixed costs&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Do B5 zadejte n&#225;sleduj&#237;c&#237; vzorec: &lt;f0&gt;=B4*(B1-B2)-B3.&lt;/f0&gt; Tento vzorec p&#345;edstavuje rovnici &lt;f1&gt;Zisk = mno&#382;stv&#237; * (prodejn&#237; cena &#8211; p&#345;&#237;m&#233; n&#225;klady) &#8211; fixn&#237; n&#225;klady&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: Drag a column field - note the pointer shape</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;20&lt;/seq0&gt;: P&#345;eta&#382;en&#237; sloupcov&#233;ho pole &#8211; v&#353;imn&#283;te si tvaru ukazatele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Depending on how your variable range is arrayed, these empty cells will either be in the column to the right (if the range is in a column) or in the row immediately below (if it is in a row).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V z&#225;vislosti na tom, jak je rozsah prom&#283;nn&#253;ch uspo&#345;&#225;d&#225;n, budou tyto pr&#225;zdn&#233; bu&#328;ky bu&#271; ve sloupci napravo (pokud je rozsah ve sloupci), nebo v &#345;&#225;dku bezprost&#345;edn&#283; pod n&#237;m (pokud je v &#345;&#225;dku).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In our example, if we double-click on the cell with the value &lt;f0&gt;$18,741&lt;/f0&gt; from Figure &lt;t1&gt;38&lt;/t1&gt;, we would have a new list of all data sets that are included in this value.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V na&#353;em p&#345;&#237;kladu, pokud dvakr&#225;t klikneme na bu&#328;ku s hodnotou &lt;f0&gt;$18,741&lt;/f0&gt; z obr&#225;zku &lt;t1&gt;38&lt;/t1&gt;, zobraz&#237; se nov&#253; seznam v&#353;ech datov&#253;ch sad, kter&#233; jsou v t&#233;to hodnot&#283; zahrnuty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Entries in the cell range from step &lt;bf2&gt;1)&lt;/bf2&gt;&lt;s3/&gt;will be grouped and sorted by matching values in this column.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Polo&#382;ky v rozsahu bun&#283;k z kroku &lt;bf2&gt;1)&lt;/bf2&gt;&lt;s3/&gt;budou seskupeny a se&#345;azeny podle odpov&#237;daj&#237;c&#237;ch hodnot v tomto sloupci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>functions wiki</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>funkce wiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Data &gt; Statistics &gt; Exponential Smoothing&lt;/f0&gt; on the Menu bar to access the Exponential Smoothing dialog (Figure &lt;t1&gt;45&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V&#253;b&#283;rem mo&#382;nosti &lt;f0&gt;Data &gt; Statistika &gt; Exponenci&#225;ln&#237; vyrovn&#225;v&#225;n&#237;&lt;/f0&gt; na panelu nab&#237;dek otev&#345;ete dialogov&#233; okno Exponenci&#225;ln&#237; vyrovn&#225;v&#225;n&#237; (obr&#225;zek &lt;t1&gt;45&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: Set Passwords dialog</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;20&lt;/seq0&gt;: Dialogov&#233; okno Nastavit hesla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;47&lt;/seq0&gt;: Results from Exponential Smoothing tool</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;47&lt;/seq0&gt;: V&#253;sledky n&#225;stroje Exponenci&#225;ln&#237; vyhlazen&#237;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Published &lt;t0&gt;September&lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt;2022&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Vyd&#225;no &lt;t0&gt;v z&#225;&#345;&#237;&lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt;2022&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In Figure &lt;t1&gt;45&lt;/t1&gt;, cell C6 contains the sum of the sales values of the employee Hans in the category Sailing.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Na obr&#225;zku &lt;t1&gt;45&lt;/t1&gt; obsahuje bu&#328;ka C6 sou&#269;et hodnot tr&#382;eb zam&#283;stnance Hanse v kategorii Placht&#283;n&#237;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;43&lt;/seq0&gt;: Covariance dialog</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;43&lt;/seq0&gt;: Dialog o kovarianci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To illustrate how to use this tool, we use the data set shown in Figure &lt;t0&gt;51&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pro ilustraci pou&#382;it&#237; tohoto n&#225;stroje pou&#382;ijeme sadu dat zobrazenou na obr&#225;zku &lt;t0&gt;51&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the result table, it is possible to change the outcome by varying the Alpha parameter.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V tabulce v&#253;sledk&#367; je mo&#382;n&#233; zm&#283;nit v&#253;sledek zm&#283;nou parametru Alpha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Header dialog</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;14&lt;/seq0&gt;: Dialogov&#233; okno z&#225;hlav&#237;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In some cases, an added total sum is meaningless, for example, if the entries are accumulated or the result of comparisons.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V n&#283;kter&#253;ch p&#345;&#237;padech nem&#225; se&#269;ten&#253; celkov&#253; sou&#269;et smysl, nap&#345;&#237;klad pokud se polo&#382;ky kumuluj&#237; nebo jsou v&#253;sledkem porovn&#225;n&#237;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If only a single range is defined, then clicking anywhere in the &lt;f0&gt;Print Range&lt;/f0&gt; text box displays the defined print range bounded in blue, as shown in Figure &lt;t1&gt;6&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pokud je definov&#225;n pouze jeden rozsah, pak se kliknut&#237;m kamkoli do textov&#233;ho pole &lt;f0&gt;Oblast tisku&lt;/f0&gt; zobraz&#237; definovan&#253; rozsah tisku ohrani&#269;en&#253; mod&#345;e, jak ukazuje obr&#225;zek &lt;t1&gt;6&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;46&lt;/seq0&gt;: Input data set for exponential smoothing example</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;46&lt;/seq0&gt;: Vstupn&#237; soubor dat pro p&#345;&#237;klad exponenci&#225;ln&#237;ho vyhlazov&#225;n&#237;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select whether to opt in or out of computing the residuals, which may be beneficial in cases where you are interested only in the slopes and intercept estimates and their statistics.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Zvolte, zda se chcete rozhodnout pro v&#253;po&#269;et rezidu&#237;, co&#382; m&#367;&#382;e b&#253;t v&#253;hodn&#233; v p&#345;&#237;padech, kdy v&#225;s zaj&#237;maj&#237; pouze odhady sklon&#367; a intercept&#367; a jejich statistiky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice opens your default email program (if set) with the spreadsheet attached in the selected format.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>LibreOffice otev&#345;e v&#225;&#353; v&#253;choz&#237; e-mailov&#253; program (je-li nastaven) s p&#345;ipojenou tabulkou ve zvolen&#233;m form&#225;tu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The formula in cell C12 uses this value.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Vzorec v bu&#328;ce C12 pou&#382;&#237;v&#225; tuto hodnotu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;22&lt;/seq0&gt;: Digital Signatures dialog</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;22&lt;/seq0&gt;: Dialogov&#233; okno Digit&#225;ln&#237; podpisy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the &lt;f0&gt;Initial View&lt;/f0&gt; tab (Figure &lt;t1&gt;16&lt;/t1&gt;), you can select how the PDF file opens by default in a PDF viewer.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Na kart&#283; &lt;f0&gt;V&#253;choz&#237; zobrazen&#237;&lt;/f0&gt; (obr&#225;zek &lt;t1&gt;16&lt;/t1&gt;) m&#367;&#382;ete vybrat, jak se soubor PDF ve v&#253;choz&#237;m nastaven&#237; otev&#345;e v prohl&#237;&#382;e&#269;i PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information on naming cells, see &#8220;&lt;bf0&gt;Named ranges&lt;/bf0&gt;&#8221; on page &lt;bf1&gt;14&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dal&#353;&#237; informace o pojmenov&#225;n&#237; bun&#283;k najdete v &#269;&#225;sti &#8222;&lt;bf0&gt;Pojmenovan&#233; rozsahy&lt;/bf0&gt;&#8220; na stran&#283; &lt;bf1&gt;14&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Linear regression finds a linear function in the form of y = b + a1.[x1] + a2.[x2] + a3.[x3] ..., where ai is the i-th slope, [xi] is the i-th independent variable, and b is the intercept that best fits the data.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Line&#225;rn&#237; regrese najde line&#225;rn&#237; funkci ve tvaru y = b + a1.[x1] + a2.[x2] + a3.[x3] ..., kde ai je i-t&#253; sklon, [xi] je i-t&#225; nez&#225;visl&#225; prom&#283;nn&#225; a b je intercept, kter&#253; nejl&#233;pe odpov&#237;d&#225; dat&#367;m.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The mouse pointer changes to that shown in Figure &lt;t0&gt;23&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Ukazatel my&#353;i se zm&#283;n&#237; na obr&#225;zek &lt;t0&gt;23&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you click the &lt;f0&gt;Sign Document&lt;/f0&gt; button, the dialog (Figure &lt;t1&gt;23&lt;/t1&gt;) for certificate selection now also asks for an optional description.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Po kliknut&#237; na tla&#269;&#237;tko &lt;f0&gt;Podepsat dokument&lt;/f0&gt; se nyn&#237; dialogov&#233; okno (obr&#225;zek &lt;t1&gt;23&lt;/t1&gt;) pro v&#253;b&#283;r certifik&#225;tu pt&#225; tak&#233; na voliteln&#253; popis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information, see the &lt;f2&gt;Getting Started Guide&lt;/f2&gt; or the Help.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dal&#353;&#237; informace naleznete v &lt;f2&gt;P&#345;&#237;ru&#269;ce pro za&#269;&#225;tek&lt;/f2&gt; nebo v n&#225;pov&#283;d&#283;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the &lt;f0&gt;Defaults&lt;/f0&gt; section, select &lt;f1&gt;Convert colors to grayscale&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V &#269;&#225;sti &lt;f0&gt;Vypnut&#233; nastaven&#237;&lt;/f0&gt; vyberte mo&#382;nost &lt;f1&gt;P&#345;ev&#233;st barvy na odst&#237;ny &#353;edi&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Ctrl &lt;/f0&gt;(Control)</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;f0&gt;Ctrl &lt;/f0&gt;(Control)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0&gt;Chapter 8 Using Pivot Tables&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;5&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;t0&gt;Kapitola 8 Pou&#382;it&#237; oto&#269;n&#253;ch tabulek&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;5&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In D2:D11, enter a range of alternate quantities from 500 to 5000 in steps of 500.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Do pol&#237; D2:D11 zadejte rozsah n&#225;hradn&#237;ch mno&#382;stv&#237; od 500 do 5000 v kroc&#237;ch po 500.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Page Style dialog &#8211; Sheet tab</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;12&lt;/seq0&gt;: Dialogov&#233; okno Styl str&#225;nky &#8211; karta List</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Power regression finds a power curve in the form of y = exp(b + a1.ln[x1] + a2.ln[x2] + a3.ln[x3] ...), where ai is the i-th power, [xi] is the i-th independent variable, and b is intercept that best fits the data.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V&#253;konov&#225; regrese najde v&#253;konovou k&#345;ivku ve tvaru y = exp(b + a1.ln[x1] + a2.ln[x2] + a3.ln[x3] ...), kde ai je i-t&#253; v&#253;kon, [xi] je i-t&#225; nez&#225;visl&#225; prom&#283;nn&#225; a b je intercept, kter&#253; nejl&#233;pe odpov&#237;d&#225; dat&#367;m.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Besides, you can create a pivot chart to view a graphical representation of the data in a pivot table.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Krom&#283; toho m&#367;&#382;ete vytvo&#345;it oto&#269;n&#253; graf a zobrazit grafick&#233; zn&#225;zorn&#283;n&#237; dat v oto&#269;n&#233; tabulce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To provide an example of using this tool, we make use of the input data set shown in Figure &lt;t0&gt;54&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Jako p&#345;&#237;klad pou&#382;it&#237; tohoto n&#225;stroje pou&#382;ijeme sadu vstupn&#237;ch dat zobrazenou na obr&#225;zku &lt;t0&gt;54&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the resulting table, it is possible to insert different values for Alpha and Hypothesized Mean Difference.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Do v&#253;sledn&#233; tabulky je mo&#382;n&#233; vlo&#382;it r&#367;zn&#233; hodnoty pro Alfa a Hypot&#233;zn&#237; pr&#367;m&#283;rn&#253; rozd&#237;l.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Single print range marked by a bounding box</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;6&lt;/seq0&gt;: Jednotliv&#253; rozsah tisku ozna&#269;en&#253; ohrani&#269;uj&#237;c&#237;m r&#225;me&#269;kem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Email as OpenDocument Spreadsheet&lt;/f0&gt;: the spreadsheet is sent in the ODF format (.ods).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;f0&gt;Email jako tabulkov&#253; procesor OpenDocument&lt;/f0&gt;: tabulkov&#253; procesor je odesl&#225;n ve form&#225;tu ODF (.ods).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Export outlines&lt;/f0&gt;: Generally not used in Calc.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;f0&gt;Exportovat osnovu&lt;/f0&gt;: Obecn&#283; se v Calcu nepou&#382;&#237;v&#225;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Email as PDF&lt;/f0&gt;: The PDF Options dialog opens.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;f0&gt;Emailovat jako PDF&lt;/f0&gt;: Otev&#345;e se dialogov&#233; okno Mo&#382;nosti PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To quickly print a spreadsheet, click on the &lt;f0&gt;Print Directly&lt;/f0&gt; icon (not visible by default) on the Standard toolbar to send the entire spreadsheet to the default printer that is defined for your computer.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Chcete-li rychle vytisknout tabulku, klikn&#283;te na ikonu &lt;f0&gt;Vytisknout p&#345;&#237;mo&lt;/f0&gt; (ve v&#253;choz&#237;m nastaven&#237; nen&#237; viditeln&#225;) na panelu n&#225;stroj&#367; Standardn&#237; a ode&#353;lete celou tabulku na v&#253;choz&#237; tisk&#225;rnu definovanou pro v&#225;&#353; po&#269;&#237;ta&#269;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calc runs the function from step &lt;bf1&gt;8)&lt;/bf1&gt;&lt;s2/&gt;on your source data ranges and populates the target range with the results.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Calc provede funkci z kroku &lt;bf1&gt;8)&lt;/bf1&gt;&lt;s2/&gt;na zdrojov&#253;ch rozsaz&#237;ch dat a vypln&#237; c&#237;lov&#253; rozsah v&#253;sledky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>wiki, Calc functions</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>wiki, Funkce Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;56&lt;/seq0&gt;: F-test dialog</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;56&lt;/seq0&gt;: Dialogov&#233; okno F-testu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt;lists the possible types of displayed value and associated base field and base item, together with notes on usage.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V tabulce &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt; jsou uvedeny mo&#382;n&#233; typy zobrazovan&#233; hodnoty a souvisej&#237;c&#237; z&#225;kladn&#237; pole a z&#225;kladn&#237; polo&#382;ka spolu s pozn&#225;mkami k pou&#382;it&#237;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The result is shown in Figure &lt;t1&gt;33&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V&#253;sledek je zn&#225;zorn&#283;n na obr&#225;zku &lt;t1&gt;33&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click Copy.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Klikn&#283;te na tla&#269;&#237;tko Kop&#237;rovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;52&lt;/seq0&gt;: Linear regression outputs</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;52&lt;/seq0&gt;: V&#253;stupy line&#225;rn&#237; regrese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;30&lt;/seq0&gt;: Solving Result dialog</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;30&lt;/seq0&gt;: Dialogov&#233; okno V&#253;sledek &#345;e&#353;en&#237;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To provide an example of using this tool, we again make use of the input data set shown in Figure &lt;t0&gt;54&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Jako p&#345;&#237;klad pou&#382;it&#237; tohoto n&#225;stroje pou&#382;ijeme op&#283;t sadu vstupn&#237;ch dat zobrazenou na obr&#225;zku &lt;t0&gt;54&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Email as Microsoft Excel&lt;/f0&gt;: the spreadsheet is sent in the Excel format (.xlsx).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;f0&gt;Email jako Microsoft Excel&lt;/f0&gt;: tabulka se ode&#353;le ve form&#225;tu Excel (.xlsx).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To delete a scenario, right-click the name in the Navigator and choose &lt;f0&gt;Delete&lt;/f0&gt;, or press &lt;f1&gt;Delete&lt;/f1&gt; after selecting it.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Chcete-li sc&#233;n&#225;&#345; odstranit, klikn&#283;te na jeho n&#225;zev v Navig&#225;toru prav&#253;m tla&#269;&#237;tkem my&#353;i a zvolte &lt;f0&gt;Odstranit&lt;/f0&gt; nebo po jeho v&#253;b&#283;ru stiskn&#283;te &lt;f1&gt;Odstranit&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you enter only the first two arguments, then the function returns the &lt;f0&gt;total&lt;/f0&gt; result of the pivot table (&#8220;Sum &#8211; Sales Value&#8221; entered as the field will return a value of 408,765).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pokud zad&#225;te pouze prvn&#237; dva argumenty, funkce vr&#225;t&#237; v&#253;sledek &lt;f0&gt;celkem&lt;/f0&gt; oto&#269;n&#233; tabulky (&#8222;Sou&#269;et &#8211; hodnota prodeje&#8220; zadan&#253; jako pole vr&#225;t&#237; hodnotu 408 765).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can add more arguments as pairs with &lt;f0&gt;Field names&lt;/f0&gt; and &lt;f1&gt;Elements &lt;/f1&gt;to retrieve specific partial sums.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pro z&#237;sk&#225;n&#237; konkr&#233;tn&#237;ch d&#237;l&#269;&#237;ch sou&#269;t&#367; m&#367;&#382;ete p&#345;idat dal&#353;&#237; argumenty jako dvojice &lt;f0&gt;N&#225;zev pol&#237;&lt;/f0&gt; a &lt;f1&gt;Prvk&#367; &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The mouse pointer will change shape from its starting shape (horizontal or vertical block on the arrow head) to the opposite if moving to a different field, such as from row to column, where it can be dropped.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Ukazatel my&#353;i zm&#283;n&#237; tvar ze sv&#233;ho v&#253;choz&#237;ho tvaru (vodorovn&#253; nebo svisl&#253; blok na hlavi&#269;ce &#353;ipky) na opa&#269;n&#253;, pokud se p&#345;esune do jin&#233;ho pole, nap&#345;&#237;klad z &#345;&#225;dku do sloupce, kde jej lze pustit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the case of more complex changes to the data set collection, you must redo the pivot table from the beginning.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V p&#345;&#237;pad&#283; slo&#382;it&#283;j&#353;&#237;ch zm&#283;n ve sb&#237;rce dat je nutn&#233; oto&#269;nou tabulku vytvo&#345;it znovu od za&#269;&#225;tku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;31&lt;/seq0&gt;: Solver Options dialog</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;31&lt;/seq0&gt;: Dialogov&#233; okno Mo&#382;nosti &#345;e&#353;itele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to run the tool.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Kliknut&#237;m na &lt;f0&gt;OK&lt;/f0&gt; n&#225;stroj spust&#237;te.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you insert comments in cells, and use labels and headings, a spreadsheet can later be easily modified by you or others and much time and effort will be saved.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pokud do bun&#283;k vkl&#225;d&#225;te koment&#225;&#345;e a pou&#382;&#237;v&#225;te &#353;t&#237;tky a nadpisy, m&#367;&#382;ete tabulku pozd&#283;ji snadno upravovat vy nebo jin&#237; u&#382;ivatel&#233; a u&#353;et&#345;&#237;te mnoho &#269;asu a &#250;sil&#237;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>More information can be found in the ISO 32000 standard that defines the core specifications of PDF files.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dal&#353;&#237; informace naleznete v norm&#283; ISO 32000, kter&#225; definuje z&#225;kladn&#237; specifikace soubor&#367; PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the range from step &lt;bf0&gt;2)&lt;/bf0&gt;&lt;s1/&gt;is arrayed in a column, then click on the&lt;f2&gt; Column input cell&lt;/f2&gt; field and type a cell reference to the variable that you want to use or select the cell with the mouse.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pokud je rozsah z kroku &lt;bf0&gt;2)&lt;/bf0&gt;&lt;s1/&gt;uspo&#345;&#225;d&#225;n ve sloupci, klikn&#283;te na pole&lt;f2&gt; Vstupn&#237; bu&#328;ka sloupce&lt;/f2&gt; a zadejte odkaz na bu&#328;ku prom&#283;nn&#233;, kterou chcete pou&#382;&#237;t, nebo bu&#328;ku vyberte my&#353;&#237;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>RAND</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>RAND</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;t1&gt;61&lt;/t1&gt;&lt;s2/&gt;shows the chi-square results calculated for this input data using the settings shown in Figure &lt;t3&gt;Chyba: Zdroj odkazu nen&#225;jden&#253;&lt;/t3&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;t1&gt;61&lt;/t1&gt;&lt;s2/&gt; zobrazuje v&#253;sledky ch&#237;-kvadr&#225;tu vypo&#269;ten&#233; pro tato vstupn&#237; data p&#345;i pou&#382;it&#237; nastaven&#237; uveden&#253;ch na obr&#225;zku &lt;t3&gt;Chyba: Zdroj odkazu nen&#225;jden&#253;&lt;/t3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Double-clicking a field within the &lt;f4&gt;Available Fields&lt;/f4&gt; area has no effect.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dvojklik na pole v oblasti &lt;f4&gt;Dostupn&#225; pole&lt;/f4&gt; nem&#225; &#382;&#225;dn&#253; &#250;&#269;inek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;60&lt;/seq0&gt;: Test of Independence (Chi-Square) dialog</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;60&lt;/seq0&gt;: Dialogov&#233; okno testu nez&#225;vislosti (ch&#237;-kvadr&#225;t)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Printing more than one spreadsheet page per sheet of paper</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;3&lt;/seq0&gt;: Tisk v&#237;ce ne&#382; jedn&#233; str&#225;nky tabulky na jeden list pap&#237;ru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the cells you want to define and name as a print range, then go to &lt;f0&gt;Sheet &gt; Named Ranges and Expressions &gt; Define&lt;/f0&gt; on the Menu bar to open the Define Name dialog (Figure &lt;t1&gt;8&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Vyberte bu&#328;ky, kter&#233; chcete definovat a pojmenovat jako rozsah tisku, a pot&#233; p&#345;ejd&#283;te na &lt;f0&gt;List &gt; Pojmenovan&#233; oblasti a v&#253;razy &gt; Definovat&lt;/f0&gt; na panelu nab&#237;dek, &#269;&#237;m&#382; otev&#345;ete dialogov&#233; okno N&#225;zev Definovat (obr&#225;zek &lt;t1&gt;8&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;63&lt;/seq0&gt;: Fourier analysis tool - example input data and results</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;63&lt;/seq0&gt;: N&#225;stroj pro Fourierovu anal&#253;zu &#8211; p&#345;&#237;klad vstupn&#237;ch dat a v&#253;sledk&#367;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These wiki pages are a recent addition to the available documentation and are continuously undergoing improvement.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Tyto str&#225;nky wiki jsou ned&#225;vn&#253;m p&#345;&#237;r&#367;stkem do dostupn&#233; dokumentace a jsou neust&#225;le vylep&#353;ov&#225;ny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0&gt;0&lt;/t0&gt;| &lt;t1&gt;Chapter 8 Using Pivot Tables&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;t0&gt;0&lt;/t0&gt;| &lt;t1&gt;Kapitola 8 Pou&#382;it&#237; oto&#269;n&#253;ch tabulek&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;48&lt;/seq0&gt;: Moving Average dialog</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;48&lt;/seq0&gt;: Dialog klouzav&#233;ho pr&#367;m&#283;ru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, regular expression searches within Calc functions are case insensitive, irrespective of the setting of the &lt;f0&gt;Case sensitive&lt;/f0&gt; checkbox.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Ve v&#253;choz&#237;m nastaven&#237; se p&#345;i hled&#225;n&#237; regul&#225;rn&#237;ch v&#253;raz&#367; v r&#225;mci funkc&#237; Calc nerozli&#353;uj&#237; velk&#225; a mal&#225; p&#237;smena, a to bez ohledu na nastaven&#237; za&#353;krt&#225;vac&#237;ho pol&#237;&#269;ka &lt;f0&gt;Rozli&#353;ovat velikost p&#237;smen&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Be careful, Calc will replace any data that is in the range of the table to be created.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pozor, Calc nahrad&#237; v&#353;echna data, kter&#225; jsou v rozsahu vytv&#225;&#345;en&#233; tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice now provides a signature description, so multiple signatures from the same author are allowed, because each signature can have a different meaning.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>LibreOffice nyn&#237; poskytuje popis podpisu, tak&#382;e je povoleno v&#237;ce podpis&#367; od stejn&#233;ho autora, proto&#382;e ka&#382;d&#253; podpis m&#367;&#382;e m&#237;t jin&#253; v&#253;znam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When printing more than one page per sheet, select the order in which the pages are printed on a sheet in the &lt;f0&gt;Order&lt;/f0&gt; drop-down list (Figure &lt;t1&gt;3&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>P&#345;i tisku v&#237;ce ne&#382; jedn&#233; str&#225;nky na list vyberte po&#345;ad&#237;, v jak&#233;m se str&#225;nky na listu vytisknou, v rozev&#237;rac&#237;m seznamu &lt;f0&gt;Order&lt;/f0&gt; (obr&#225;zek &lt;t1&gt;3&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;37&lt;/seq0&gt;: Input data for descriptive statistics analysis</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;37&lt;/seq0&gt;: Vstupn&#237; data pro anal&#253;zu popisn&#233; statistiky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To refresh the pivot table (and thus the pivot chart), click in any cell within the pivot table and select &lt;f0&gt;Data &gt; Pivot Table &gt; Refresh&lt;/f0&gt; on the Menu bar or select &lt;f1&gt;Refresh&lt;/f1&gt; in the context menu.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Chcete-li obnovit oto&#269;nou tabulku (a t&#237;m i oto&#269;n&#253; graf), klikn&#283;te do libovoln&#233; bu&#328;ky v oto&#269;n&#233; tabulce a vyberte &lt;f0&gt;Data &gt; Kontingen&#269;n&#237; tabulka &gt; Obnovit&lt;/f0&gt; na panelu nab&#237;dek nebo &lt;f1&gt;Obnovit&lt;/f1&gt; v kontextov&#233; nab&#237;dce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To send the spreadsheet as an email attachment:</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Odesl&#225;n&#237; tabulky jako p&#345;&#237;lohy e-mailu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Data &gt; Statistics &gt; Covariance&lt;/f0&gt; on the Menu bar to access the Covariance dialog (Figure &lt;t1&gt;43&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V&#253;b&#283;rem mo&#382;nosti &lt;f0&gt;Data &gt; Statistika &gt; Kovariance&lt;/f0&gt; na panelu nab&#237;dek otev&#345;ete dialogov&#233; okno Kovariance (obr&#225;zek &lt;t1&gt;43&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Activating the &lt;f0&gt;Enable regular expressions in formulas&lt;/f0&gt; option means all the above functions will require any regular expression special characters (such as parentheses) used in strings within formulas to be preceded by a backslash, despite not being part of a regular expression.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Aktivace volby &lt;f0&gt;Povolit regul&#225;rn&#237; v&#253;razy ve vzorc&#237;ch&lt;/f0&gt; znamen&#225;, &#382;e v&#353;echny v&#253;&#353;e uveden&#233; funkce budou vy&#382;adovat, aby v&#353;echny speci&#225;ln&#237; znaky regul&#225;rn&#237;ch v&#253;raz&#367; (jako jsou z&#225;vorky) pou&#382;it&#233; v &#345;et&#283;zc&#237;ch uvnit&#345; vzorc&#367; byly uvozeny zp&#283;tn&#253;m lom&#237;tkem, p&#345;esto&#382;e nejsou sou&#269;&#225;st&#237; regul&#225;rn&#237;ho v&#253;razu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, if your formula begins with a + or &#8211; (for example &lt;f0&gt;-2*A1&lt;/f0&gt;), then Calc automatically adds the = symbol.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pokud v&#353;ak vzorec za&#269;&#237;n&#225; znakem + nebo &#8211; (nap&#345;&#237;klad &lt;f0&gt;-2*A1&lt;/f0&gt;), Calc automaticky p&#345;id&#225; symbol =.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To use this tool, select &lt;f0&gt;Data &gt; Statistics &gt; Sampling&lt;/f0&gt; on the Menu bar to access the Sampling dialog (Figure &lt;t1&gt;34&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Chcete-li tento n&#225;stroj pou&#382;&#237;t, vyberte na panelu nab&#237;dek &lt;f0&gt;Data &gt; Statistika &gt; Vzorkov&#225;n&#237;&lt;/f0&gt; a otev&#345;ete dialogov&#233; okno Vzorkov&#225;n&#237; (obr&#225;zek &lt;t1&gt;34&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Data &gt; Statistics &gt; Chi-square Test&lt;/f0&gt; on the Menu bar to access the Test of Independence (Chi-Square) dialog (Figure &lt;t1&gt;Chyba: Zdroj odkazu nen&#225;jden&#253;&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V&#253;b&#283;rem &lt;f0&gt;Data &gt; Statistika &gt; Chi-kvadr&#225;t test&lt;/f0&gt; na panelu nab&#237;dek se dostanete do dialogov&#233;ho okna Test nez&#225;vislosti (Chi-kvadr&#225;t) (obr&#225;zek &lt;t1&gt;Chyba: Zdroj odkazu nen&#225;jden&#253;&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Properties&lt;/f0&gt; button to change any required settings of the selected printer.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Kliknut&#237;m na tla&#269;&#237;tko &lt;f0&gt;Vlastnosti&lt;/f0&gt; zm&#283;&#328;te v&#353;echna po&#382;adovan&#225; nastaven&#237; vybran&#233; tisk&#225;rny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;t1&gt;49&lt;/t1&gt;&lt;s2/&gt;shows the moving averages calculated for this input data using the settings shown in Figure &lt;t3&gt;48&lt;/t3&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;t1&gt;49&lt;/t1&gt;&lt;s2/&gt; zobrazuje klouzav&#233; pr&#367;m&#283;ry vypo&#269;ten&#233; pro tato vstupn&#237; data s pou&#382;it&#237;m nastaven&#237; uveden&#253;ch na obr&#225;zku &lt;t3&gt;48&lt;/t3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;32&lt;/seq0&gt;: Solver example setup</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;32&lt;/seq0&gt;: P&#345;&#237;klad nastaven&#237; &#345;e&#353;itele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;34&lt;/seq0&gt;: Sampling dialog</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;34&lt;/seq0&gt;: Dialogov&#233; okno vzorkov&#225;n&#237;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Format &gt; Print Ranges &gt; Edit&lt;/f0&gt; on the Menu bar to open the Edit Print Ranges dialog (Figure &lt;t1&gt;9&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>P&#345;ejd&#283;te na &lt;f0&gt;Form&#225;t &gt; Oblasti tisku &gt; Upravit&lt;/f0&gt; na panelu nab&#237;dek a otev&#345;ete dialogov&#233; okno Upravit Oblasti tisku (obr&#225;zek &lt;t1&gt;9&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Buttons located at the bottom and right of a pivot chart that include a downward pointing arrow provide access to a sorting and filtering dialog similar to the one shown in Figure &lt;t0&gt;36&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Tla&#269;&#237;tka um&#237;st&#283;n&#225; v doln&#237; a prav&#233; &#269;&#225;sti oto&#269;n&#233;ho grafu, kter&#225; obsahuj&#237; &#353;ipku sm&#283;&#345;uj&#237;c&#237; dol&#367;, umo&#382;&#328;uj&#237; p&#345;&#237;stup k dialogov&#233;mu oknu pro t&#345;&#237;d&#283;n&#237; a filtrov&#225;n&#237; podobn&#283; jako na obr&#225;zku &lt;t0&gt;36&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To illustrate how to use this tool, we use the data set shown in Figure &lt;t0&gt;46&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pro ilustraci pou&#382;it&#237; tohoto n&#225;stroje pou&#382;ijeme soubor dat zobrazen&#253; na obr&#225;zku &lt;t0&gt;46&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select SUBTOTAL in the &lt;f0&gt;Function&lt;/f0&gt; list of the Function Wizard dialog and click &lt;f1&gt;Next&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V seznamu &lt;f0&gt;Funkce&lt;/f0&gt; dialogov&#233;ho okna Pr&#367;vodce Funkce vyberte polo&#382;ku SUBTOTAL a klikn&#283;te na tla&#269;&#237;tko &lt;f1&gt;Next&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;: PDF Options dialog &#8211; Digital Signatures tab</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;21&lt;/seq0&gt;: Dialogov&#233; okno Mo&#382;nosti PDF &#8211; karta Digit&#225;ln&#237; podpisy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Data &gt; Statistics &gt; Moving Average&lt;/f0&gt; on the Menu bar to access the Moving Average dialog (Figure &lt;t1&gt;48&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V&#253;b&#283;rem mo&#382;nosti &lt;f0&gt;Data &gt; Statistika &gt; Klouzav&#253; pr&#367;m&#283;r&lt;/f0&gt; na panelu nab&#237;dek otev&#345;ete dialogov&#233; okno Klouzav&#253; pr&#367;m&#283;r (obr&#225;zek &lt;t1&gt;48&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The group settings are identified in Table &lt;t1&gt;2&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Nastaven&#237; skupiny jsou uvedena v tabulce &lt;t1&gt;2&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Regression tool performs linear, logarithmic, or power regression analysis of a data set comprising one dependent variable and multiple independent variables.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>N&#225;stroj Regrese prov&#225;d&#237; line&#225;rn&#237;, logaritmickou nebo mocninnou regresn&#237; anal&#253;zu souboru dat obsahuj&#237;c&#237;ho jednu z&#225;vislou prom&#283;nnou a v&#237;ce nez&#225;visl&#253;ch prom&#283;nn&#253;ch.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Export URLs relative to file system:&lt;/f0&gt; If you have defined relative links in a document, this option exports those links to the PDF.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;f0&gt;Exportovat adresy URL relativn&#283; k souborov&#233;mu syst&#233;mu:&lt;/f0&gt; Pokud jste v dokumentu definovali relativn&#237; odkazy, tato mo&#382;nost je exportuje do souboru PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the &lt;f0&gt;Links&lt;/f0&gt; tab (Figure &lt;t1&gt;18&lt;/t1&gt;) you can select how bookmarks and hyperlinks are exported to PDF.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Na kart&#283; &lt;f0&gt;Odkazy&lt;/f0&gt; (obr&#225;zek &lt;t1&gt;18&lt;/t1&gt;) m&#367;&#382;ete vybrat zp&#367;sob exportu z&#225;lo&#382;ek a hypertextov&#253;ch odkaz&#367; do PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice provides several ways to send a document quickly and easily as an email attachment in OpenDocument format (LibreOffice default format), other spreadsheet formats, or as a PDF file.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>LibreOffice nab&#237;z&#237; n&#283;kolik zp&#367;sob&#367;, jak rychle a snadno odeslat dokument jako p&#345;&#237;lohu e-mailu ve form&#225;tu OpenDocument (v&#253;choz&#237; form&#225;t LibreOffice), v jin&#253;ch form&#225;tech tabulkov&#233;ho procesoru nebo jako soubor PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Repeat printing of rows and columns</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;11&lt;/seq0&gt;: Opakovan&#253; tisk &#345;&#225;dk&#367; a sloupc&#367;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Open Document Format for Office Applications (OpenDocument) Version 1.2 includes the following definition: &#8220;Functions that are &lt;f0&gt;always&lt;/f0&gt; recalculated whenever a recalculation occurs are termed &lt;f1&gt;volatile&lt;/f1&gt; functions.&#8221;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Otev&#345;en&#253; form&#225;t dokument&#367; pro kancel&#225;&#345;sk&#233; aplikace (OpenDocument) verze 1.2 obsahuje n&#225;sleduj&#237;c&#237; definici: &#8222;Funkce, kter&#233; se &lt;f0&gt;v&#382;dy&lt;/f0&gt; p&#345;epo&#269;&#237;t&#225;vaj&#237;, kdykoli dojde k p&#345;epo&#269;tu, se ozna&#269;uj&#237; jako &lt;f1&gt;volatiln&#237;&lt;/f1&gt; funkce.&#8220;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;t1&gt;40&lt;/t1&gt;&lt;s2/&gt;shows the analysis of variance results generated for this data using the settings shown in Figure &lt;t3&gt;39&lt;/t3&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;t1&gt;40&lt;/t1&gt;&lt;s2/&gt; zobrazuje v&#253;sledky anal&#253;zy rozptylu vytvo&#345;en&#233; pro tato data s pou&#382;it&#237;m nastaven&#237; uveden&#253;ch na obr&#225;zku &lt;t3&gt;39&lt;/t3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the &lt;f0&gt;Security&lt;/f0&gt; tab (Figure &lt;t1&gt;19&lt;/t1&gt;) to encrypt and set passwords when you export your spreadsheet and create the PDF file.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>P&#345;i exportu tabulky a vytv&#225;&#345;en&#237; souboru PDF pou&#382;ijte kartu &lt;f0&gt;Zabezpe&#269;en&#237;&lt;/f0&gt; (obr&#225;zek &lt;t1&gt;19&lt;/t1&gt;) k &#353;ifrov&#225;n&#237; a nastaven&#237; hesel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On successful completion, Calc presents a Solving Result dialog (Figure &lt;t0&gt;30&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Po &#250;sp&#283;&#353;n&#233;m dokon&#269;en&#237; Calc zobraz&#237; dialogov&#233; okno V&#253;sledek &#345;e&#353;en&#237; (obr&#225;zek &lt;t0&gt;30&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;55&lt;/seq0&gt;: Results from Paired t-test tool</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;55&lt;/seq0&gt;: V&#253;sledky p&#225;rov&#233;ho t-testu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: PDF Options dialog &#8211; User Interface tab</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;17&lt;/seq0&gt;: Dialogov&#233; okno Mo&#382;nosti PDF &#8211; karta U&#382;ivatelsk&#233; rozhran&#237;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this instance, the values that are aggregated within Golf can be subdivided using another field.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V tomto p&#345;&#237;pad&#283; lze hodnoty, kter&#233; jsou agregov&#225;ny v r&#225;mci pole Golf, rozd&#283;lit pomoc&#237; jin&#233;ho pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To illustrate how to use this tool, we again use the data set from Figure &lt;t0&gt;54&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pro ilustraci pou&#382;it&#237; tohoto n&#225;stroje pou&#382;ijeme op&#283;t soubor dat z obr&#225;zku &lt;t0&gt;54&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0&gt;6&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Chapter 6 Printing, Exporting, Emailing, and Signing&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;t0&gt;6&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Kapitola 6 Tisk, export, odes&#237;l&#225;n&#237; e-mailem a podepisov&#225;n&#237;&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0&gt;6&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Chapter 8 Using Pivot Tables&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;t0&gt;6&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Kapitola 8 Pou&#382;it&#237; oto&#269;n&#253;ch tabulek&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can select several non-contiguous cells by pressing and holding the &lt;f0&gt;Ctrl&lt;/f0&gt; key while clicking with the mouse.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Stisknut&#237;m a podr&#382;en&#237;m kl&#225;vesy &lt;f0&gt;Ctrl&lt;/f0&gt; a sou&#269;asn&#253;m kliknut&#237;m my&#353;&#237; m&#367;&#382;ete vybrat n&#283;kolik nesoused&#237;c&#237;ch bun&#283;k.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Printing, Exporting, Emailing, and Signing</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Tisk, export, odes&#237;l&#225;n&#237; e-mailem a podepisov&#225;n&#237;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These values will be used for one of the variables of the formula that you defined in step &lt;bf0&gt;1)&lt;/bf0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Tyto hodnoty budou pou&#382;ity pro jednu z prom&#283;nn&#253;ch vzorce, kter&#253; jste definovali v kroku &lt;bf0&gt;1)&lt;/bf0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Pivot Table Layout dialog (Figure &lt;t0&gt;2&lt;/t0&gt;) there are four areas that show the layout of the resulting pivot table:</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V dialogov&#233;m okn&#283; Rozlo&#382;en&#237; oto&#269;n&#233; tabulky (obr&#225;zek &lt;t0&gt;2&lt;/t0&gt;) jsou &#269;ty&#345;i oblasti, kter&#233; zobrazuj&#237; rozlo&#382;en&#237; v&#253;sledn&#233; oto&#269;n&#233; tabulky:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This dialog includes buttons to save (&lt;f1&gt;Keep Result&lt;/f1&gt;) or discard (&lt;f2&gt;Restore Previous&lt;/f2&gt;) your results.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Tento dialog obsahuje tla&#269;&#237;tka pro ulo&#382;en&#237; (&lt;f1&gt;Pou&#382;&#237;t v&#253;sledek&lt;/f1&gt;) nebo vy&#345;azen&#237; (&lt;f2&gt;Obnovit p&#345;edchoz&#237;&lt;/f2&gt;) v&#253;sledk&#367;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;t0&gt;55&lt;/t0&gt;&lt;s1/&gt;shows the paired t-test results calculated for this input data using the settings shown in Figure &lt;t2&gt;53&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;t0&gt;55&lt;/t0&gt;&lt;s1/&gt; zobrazuje v&#253;sledky p&#225;rov&#233;ho t-testu vypo&#269;ten&#233; pro tato vstupn&#237; data s pou&#382;it&#237;m nastaven&#237; uveden&#253;ch na obr&#225;zku &lt;t2&gt;53&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chi Square Test</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Ch&#237; kvadr&#225;t test</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;51&lt;/seq0&gt;: Input data set for regression analysis</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;51&lt;/seq0&gt;: Vstupn&#237; soubor dat pro regresn&#237; anal&#253;zu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To view the page breaks, go to &lt;f0&gt;View &gt; Page Break&lt;/f0&gt; on the Menu bar to open the preview (Figure &lt;t1&gt;7&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Chcete-li zobrazit zlomy str&#225;nek, p&#345;ejd&#283;te na &lt;f0&gt;Pohled &gt; Zalomen&#237; str&#225;nky&lt;/f0&gt; na panelu nab&#237;dek a otev&#345;ete n&#225;hled (obr&#225;zek &lt;t1&gt;7&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Data &gt; Statistics &gt; Correlation&lt;/f0&gt; on the Menu bar to access the Correlation dialog (Figure &lt;t1&gt;41&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V&#253;b&#283;rem mo&#382;nosti &lt;f0&gt;Data &gt; Statistika &gt; Korelace&lt;/f0&gt; na panelu nab&#237;dek otev&#345;ete dialogov&#233; okno Korelace (obr&#225;zek &lt;t1&gt;41&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f4&gt;Using field&lt;/f4&gt; drop-down list selects the data field by which to sort the data.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V rozev&#237;rac&#237;m seznamu &lt;f4&gt;Pou&#382;it&#237; pole&lt;/f4&gt; se vybere datov&#233; pole, podle kter&#233;ho se data se&#345;ad&#237;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The dragged cell is inserted before the cell on which you drop it.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>P&#345;eta&#382;en&#225; bu&#328;ka se vlo&#382;&#237; p&#345;ed bu&#328;ku, na kterou jste ji upustili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Format &gt; Print Ranges &gt; Edit&lt;/f0&gt; to open the Edit Print Ranges dialog (Figure &lt;t1&gt;11&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>P&#345;ejd&#283;te na &lt;f0&gt;Form&#225;t &gt; Oblasti tisku &gt; Upravit&lt;/f0&gt; a otev&#345;ete dialogov&#233; okno Upravit Oblasti tisku (obr&#225;zek &lt;t1&gt;11&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Page Style dialog &#8211; Header tab</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;13&lt;/seq0&gt;: Dialogov&#233; okno Styl str&#225;nky &#8211; karta Z&#225;hlav&#237;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the cell where you want to insert a manual break, right-click in the spreadsheet and select &lt;f1&gt;Row Break&lt;/f1&gt; or &lt;f2&gt;Column Break&lt;/f2&gt; in the context menu.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Vyberte bu&#328;ku, do kter&#233; chcete vlo&#382;it ru&#269;n&#237; zlom, klikn&#283;te prav&#253;m tla&#269;&#237;tkem my&#353;i do tabulky a v kontextov&#233; nab&#237;dce vyberte &lt;f1&gt;Zalomen&#237; &#345;&#225;dku&lt;/f1&gt; nebo &lt;f2&gt;Zalomen&#237; sloupce&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>wiki pages</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>str&#225;nky wiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;62&lt;/seq0&gt;: Fourier Analysis dialog</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;62&lt;/seq0&gt;: Dialog Fourierovy anal&#253;zy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;40&lt;/seq0&gt;: Results from Analysis of Variance (ANOVA) tool</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;40&lt;/seq0&gt;: V&#253;sledky n&#225;stroje anal&#253;zy rozptylu (ANOVA)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chi-Square Test tool (Test of Independence)</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>N&#225;stroj Chi-kvadr&#225;t test (test nez&#225;vislosti)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To illustrate how to use this tool, we use the input data set from Figure &lt;t0&gt;37&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pro ilustraci pou&#382;it&#237; tohoto n&#225;stroje pou&#382;ijeme sadu vstupn&#237;ch dat z obr&#225;zku &lt;t0&gt;37&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Format &gt; Page Style&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Na panelu nab&#237;dek vyberte &lt;f0&gt;Form&#225;t &gt; Styl str&#225;nky&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An array formula can also be entered directly into a cell.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Vzorec pole lze tak&#233; zadat p&#345;&#237;mo do bu&#328;ky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To provide an example of using this tool, we make use of the input data set shown in columns B (real values) and C (imaginary values) of the spreadsheet shown in Figure &lt;t0&gt;63&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Jako p&#345;&#237;klad pou&#382;it&#237; tohoto n&#225;stroje pou&#382;ijeme sadu vstupn&#237;ch dat uvedenou ve sloupc&#237;ch B (re&#225;ln&#233; hodnoty) a C (imagin&#225;rn&#237; hodnoty) tabulky na obr&#225;zku &lt;t0&gt;63&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;53&lt;/seq0&gt;: Paired t-test dialog</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;53&lt;/seq0&gt;: Dialog p&#225;rov&#233;ho t-testu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;54&lt;/seq0&gt;: Input data for paired t-test example</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;54&lt;/seq0&gt;: Vstupn&#237; data pro p&#345;&#237;klad p&#225;rov&#233;ho t-testu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens the Styles deck in the Sidebar</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Otev&#345;e bal&#237;&#269;ek Styly na postrann&#237;m panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, if the result is a fraction or percentage, the pivot table does not recognize that this might be a problem; such results must either be without a unit or be displayed as a percentage.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pokud je v&#353;ak v&#253;sledkem zlomek nebo procento, oto&#269;n&#225; tabulka nerozpozn&#225;, &#382;e by to mohl b&#253;t probl&#233;m; takov&#233; v&#253;sledky mus&#237; b&#253;t bu&#271; bez jednotky, nebo se mus&#237; zobrazit jako procento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on the &lt;f0&gt;Formulas&lt;/f0&gt; field and type a cell reference to the formula you defined in step &lt;bf1&gt;1)&lt;/bf1&gt;&lt;s2/&gt;or select the cell with the mouse.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Klikn&#283;te na pole &lt;f0&gt;Vzorce&lt;/f0&gt; a zadejte odkaz na bu&#328;ku se vzorcem definovan&#253;m v kroku &lt;bf1&gt;1)&lt;/bf1&gt;&lt;s2/&gt;nebo vyberte bu&#328;ku my&#353;&#237;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 6 Printing, Exporting, Emailing, and Signing</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Kapitola 6 Tisk, export, odes&#237;l&#225;n&#237; e-mailem a podepisov&#225;n&#237;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once filtering has been carried out, the color of the arrow changes to white on a blue background, and a small white square is added to the bottom right of the arrow button (Figure &lt;t1&gt;37&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Po proveden&#237; filtrov&#225;n&#237; se barva &#353;ipky zm&#283;n&#237; na b&#237;lou na modr&#233;m pozad&#237; a do prav&#233;ho doln&#237;ho rohu tla&#269;&#237;tka &#353;ipky se p&#345;id&#225; mal&#253; b&#237;l&#253; &#269;tvere&#269;ek (obr&#225;zek &lt;t1&gt;37&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usually a 2 x N or N x 2 range representing an array of complex numbers to be transformed, where N is the length of the array.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obvykle rozsah 2 x N nebo N x 2 p&#345;edstavuj&#237;c&#237; pole komplexn&#237;ch &#269;&#237;sel, kter&#225; se maj&#237; transformovat, kde N je d&#233;lka pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contrast this with example &lt;bf2&gt;3)&lt;/bf2&gt;) &lt;bf3&gt;above&lt;/bf3&gt;&lt;s4/&gt;&#8211; the regular expression in the current example allows for 0 or more characters both before the &#8220;r&#8221; and after the &#8220;d&#8221;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Srovnejte to s p&#345;&#237;kladem &lt;bf2&gt;3)&lt;/bf2&gt;) &lt;bf3&gt;nad&lt;/bf3&gt;&lt;s4/&gt;&#8211; regul&#225;rn&#237; v&#253;raz v tomto p&#345;&#237;kladu umo&#382;&#328;uje 0 nebo v&#237;ce znak&#367; p&#345;ed &#8222;r&#8220; i za &#8222;d&#8220;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, if you make any change in the design of the pivot table using direct formatting, the formatting will return to that applied automatically by Calc when the table is next refreshed.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pokud v&#353;ak provedete jakoukoli zm&#283;nu v n&#225;vrhu oto&#269;n&#233; tabulky pomoc&#237; p&#345;&#237;m&#233;ho form&#225;tov&#225;n&#237;, vr&#225;t&#237; se form&#225;tov&#225;n&#237; automaticky pou&#382;it&#233; programem Calc p&#345;i p&#345;&#237;&#353;t&#237;m obnoven&#237; tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In summary, the RAND function will generate a new value when any cell is updated by selecting &lt;f2&gt;Data &gt; Calculate &gt; Recalculate&lt;/f2&gt; or pressing &lt;f3&gt;F9&lt;/f3&gt;, or on any input event.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Stru&#269;n&#283; &#345;e&#269;eno, funkce RAND vygeneruje novou hodnotu p&#345;i aktualizaci libovoln&#233; bu&#328;ky v&#253;b&#283;rem &lt;f2&gt;Data &gt; Vypo&#269;&#237;tat &gt; P&#345;epo&#269;&#237;tat&lt;/f2&gt; nebo stisknut&#237;m &lt;f3&gt;F9&lt;/f3&gt;, p&#345;&#237;padn&#283; p&#345;i jak&#233;koli vstupn&#237; ud&#225;losti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the named print range you want to delete and confirm it is a print range by checking the options from the &lt;f0&gt;Range Options&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Vyberte pojmenovan&#253; rozsah tisku, kter&#253; chcete odstranit, a potvr&#271;te, &#382;e se jedn&#225; o rozsah tisku, za&#353;krtnut&#237;m mo&#382;nost&#237; z &lt;f0&gt;Mo&#382;nosti oblasti&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>=GETPIVOTDATA(Target Field; Pivot Table[; Field 1; Item 1][; ... [Field 126; Item 126]])</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>=GETPIVOTDATA(C&#237;lov&#233; pole; Pivot Table[; Pole 1; Polo&#382;ka 1][; ... [Pole 126; Polo&#382;ka 126]])</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Another alternative is to double-click the name of the page style on the Status Bar.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dal&#353;&#237; mo&#382;nost&#237; je dvakr&#225;t kliknout na n&#225;zev stylu str&#225;nky na stavov&#233;m &#345;&#225;dku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An AutoFilter or Standard Filter used on the sheet containing the raw data has no effect on the pivot table analysis process.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Automatick&#253; filtr nebo standardn&#237; filtr pou&#382;it&#253; na listu obsahuj&#237;c&#237;m nezpracovan&#225; data nem&#225; na proces anal&#253;zy oto&#269;n&#233; tabulky &#382;&#225;dn&#253; vliv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The dialog title indicates the name of the page style you are about to change.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>N&#225;zev dialogov&#233;ho okna ozna&#269;uje n&#225;zev stylu str&#225;nky, kter&#253; se chyst&#225;te zm&#283;nit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: PDF Options dialog &#8211; General tab</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;15&lt;/seq0&gt;: Dialogov&#233; okno Mo&#382;nosti PDF &#8211; karta Obecn&#233;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Export outlines as named destinations:&lt;/f0&gt; If you have defined Calc sheet names, this option exports them as &#8220;named destinations&#8221; to which Web pages and PDF documents can link.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;f0&gt;Exportovat osnovy jako pojmenovan&#233; c&#237;le:&lt;/f0&gt; Pokud jste definovali n&#225;zvy Calc arch&#367;, tato mo&#382;nost je exportuje jako &#8222;pojmenovan&#233; c&#237;le&#8220;, na kter&#233; lze odkazovat webov&#233; str&#225;nky a dokumenty PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;23&lt;/seq0&gt;: Select X.509 Certificate dialog</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;23&lt;/seq0&gt;: Dialogov&#233; okno V&#253;b&#283;r certifik&#225;tu X.509</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As a result, the Multiple Operations tool is well-suited to generating data that is easy to read and share or visualize using graphs.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>N&#225;stroj V&#237;cen&#225;sobn&#233; operace je proto vhodn&#253; pro generov&#225;n&#237; dat, kter&#225; lze snadno &#269;&#237;st a sd&#237;let nebo vizualizovat pomoc&#237; graf&#367;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>=GETPIVOTDATA(Pivot Table; Constraints)</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>=GETPIVOTDATA(Pivot Table; Constraints)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition to printing a full spreadsheet document, you can choose single sheets, multiple sheets, and selections of cells for printing.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Krom&#283; tisku cel&#233;ho dokumentu tabulky m&#367;&#382;ete pro tisk vybrat jednotliv&#233; listy, v&#237;ce list&#367; a vybran&#233; bu&#328;ky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A number of extensions for Calc have been written; these can be found on the extensions site at &lt;a0&gt;https://extensions.libreoffice.org/&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pro Calc byla naps&#225;na &#345;ada roz&#353;&#237;&#345;en&#237;; najdete je na str&#225;nce s roz&#353;&#237;&#345;en&#237;mi na adrese &lt;a0&gt;https://extensions.libreoffice.org/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>=IF(AVERAGE(A1:A3)&gt;85, &#8220;Congratulations!</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>=IF(AVERAGE(A1:A3)&gt;85, &#8222;Gratulujeme!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Data &gt; Statistics &gt; Descriptive Statistics&lt;/f0&gt; on the Menu bar to access the Descriptive Statistics dialog (Figure &lt;t1&gt;36&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V&#253;b&#283;rem mo&#382;nosti &lt;f0&gt;Data &gt; Statistika &gt; Popisn&#225; statistika&lt;/f0&gt; na panelu nab&#237;dek otev&#345;ete dialogov&#233; okno Popisn&#225; statistika (obr&#225;zek &lt;t1&gt;36&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Subtotals tool</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>N&#225;stroj D&#237;l&#269;&#237; sou&#269;ty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Scaling mode&lt;/f0&gt; &#8211; select a scaling mode in the drop-down list.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;f0&gt;Re&#382;im &#353;k&#225;lov&#225;n&#237;&lt;/f0&gt; &#8211; v rozev&#237;rac&#237;m seznamu vyberte re&#382;im &#353;k&#225;lov&#225;n&#237;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Choosing a named range for printing</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;9&lt;/seq0&gt;: V&#253;b&#283;r pojmenovan&#233;ho rozsahu pro tisk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the &lt;f0&gt;User Interface&lt;/f0&gt; tab (Figure &lt;t1&gt;17&lt;/t1&gt;), you can select options to control how a PDF viewer displays the file.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Na kart&#283; &lt;f0&gt;U&#382;ivatelsk&#233; rozhran&#237;&lt;/f0&gt; (obr&#225;zek &lt;t1&gt;17&lt;/t1&gt;) m&#367;&#382;ete vybrat mo&#382;nosti, kter&#253;mi m&#367;&#382;ete ovlivnit zp&#367;sob zobrazen&#237; souboru v prohl&#237;&#382;e&#269;i PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Example: =&lt;f0&gt;GETPIVOTDATA("Sales Value",A1)&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>P&#345;&#237;klad: =&lt;f0&gt;GETPIVOTDATA("Sales Value",A1)&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The cell that you selected in step &lt;bf3&gt;1)&lt;/bf3&gt;&lt;s4/&gt;should now reflect the sum of all of Brigitte&#8217;s sales (Figure &lt;t5&gt;8&lt;/t5&gt;).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Bu&#328;ka, kterou jste vybrali v kroku &lt;bf3&gt;1)&lt;/bf3&gt;&lt;s4/&gt;, by nyn&#237; m&#283;la odr&#225;&#382;et sou&#269;et v&#353;ech Brigitin&#253;ch tr&#382;eb (obr&#225;zek &lt;t5&gt;8&lt;/t5&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Within the results of the pivot table, drag one of the filters, column, or row fields to a different position.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Ve v&#253;sledc&#237;ch oto&#269;n&#233; tabulky p&#345;et&#225;hn&#283;te jeden z filtr&#367;, sloupc&#367; nebo &#345;&#225;dk&#367; na jinou pozici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Print Preview toolbar</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;4&lt;/seq0&gt;: Panel n&#225;stroj&#367; N&#225;hled tisku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Logarithmic regression finds a logarithmic curve in the form of y = b + a1.ln[x1] + a2.ln[x2] + a3.ln[x3] ..., where ai is the i-th coefficient, b is the intercept and ln[xi] is the natural logarithm of the i-th independent variable, that best fits the data.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Logaritmick&#225; regrese najde logaritmickou k&#345;ivku ve tvaru y = b + a1.ln[x1] + a2.ln[x2] + a3.ln[x3] ..., kde ai je i-t&#253; koeficient, b je intercept a ln[xi] je p&#345;irozen&#253; logaritmus i-t&#233; nez&#225;visl&#233; prom&#283;nn&#233;, kter&#225; nejl&#233;pe odpov&#237;d&#225; dat&#367;m.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the field &lt;f2&gt;Group by&lt;/f2&gt;, you can enter the class size, also known as the interval size.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Do pole &lt;f2&gt;Seskupit podle&lt;/f2&gt; m&#367;&#382;ete zadat velikost t&#345;&#237;dy, zn&#225;mou tak&#233; jako velikost intervalu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: PDF Options dialog &#8211; Initial View tab</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;16&lt;/seq0&gt;: Dialogov&#233; okno Mo&#382;nosti PDF &#8211; karta Po&#269;&#225;te&#269;n&#237; zobrazen&#237;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There may be several sheets in each document and they may be numbered from the left: Sheet1, Sheet2, and so forth.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V ka&#382;d&#233;m dokumentu m&#367;&#382;e b&#253;t n&#283;kolik list&#367; a mohou b&#253;t &#269;&#237;slov&#225;ny zleva: List1, list2 atd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the key store password has already been entered in the Select X.509 Certificate dialog, the key store may already be unlocked and not require the password again.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pokud ji&#382; bylo heslo do &#250;lo&#382;i&#353;t&#283; kl&#237;&#269;&#367; zad&#225;no v dialogov&#233;m okn&#283; Vybrat certifik&#225;t X.509, m&#367;&#382;e b&#253;t &#250;lo&#382;i&#353;t&#283; kl&#237;&#269;&#367; ji&#382; odem&#269;eno a nebude vy&#382;adovat op&#283;tovn&#233; zad&#225;n&#237; hesla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With the standard LibreOffice download, and an enabled Java runtime environment, the &lt;f0&gt;Solver engine&lt;/f0&gt; drop-down list provides five options:</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>P&#345;i standardn&#237;m sta&#382;en&#237; LibreOffice a zapnut&#233;m b&#283;hov&#233;m prost&#345;ed&#237; Java nab&#237;z&#237; rozev&#237;rac&#237; seznam &lt;f0&gt;J&#225;dro &#345;e&#353;itele&lt;/f0&gt; p&#283;t mo&#382;nost&#237;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;35&lt;/seq0&gt;: Example data for the Sampling tool</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;35&lt;/seq0&gt;: P&#345;&#237;klad dat pro n&#225;stroj Vzorkov&#225;n&#237;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0&gt;6&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Chapter 7 Using Formulas and Functions&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;t0&gt;6&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Kapitola 7 Pou&#382;it&#237; vzorc&#367; a funkc&#237;&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, if the data is in plain text format, the Text Import dialog appears after you select the file containing the data; see Chapter 1, Introduction, for more information about this dialog.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pokud jsou v&#353;ak data ve form&#225;tu prost&#233;ho textu, zobraz&#237; se po v&#253;b&#283;ru souboru obsahuj&#237;c&#237;ho data dialogov&#233; okno Import textu; dal&#353;&#237; informace o tomto dialogu naleznete v kapitole 1, &#218;vod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;t0&gt;38&lt;/t0&gt;&lt;s1/&gt;shows the statistics report generated for this input data using the settings shown in Figure &lt;t2&gt;36&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;t0&gt;38&lt;/t0&gt;&lt;s1/&gt; zobrazuje statistickou zpr&#225;vu vygenerovanou pro tato vstupn&#237; data s pou&#382;it&#237;m nastaven&#237; uveden&#253;ch na obr&#225;zku &lt;t2&gt;36&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you have saved the file, the Digital Signatures dialog opens (Figure &lt;t1&gt;22&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Po ulo&#382;en&#237; souboru se otev&#345;e dialogov&#233; okno Digit&#225;ln&#237; podpisy (obr&#225;zek &lt;t1&gt;22&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Besides these four areas is another area labeled &lt;f0&gt;Available Fields&lt;/f0&gt; containing the names of the fields in the source data list.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Vedle t&#283;chto &#269;ty&#345; oblast&#237; je dal&#353;&#237; oblast ozna&#269;en&#225; &lt;f0&gt;Dostupn&#225; pole&lt;/f0&gt;, kter&#225; obsahuje n&#225;zvy pol&#237; v seznamu zdrojov&#253;ch dat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To remove named print ranges, see &#8220;&lt;bf0&gt;Deleting a named print range&lt;/bf0&gt;&#8221; &lt;bf1&gt;above&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Odstran&#283;n&#237; pojmenovan&#253;ch rozsah&#367; tisku viz &#8222;&lt;bf0&gt;Odstran&#283;n&#237; pojmenovan&#233;ho rozsahu tisku&lt;/bf0&gt;&#8220;. &lt;bf1&gt;v&#253;&#353;e&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;t3&gt;59&lt;/t3&gt;&lt;s4/&gt;shows the Z-test results calculated for this input data using the settings shown in Figure &lt;t5&gt;58&lt;/t5&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;t3&gt;59&lt;/t3&gt;&lt;s4/&gt; zobrazuje v&#253;sledky Z-testu vypo&#269;ten&#233; pro tato vstupn&#237; data s pou&#382;it&#237;m nastaven&#237; uveden&#253;ch na obr&#225;zku &lt;t5&gt;58&lt;/t5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The pivot table remembers your selection (in our example the field &lt;f0&gt;Employee&lt;/f0&gt;) by adding and hiding the selected field so that for the next drill-down for a field in the &lt;f1&gt;Category&lt;/f1&gt; column the dialog does not appear.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Oto&#269;n&#225; tabulka si zapamatuje v&#225;&#353; v&#253;b&#283;r (v na&#353;em p&#345;&#237;kladu pole &lt;f0&gt;Zam&#283;stnanec&lt;/f0&gt;) p&#345;id&#225;n&#237;m a skryt&#237;m vybran&#233;ho pole, tak&#382;e p&#345;i dal&#353;&#237;m vyvrt&#225;n&#237; pole ve sloupci &lt;f1&gt;Kategorie&lt;/f1&gt; se dialogov&#233; okno nezobraz&#237;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Data &gt; Statistics &gt; Fourier Analysis&lt;/f0&gt; on the Menu bar to access the Fourier Analysis dialog (Figure &lt;t1&gt;62&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V&#253;b&#283;rem mo&#382;nosti &lt;f0&gt;Data &gt; Statistika &gt; Fourierova anal&#253;za&lt;/f0&gt; na panelu nab&#237;dek otev&#345;ete dialogov&#233; okno Fourierova anal&#253;za (obr&#225;zek &lt;t1&gt;62&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Under&lt;f0&gt; Data &gt; Statistics&lt;/f0&gt; on the Menu bar, Calc features several tools for quick and easy statistical analysis of your data.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V &#269;&#225;sti&lt;f0&gt; Data &gt; Statistika&lt;/f0&gt; na panelu nab&#237;dek nab&#237;z&#237; Calc n&#283;kolik n&#225;stroj&#367; pro rychlou a snadnou statistickou anal&#253;zu dat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With these options, you can decide if the pivot table shows an extra row with the sums of each column, or if it adds on the very right a column with the sums of each row.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pomoc&#237; t&#283;chto mo&#382;nost&#237; m&#367;&#382;ete rozhodnout, zda se v oto&#269;n&#233; tabulce zobraz&#237; dal&#353;&#237; &#345;&#225;dek se sou&#269;ty jednotliv&#253;ch sloupc&#367;, nebo zda se zcela vpravo p&#345;id&#225; sloupec se sou&#269;ty jednotliv&#253;ch &#345;&#225;dk&#367;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, set up a spreadsheet to calculate columns of figures, and use the function SUM to calculate the individual column totals.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Nastavte nap&#345;&#237;klad tabulku pro v&#253;po&#269;et sloupc&#367; &#269;&#237;sel a pou&#382;ijte funkci SUMA pro v&#253;po&#269;et sou&#269;t&#367; jednotliv&#253;ch sloupc&#367;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the defined and named print range in the &lt;f0&gt;Print Range &lt;/f0&gt;drop-down list.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V rozev&#237;rac&#237;m seznamu &lt;f0&gt;Rozsah tisku &lt;/f0&gt; vyberte definovan&#253; a pojmenovan&#253; rozsah tisku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>RANDBETWEEN</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>RANDBETWEEN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Selection/Selected sheet(s)&lt;/f0&gt;: Exports the selected material (one or more sheets or part of a sheet).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;f0&gt;V&#253;b&#283;r / vybran&#233; listy&lt;/f0&gt;: Exportuje vybran&#253; materi&#225;l (jeden nebo v&#237;ce arch&#367; nebo &#269;&#225;st archu).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;28&lt;/seq0&gt;: Tools &gt; Options &gt; LibreOffice Calc &gt; Calculate dialog</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;28&lt;/seq0&gt;: N&#225;stroje &gt; Mo&#382;nosti &gt; LibreOffice Calc &gt; Dialogov&#233; okno V&#253;po&#269;et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;29&lt;/seq0&gt;: Solver Status dialog</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;29&lt;/seq0&gt;: Dialogov&#233; okno Stav &#345;e&#353;itele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This dialog provides diagnostic information about the current status of the engine&#8217;s calculations, which may be of interest to an expert user of the Solver.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Toto dialogov&#233; okno poskytuje diagnostick&#233; informace o aktu&#225;ln&#237;m stavu v&#253;po&#269;t&#367; motoru, kter&#233; mohou zaj&#237;mat odborn&#233;ho u&#382;ivatele &#345;e&#353;itele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Edit&lt;/f0&gt; to open the Header or Footer dialog (Figure &lt;t1&gt;14&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Kliknut&#237;m na tla&#269;&#237;tko &lt;f0&gt;Upravit&lt;/f0&gt; otev&#345;ete dialogov&#233; okno Z&#225;hlav&#237; nebo z&#225;pat&#237; (obr&#225;zek &lt;t1&gt;14&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information, see &#8220;&lt;bf3&gt;Drilling (showing details)&lt;/bf3&gt;&#8221; on page &lt;bf4&gt;26&lt;/bf4&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dal&#353;&#237; informace naleznete v &#269;&#225;sti &#8222;&lt;bf3&gt;Vrt&#225;n&#237; (zobrazen&#237; detail&#367;)&lt;/bf3&gt;&#8220; na stran&#283; &lt;bf4&gt;26&lt;/bf4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;t0&gt;52&lt;/t0&gt;&lt;s1/&gt;shows the regression outputs calculated for this input data using the settings shown in Figure &lt;t2&gt;50&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Na obr&#225;zku &lt;t0&gt;52&lt;/t0&gt;&lt;s1/&gt; jsou zobrazeny regresn&#237; v&#253;stupy vypo&#269;ten&#233; pro tato vstupn&#237; data s pou&#382;it&#237;m nastaven&#237; uveden&#253;ch na obr&#225;zku &lt;t2&gt;50&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this case, drill-down results in a listing of all data entries of the data source that aggregate to this value.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V tomto p&#345;&#237;pad&#283; je v&#253;sledkem drill-down v&#253;pis v&#353;ech datov&#253;ch polo&#382;ek zdroje dat, kter&#233; se agreguj&#237; do t&#233;to hodnoty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&#8205;Rachel Kartch</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Rachel Kartch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the resulting table, it is possible to insert different values for Alpha.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Do v&#253;sledn&#233; tabulky je mo&#382;n&#233; vlo&#382;it r&#367;zn&#233; hodnoty pro symbol Alfa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To illustrate how to use this tool, we again use the data set from Figure &lt;t0&gt;46&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pro ilustraci pou&#382;it&#237; tohoto n&#225;stroje pou&#382;ijeme op&#283;t soubor dat z obr&#225;zku &lt;t0&gt;46&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A preview of the page order is shown in the graphic on the top right of the dialog in Figure &lt;t1&gt;12&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>N&#225;hled po&#345;ad&#237; str&#225;nek je zobrazen v grafice v prav&#233;m horn&#237;m rohu dialogov&#233;ho okna na obr&#225;zku &lt;t1&gt;12&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Settings&lt;/f0&gt; section of the Create Scenario dialog contains the following options:</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&#268;&#225;st &lt;f0&gt;Nastaven&#237;&lt;/f0&gt; dialogov&#233;ho okna Vytvo&#345;it sc&#233;n&#225;&#345; obsahuje n&#225;sleduj&#237;c&#237; mo&#382;nosti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use the intersection operator to refer to a cell in a cross tabulation in an understandable way.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Oper&#225;tor pr&#367;se&#269;&#237;ku m&#367;&#382;ete pou&#382;&#237;t k tomu, abyste se srozumiteln&#283; odvolali na bu&#328;ku v k&#345;&#237;&#382;ov&#233; tabulce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Set Passwords&lt;/f0&gt; button to open the Set Passwords dialog (Figure &lt;t1&gt;20&lt;/t1&gt;), where you enter the passwords.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Kliknut&#237;m na tla&#269;&#237;tko &lt;f0&gt;Nastavit hesla&lt;/f0&gt; otev&#345;ete dialogov&#233; okno Nastavit hesla (obr&#225;zek &lt;t1&gt;20&lt;/t1&gt;), kde zad&#225;te hesla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &lt;f1&gt;Relative hyperlinks&lt;/f1&gt; in the Calc Help for more information.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dal&#353;&#237; informace naleznete v &#269;&#225;sti &lt;f1&gt;Relativn&#237; hypertextov&#233; odkazy&lt;/f1&gt; v n&#225;pov&#283;d&#283; k aplikaci Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From each result, its reference value is subtracted, and the difference is divided by the reference value (for example, sales of the other employees as a relative difference from the sales of Brigitte; see Figure &lt;t0&gt;12&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Od ka&#382;d&#233;ho v&#253;sledku se ode&#269;te jeho referen&#269;n&#237; hodnota a rozd&#237;l se vyd&#283;l&#237; referen&#269;n&#237; hodnotou (nap&#345;&#237;klad tr&#382;by ostatn&#237;ch zam&#283;stnanc&#367; jako relativn&#237; rozd&#237;l od tr&#382;eb Brigity; viz obr&#225;zek &lt;t0&gt;12&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f3&gt;From&lt;/f3&gt; drop-down list selects the top or bottom items in the specified sort order.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Rozbalovac&#237; seznam &lt;f3&gt;Od&lt;/f3&gt; vybere horn&#237; nebo doln&#237; polo&#382;ky v zadan&#233;m po&#345;ad&#237;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It might be a good idea to always use the upper left corner cell of your pivot table so that you can be sure that the cell will always be within your pivot table, even if the layout changes.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Mo&#382;n&#225; by bylo dobr&#233; v&#382;dy pou&#382;&#237;vat bu&#328;ku v lev&#233;m horn&#237;m rohu oto&#269;n&#233; tabulky, abyste si mohli b&#253;t jisti, &#382;e bu&#328;ka bude v&#382;dy v oto&#269;n&#233; tabulce, i kdy&#382; se rozlo&#382;en&#237; zm&#283;n&#237;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Data &gt; Statistics &gt; Regression&lt;/f0&gt; on the Menu bar to access the Regression dialog (Figure &lt;t1&gt;50&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V&#253;b&#283;rem mo&#382;nosti &lt;f0&gt;Data &gt; Statistika &gt; Regrese&lt;/f0&gt; na panelu nab&#237;dek otev&#345;ete dialogov&#233; okno Regrese (obr&#225;zek &lt;t1&gt;50&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Data &gt; Statistics &gt; Analysis of Variance (ANOVA)&lt;/f0&gt; on the Menu bar to access the Analysis of Variance (ANOVA) dialog (Figure &lt;t1&gt;39&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V&#253;b&#283;rem mo&#382;nosti &lt;f0&gt;Data &gt; Statistika &gt; Anal&#253;za rozptylu (ANOVA)&lt;/f0&gt; na panelu nab&#237;dek otev&#345;ete dialogov&#233; okno Anal&#253;za rozptylu (ANOVA) (obr&#225;zek &lt;t1&gt;39&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Filter dialog (Figure &lt;t0&gt;43&lt;/t0&gt;), you can define up to three filter options that are used in the same way as Calc&#8217;s Standard Filter.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V dialogov&#233;m okn&#283; Filtr (obr&#225;zek &lt;t0&gt;43&lt;/t0&gt;) m&#367;&#382;ete definovat a&#382; t&#345;i mo&#382;nosti filtru, kter&#233; se pou&#382;&#237;vaj&#237; stejn&#253;m zp&#367;sobem jako standardn&#237; filtr Calcu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;57&lt;/seq0&gt;: Results from F-test tool</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;57&lt;/seq0&gt;: V&#253;sledky n&#225;stroje F-test</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To use the Detective, select a cell with a formula, then select the required option in the &lt;f0&gt;Tools &gt; Detective&lt;/f0&gt; menu.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Chcete-li pou&#382;&#237;t Detektiv, vyberte bu&#328;ku se vzorcem a pot&#233; vyberte po&#382;adovanou mo&#382;nost v nab&#237;dce &lt;f0&gt;N&#225;stroje &gt; Detektiv&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The new sheet is named using the format &lt;f1&gt;Pivot Table_sheetname_X&lt;/f1&gt;; where X is the number of the table created, 1 for first, 2 for the second, and so on.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Nov&#253; list je pojmenov&#225;n ve form&#225;tu &lt;f1&gt;N&#225;zev_listu_X&lt;/f1&gt;; kde X je &#269;&#237;slo vytvo&#345;en&#233; tabulky, 1 pro prvn&#237;, 2 pro druhou atd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;42&lt;/seq0&gt;: Correlation results</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;42&lt;/seq0&gt;: V&#253;sledky korelace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Document Foundation&#8217;s wiki provides a comparison of the features of LibreOffice and Microsoft Office, see &lt;a0&gt;&lt;f1&gt;https://wiki.documentfoundation.org/Feature_Comparison:_LibreOffice_-_Microsoft_Office&lt;/f1&gt;&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Na wiki nadace Document Foundation najdete srovn&#225;n&#237; funkc&#237; LibreOffice a Microsoft Office, viz &lt;a0&gt;&lt;f1&gt;https://wiki.documentfoundation.org/Feature_Comparison:_LibreOffice_-_Microsoft_Office&lt;/f1&gt;&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Show All&lt;/f0&gt;: shows all outline levels when the reader opens the PDF.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;f0&gt;Zobrazit v&#353;e&lt;/f0&gt;: zobraz&#237; v&#353;echny &#250;rovn&#283; obrys&#367;, kdy&#382; &#269;ten&#225;&#345; otev&#345;e PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Result (A=4, B=5)</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V&#253;sledek (A=4, B=5)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Page break preview</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;7&lt;/seq0&gt;: N&#225;hled na p&#345;eru&#353;en&#237; str&#225;nky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you then enter any value into a different cell (say cell B2 for the purpose of this discussion) and press &lt;f1&gt;Enter&lt;/f1&gt;, you will notice that the value displayed in A1 is updated to show a different random number.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pokud pak zad&#225;te libovolnou hodnotu do jin&#233; bu&#328;ky (pro &#250;&#269;ely t&#233;to diskuse &#345;ekn&#283;me do bu&#328;ky B2) a stisknete kl&#225;vesu &lt;f1&gt;Enter&lt;/f1&gt;, zjist&#237;te, &#382;e hodnota zobrazen&#225; v bu&#328;ce A1 se aktualizuje a zobraz&#237; jin&#233; n&#225;hodn&#233; &#269;&#237;slo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Not used in Calc.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Nepou&#382;&#237;v&#225; se v Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A list showing missing entries is also less useful because you cannot use functions such as sorting or filtering.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Seznam s chyb&#283;j&#237;c&#237;mi polo&#382;kami je tak&#233; m&#233;n&#283; u&#382;ite&#269;n&#253;, proto&#382;e nelze pou&#382;&#237;t funkce, jako je t&#345;&#237;d&#283;n&#237; nebo filtrov&#225;n&#237;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;36&lt;/seq0&gt;: Descriptive Statistics dialog</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;36&lt;/seq0&gt;: Dialogov&#233; okno Popisn&#233; statistiky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: PDF Options dialog &#8211; Security tab</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;19&lt;/seq0&gt;: Dialogov&#233; okno Mo&#382;nosti PDF &#8211; karta Zabezpe&#269;en&#237;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Solver Status dialog</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dialogov&#233; okno Stav &#345;e&#353;itele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Data &gt; Statistics &gt; Z-test&lt;/f0&gt; on the Menu bar to access the z-test dialog shown in Figure &lt;t1&gt;58&lt;/t1&gt;&lt;s2/&gt;and define the required inputs to the tool.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Kliknut&#237;m na &lt;f0&gt;Data &gt; Statistika &gt; Z-test&lt;/f0&gt; na panelu nab&#237;dek otev&#345;ete dialogov&#233; okno z-testu zobrazen&#233; na obr&#225;zku &lt;t1&gt;58&lt;/t1&gt;&lt;s2/&gt;a definujte po&#382;adovan&#233; vstupy do n&#225;stroje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The interpretation of this formula is &#8220;take the value in the cell one column to the left in the same row and multiply it by the value in cell D1&#8221;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Interpretace tohoto vzorce je &#8222;vezm&#283;te hodnotu v bu&#328;ce o jeden sloupec vlevo ve stejn&#233;m &#345;&#225;dku a vyn&#225;sobte ji hodnotou v bu&#328;ce D1&#8220;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Data &gt; Statistics &gt; Paired t-test&lt;/f0&gt; on the Menu bar to access the Paired t-test dialog (Figure &lt;t1&gt;53&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V&#253;b&#283;rem mo&#382;nosti &lt;f0&gt;Data &gt; Statistika &gt; P&#225;rov&#253; t-test&lt;/f0&gt; na panelu nab&#237;dek otev&#345;ete dialogov&#233; okno P&#225;rov&#253; t-test (obr&#225;zek &lt;t1&gt;53&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s1/&gt;Your document may contain more than one pivot table.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;s1/&gt;V&#225;&#353; dokument m&#367;&#382;e obsahovat v&#237;ce ne&#382; jednu oto&#269;nou tabulku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;33&lt;/seq0&gt;: Solver example result</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;33&lt;/seq0&gt;: V&#253;sledek p&#345;&#237;kladu &#345;e&#353;itele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, to repeat rows 1, 2 and 3, type &lt;f1&gt;$1:$3&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Chcete-li nap&#345;&#237;klad opakovat &#345;&#225;dky 1, 2 a 3, zadejte &lt;f1&gt;$1:$3&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Universal Accessibility (PDF/UA)&lt;/f0&gt;: Use this setting to create a universal accessibility-compliant PDF file that follows the requirements of the PDF/UA standard (formerly ISO 14289).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;f0&gt;Univerz&#225;ln&#283; p&#345;&#237;stupn&#233; (PDF/UA)&lt;/f0&gt;: Toto nastaven&#237; slou&#382;&#237; k vytvo&#345;en&#237; univerz&#225;ln&#237;ho souboru PDF vyhovuj&#237;c&#237;ho po&#382;adavk&#367;m normy PDF/UA (d&#345;&#237;ve ISO 14289).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>INFO</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>INFO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Data &gt; Statistics &gt; F-test&lt;/f0&gt; on the Menu bar to access the F-test dialog shown in Figure &lt;t1&gt;56&lt;/t1&gt;&lt;s2/&gt;and define the required inputs to the tool.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Kliknut&#237;m na &lt;f0&gt;Data &gt; Statistika &gt; F-test&lt;/f0&gt; na panelu nab&#237;dek otev&#345;ete dialogov&#233; okno F-test zobrazen&#233; na obr&#225;zku &lt;t1&gt;56&lt;/t1&gt;&lt;s2/&gt;a definujte po&#382;adovan&#233; vstupy do n&#225;stroje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The data shown in columns E (real values) and F (imaginary values) of the spreadsheet are the Fourier transform results calculated by the tool for this input data, using the settings shown in Figure &lt;t1&gt;62&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&#218;daje uveden&#233; ve sloupc&#237;ch E (re&#225;ln&#233; hodnoty) a F (imagin&#225;rn&#237; hodnoty) tabulky jsou v&#253;sledky Fourierovy transformace vypo&#269;ten&#233; n&#225;strojem pro tato vstupn&#237; data s pou&#382;it&#237;m nastaven&#237; uveden&#253;ch na obr&#225;zku &lt;t1&gt;62&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can find the arithmetical mean&#8212;that is, the result when you add all entries in a list then divide by the number of entries, by entering a range of numbers when using AVERAGE, or AVERAGEA to include text entries and to give them a value of zero.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Aritmetick&#253; pr&#367;m&#283;r, tj. v&#253;sledek, kter&#253; z&#237;sk&#225;te se&#269;ten&#237;m v&#353;ech polo&#382;ek v seznamu a n&#225;sledn&#253;m vyd&#283;len&#237;m po&#269;tem polo&#382;ek, m&#367;&#382;ete zjistit zad&#225;n&#237;m rozsahu &#269;&#237;sel p&#345;i pou&#382;it&#237; p&#345;&#237;kazu AVERAGE nebo AVERAGEA, pokud chcete zahrnout textov&#233; polo&#382;ky a p&#345;i&#345;adit jim nulovou hodnotu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Stefan Weigel</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Stefan Weigel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, for such fields, it is possible to define which values are put together in one group.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>U t&#283;chto pol&#237; je v&#353;ak mo&#382;n&#233; definovat, kter&#233; hodnoty se daj&#237; dohromady v jedn&#233; skupin&#283;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Solver dialog also has an &lt;f0&gt;Options&lt;/f0&gt; button, which opens the Options dialog shown in Figure &lt;t1&gt;31&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dialogov&#233; okno &#344;e&#353;itel m&#225; tak&#233; tla&#269;&#237;tko &lt;f0&gt;Mo&#382;nosti&lt;/f0&gt;, kter&#233; otev&#345;e dialogov&#233; okno Mo&#382;nosti zobrazen&#233; na obr&#225;zku &lt;t1&gt;31&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0&gt;4&lt;/t0&gt;| &lt;t1&gt;Chapter 8 Using Pivot Tables&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;t0&gt;4&lt;/t0&gt;| &lt;t1&gt;Kapitola 8 Pou&#382;it&#237; oto&#269;n&#253;ch tabulek&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At any time, you can edit the print range, For example to add or remove cells, or define rows and columns to repeat (such as column or row headings).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Kdykoli m&#367;&#382;ete rozsah tisku upravit, nap&#345;&#237;klad p&#345;idat nebo odebrat bu&#328;ky nebo definovat &#345;&#225;dky a sloupce, kter&#233; se maj&#237; opakovat (nap&#345;&#237;klad nadpisy sloupc&#367; nebo &#345;&#225;dk&#367;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on the &lt;f0&gt;Source data ranges&lt;/f0&gt; field, then type a reference to a source data range, a named range, or select it with the mouse.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Klikn&#283;te na pole &lt;f0&gt;Zdrojov&#233; datov&#233; rozsahy&lt;/f0&gt; a zadejte odkaz na zdrojov&#253; datov&#253; rozsah, pojmenovan&#253; rozsah nebo jej vyberte my&#353;&#237;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example text contents and numeric contents can look the same but can produce a mistake if both are used in some calculations.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Nap&#345;&#237;klad textov&#253; obsah a &#269;&#237;seln&#253; obsah mohou vypadat stejn&#283;, ale mohou v&#233;st k chyb&#283;, pokud se oba pou&#382;ij&#237; v n&#283;kter&#253;ch v&#253;po&#269;tech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;t0&gt;47&lt;/t0&gt;&lt;s1/&gt;shows the smoothed results for this input data using the settings shown in Figure &lt;t2&gt;45&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;t0&gt;47&lt;/t0&gt;&lt;s1/&gt; zobrazuje vyhlazen&#233; v&#253;sledky pro tato vstupn&#237; data p&#345;i pou&#382;it&#237; nastaven&#237; uveden&#253;ch na obr&#225;zku &lt;t2&gt;45&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For details, see Chapter&#160;14, Setting up and Customizing.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Podrobnosti naleznete v kapitole 14, Nastaven&#237; a p&#345;izp&#367;soben&#237;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;38&lt;/seq0&gt;: Results from Descriptive Statistics tool</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;38&lt;/seq0&gt;: V&#253;sledky n&#225;stroje popisn&#233; statistiky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This list must contain the name of the data field if there is more than one data field; otherwise, it is not required.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Tento seznam mus&#237; obsahovat n&#225;zev datov&#233;ho pole, pokud existuje v&#237;ce ne&#382; jedno datov&#233; pole; jinak nen&#237; vy&#382;adov&#225;n.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this view, the formula is parsed, and each formula component is calculated by a simpler function call or arithmetic operation and then combined following the rules of calculation.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V tomto zobrazen&#237; je vzorec analyzov&#225;n a ka&#382;d&#225; slo&#382;ka vzorce je vypo&#269;tena pomoc&#237; jednodu&#353;&#353;&#237;ho vol&#225;n&#237; funkce nebo aritmetick&#233; operace a pot&#233; zkombinov&#225;na podle pravidel v&#253;po&#269;tu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0&gt;Introduction&lt;/t0&gt; | &lt;t1&gt;5&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;t0&gt;&#218;vod&lt;/t0&gt; | &lt;t1&gt;5&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you enter B4:A2, B2:A4, or A4:B2 directly, Calc will turn it to A2:B4.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pokud zad&#225;te p&#345;&#237;mo B4:A2, B2:A4 nebo A4:B2, Calc je zm&#283;n&#237; na A2:B4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Use this certificate to digitally sign PDF documents&lt;/f0&gt;: Click &lt;f1&gt;Select&lt;/f1&gt; to open the Select X.509 Certificate dialog, where all certificates found in your selected key store are displayed.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;f0&gt;Tento certifik&#225;t pou&#382;ijte k digit&#225;ln&#237;mu podepisov&#225;n&#237; dokument&#367; PDF&lt;/f0&gt;: Klepnut&#237;m na &lt;f1&gt;Vybrat&lt;/f1&gt; otev&#345;ete dialogov&#233; okno Certifik&#225;t Vybrat X.509, kde se zobraz&#237; v&#353;echny certifik&#225;ty nalezen&#233; ve vybran&#233;m &#250;lo&#382;i&#353;ti kl&#237;&#269;&#367;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It lists existing signatures and their descriptions (if they have any).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obsahuje seznam existuj&#237;c&#237;ch podpis&#367; a jejich popis (pokud existuj&#237;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Outline columns 2 to 5 show descending group levels as follows:</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Sloupce osnovy 2 a&#382; 5 zobrazuj&#237; sestupn&#233; &#250;rovn&#283; skupin takto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Through the Chart Wizard, you can select the chart type and chart elements for the pivot chart.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V Pr&#367;vodci grafem m&#367;&#382;ete vybrat typ grafu a prvky grafu pro oto&#269;n&#253; graf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;t1&gt;44&lt;/t1&gt;&lt;s2/&gt;shows the six covariance values generated for this input data using the settings shown in Figure &lt;t3&gt;43&lt;/t3&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;t1&gt;44&lt;/t1&gt;&lt;s2/&gt; zobrazuje &#353;est hodnot kovariance vygenerovan&#253;ch pro tato vstupn&#237; data s pou&#382;it&#237;m nastaven&#237; uveden&#253;ch na obr&#225;zku &lt;t3&gt;43&lt;/t3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;50&lt;/seq0&gt;: Regression dialog</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;50&lt;/seq0&gt;: Dialogov&#233; okno Regrese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more efficient and effective solutions, use the pivot table, a tool for combining, comparing, analyzing, and summarizing large amounts of data easily.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pro efektivn&#283;j&#353;&#237; a &#250;&#269;inn&#283;j&#353;&#237; &#345;e&#353;en&#237; pou&#382;ijte oto&#269;nou tabulku, n&#225;stroj pro snadn&#233; kombinov&#225;n&#237;, porovn&#225;v&#225;n&#237;, anal&#253;zu a shrnut&#237; velk&#233;ho mno&#382;stv&#237; dat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Multiple Operations tool will generate its results in the empty cells that you selected in step &lt;bf1&gt;3)&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>N&#225;stroj V&#237;cen&#225;sobn&#233; operace vytvo&#345;&#237; sv&#233; v&#253;sledky v pr&#225;zdn&#253;ch bu&#328;k&#225;ch, kter&#233; jste vybrali v kroku &lt;bf1&gt;3)&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preview box &#8211; shown on the right side of Figure &lt;t0&gt;13&lt;/t0&gt;, this area displays a preview of the current selection.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>R&#225;me&#269;ek n&#225;hledu &#8211; na obr&#225;zku &lt;t0&gt;13&lt;/t0&gt; vpravo se zobrazuje n&#225;hled aktu&#225;ln&#237;ho v&#253;b&#283;ru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Edit Print Ranges dialog</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;5&lt;/seq0&gt;: Dialogov&#233; okno Upravit rozsahy tisku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f1&gt;OK&lt;/f1&gt; to dismiss this dialog and finish the calculations, or click &lt;f2&gt;Continue&lt;/f2&gt; to allow the engine to carry on processing a step further, with the diagnostic data on the dialog refreshed at the next break point.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Kliknut&#237;m na tla&#269;&#237;tko &lt;f1&gt;OK&lt;/f1&gt; tento dialog zru&#353;&#237;te a dokon&#269;&#237;te v&#253;po&#269;ty, nebo kliknut&#237;m na tla&#269;&#237;tko &lt;f2&gt;Pokra&#269;ovat&lt;/f2&gt; umo&#382;n&#237;te motoru pokra&#269;ovat ve zpracov&#225;n&#237; o krok d&#225;le, p&#345;i&#269;em&#382; diagnostick&#233; &#250;daje v dialogu se obnov&#237; v dal&#353;&#237;m bod&#283; p&#345;eru&#353;en&#237;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;22&lt;/seq0&gt;: Drag a row field - note the pointer shape</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;22&lt;/seq0&gt;: P&#345;eta&#382;en&#237; &#345;&#225;dkov&#233;ho pole &#8211; v&#353;imn&#283;te si tvaru ukazatele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0&gt;Chapter 8 Using Pivot Tables&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;0&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;t0&gt;Kapitola 8 Pou&#382;it&#237; oto&#269;n&#253;ch tabulek&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;0&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To illustrate how to use this tool, we again use the data set from Figure &lt;t0&gt;37&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pro ilustraci pou&#382;it&#237; tohoto n&#225;stroje pou&#382;ijeme op&#283;t soubor dat z obr&#225;zku &lt;t0&gt;37&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;t1&gt;32&lt;/t1&gt;&lt;s2/&gt;shows the worksheet at this point.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;t1&gt;32&lt;/t1&gt;&lt;s2/&gt; zobrazuje pracovn&#237; list v tomto bod&#283;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select a sort order in the drop-down menu on a column&#8217;s heading.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V rozev&#237;rac&#237; nab&#237;dce v z&#225;hlav&#237; sloupce vyberte po&#345;ad&#237; &#345;azen&#237;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;41&lt;/seq0&gt;: Correlation dialog</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;41&lt;/seq0&gt;: Dialogov&#233; okno Korelace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this case, the change means that the pivot table has to use a different area of the spreadsheet for its analysis.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V tomto p&#345;&#237;pad&#283; zm&#283;na znamen&#225;, &#382;e oto&#269;n&#225; tabulka mus&#237; pro svou anal&#253;zu pou&#382;&#237;t jinou oblast tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To access some of the options on the &lt;f0&gt;General&lt;/f0&gt; tab of the Print dialog, you may need to click one of the &lt;f1&gt;More&lt;/f1&gt; buttons.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pro p&#345;&#237;stup k n&#283;kter&#253;m mo&#382;nostem na kart&#283; &lt;f0&gt;Obecn&#233;&lt;/f0&gt; dialogov&#233;ho okna Tisk m&#367;&#382;e b&#253;t nutn&#233; kliknout na jedno z tla&#269;&#237;tek &lt;f1&gt;Dal&#353;&#237;&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0&gt;Setting up a spreadsheet&lt;/t0&gt; | &lt;t1&gt;5&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;t0&gt;Nastaven&#237; tabulky&lt;/t0&gt; | &lt;t1&gt;5&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;Prevent changes&lt;/f2&gt; and &lt;f3&gt;Copy entire sheet&lt;/f3&gt; cannot be changed.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;f2&gt;Zabr&#225;nit zm&#283;n&#225;m&lt;/f2&gt; a &lt;f3&gt;Kop&#237;rovat cel&#253; list&lt;/f3&gt; nelze zm&#283;nit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are using either the DEPS Evolutionary Algorithm or the SCO Evolutionary Algorithm, Calc may periodically interrupt execution of the solver engine to display the Solver Status dialog (Figure &lt;t0&gt;29&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pou&#382;&#237;v&#225;te-li evolu&#269;n&#237; algoritmus DEPS nebo evolu&#269;n&#237; algoritmus SCO, m&#367;&#382;e Calc pravideln&#283; p&#345;eru&#353;ovat prov&#225;d&#283;n&#237; &#345;e&#353;ic&#237;ho stroje a zobrazovat dialogov&#233; okno Stav &#345;e&#353;itele (obr&#225;zek &lt;t0&gt;29&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If necessary, hover the mouse pointer over the division between the list and the description; when the pointer becomes a two-headed arrow, drag it upwards to increase the space for the description.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V p&#345;&#237;pad&#283; pot&#345;eby naje&#271;te ukazatelem my&#353;i na rozd&#283;len&#237; mezi seznamem a popisem; jakmile se z ukazatele stane dvouhlav&#225; &#353;ipka, p&#345;et&#225;hn&#283;te ji nahoru, abyste zv&#283;t&#353;ili prostor pro popis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you do not want to add more groups, then leave the &lt;f5&gt;Group by&lt;/f5&gt; list for each page set to &#8220;&lt;f6&gt;- none -&lt;/f6&gt;&#8221;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pokud nechcete p&#345;id&#225;vat dal&#353;&#237; skupiny, ponechte seznam &lt;f5&gt;Seskupit podle&lt;/f5&gt; pro ka&#382;dou str&#225;nku nastaven&#253; na &#8222;&lt;f6&gt;&#8211; &#382;&#225;dn&#233; &#8211;&lt;/f6&gt;&#8220;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The options available for fields in the &lt;f5&gt;Data Fields&lt;/f5&gt; area differ from those for fields in the other three areas.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Mo&#382;nosti dostupn&#233; pro pole v oblasti &lt;f5&gt;Datov&#225; pole&lt;/f5&gt; se li&#353;&#237; od mo&#382;nost&#237; pro pole v ostatn&#237;ch t&#345;ech oblastech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The residuals give information on how far the actual data points deviate from the predicted data points, based on the regression model.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Rezidua poskytuj&#237; informace o tom, jak moc se skute&#269;n&#233; datov&#233; body odchyluj&#237; od p&#345;edpov&#283;zen&#253;ch datov&#253;ch bod&#367; na z&#225;klad&#283; regresn&#237;ho modelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make sure &lt;f0&gt;Document (Global)&lt;/f0&gt; is selected in the &lt;f1&gt;Scope&lt;/f1&gt; drop-down list.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Ujist&#283;te se, &#382;e je v rozev&#237;rac&#237;m seznamu &lt;f1&gt;Obsah&lt;/f1&gt; vybr&#225;na mo&#382;nost &lt;f0&gt;Dokument (glob&#225;ln&#237;)&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you select &lt;f0&gt;File &gt; Digital Signatures &gt; Digital Signatures&lt;/f0&gt;, the dialog (Figure &lt;t1&gt;22&lt;/t1&gt;) lists existing signatures together with their description (if they have any).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Po v&#253;b&#283;ru &lt;f0&gt;Soubor &gt; Elektronick&#233; podpisy &gt; Elektronick&#233; podpisy&lt;/f0&gt; se v dialogov&#233;m okn&#283; (obr&#225;zek &lt;t1&gt;22&lt;/t1&gt;) zobraz&#237; seznam existuj&#237;c&#237;ch signatur spolu s jejich popisem (pokud n&#283;jak&#253; maj&#237;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Through grouping, you can produce the pivot table with a small number of rows and columns.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pomoc&#237; seskupov&#225;n&#237; m&#367;&#382;ete vytvo&#345;it oto&#269;nou tabulku s mal&#253;m po&#269;tem &#345;&#225;dk&#367; a sloupc&#367;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;t1&gt;42&lt;/t1&gt;&lt;s2/&gt;shows the correlation coefficients generated for this input data using the settings shown in Figure &lt;t3&gt;41&lt;/t3&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;t1&gt;42&lt;/t1&gt;&lt;s2/&gt; zobrazuje korela&#269;n&#237; koeficienty vygenerovan&#233; pro tato vstupn&#237; data s pou&#382;it&#237;m nastaven&#237; uveden&#253;ch na obr&#225;zku &lt;t3&gt;41&lt;/t3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Visible levels&lt;/f0&gt;: shows outline levels down to the selected level (in the range 1 to 10) when the reader opens the PDF.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;f0&gt;Visible levels&lt;/f0&gt;: zobraz&#237; &#250;rovn&#283; obrys&#367; a&#382; po vybranou &#250;rove&#328; (v rozsahu 1 a&#382; 10), kdy&#382; &#269;ten&#225;&#345; otev&#345;e PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After that, create copies from the first sheet as follows:</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pot&#233; vytvo&#345;te kopie z prvn&#237;ho listu n&#225;sleduj&#237;c&#237;m zp&#367;sobem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want to start again, click the &lt;f1&gt;Reset All&lt;/f1&gt; button and the data inserted in the Solver dialog (Figure &lt;t2&gt;28&lt;/t2&gt;) will be cleared.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pokud chcete za&#269;&#237;t znovu, klikn&#283;te na tla&#269;&#237;tko &lt;f1&gt;Obnovit v&#353;e&lt;/f1&gt; a data vlo&#382;en&#225; do dialogu &#344;e&#353;itel (obr&#225;zek &lt;t2&gt;28&lt;/t2&gt;) se vyma&#382;ou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calc uses this percentage to compute the corresponding confidence intervals for each of the estimates (namely the slopes and intercept)</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Calc pou&#382;ije toto procento k v&#253;po&#269;tu odpov&#237;daj&#237;c&#237;ch interval&#367; spolehlivosti pro ka&#382;d&#253; z odhad&#367; (konkr&#233;tn&#283; pro sklony a pr&#367;se&#269;&#237;ky).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>FORMULA</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>FORMULA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;58&lt;/seq0&gt;: z-test dialog</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;58&lt;/seq0&gt;: dialogov&#233; okno z-testu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Example of data with missing entries (blank/empty values) in Column A</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;5&lt;/seq0&gt;: P&#345;&#237;klad dat s chyb&#283;j&#237;c&#237;mi polo&#382;kami (pr&#225;zdn&#233;/nevypln&#283;n&#233; hodnoty) ve sloupci A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Outlines are generally not used in Calc.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V programu Calc se osnovy obecn&#283; nepou&#382;&#237;vaj&#237;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: PDF options dialog - Links tab</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;18&lt;/seq0&gt;: Dialogov&#233; okno mo&#382;nost&#237; PDF &#8211; karta Odkazy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;61&lt;/seq0&gt;: Results of chi-square test</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;61&lt;/seq0&gt;: V&#253;sledky ch&#237;-kvadr&#225;t testu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also use a Web Page Query input filter to insert data from an HTML file, a CSV file, a Calc spreadsheet, or a Microsoft Excel spreadsheet.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pomoc&#237; vstupn&#237;ho filtru Web Page Query m&#367;&#382;ete tak&#233; vlo&#382;it data ze souboru HTML, souboru CSV, tabulky Calc nebo tabulky Microsoft Excel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0&gt;Using Statistics tools&lt;/t0&gt; | &lt;t1&gt;51&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;t0&gt;Pou&#382;&#237;v&#225;n&#237; n&#225;stroj&#367; statistiky&lt;/t0&gt; | &lt;t1&gt;51&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;39&lt;/seq0&gt;: Analysis of Variance (ANOVA) dialog</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;39&lt;/seq0&gt;: Dialog anal&#253;zy rozptylu (ANOVA)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;44&lt;/seq0&gt;: Covariance results</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;44&lt;/seq0&gt;: V&#253;sledky kovariance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can find more details about each of the available functions in the Calc Functions area of The Document Foundation Wiki at &lt;a0&gt;https://wiki.documentfoundation.org/Documentation/Calc_Functions&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dal&#353;&#237; podrobnosti o jednotliv&#253;ch dostupn&#253;ch funkc&#237;ch najdete v oblasti Calc Functions na The Document Foundation Wiki na adrese &lt;a0&gt;https://wiki.documentfoundation.org/Documentation/Calc_Functions&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The display of the Solver Status dialog is enabled by default but may be disabled by deselecting the &lt;f3&gt;Show enhanced solver status&lt;/f3&gt; setting on the Solver Options dialog.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Zobrazen&#237; dialogov&#233;ho okna Stav &#345;e&#353;itele je ve v&#253;choz&#237;m nastaven&#237; povoleno, ale lze jej vypnout zru&#353;en&#237;m v&#253;b&#283;ru nastaven&#237; &lt;f3&gt;Zobrazit podrobnosti o stavu &#345;e&#353;itele&lt;/f3&gt; v dialogov&#233;m okn&#283; Mo&#382;nosti &#345;e&#353;itele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Solver Status</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Stav &#345;e&#353;itele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calc can use many different data sources in addition to databases that are created and maintained with LibreOffice Base.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Calc m&#367;&#382;e krom&#283; datab&#225;z&#237; vytvo&#345;en&#253;ch a spravovan&#253;ch pomoc&#237; LibreOffice Base pou&#382;&#237;vat mnoho r&#367;zn&#253;ch zdroj&#367; dat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;59&lt;/seq0&gt;: Results from Z-test tool</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;59&lt;/seq0&gt;: V&#253;sledky z n&#225;stroje Z-test</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0/&gt;The result will automatically create an array of cells.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;s0/&gt;V&#253;sledkem bude automaticky vytvo&#345;eno pole bun&#283;k.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Place the cursor in the cell in question and then choose &lt;f0&gt;Tools &gt; Detective &gt; Trace Precedents&lt;/f0&gt; on the Menu bar or press &lt;f1&gt;Shift+F9&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Um&#237;st&#283;te kurzor do p&#345;&#237;slu&#353;n&#233; bu&#328;ky a pot&#233; na panelu nab&#237;dek zvolte &lt;f0&gt;N&#225;stroje &gt; Detektiv &gt; Sledovat precedenty&lt;/f0&gt; nebo stiskn&#283;te &lt;f1&gt;Shift+F9&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The cell you selected in step &lt;bf1&gt;1)&lt;/bf1&gt;&lt;s2/&gt;now contains the total sales value.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Bu&#328;ka, kterou jste vybrali v kroku &lt;bf1&gt;1)&lt;/bf1&gt;&lt;s2/&gt;, nyn&#237; obsahuje celkovou hodnotu prodeje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;49&lt;/seq0&gt;: Calculated moving averages</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;49&lt;/seq0&gt;: Vypo&#269;ten&#233; klouzav&#233; pr&#367;m&#283;ry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0&gt;4&lt;/t0&gt;| &lt;t1&gt;Chapter 6 Printing, Exporting, Emailing, and Signing&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;t0&gt;4&lt;/t0&gt;| &lt;t1&gt;Kapitola 6 Tisk, export, odes&#237;l&#225;n&#237; e-mailem a podepisov&#225;n&#237;&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>=DCOUNT(Database, Database field, Search criteria)</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>=DCOUNT(Datab&#225;ze, Pole datab&#225;ze, Krit&#233;ria hled&#225;n&#237;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Single factor / Two factor</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Jeden faktor / Dva faktory</seg>
+      </tuv>
+    </tu>
+    </body>
+</tmx>
