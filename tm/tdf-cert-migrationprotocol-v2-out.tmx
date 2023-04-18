@@ -1,0 +1,959 @@
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" creationtoolversion="4.3.2" segtype="sentence" o-tmf="OmegaT TMX" adminlang="EN-US" srclang="EN" datatype="plaintext">
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once the impact test and the migration to ODF are in place, it is the right time to identify "technology leaders" within the organization: they are the individuals who are recognized by their peers for their tech competence.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Jakmile je proveden test dopadu a p&#345;echod na ODF, je ten spr&#225;vn&#253; &#269;as identifikovat "technologick&#233; l&#237;dry" v organizaci: jsou to osoby, kter&#233; jsou sv&#253;mi kolegy uzn&#225;v&#225;ny pro sv&#233; technick&#233; kompetence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Migrating to LibreOffice</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>P&#345;echod na LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating an inventory of tools and MS Office dependent applications, which are quite frequent in CRM and ERP environments.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Vytvo&#345;en&#237; soupisu n&#225;stroj&#367; a aplikac&#237; z&#225;visl&#253;ch na MS Office, kter&#233; jsou v prost&#345;ed&#237; CRM a ERP pom&#283;rn&#283; &#269;ast&#233;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These groups form the basis for planning the implementation phase of the migration, so that the transition takes place in homogeneous steps (to avoid fragmentation).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Tyto skupiny tvo&#345;&#237; z&#225;klad pro pl&#225;nov&#225;n&#237; realiza&#269;n&#237; f&#225;ze p&#345;echodu tak, aby p&#345;echod prob&#237;hal v homogenn&#237;ch kroc&#237;ch (aby se zabr&#225;nilo rozt&#345;&#237;&#353;t&#283;nosti).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users, including middle and upper managers, should be segmented for technical skills, training needs and organizational units.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>U&#382;ivatel&#233;, v&#269;etn&#283; st&#345;edn&#237;ch a vy&#353;&#353;&#237;ch mana&#382;er&#367;, by m&#283;li b&#253;t rozd&#283;leni podle technick&#253;ch dovednost&#237;, vzd&#283;l&#225;vac&#237;ch pot&#345;eb a organiza&#269;n&#237;ch jednotek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It should be clear for everyone that LibreOffice is a viable replacement for Microsoft Office, which has already been implemented on million of desktops worldwide.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Ka&#382;d&#233;mu by m&#283;lo b&#253;t jasn&#233;, &#382;e LibreOffice je &#382;ivotaschopnou n&#225;hradou za Microsoft Office, kter&#253; je ji&#382; implementov&#225;n na milionech stoln&#237;ch po&#269;&#237;ta&#269;&#367; po cel&#233;m sv&#283;t&#283;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Migration, Step by Step</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Migrace krok za krokem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition, LibreOffice allows to save documents in the Hybrid PDF format, a standard PDF file which embeds a fully editable ODF document.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>LibreOffice nav&#237;c umo&#382;&#328;uje ukl&#225;dat dokumenty ve form&#225;tu Hybrid PDF, co&#382; je standardn&#237; soubor PDF, kter&#253; obsahuje pln&#283; editovateln&#253; dokument ODF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Identifying critical documents, templates and macros: a good deal of existing documents, templates and macros might not be in use, or will have outlived their usefulness after your move to LibreOffice.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Identifikace kritick&#253;ch dokument&#367;, &#353;ablon a maker: velk&#225; &#269;&#225;st st&#225;vaj&#237;c&#237;ch dokument&#367;, &#353;ablon a maker se po p&#345;echodu na LibreOffice nemus&#237; pou&#382;&#237;vat nebo ji&#382; nebude u&#382;ite&#269;n&#225;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In fact, when the "technology leaders" &#8211; who provide first-hand support to colleagues &#8211; are not able to provide an answer to issues arising within their department, the problem should always be escalated to first level support and if necessary to second level support (which might be internal or external, according to needs).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pokud toti&#382; "technologi&#269;t&#237; l&#237;d&#345;i", kte&#345;&#237; poskytuj&#237; koleg&#367;m podporu z prvn&#237; ruky, nejsou schopni poskytnout odpov&#283;&#271; na probl&#233;my vznikl&#233; v r&#225;mci jejich odd&#283;len&#237;, m&#283;l by b&#253;t probl&#233;m v&#382;dy eskalov&#225;n na podporu prvn&#237; &#250;rovn&#283; a v p&#345;&#237;pad&#283; pot&#345;eby na podporu druh&#233; &#250;rovn&#283; (kter&#225; m&#367;&#382;e b&#253;t podle pot&#345;eby intern&#237; nebo extern&#237;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Although LibreOffice is, to a large extent, fully compatible with MS Office, it is a different application with specific strengths and drawbacks, and might trigger specific workflow issues.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>P&#345;esto&#382;e je LibreOffice do zna&#269;n&#233; m&#237;ry pln&#283; kompatibiln&#237; s MS Office, jedn&#225; se o odli&#353;nou aplikaci se specifick&#253;mi p&#345;ednostmi a nedostatky, kter&#225; m&#367;&#382;e vyvolat specifick&#233; probl&#233;my p&#345;i pr&#225;ci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This FAQ, together will all the documents used during the migration process &#8211; especially presentations and manuals &#8211; should be published online onto the organization website, for easy access and retrieval by users.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Tyto &#269;asto kladen&#233; dotazy a v&#353;echny dokumenty pou&#382;it&#233; b&#283;hem procesu migrace &#8211; zejm&#233;na prezentace a p&#345;&#237;ru&#269;ky &#8211; by m&#283;ly b&#253;t zve&#345;ejn&#283;ny online na webov&#253;ch str&#225;nk&#225;ch organizace, aby k nim u&#382;ivatel&#233; m&#283;li snadn&#253; p&#345;&#237;stup a mohli je vyhledat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The goal is to maximize the number of PCs using LibreOffice, and to foster the interoperability with MS Office by identifying areas where the latter &#8211; for obvious reasons &#8211; tries to perpetuate lock-in.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>C&#237;lem je maximalizovat po&#269;et po&#269;&#237;ta&#269;&#367; pou&#382;&#237;vaj&#237;c&#237;ch LibreOffice a podpo&#345;it interoperabilitu s MS Office t&#237;m, &#382;e se ur&#269;&#237; oblasti, ve kter&#253;ch se MS Office &#8211; z pochopiteln&#253;ch d&#367;vod&#367; &#8211; sna&#382;&#237; udr&#382;et uzam&#269;en&#237;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is also important to switch immediately to the standard ODF format for all documents, and resort to legacy or current MS Office document formats only to exchange files with users of the proprietary office suite.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>D&#367;le&#382;it&#233; je tak&#233; okam&#382;it&#283; p&#345;ej&#237;t na standardn&#237; form&#225;t ODF pro v&#353;echny dokumenty a star&#353;&#237; nebo sou&#269;asn&#233; form&#225;ty dokument&#367; MS Office pou&#382;&#237;vat pouze pro v&#253;m&#283;nu soubor&#367; s u&#382;ivateli propriet&#225;rn&#237;ho kancel&#225;&#345;sk&#233;ho bal&#237;ku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Looking at the entire migration process, while the resistance to change can be tackled by a sustained communications campaign, under the responsibility of the project manager with the help of a communication expert, technical problems should be approached with the support of development, migrations or training professionals certified by The Document Foundation.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pokud se pod&#237;v&#225;me na cel&#253; proces migrace, zjist&#237;me, &#382;e zat&#237;mco odpor ke zm&#283;n&#225;m lze &#345;e&#353;it trvalou komunika&#269;n&#237; kampan&#237;, za kterou zodpov&#237;d&#225; projektov&#253; mana&#382;er s pomoc&#237; odborn&#237;ka na komunikaci, technick&#233; probl&#233;my by m&#283;ly b&#253;t &#345;e&#353;eny s podporou odborn&#237;k&#367; na v&#253;voj, migraci nebo &#353;kolen&#237; certifikovan&#253;ch nadac&#237; The Document Foundation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Documents and templates that are still in use should be converted to the ODF format, while macros should be re-created using the appropriate technology.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>St&#225;le pou&#382;&#237;van&#233; dokumenty a &#353;ablony by m&#283;ly b&#253;t p&#345;evedeny do form&#225;tu ODF, zat&#237;mco makra by m&#283;la b&#253;t vytvo&#345;ena znovu pomoc&#237; p&#345;&#237;slu&#353;n&#233; technologie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The aim of a migration project to LibreOffice is to replace Microsoft Office with the free office suite whenever it makes sense.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>C&#237;lem projektu p&#345;echodu na LibreOffice je nahradit Microsoft Office svobodn&#253;m kancel&#225;&#345;sk&#253;m bal&#237;kem, kdykoli to d&#225;v&#225; smysl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The impact test has a couple of key objectives:</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Test dopadu m&#225; n&#283;kolik hlavn&#237;ch c&#237;l&#367;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The biggest problem, then, is the resistance to change, which is a side effect of the introduction &lt;t0/&gt;of a new technology in any large organization.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Nejv&#283;t&#353;&#237;m probl&#233;mem je tedy odpor ke zm&#283;n&#225;m, kter&#253; je vedlej&#353;&#237;m efektem zaveden&#237; &lt;t0/&gt;nov&#233; technologie v ka&#382;d&#233; velk&#233; organizaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using ODF as the default document format helps organizations to establish a repository for all information assets, guaranteed against obsolescence and vendor lock-in.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pou&#382;&#237;v&#225;n&#237; form&#225;tu ODF jako v&#253;choz&#237;ho form&#225;tu dokument&#367; pom&#225;h&#225; organizac&#237;m vytvo&#345;it &#250;lo&#382;i&#353;t&#283; pro v&#353;echny informa&#269;n&#237; zdroje, kter&#233; zaru&#269;uje ochranu p&#345;ed zastar&#225;v&#225;n&#237;m a uzam&#269;en&#237;m dodavatelem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Identifying "tecnology leaders" within the organization</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Identifikace "technologick&#253;ch l&#237;dr&#367;" v r&#225;mci organizace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition, the migration represents an opportunity to rethink all internal document related process, in term of templates, versioning, storage, and other characteristics such as the workflow process.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Migrace nav&#237;c p&#345;edstavuje p&#345;&#237;le&#382;itost k p&#345;ehodnocen&#237; v&#353;ech intern&#237;ch proces&#367; souvisej&#237;c&#237;ch s dokumenty, pokud jde o &#353;ablony, verzov&#225;n&#237;, ukl&#225;d&#225;n&#237; a dal&#353;&#237; vlastnosti, jako je nap&#345;&#237;klad proces workflow.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice Maintenance</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&#218;dr&#382;ba LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Of course, the "brute force" method &#8211; which consists in installing LibreOffice and eradicating MS Office without any previous warning &#8211; is the worst of all choices, as it creates a rejection effect which kills any hope of success.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Metoda "hrub&#233; s&#237;ly", kter&#225; spo&#269;&#237;v&#225; v instalaci LibreOffice a odstran&#283;n&#237; MS Office bez p&#345;edchoz&#237;ho varov&#225;n&#237;, je samoz&#345;ejm&#283; nejhor&#353;&#237; ze v&#353;ech mo&#382;nost&#237;, proto&#382;e vytv&#225;&#345;&#237; efekt odm&#237;tnut&#237;, kter&#253; zab&#237;j&#237; jakoukoli nad&#283;ji na &#250;sp&#283;ch.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In general, they are the tech savvy users, who will also be involved in the project in other ways.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obecn&#283; se jedn&#225; o technicky zdatn&#233; u&#382;ivatele, kte&#345;&#237; budou do projektu zapojeni i jinak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users and organizations should always remember that closed document formats are limiting not only their freedom but also the ownership of their information assets.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>U&#382;ivatel&#233; a organizace by m&#283;li m&#237;t st&#225;le na pam&#283;ti, &#382;e uzav&#345;en&#233; form&#225;ty dokument&#367; omezuj&#237; nejen jejich svobodu, ale tak&#233; vlastnictv&#237; jejich informa&#269;n&#237;ch aktiv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The role and efforts of the "technology leaders" should be recognized, supported and encouraged through appropriate incentives by the organization's management.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&#218;loha a &#250;sil&#237; "technologick&#253;ch l&#237;dr&#367;" by m&#283;ly b&#253;t uzn&#225;ny, podporov&#225;ny a povzbuzov&#225;ny vhodn&#253;mi pob&#237;dkami ze strany veden&#237; organizace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A misunderstanding about the need for a change, especially from those who strongly believe that the current way of doing things works well... and has done for twenty years!</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Nepochopen&#237; pot&#345;eby zm&#283;ny, zejm&#233;na ze strany t&#283;ch, kte&#345;&#237; jsou pevn&#283; p&#345;esv&#283;d&#269;eni, &#382;e sou&#269;asn&#253; zp&#367;sob pr&#225;ce funguje dob&#345;e... a funguje u&#382; dvacet let!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition, the deployment of LibreOffice at enterprise level should be based on a long term supported version provided by one of the companies sitting in TDF Advisory Board, with the availability of incremental updates to be installed over the network.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Krom&#283; toho by nasazen&#237; LibreOffice na podnikov&#233; &#250;rovni m&#283;lo b&#253;t zalo&#382;eno na dlouhodob&#283; podporovan&#233; verzi poskytovan&#233; jednou ze spole&#269;nost&#237; zasedaj&#237;c&#237;ch v poradn&#237;m sboru TDF, s dostupnost&#237; p&#345;&#237;r&#367;stkov&#253;ch aktualizac&#237;, kter&#233; se budou instalovat po s&#237;ti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The briefings are intended to achieve the required buy-in of LibreOffice and motivate the decision makers and the opinion leaders about the migration process.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>C&#237;lem instrukt&#225;&#382;&#237; je dos&#225;hnout po&#382;adovan&#233;ho p&#345;ijet&#237; LibreOffice a motivovat osoby s rozhodovac&#237; pravomoc&#237; a osoby s vedouc&#237;m n&#225;zorem k procesu migrace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 3 support, on the contrary, is based on development related skills and should therefore be managed by an external structure with certified developers capable of solving bugs.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Podpora &#250;rovn&#283; 3 je naopak zalo&#382;ena na dovednostech souvisej&#237;c&#237;ch s v&#253;vojem, a proto by ji m&#283;la spravovat extern&#237; struktura s certifikovan&#253;mi v&#253;voj&#225;&#345;i schopn&#253;mi &#345;e&#353;it chyby.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the migration process starts, all managers and employees should be familiar with the rationale behind the decision to migrate to LibreOffice (lower TCO and independence from vendor lock-in), and with LibreOffice (history of the project, software features, potential interoperability issues, and so on).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>P&#345;i zah&#225;jen&#237; procesu migrace by m&#283;li b&#253;t v&#353;ichni vedouc&#237; pracovn&#237;ci a zam&#283;stnanci sezn&#225;meni s d&#367;vody, kter&#233; vedly k rozhodnut&#237; p&#345;ej&#237;t na LibreOffice (ni&#382;&#353;&#237; celkov&#233; n&#225;klady na vlastnictv&#237; a nez&#225;vislost na uzam&#269;en&#237; na dodavateli), a s LibreOffice (historie projektu, funkce softwaru, mo&#382;n&#233; probl&#233;my s interoperabilitou atd.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ODF files can easily be recognized by the filename extension: .odt for texts, .ods for spreadsheets, .odp for presentations, .odg for drawings, .odb for databases and .odf for mathematical formulas.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Soubory ODF lze snadno rozpoznat podle p&#345;&#237;pony: .odt pro texty, .ods pro tabulky, .odp pro prezentace, .odg pro v&#253;kresy, .odb pro datab&#225;ze a .odf pro matematick&#233; vzorce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The migration to LibreOffice is a complex endeavor from several points of view.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>P&#345;echod na LibreOffice je slo&#382;it&#253; z n&#283;kolika hledisek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On that note, LibreOffice 4.0 significantly reduced the necessity of these plugins thanks to CMIS (Content Management Interoperability Services) support, an open standard that allows several content management systems such as MS SharePoint, IBM FileNet, Alfresco and Nuxeo to interoperate over the Internet with compatible client applications, which can browse, read and modify contents.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V t&#233;to souvislosti LibreOffice 4.0 v&#253;razn&#283; sn&#237;&#382;il pot&#345;ebu t&#283;chto z&#225;suvn&#253;ch modul&#367; d&#237;ky podpo&#345;e CMIS (Content Management Interoperability Services), co&#382; je otev&#345;en&#253; standard, kter&#253; umo&#382;&#328;uje n&#283;kolika syst&#233;m&#367;m pro spr&#225;vu obsahu, jako jsou MS SharePoint, IBM FileNet, Alfresco a Nuxeo, spolupracovat prost&#345;ednictv&#237;m internetu s kompatibiln&#237;mi klientsk&#253;mi aplikacemi, kter&#233; mohou proch&#225;zet, &#269;&#237;st a upravovat obsah.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To minimize support calls and maximize productivity from the start, it is highly advisable to prepare a "welcome" package for users, with supplementary information about LibreOffice, highlighting the basic functionality of the software and the few specific functional differences with MS Office.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pro minimalizaci hovor&#367; na podporu a maximalizaci produktivity od sam&#233;ho za&#269;&#225;tku je velmi vhodn&#233; p&#345;ipravit pro u&#382;ivatele "uv&#237;tac&#237;" bal&#237;&#269;ek s dopl&#328;uj&#237;c&#237;mi informacemi o LibreOffice, kter&#253; upozorn&#237; na z&#225;kladn&#237; funkce softwaru a n&#283;kolik specifick&#253;ch funk&#269;n&#237;ch rozd&#237;l&#367; oproti MS Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They will be, for instance, trained to train their colleagues to use LibreOffice.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Budou nap&#345;&#237;klad vy&#353;koleni, aby sv&#233; kolegy zau&#269;ili v pou&#382;&#237;v&#225;n&#237; LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These applications need to be identified and checked for compatibility with LibreOffice, as the new features might offer an alternative &lt;t0/&gt;solution (such as CMIS connectivity).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Tyto aplikace je t&#345;eba identifikovat a zkontrolovat jejich kompatibilitu s LibreOffice, proto&#382;e nov&#233; funkce mohou nab&#237;zet alternativn&#237; &lt;t0/&gt;&#345;e&#353;en&#237; (nap&#345;&#237;klad propojen&#237; s CMIS).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For instance, they are the ones who are asked about the latest and greatest smartphone or PC to buy, and about the sexiest applications to use.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Jsou to nap&#345;&#237;klad oni, kdo se pt&#225; na nejnov&#283;j&#353;&#237; a nejlep&#353;&#237; smartphone nebo po&#269;&#237;ta&#269;, kter&#253; si m&#225; koupit, a na nejv&#237;c sexy aplikace, kter&#233; m&#225; pou&#382;&#237;vat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enterprise support of LibreOffice is usually organized internally, with a mix of IT people and tech savvy users who can provide Level 1 and Level 2 support to end users.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Podnikov&#225; podpora LibreOffice je obvykle organizov&#225;na intern&#283;, s kombinac&#237; lid&#237; z IT a technicky zdatn&#253;ch u&#382;ivatel&#367;, kte&#345;&#237; mohou poskytovat podporu 1. a 2. &#250;rovn&#283; koncov&#253;m u&#382;ivatel&#367;m.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User support</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Podpora u&#382;ivatel&#367;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Deploying LibreOffice, though, does not mean eradicating MS Office from each and every PC.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Nasazen&#237; LibreOffice v&#353;ak neznamen&#225; vym&#253;cen&#237; MS Office z ka&#382;d&#233;ho po&#269;&#237;ta&#269;e.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Support is a critical factor for the success of a migration project, as with it the users do not feel abandoned in front of the new productivity tool.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Podpora je rozhoduj&#237;c&#237;m faktorem pro &#250;sp&#283;ch projektu migrace, proto&#382;e d&#237;ky n&#237; se u&#382;ivatel&#233; nec&#237;t&#237; opu&#353;t&#283;ni p&#345;ed nov&#253;m n&#225;strojem produktivity.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Technology leaders" will have a key role in the migration process, as they will become the LibreOffice evangelists and act as the first contact point for providing simple support to users.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Kl&#237;&#269;ovou roli v procesu migrace budou m&#237;t "technologi&#269;t&#237; l&#237;d&#345;i", kte&#345;&#237; se stanou evangelisty LibreOffice a budou fungovat jako prvn&#237; kontaktn&#237; m&#237;sto pro poskytov&#225;n&#237; jednoduch&#233; podpory u&#382;ivatel&#367;m.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are psychological obstacles to overcome such as the resistance to change of end users &#8211; inherent in group dynamics &#8211; and technical problems to solve at different stages of the process: the interoperability with proprietary document formats, the conversion of document templates and macros, the compatibility of VBA macros, the integration with third party applications, and the fixing of bugs and regressions.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Je t&#345;eba p&#345;ekonat psychologick&#233; p&#345;ek&#225;&#382;ky, jako je odpor koncov&#253;ch u&#382;ivatel&#367; ke zm&#283;n&#225;m, kter&#253; je vlastn&#237; skupinov&#233; dynamice, a technick&#233; probl&#233;my, kter&#233; je t&#345;eba &#345;e&#353;it v r&#367;zn&#253;ch f&#225;z&#237;ch procesu: interoperabilita s propriet&#225;rn&#237;mi form&#225;ty dokument&#367;, p&#345;evod &#353;ablon dokument&#367; a maker, kompatibilita maker VBA, integrace s aplikacemi t&#345;et&#237;ch stran a oprava chyb a regres&#237;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This it often seen as a burden in addition to everyday work, and has to be tackled with a carefully crafted communication strategy.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&#268;asto je to vn&#237;m&#225;no jako z&#225;t&#283;&#382; vedle ka&#382;dodenn&#237; pr&#225;ce a je t&#345;eba ji &#345;e&#353;it pe&#269;liv&#283; propracovanou komunika&#269;n&#237; strategi&#237;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Deploying LibreOffice</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Nasazen&#237; LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A comprehensive training on LibreOffice &#8211; characteristics, advantages, features, peculiarities, and main differences with MS Office &#8211; is a fundamental step for any migration project.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Komplexn&#237; &#353;kolen&#237; o LibreOffice &#8211; charakteristika, v&#253;hody, funkce, zvl&#225;&#353;tnosti a hlavn&#237; rozd&#237;ly oproti MS Office &#8211; je z&#225;kladn&#237;m krokem pro ka&#382;d&#253; projekt migrace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Another objective of the training process is to make users aware of the rationale and objectives of the migration project, so that it is not perceived as a mere solution to budget-related issues.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dal&#353;&#237;m c&#237;lem procesu &#353;kolen&#237; je sezn&#225;mit u&#382;ivatele s d&#367;vody a c&#237;li migra&#269;n&#237;ho projektu, aby jej nevn&#237;mali jako pouh&#233; &#345;e&#353;en&#237; rozpo&#269;tov&#253;ch probl&#233;m&#367;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The protocol represents a reference for migrations, based on the best practices from some of the most successful projects.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Tento protokol p&#345;edstavuje referenci pro migraci zalo&#382;enou na osv&#283;d&#269;en&#253;ch postupech z n&#283;kter&#253;ch nej&#250;sp&#283;&#353;n&#283;j&#353;&#237;ch projekt&#367;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Training, at different levels, should be provided to IT personnel, trainers, "technology leaders", middle and upper management, and all end users.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&#352;kolen&#237; na r&#367;zn&#253;ch &#250;rovn&#237;ch by m&#283;li absolvovat pracovn&#237;ci IT, &#353;kolitel&#233;, "technologi&#269;t&#237; l&#237;d&#345;i", st&#345;edn&#237; a vy&#353;&#353;&#237; management a v&#353;ichni koncov&#237; u&#382;ivatel&#233;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition, MS Office is able to read and write ODF format since version 2007, although with several important exceptions, especially in the case of spreadsheets, up to version 2013 (which supports the reference implementation of ODF 1.2).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Krom&#283; toho MS Office um&#237; &#269;&#237;st a zapisovat form&#225;t ODF od verze 2007, i kdy&#382; s n&#283;kolika d&#367;le&#382;it&#253;mi v&#253;jimkami, zejm&#233;na v p&#345;&#237;pad&#283; tabulek, a&#382; do verze 2013 (kter&#225; podporuje referen&#269;n&#237; implementaci ODF 1.2).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In fact, bugs are intrinsic of any software development (even the most expensive proprietary software).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Chyby jsou vlastn&#283; ned&#237;lnou sou&#269;&#225;st&#237; v&#253;voje jak&#233;hokoli softwaru (i toho nejdra&#382;&#353;&#237;ho propriet&#225;rn&#237;ho).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So, the availability of contracted support to address potential software code issues is vital for the deployment of LibreOffice in a corporate environment, also because all relevant patches are usually merged upstream with the community version of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dostupnost smluvn&#237; podpory pro &#345;e&#353;en&#237; p&#345;&#237;padn&#253;ch probl&#233;m&#367; se softwarov&#253;m k&#243;dem je tedy pro nasazen&#237; LibreOffice ve firemn&#237;m prost&#345;ed&#237; z&#225;sadn&#237;, a to i proto, &#382;e v&#353;echny p&#345;&#237;slu&#353;n&#233; opravy jsou obvykle slou&#269;eny s komunitn&#237; verz&#237; LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In fact, although the features are identical or extremely similar to Microsoft Office, they are often organized in a different way (and this is usually more than enough to get a negative reaction from users).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>P&#345;esto&#382;e jsou funkce shodn&#233; nebo velmi podobn&#233; s Microsoft Office, jsou &#269;asto organizov&#225;ny odli&#353;n&#253;m zp&#367;sobem (a to obvykle sta&#269;&#237; k tomu, aby u&#382;ivatel&#233; reagovali negativn&#283;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A poor communication strategy: when it comes to a change management process there's no such thing as too much communication;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&#352;patn&#225; komunika&#269;n&#237; strategie: pokud jde o proces &#345;&#237;zen&#237; zm&#283;n, neexistuje nic jako p&#345;&#237;li&#353; mnoho komunikace;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once the analysis of the existing situation has been completed, it is possible to start the process by implementing an impact test, which is supposed to help find all of the problems that could affect the migration, and ensure that the document workflow works as intended.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Po dokon&#269;en&#237; anal&#253;zy st&#225;vaj&#237;c&#237; situace je mo&#382;n&#233; zah&#225;jit proces proveden&#237;m testu dopadu, kter&#253; m&#225; pomoci naj&#237;t v&#353;echny probl&#233;my, kter&#233; by mohly migraci ovlivnit, a zajistit, aby ob&#283;h dokument&#367; fungoval tak, jak m&#225;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The first group of "technology leaders" should include &#8211; if possible &#8211; a mix of middle managers and employees in order to penetrate into the different layers of the organization.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Prvn&#237; skupina "technologick&#253;ch l&#237;dr&#367;" by m&#283;la zahrnovat &#8211; pokud mo&#382;no &#8211; kombinaci st&#345;edn&#237;ch mana&#382;er&#367; a zam&#283;stnanc&#367;, aby pronikla do r&#367;zn&#253;ch vrstev organizace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We estimate that over the last eight years several million users in organizations of every size have migrated from Microsoft Office to LibreOffice.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Odhadujeme, &#382;e za posledn&#237;ch osm let p&#345;e&#353;lo z Microsoft Office na LibreOffice n&#283;kolik milion&#367; u&#382;ivatel&#367; v organizac&#237;ch v&#353;ech velikost&#237;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Companies providing enterprise versions of LibreOffice can provide code level consultancy and development work for any implementation of the software, which could include (but is not limited to): specific application features, read &amp; write support for an unusual file format, document format conversion, specific computational needs that only become possible with better performance, integration and interfacing with a back-office system, and interoperability solution with third party software packages.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Spole&#269;nosti poskytuj&#237;c&#237; podnikov&#233; verze LibreOffice mohou poskytovat konzultace na &#250;rovni k&#243;du a v&#253;vojov&#233; pr&#225;ce pro jakoukoli implementaci softwaru, kter&#225; m&#367;&#382;e zahrnovat (mimo jin&#233;): specifick&#233; funkce aplikace, podporu &#269;ten&#237; a z&#225;pisu neobvykl&#233;ho form&#225;tu soubor&#367;, konverzi form&#225;tu dokument&#367;, specifick&#233; v&#253;po&#269;etn&#237; pot&#345;eby, kter&#233; jsou mo&#382;n&#233; pouze s vy&#353;&#353;&#237;m v&#253;konem, integraci a propojen&#237; s back-office syst&#233;mem a &#345;e&#353;en&#237; interoperability se softwarov&#253;mi bal&#237;ky t&#345;et&#237;ch stran.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In contrast, LTS versions of LibreOffice are the enterprise-ready build of the free office suite, as companies add deployment and administration utilities on top of the community version, &lt;t0/&gt;together with contracted support services to allow LibreOffice to be used in business critical environments.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Naproti tomu verze LTS LibreOffice p&#345;edstavuj&#237; sestaven&#237; bezplatn&#233;ho kancel&#225;&#345;sk&#233;ho bal&#237;ku p&#345;ipraven&#233; pro podniky, proto&#382;e spole&#269;nosti p&#345;id&#225;vaj&#237; n&#225;stroje pro nasazen&#237; a spr&#225;vu nad komunitn&#237; verzi, &lt;t0/&gt;spolu se smluvn&#237;mi podp&#367;rn&#253;mi slu&#382;bami, kter&#233; umo&#382;&#328;uj&#237; pou&#382;&#237;vat LibreOffice v kritick&#253;ch podnikov&#253;ch prost&#345;ed&#237;ch.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Questionnaires given to team leads or group managers can be used to get a better insight into how the business solutions interact with MS Office.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>K z&#237;sk&#225;n&#237; lep&#353;&#237;ho p&#345;ehledu o interakci podnikov&#253;ch &#345;e&#353;en&#237; s MS Office lze pou&#382;&#237;t dotazn&#237;ky zadan&#233; vedouc&#237;m t&#253;m&#367; nebo mana&#382;er&#367;m skupin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice reads and writes several Microsoft proprietary file formats, from the legacy DOC, XLS and PPT to the new OOXML (Office Open XML) ISO Standard [pseudo].</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>LibreOffice &#269;te a zapisuje n&#283;kolik propriet&#225;rn&#237;ch form&#225;t&#367; soubor&#367; spole&#269;nosti Microsoft, od star&#353;&#237;ch DOC, XLS a PPT a&#382; po nov&#253; standard ISO OOXML (Office Open XML) [pseudo].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order to reduce the impact of resistance to change, it is important to start the migration project with a communication activity targeted at the entire organization (and not only to future users of LibreOffice).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Aby se sn&#237;&#382;il dopad odporu ke zm&#283;n&#283;, je d&#367;le&#382;it&#233; zah&#225;jit projekt migrace komunika&#269;n&#237; aktivitou zam&#283;&#345;enou na celou organizaci (nejen na budouc&#237; u&#382;ivatele LibreOffice).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Eventually, LibreOffice installs only free fonts, which are designed to be compatible with every operating system and therefore able to further increase interoperability by helping to maintain the same layout even if the document is accessed on a different OS from the one used to create the original one.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Nakonec LibreOffice instaluje pouze svobodn&#225; p&#237;sma, kter&#225; jsou navr&#382;ena tak, aby byla kompatibiln&#237; s ka&#382;d&#253;m opera&#269;n&#237;m syst&#233;mem, a proto mohou d&#225;le zv&#253;&#353;it interoperabilitu t&#237;m, &#382;e pom&#225;haj&#237; zachovat stejn&#233; rozlo&#382;en&#237;, i kdy&#382; je dokument p&#345;&#237;stupn&#253; v jin&#233;m opera&#269;n&#237;m syst&#233;mu, ne&#382; ve kter&#233;m byl vytvo&#345;en p&#367;vodn&#237; dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In fact, migrating to LibreOffice is a strategic move for the organization, and should be communicated with the same emphasis as any other strategic decision.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Migrace na LibreOffice je ve skute&#269;nosti strategick&#253;m krokem organizace a m&#283;la by b&#253;t komunikov&#225;na se stejn&#253;m d&#367;razem jako jak&#233;koli jin&#233; strategick&#233; rozhodnut&#237;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The group will meet regularly during all the stages of the migration process, to share the different experiences and identify solutions to common issues.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Skupina se bude pravideln&#283; sch&#225;zet ve v&#353;ech f&#225;z&#237;ch migra&#269;n&#237;ho procesu, aby sd&#237;lela r&#367;zn&#233; zku&#353;enosti a hledala &#345;e&#353;en&#237; spole&#269;n&#253;ch probl&#233;m&#367;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A low trust in the organization's, management's or personal capability to competently manage the change;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>N&#237;zk&#225; d&#367;v&#283;ra v organizaci, veden&#237; nebo osobn&#237; schopnost kompetentn&#283; &#345;&#237;dit zm&#283;nu;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once LibreOffice has been deployed on every user desktop the migration project is over, and the organization switches to maintenance mode.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Po nasazen&#237; LibreOffice na v&#353;echny u&#382;ivatelsk&#233; po&#269;&#237;ta&#269;e je projekt migrace ukon&#269;en a organizace p&#345;ech&#225;z&#237; do re&#382;imu &#250;dr&#382;by.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Because of these characteristics, LibreOffice is very well suited for organizations of all sizes &#8211; both public administrations and private enterprises &#8211; planning to migrate from proprietary to FOSS to reduce infrastructure and interoperability costs, and to get rid of vendor lock-in.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>D&#237;ky t&#283;mto vlastnostem je LibreOffice velmi vhodn&#253; pro organizace v&#353;ech velikost&#237; &#8211; ve&#345;ejnou spr&#225;vu i soukrom&#233; podniky &#8211;, kter&#233; pl&#225;nuj&#237; p&#345;echod z propriet&#225;rn&#237;ho na FOSS, aby sn&#237;&#382;ily n&#225;klady na infrastrukturu a interoperabilitu a zbavily se z&#225;vislosti na dodavateli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, before migrating any existing Visual Basic macros, it is better to determine if the macros are still needed, in order to discard those that are no &lt;t0/&gt;longer used, and re-engineer the remaining ones.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Nap&#345;&#237;klad p&#345;ed migrac&#237; st&#225;vaj&#237;c&#237;ch maker jazyka Visual Basic je lep&#353;&#237; zjistit, zda jsou makra st&#225;le pot&#345;ebn&#225;, aby bylo mo&#382;n&#233; vy&#345;adit ta, kter&#225; se ji&#382; nepou&#382;&#237;vaj&#237;, a zb&#253;vaj&#237;c&#237; makra p&#345;epracovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is also extremely important to offer a reference point for any problem connected to the migration, starting from "technology leaders" up to trained support personnel.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Je tak&#233; nesm&#237;rn&#283; d&#367;le&#382;it&#233; nab&#237;dnout referen&#269;n&#237; m&#237;sto pro jak&#253;koli probl&#233;m spojen&#253; s migrac&#237;, po&#269;&#237;naje "technologick&#253;mi l&#237;dry" a kon&#269;e vy&#353;kolen&#253;m person&#225;lem podpory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switching to open document standards</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>P&#345;echod na otev&#345;en&#233; standardy dokument&#367;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The deployment of LibreOffice on every personal computer, including those of users who have been authorized &#8211; for specific technical reasons &#8211; to keep on using MS Office, needs to be planned in advance and should be coordinated with the training schedule, in order to ensure that users will be able to use the software as soon as possible (ideally, after the first training session).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Nasazen&#237; LibreOffice na ka&#382;d&#253; osobn&#237; po&#269;&#237;ta&#269;, v&#269;etn&#283; po&#269;&#237;ta&#269;&#367; u&#382;ivatel&#367;, kter&#253;m bylo z ur&#269;it&#253;ch technick&#253;ch d&#367;vod&#367; povoleno nad&#225;le pou&#382;&#237;vat MS Office, je t&#345;eba p&#345;edem napl&#225;novat a koordinovat s harmonogramem &#353;kolen&#237;, aby bylo zaji&#353;t&#283;no, &#382;e u&#382;ivatel&#233; budou moci software pou&#382;&#237;vat co nejd&#345;&#237;ve (ide&#225;ln&#283; po prvn&#237;m &#353;kolen&#237;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users have to be persuaded that the new tools, after some training, can provide a better and more rewarding user experience.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>U&#382;ivatele je t&#345;eba p&#345;esv&#283;d&#269;it, &#382;e nov&#233; n&#225;stroje mohou po ur&#269;it&#233;m za&#353;kolen&#237; poskytnout lep&#353;&#237; a p&#345;&#237;nosn&#283;j&#353;&#237; u&#382;ivatelsk&#253; z&#225;&#382;itek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once the key stakeholders are convinced, they will be able to inform their staff about the migration process and to encourage them to adopt LibreOffice as early as possible after training and installation.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Jakmile budou kl&#237;&#269;ov&#233; z&#250;&#269;astn&#283;n&#233; strany p&#345;esv&#283;d&#269;eny, budou moci informovat sv&#233; zam&#283;stnance o procesu migrace a povzbudit je k p&#345;ijet&#237; LibreOffice co nejd&#345;&#237;ve po &#353;kolen&#237; a instalaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The office suite is an integral component of any workflow, either personal or organizational, and as such is essential for the productivity of most personal computer users.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Kancel&#225;&#345;sk&#253; bal&#237;k je ned&#237;lnou sou&#269;&#225;st&#237; ka&#382;d&#233;ho pracovn&#237;ho procesu, a&#357; u&#382; osobn&#237;ho nebo organiza&#269;n&#237;ho, a jako takov&#253; je nezbytn&#253; pro produktivitu v&#283;t&#353;iny u&#382;ivatel&#367; osobn&#237;ch po&#269;&#237;ta&#269;&#367;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The community version of LibreOffice is not optimized for deployments in large organizations, as it is a rather large binary blob which has not been designed to be installed over a network (although the task can be executed, it is slow and tedious).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Komunitn&#237; verze LibreOffice nen&#237; optimalizov&#225;na pro nasazen&#237; ve velk&#253;ch organizac&#237;ch, proto&#382;e se jedn&#225; o pom&#283;rn&#283; velk&#253; bin&#225;rn&#237; blob, kter&#253; nebyl navr&#382;en pro instalaci po s&#237;ti (a&#269;koli tuto &#250;lohu lze prov&#233;st, je pomal&#225; a zdlouhav&#225;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Analysing the Situation</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Anal&#253;za situace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The impact test will also allow to estimate the costs of the migration process.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Test dopadu rovn&#283;&#382; umo&#382;n&#237; odhadnout n&#225;klady na proces migrace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Of course, choosing the interoperability format for each document might result in an overload and be considered an unnecessary nuisance for the average user, but is a key factor for liberating both the user him/herself and the organization from the constraints of proprietary formats developed by software vendors to perpetuate lock-in.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Volba form&#225;tu interoperability pro ka&#382;d&#253; dokument m&#367;&#382;e samoz&#345;ejm&#283; v&#233;st k p&#345;et&#237;&#382;en&#237; a m&#367;&#382;e b&#253;t pova&#382;ov&#225;na za zbyte&#269;nou otravu pro b&#283;&#382;n&#233;ho u&#382;ivatele, ale je kl&#237;&#269;ov&#253;m faktorem pro osvobozen&#237; u&#382;ivatele i organizace od omezen&#237; propriet&#225;rn&#237;ch form&#225;t&#367; vyvinut&#253;ch dodavateli softwaru, kter&#233; udr&#382;uj&#237; uzam&#269;en&#237;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Also, if the other party does not have LibreOffice and only needs to read or print the document, this can be exchanged in PDF format (in this case, using the Hybrid PDF format gives LibreOffice an edge over any other office suite, as the document retains the formatting).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pokud druh&#225; strana nem&#225; LibreOffice a pot&#345;ebuje dokument pouze p&#345;e&#269;&#237;st nebo vytisknout, lze jej vym&#283;nit ve form&#225;tu PDF (v tomto p&#345;&#237;pad&#283; m&#225; LibreOffice d&#237;ky pou&#382;it&#237; hybridn&#237;ho form&#225;tu PDF v&#253;hodu oproti jin&#253;m kancel&#225;&#345;sk&#253;m bal&#237;k&#367;m, proto&#382;e dokument si zachov&#225;v&#225; form&#225;tov&#225;n&#237;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice adopts the ISO standard Open Document Format (ODF), recognized by many governments and organizations worldwide &#8211; including NATO &#8211; and based on true open standards, as the default format for all office documents.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>LibreOffice p&#345;eb&#237;r&#225; standard ISO Open Document Format (ODF), kter&#253; je uzn&#225;v&#225;n mnoha vl&#225;dami a organizacemi po cel&#233;m sv&#283;t&#283; &#8211; v&#269;etn&#283; NATO &#8211; a je zalo&#382;en na skute&#269;n&#253;ch otev&#345;en&#253;ch standardech, jako v&#253;choz&#237; form&#225;t pro v&#353;echny kancel&#225;&#345;sk&#233; dokumenty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Impact Test is carried out by installing LibreOffice on a small number of PCs, which represent the average user.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Test dopadu se prov&#225;d&#237; instalac&#237; LibreOffice na mal&#253; po&#269;et po&#269;&#237;ta&#269;&#367;, kter&#233; p&#345;edstavuj&#237; pr&#367;m&#283;rn&#233;ho u&#382;ivatele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is therefore very important to assess the potential impact of the migration on every user, by analysing the characteristics of the documents with their templates, the VBA macros and the other automation tools, and the integration with third party &lt;t0/&gt;applications.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Proto je velmi d&#367;le&#382;it&#233; posoudit potenci&#225;ln&#237; dopad migrace na ka&#382;d&#233;ho u&#382;ivatele, a to anal&#253;zou vlastnost&#237; dokument&#367; s jejich &#353;ablonami, makry VBA a dal&#353;&#237;mi automatiza&#269;n&#237;mi n&#225;stroji a integrac&#237; s aplikacemi t&#345;et&#237;ch stran &lt;t0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Trainings will also be instrumental for the development of a technical support team, which is another crucial element for the success of the migration project.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&#352;kolen&#237; budou m&#237;t tak&#233; z&#225;sadn&#237; v&#253;znam pro rozvoj t&#253;mu technick&#233; podpory, co&#382; je dal&#353;&#237; kl&#237;&#269;ov&#253; prvek pro &#250;sp&#283;ch projektu migrace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lessons learned from successful migrations</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Zku&#353;enosti z &#250;sp&#283;&#353;n&#253;ch migrac&#237;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In fact, migrating to LibreOffice offers the opportunity of adopting a truly open and standard format, intended to protect the freedom of each individual's creative work and contribute to the growth of a Free Software project which is beneficial to the user community at large (beyond any kind of border).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>P&#345;echod na LibreOffice toti&#382; nab&#237;z&#237; mo&#382;nost p&#345;ijmout skute&#269;n&#283; otev&#345;en&#253; a standardn&#237; form&#225;t, kter&#253; m&#225; chr&#225;nit svobodu tv&#367;r&#269;&#237; pr&#225;ce ka&#382;d&#233;ho jednotlivce a p&#345;isp&#237;vat k r&#367;stu projektu svobodn&#233;ho softwaru, kter&#253; je prosp&#283;&#353;n&#253; pro celou komunitu u&#382;ivatel&#367; (za jakoukoli hranic&#237;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Typical reasons for resistance to change are:</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Typick&#233; d&#367;vody odporu ke zm&#283;n&#225;m jsou:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Also, they provide MSP patch files to allow incremental updates for Windows installations, and to makes it easier to deploy and maintain LibreOffice in large enterprise networks by reducing the required effort from weeks to days and from days to hours, according to the number of desktops.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Poskytuj&#237; tak&#233; soubory z&#225;plat MSP, kter&#233; umo&#382;&#328;uj&#237; p&#345;&#237;r&#367;stkov&#233; aktualizace instalac&#237; syst&#233;mu Windows a usnad&#328;uj&#237; nasazen&#237; a &#250;dr&#382;bu LibreOffice ve velk&#253;ch podnikov&#253;ch s&#237;t&#237;ch t&#237;m, &#382;e sni&#382;uj&#237; pot&#345;ebn&#233; &#250;sil&#237; z t&#253;dn&#367; na dny a z dn&#367; na hodiny v z&#225;vislosti na po&#269;tu stoln&#237;ch po&#269;&#237;ta&#269;&#367;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A change in the status quo, which triggers the perception that at the end of the process one's situation will be worse than before (because the change favours another group, such as younger people in the case of old loyal employees).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Zm&#283;na st&#225;vaj&#237;c&#237;ho stavu, kter&#225; vyvol&#225;v&#225; pocit, &#382;e na konci procesu bude situace &#269;lov&#283;ka hor&#353;&#237; ne&#382; p&#345;edt&#237;m (proto&#382;e zm&#283;na zv&#253;hod&#328;uje jinou skupinu, nap&#345;&#237;klad mlad&#353;&#237; lidi v p&#345;&#237;pad&#283; star&#253;ch loaj&#225;ln&#237;ch zam&#283;stnanc&#367;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For instance, it will be necessary to educate MS Office users &#8211; who, at the end of the migration, should not exceed 20% of all users (as this is the highest potential percentage of people using MS Office-specific features in corporate environments) &#8211; to replace proprietary fonts with free fonts (such as those backed by the SIL Open Font License).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Nap&#345;&#237;klad bude nutn&#233; nau&#269;it u&#382;ivatele MS Office, kte&#345;&#237; by na konci migrace nem&#283;li p&#345;ekro&#269;it 20 % v&#353;ech u&#382;ivatel&#367; (proto&#382;e to je nejvy&#353;&#353;&#237; mo&#382;n&#233; procento lid&#237;, kte&#345;&#237; pou&#382;&#237;vaj&#237; specifick&#233; funkce MS Office ve firemn&#237;m prost&#345;ed&#237;), aby nahradili propriet&#225;rn&#237; p&#237;sma svobodn&#253;mi p&#237;smy (nap&#345;&#237;klad t&#283;mi, kter&#233; jsou podporov&#225;ny licenc&#237; SIL Open Font License).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In fact, the production of the first few documents will create a lasting perception about the quality of LibreOffice in the mind of the users: a smooth process will motivate them to continue and try new more advanced features, while stumbling into a problem &#8211; even a trivial one &#8211; will discourage them and leave a negative feeling.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Vytvo&#345;en&#237; n&#283;kolika prvn&#237;ch dokument&#367; toti&#382; v mysli u&#382;ivatel&#367; vytvo&#345;&#237; trval&#253; dojem o kvalit&#283; LibreOffice: hladk&#253; pr&#367;b&#283;h je bude motivovat k pokra&#269;ov&#225;n&#237; a vyzkou&#353;en&#237; nov&#253;ch pokro&#269;ilej&#353;&#237;ch funkc&#237;, zat&#237;mco nara&#382;en&#237; na probl&#233;m &#8211; i ban&#225;ln&#237; &#8211; je odrad&#237; a zanech&#225; negativn&#237; pocit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Needs evolve from the simple interoperability level to the development of new features or the integration with third party applications.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pot&#345;eby se vyv&#237;jej&#237; od prost&#233; &#250;rovn&#283; interoperability a&#382; po v&#253;voj nov&#253;ch funkc&#237; nebo integraci s aplikacemi t&#345;et&#237;ch stran.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order to assist enterprise users, the entire support team will also work at a list of Frequently Asked Questions (FAQ) as a quick reference for future needs.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Cel&#253; t&#253;m podpory bude tak&#233; pracovat na seznamu &#269;asto kladen&#253;ch ot&#225;zek (FAQ), kter&#253; bude slou&#382;it jako rychl&#253; odkaz pro budouc&#237; pot&#345;eby, aby pomohl podnikov&#253;m u&#382;ivatel&#367;m.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once the "technology leaders" have been identified, it will be necessary to organize a small number of LibreOffice briefing sessions targeted mainly at senior and middle management, the IT Support team and the "technology leaders".</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Jakmile budou ur&#269;eni "technologi&#269;t&#237; l&#237;d&#345;i", bude nutn&#233; uspo&#345;&#225;dat mal&#253; po&#269;et informa&#269;n&#237;ch sch&#367;zek o LibreOffice ur&#269;en&#253;ch p&#345;edev&#353;&#237;m pro vy&#353;&#353;&#237; a st&#345;edn&#237; management, t&#253;m IT podpory a "technologick&#233; l&#237;dry".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These versions have a release cycle similar to the community version, but are supported for three years - with security, maintenance and bug fixes - from the date of release.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Tyto verze maj&#237; podobn&#253; cyklus vyd&#225;v&#225;n&#237; jako komunitn&#237; verze, ale jsou podporov&#225;ny po dobu t&#345;&#237; let od data vyd&#225;n&#237; &#8211; s ohledem na bezpe&#269;nost, &#250;dr&#382;bu a opravy chyb.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Starting the migration process</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Zah&#225;jen&#237; procesu migrace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The same applies to document templates, and to proprietary plugins which connect the office suite to proprietary enterprise applications.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Tot&#233;&#382; plat&#237; pro &#353;ablony dokument&#367; a propriet&#225;rn&#237; z&#225;suvn&#233; moduly, kter&#233; propojuj&#237; kancel&#225;&#345;sk&#253; bal&#237;k s propriet&#225;rn&#237;mi podnikov&#253;mi aplikacemi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Training users</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&#352;kolen&#237; u&#382;ivatel&#367;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In general, the few technical obstacles are related to spreadsheets using advanced features or to MS Office macros, which are often difficult to migrate for a number of reasons.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obecn&#283; se n&#283;kolik technick&#253;ch p&#345;ek&#225;&#382;ek t&#253;k&#225; tabulek vyu&#382;&#237;vaj&#237;c&#237;ch pokro&#269;il&#233; funkce nebo maker MS Office, jejich&#382; migrace je &#269;asto z r&#367;zn&#253;ch d&#367;vod&#367; obt&#237;&#382;n&#225;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The fear of the unknown, which triggers the fear of not being good enough to deal with the new technology;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Strach z nezn&#225;m&#233;ho, kter&#253; vyvol&#225;v&#225; obavu, &#382;e nejste dost dob&#345;&#237; na to, abyste si poradili s novou technologi&#237;;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Certified professionals can provide the necessary assessment skills, not only to analyse documents, VBA macros and interoperability issues, but also to suggest solutions (which include costs and timings).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Certifikovan&#237; odborn&#237;ci mohou poskytnout pot&#345;ebn&#233; dovednosti pro posouzen&#237; nejen anal&#253;zy dokument&#367;, maker VBA a probl&#233;m&#367; s interoperabilitou, ale tak&#233; navrhnout &#345;e&#353;en&#237; (v&#269;etn&#283; n&#225;klad&#367; a term&#237;n&#367;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The perception that the change is being imposed by the top management, which is not using the new tool to the same extent of middle managers and employees;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Vn&#237;m&#225;n&#237;, &#382;e zm&#283;na je vnucov&#225;na vrcholov&#253;m veden&#237;m, kter&#233; nov&#253; n&#225;stroj nevyu&#382;&#237;v&#225; ve stejn&#233; m&#237;&#345;e jako st&#345;edn&#237; management a zam&#283;stnanci;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice also provides shortcuts to send documents as e-mail attachments in all available formats: ODF, PDF (including hybrid) and MS Office formats, including legacy.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>LibreOffice tak&#233; nab&#237;z&#237; zkratky pro odes&#237;l&#225;n&#237; dokument&#367; jako p&#345;&#237;loh e-mailu ve v&#353;ech dostupn&#253;ch form&#225;tech: ODF, PDF (v&#269;etn&#283; hybridn&#237;ch) a form&#225;ty MS Office, v&#269;etn&#283; star&#353;&#237;ch.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users should be able to produce documents using LibreOffice right after the training: therefore, it is crucial to complete the setup and the test of the workstations before training begins, as any delay in the installation of LibreOffice will diminish the effect of the training itself.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>U&#382;ivatel&#233; by m&#283;li b&#253;t schopni vytv&#225;&#345;et dokumenty pomoc&#237; LibreOffice ihned po &#353;kolen&#237;: proto je velmi d&#367;le&#382;it&#233; dokon&#269;it nastaven&#237; a test pracovn&#237;ch stanic p&#345;ed zah&#225;jen&#237;m &#353;kolen&#237;, proto&#382;e jak&#233;koli zpo&#382;d&#283;n&#237; v instalaci LibreOffice sn&#237;&#382;&#237; efekt samotn&#233;ho &#353;kolen&#237;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice's feature set is more than adequate for the everyday needs of the majority &#8211; i.e. more than 90% &#8211; of users inside organizations of any size.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Sada funkc&#237; LibreOffice je v&#237;ce ne&#382; dostate&#269;n&#225; pro ka&#382;dodenn&#237; pot&#345;eby v&#283;t&#353;iny &#8211; tj. v&#237;ce ne&#382; 90 % &#8211; u&#382;ivatel&#367; v organizac&#237;ch jak&#233;koli velikosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These documents can be opened by LibreOffice with File &gt; Open as any other ODF document, and by all other applications as plain PDF files with a double click on the icon.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Tyto dokumenty lze otev&#345;&#237;t v LibreOffice pomoc&#237; Soubor &gt; Otev&#345;&#237;t jako jak&#253;koli jin&#253; dokument ODF a ve v&#353;ech ostatn&#237;ch aplikac&#237;ch jako oby&#269;ejn&#233; soubory PDF dvojit&#253;m kliknut&#237;m na ikonu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice is the leading Free Software personal productivity suite for MS Windows, MacOS X and GNU/Linux, offering six feature-rich applications for all document production and data processing needs: Writer for text, Calc for spreadsheets, Impress for presentations, Draw for drawings, Base for databases, and Math for mathematical annotations.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>LibreOffice je p&#345;edn&#237; svobodn&#253; bal&#237;k aplikac&#237; pro osobn&#237; produktivitu pro MS Windows, MacOS X a GNU/Linux, kter&#253; nab&#237;z&#237; &#353;est funk&#269;n&#283; bohat&#253;ch aplikac&#237; pro v&#353;echny pot&#345;eby tvorby dokument&#367; a zpracov&#225;n&#237; dat: Pro pr&#225;ci s textem nab&#237;z&#237; aplikace Writer, Calc pro tabulky, Impress pro prezentace, Draw pro v&#253;kresy, Base pro datab&#225;ze a Math pro matematick&#233; pozn&#225;mky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Communicating the change</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Informov&#225;n&#237; o zm&#283;n&#283;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reference Document</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Referen&#269;n&#237; dokument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A change of the routine, which translated into a change - or perceived reduction - of the user's comfort zone;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Zm&#283;na rutiny, kter&#225; se prom&#237;tla do zm&#283;ny &#8211; nebo vn&#237;man&#233;ho sn&#237;&#382;en&#237; &#8211; komfortn&#237; z&#243;ny u&#382;ivatele;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Since its inception, OOXML has been released in several flavors &#8211; Office 2007 (ECMA), Office 2010 (Transitional), Office 2013 (Transitional and Strict), Office 2016 (Transitional and Strict) and Office 2019 (also Transitional and Strict) - with significantly different behaviors.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Od sv&#233;ho vzniku byl OOXML vyd&#225;n v n&#283;kolika verz&#237;ch &#8211; Office 2007 (ECMA), Office 2010 (p&#345;echodn&#225;), Office 2013 (p&#345;echodn&#225; a p&#345;&#237;sn&#225;), Office 2016 (p&#345;echodn&#225; a p&#345;&#237;sn&#225;) a Office 2019 (rovn&#283;&#382; p&#345;echodn&#225; a p&#345;&#237;sn&#225;) &#8211; s v&#253;razn&#283; odli&#353;n&#253;m chov&#225;n&#237;m.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LIBREOFFICE MIGRATION PROTOCOL</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>MIGRA&#268;N&#205; PROTOKOL LIBREOFFICE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice source code is dual licensed under LGPLv3/MPL+ copyleft licenses.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Zdrojov&#253; k&#243;d LibreOffice je pod dvoj&#237; licenc&#237; LGPLv3/MPL+ copyleft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice is a viable replacement for Microsoft Office, and can significantly reduce the Total Cost of Ownership of enterprise PCs because it replaces the license cost with a substantially lower migration cost.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>LibreOffice je &#382;ivotaschopnou n&#225;hradou za Microsoft Office a m&#367;&#382;e v&#253;razn&#283; sn&#237;&#382;it celkov&#233; n&#225;klady na vlastnictv&#237; podnikov&#253;ch po&#269;&#237;ta&#269;&#367;, proto&#382;e nahrazuje n&#225;klady na licenci podstatn&#283; ni&#382;&#353;&#237;mi n&#225;klady na migraci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the other hand, the migration to LibreOffice represents an excellent opportunity to rethink the organization's processes.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Na druhou stranu p&#345;edstavuje p&#345;echod na LibreOffice vynikaj&#237;c&#237; p&#345;&#237;le&#382;itost k p&#345;ehodnocen&#237; proces&#367; v organizaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File sharing is a crucial issue, because it is essential to be able to develop and exchange information effectively.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Sd&#237;len&#237; soubor&#367; je z&#225;sadn&#237; ot&#225;zkou, proto&#382;e je nezbytn&#233; pro efektivn&#237; v&#253;voj a v&#253;m&#283;nu informac&#237;.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
