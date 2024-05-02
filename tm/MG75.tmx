@@ -1,0 +1,4039 @@
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" creationtoolversion="4.3.2" segtype="sentence" o-tmf="OmegaT TMX" adminlang="EN-US" srclang="EN" datatype="plaintext">
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;t0&gt;3&lt;/t0&gt;&lt;s1/&gt;shows an example Writer document with the formula box selected ready for a formula to be entered or edited.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Na obr&#225;zku &lt;t0&gt;3&lt;/t0&gt;&lt;s1/&gt; je zobrazen p&#345;&#237;klad dokumentu Writer s vybran&#253;m polem vzorce p&#345;ipraven&#253;m k zad&#225;n&#237; nebo &#250;prav&#283; vzorce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.469471562785891</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.469471562785891</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.190808995376545</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.190808995376545</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Elements Panel</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Panel prvk&#367;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a1&gt;https://documentation.libreoffice.org/en/&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;a1&gt;https://documentation.libreoffice.org/en/&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.190808995376544</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.190808995376544</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.997564050259824</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.997564050259824</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you frequently add formulas into Writer documents, you can set a shortcut to quickly create Math Formulas.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pokud &#269;asto p&#345;id&#225;v&#225;te vzorce do dokument&#367; Writeru, m&#367;&#382;ete si nastavit zkratku pro rychl&#233; vytv&#225;&#345;en&#237; matematick&#253;ch vzorc&#367;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Also, refer to Chapter 14, Customizing LibreOffice, in the &lt;f0&gt;Getting Started Guide&lt;/f0&gt; for more general information on how to customize LibreOffice.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obecn&#233; informace o p&#345;izp&#367;soben&#237; LibreOffice najdete tak&#233; v kapitole 14, P&#345;izp&#367;soben&#237; LibreOffice, v &lt;f0&gt;P&#345;&#237;ru&#269;ce pro za&#269;&#225;te&#269;n&#237;ky&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating and Editing Formulas</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Vytv&#225;&#345;en&#237; a &#250;pravy vzorc&#367;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice is the free, libre, and open source personal productivity suite from The Documentation Foundation.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>LibreOffice je bezplatn&#253;, svobodn&#253; a otev&#345;en&#253; bal&#237;k aplikac&#237; pro osobn&#237; produktivitu od nadace The Documentation Foundation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Formula Editor and Elements panel can cover a large part of your document.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Editor vzorc&#367; a panel prvk&#367; mohou pokr&#253;vat velkou &#269;&#225;st dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only the number 5 is colored red.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pouze &#269;&#237;slo 5 je zbarveno &#269;erven&#283;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.898794046299167</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.898794046299167</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, in the formula x=SIN(y), x and y are variables and will reflect the assigned font.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Nap&#345;&#237;klad ve vzorci x=SIN(y) jsou x a y prom&#283;nn&#233; a budou odr&#225;&#382;et p&#345;i&#345;azen&#233; p&#237;smo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.0697564737441253</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.0697564737441253</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.0697564737441254</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.0697564737441254</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.342020143325668</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.342020143325668</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.342020143325669</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.342020143325669</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.882947592858927</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.882947592858927</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To access the icons used for entering markup language for relations commands into the Formula Editor, select &lt;f0&gt;Relations&lt;/f0&gt; from the drop-down list at the top of the Elements panel.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Chcete-li z&#237;skat p&#345;&#237;stup k ikon&#225;m pou&#382;&#237;van&#253;m pro zad&#225;v&#225;n&#237; zna&#269;kovac&#237;ho jazyka pro p&#345;&#237;kazy vztah&#367; do Editoru vzorc&#367;, vyberte &lt;f0&gt;Relace&lt;/f0&gt; z rozev&#237;rac&#237;ho seznamu v horn&#237; &#269;&#225;sti panelu Prvky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.694658370458997</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.694658370458997</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;13&lt;/seq0&gt;: Lowercase Greek characters</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Tabulka &lt;seq0&gt;13&lt;/seq0&gt;: Mal&#233; &#345;eck&#233; znaky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.64278760968654</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.64278760968654</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To individually adjust the spacing for each formula object within your document:</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Chcete-li individu&#225;ln&#283; upravit rozestupy pro jednotliv&#233; objekty vzorc&#367; v dokumentu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.999847695156391</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.999847695156391</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a1&gt;https://www.libreoffice.org/get-help/professional-support/&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;a1&gt;https://www.libreoffice.org/get-help/professional-support/&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.838670567945424</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.838670567945424</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This guide, the other LibreOffice user guides, the Help system, and user support systems assume that you are familiar with your computer and its operating system&#8217;s basic functions such as starting a program, opening and saving files.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Tato p&#345;&#237;ru&#269;ka, ostatn&#237; u&#382;ivatelsk&#233; p&#345;&#237;ru&#269;ky LibreOffice, syst&#233;m n&#225;pov&#283;dy a syst&#233;my u&#382;ivatelsk&#233; podpory p&#345;edpokl&#225;daj&#237;, &#382;e zn&#225;te sv&#367;j po&#269;&#237;ta&#269; a z&#225;kladn&#237; funkce jeho opera&#269;n&#237;ho syst&#233;mu, jako je spou&#353;t&#283;n&#237; programu, otev&#237;r&#225;n&#237; a ukl&#225;d&#225;n&#237; soubor&#367;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.034899496702501</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.034899496702501</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Elements panel includes an Examples category which provides example formulas to use as a starting point for your formula or equation.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Panel Prvky obsahuje kategorii P&#345;&#237;klady, kter&#225; obsahuje p&#345;&#237;klady vzorc&#367;, kter&#233; m&#367;&#382;ete pou&#382;&#237;t jako v&#253;choz&#237; bod pro sv&#367;j vzorec nebo rovnici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.882947592858927</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.882947592858927</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.743144825477395</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.743144825477395</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;View&lt;/f0&gt; on the Menu bar and deselect &lt;f1&gt;AutoUpdate Display&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>P&#345;ejd&#283;te na &lt;f0&gt;Zobrazen&#237;&lt;/f0&gt; na panelu nab&#237;dek a zru&#353;te v&#253;b&#283;r &lt;f1&gt;Automatick&#225; aktualizace zobrazen&#237;&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click on your selected formula object and select &lt;f0&gt;Properties&lt;/f0&gt; in the context menu, or go to &lt;f1&gt;Format &gt; Frame and Object &gt; Properties&lt;/f1&gt; to open the Object dialog.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Klikn&#283;te prav&#253;m tla&#269;&#237;tkem my&#353;i na vybran&#253; objekt vzorce a v kontextov&#233; nab&#237;dce vyberte &lt;f0&gt;Vlastnosti&lt;/f0&gt; nebo p&#345;ejd&#283;te na &lt;f1&gt;Form&#225;t &gt; R&#225;mec a objekt &gt; Vlastnosti&lt;/f1&gt; a otev&#345;ete dialogov&#233; okno Objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.743144825477394</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.743144825477394</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;9&lt;/seq0&gt;: Bracket commands</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Tabulka &lt;seq0&gt;9&lt;/seq0&gt;: P&#345;&#237;kazy z&#225;vorek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.275637355817</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.275637355817</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0&gt;6&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;LibreOffice 7.5 Math Guide&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;t0&gt;6&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Pr&#367;vodce matematikou pro LibreOffice 7.5&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>and then select the option &lt;f3&gt;Scale all brackets&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>a pot&#233; vyberte mo&#382;nost &lt;f3&gt;Zv&#283;t&#353;ovat v&#353;echny z&#225;vorky&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f2&gt;OK&lt;/f2&gt; to save your changes and close the Object dialog.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Kliknut&#237;m na &lt;f2&gt;OK&lt;/f2&gt; ulo&#382;te zm&#283;ny a zav&#345;ete dialogov&#233; okno Objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For a full list of functions within Math, see &lt;bf0&gt;Appendix A, Commands Reference&lt;/bf0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&#218;pln&#253; seznam funkc&#237; v r&#225;mci Math najdete v &lt;bf0&gt;P&#345;&#237;loze A, Reference p&#345;&#237;kaz&#367;&lt;/bf0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>201</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>201</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The first placeholder is replaced with the name of the font and the second placeholder is replaced with your formula values or text.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Prvn&#237; z&#225;stupn&#253; symbol je nahrazen n&#225;zvem p&#237;sma a druh&#253; z&#225;stupn&#253; symbol je nahrazen hodnotami vzorce nebo textem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>209</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>209</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;7&lt;/seq0&gt;: Operator commands</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Tabulka &lt;seq0&gt;7&lt;/seq0&gt;: P&#345;&#237;kazy oper&#225;tora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.342020143325669</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.342020143325669</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.258819045102521</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.258819045102521</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.92050485345244</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.92050485345244</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>215</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>215</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.573576436351046</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.573576436351046</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>218</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>218</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0&gt;4&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;LibreOffice 7.5 Math Guide&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;t0&gt;4&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Pr&#367;vodce matematikou pro LibreOffice 7.5&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>219</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>219</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.999847695156391</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.999847695156391</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.90630778703665</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.90630778703665</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The font command changes the font type.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>P&#345;&#237;kaz font zm&#283;n&#237; typ p&#237;sma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Where there is no icon displayed in the following tables for the Elements panel, then you have to enter the operator or command into the Formula Editor using markup language.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pokud se v n&#225;sleduj&#237;c&#237;ch tabulk&#225;ch nezobrazuje ikona pro panel Prvky, je t&#345;eba zadat oper&#225;tor nebo p&#345;&#237;kaz do Editoru vzorc&#367; pomoc&#237; zna&#269;kovac&#237;ho jazyka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>238</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>238</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.997564050259824</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.997564050259824</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>242</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>242</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>243</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>243</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>247</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>247</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>249</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>249</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice 7.x Guide Series cover design by Rizal Mutaqin.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>N&#225;vrh ob&#225;lky &#345;ady LibreOffice 7.x Guide by Rizal Mutaqin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.190808995376545</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.190808995376545</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.766044443118978</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.766044443118978</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Color violet</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Barva fialov&#225;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>259</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>259</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Extensions are easily installed using &lt;t0/&gt;the Extension Manager.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Roz&#353;&#237;&#345;en&#237; se snadno instaluj&#237; pomoc&#237; &lt;t0/&gt;spr&#225;vce roz&#353;&#237;&#345;en&#237;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Object wrapping options will be grayed out if the object is anchored &lt;f0&gt;As Character&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pokud je objekt ukotven &lt;f0&gt;Jako znak&lt;/f0&gt;, jsou mo&#382;nosti obt&#233;k&#225;n&#237; objektu &#353;ed&#233;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information on OLE objects, see &lt;bf0&gt;Chapter 2, Formulas in Writer&lt;/bf0&gt;, &lt;bf1&gt;Chapter 3, Formulas in Calc, Draw, and Impress&lt;/bf1&gt;, and the user guides for Writer, Calc, Draw, and Impress.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dal&#353;&#237; informace o objektech OLE naleznete v &lt;bf0&gt;Kapitola 2, Vzorce v aplikaci Writer&lt;/bf0&gt;, &lt;bf1&gt;Kapitola 3, Vzorce v aplikac&#237;ch Calc, Draw a Impress&lt;/bf1&gt; a v u&#382;ivatelsk&#253;ch p&#345;&#237;ru&#269;k&#225;ch k aplikac&#237;m Writer, Calc, Draw a Impress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Color midnight</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Barva p&#367;lnoc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.898794046299167</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.898794046299167</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a1&gt;https://community.documentfoundation.org/&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;a1&gt;https://community.documentfoundation.org/&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.484809620246337</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.484809620246337</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>270</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>270</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>271</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>271</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have never used LibreOffice before, or you want an introduction to all of its components, you might like to read the Getting Started Guide first.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pokud jste LibreOffice je&#353;t&#283; nikdy nepou&#382;&#237;vali nebo se chcete sezn&#225;mit se v&#353;emi jeho sou&#269;&#225;stmi, m&#367;&#382;ete si nejprve p&#345;e&#269;&#237;st P&#345;&#237;ru&#269;ku pro za&#269;&#225;te&#269;n&#237;ky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.587785252292473</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.587785252292473</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Elements pane from left side of Math's window was moved to Sidebar.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Panel prvk&#367; z lev&#233; strany okna Matematika byl p&#345;esunut do postrann&#237;ho panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>281</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>281</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>283</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>283</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>color orangered {&lt;?&gt;}</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>barva orangered {&lt;?&gt;}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>289</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>289</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.390731128489274</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.390731128489274</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Be aware that there are two Formula commands available in the Customize dialog in Writer and, although they have the same name, they correspond to different LibreOffice commands.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Uv&#283;domte si, &#382;e v dialogov&#233;m okn&#283; P&#345;izp&#367;sobit ve Writeru jsou k dispozici dva p&#345;&#237;kazy Vzorec, kter&#233; sice maj&#237; stejn&#253; n&#225;zev, ale odpov&#237;daj&#237; r&#367;zn&#253;m p&#345;&#237;kaz&#367;m LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>290</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>290</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>295</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>295</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.73135370161917</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.73135370161917</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>298</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>298</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For a full list of commands that can be used in the Formula Editor, see &lt;f9&gt;&lt;bf10&gt;Appendix A, Commands Reference&lt;/bf10&gt;&lt;/f9&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&#218;pln&#253; seznam p&#345;&#237;kaz&#367;, kter&#233; lze pou&#382;&#237;t v Editoru vzorc&#367;, najdete v &lt;f9&gt;&lt;bf10&gt;P&#345;&#237;loha A, Reference p&#345;&#237;kaz&#367;&lt;/bf10&gt;&lt;/f9&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition to the Help menu links above, other online community support options are available; see Table &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt;and this web page: &lt;a2&gt;https://www.libreoffice.org/get-help/&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Krom&#283; v&#253;&#353;e uveden&#253;ch odkaz&#367; v nab&#237;dce N&#225;pov&#283;da jsou k dispozici dal&#353;&#237; mo&#382;nosti online podpory komunity; viz tabulka &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt;a tato webov&#225; str&#225;nka: &lt;a2&gt;https://www.libreoffice.org/get-help/&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information on the sum and integral commands, see &#8220;&lt;bf7&gt;Operators&lt;/bf7&gt;&#8221; on page &lt;bf8&gt;63&lt;/bf8&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dal&#353;&#237; informace o p&#345;&#237;kazech sou&#269;et a integr&#225;l najdete v &#269;&#225;sti &#8222;&lt;bf7&gt;Oper&#225;tory&lt;/bf7&gt;&#8220; na stran&#283; &lt;bf8&gt;63&lt;/bf8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When selecting new keyboard shortcuts, make sure that you do not select a &lt;s0/&gt;shortcut that is already in use by LibreOffice or your computer system.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>P&#345;i v&#253;b&#283;ru nov&#253;ch kl&#225;vesov&#253;ch zkratek dbejte na to, abyste nevybrali kl&#225;vesovou zkratku &lt;s0/&gt;, kterou ji&#382; LibreOffice nebo v&#225;&#353; po&#269;&#237;ta&#269;ov&#253; syst&#233;m pou&#382;&#237;v&#225;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;ud0&gt;Math Guide&lt;/ud0&gt;&lt;s1/&gt;&lt;ud2&gt;7.3&lt;/ud2&gt;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;ud0&gt;Matematick&#253; pr&#367;vodce&lt;/ud0&gt;&lt;s1/&gt;&lt;ud2&gt;7.3&lt;/ud2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Profits from the sales of the printed edition are used to benefit the community.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Zisk z prodeje ti&#353;t&#283;n&#233;ho vyd&#225;n&#237; je pou&#382;it ve prosp&#283;ch komunity.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The symbol appears in the left preview pane at the bottom of the dialog.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Symbol se zobraz&#237; v lev&#233;m podokn&#283; n&#225;hledu v doln&#237; &#269;&#225;sti dialogov&#233;ho okna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the formula editor</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pou&#382;it&#237; editoru vzorc&#367;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.951056516295154</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.951056516295154</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To learn more on how to change the spacing of Math objects, refer to &#8220;&lt;bf2&gt;Object spacing&lt;/bf2&gt;&#8221; on page &lt;bf3&gt;39&lt;/bf3&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dal&#353;&#237; informace o tom, jak zm&#283;nit rozestupy matematick&#253;ch objekt&#367;, najdete v &#269;&#225;sti &#8222;&lt;bf2&gt;Rozstupy objekt&#367;&lt;/bf2&gt;&#8220; na stran&#283; &lt;bf3&gt;39&lt;/bf3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sin(x)</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>sin(x)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.838670567945424</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.838670567945424</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The easiest way to add numbered formulas in sequence is to use the AutoText entry &lt;f0&gt;fn&lt;/f0&gt; (for &#8216;&lt;f1&gt;formula numbered&lt;/f1&gt;&#8217;).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Nejjednodu&#353;&#353;&#237; zp&#367;sob, jak p&#345;id&#225;vat &#269;&#237;slovan&#233; vzorce za sebou, je pou&#382;&#237;t polo&#382;ku automatick&#233;ho textu &lt;f0&gt;fn&lt;/f0&gt; (pro '&lt;f1&gt;vzorec &#269;&#237;slovan&#253;&lt;/f1&gt;').</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A PDF version of this book can be downloaded free from:&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>PDF verzi t&#233;to knihy si m&#367;&#382;ete zdarma st&#225;hnout z:&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, if you require double quotes in formula text, then you have to create your text with double quotes in LibreOffice Writer, then copy and paste the text into the Formula Editor as shown in Figure &lt;t0&gt;7&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pokud v&#353;ak v textu vzorce vy&#382;adujete dvojit&#233; uvozovky, mus&#237;te text vytvo&#345;it s dvojit&#253;mi uvozovkami v aplikaci LibreOffice Writer a pot&#233; text zkop&#237;rovat a vlo&#382;it do Editoru vzorc&#367;, jak je zn&#225;zorn&#283;no na obr&#225;zku &lt;t0&gt;7&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.707106781186547</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.707106781186547</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information on how to change fonts used in formulas, see &#8220;&lt;bf0&gt;Changing formula appearance&lt;/bf0&gt;&#8221; on page &lt;bf1&gt;24&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dal&#353;&#237; informace o zm&#283;n&#283; p&#237;sem pou&#382;&#237;van&#253;ch ve vzorc&#237;ch naleznete v &#269;&#225;sti &#8222;&lt;bf0&gt;Zm&#283;na vzhledu vzorc&#367;&lt;/bf0&gt;&#8220; na stran&#283; &lt;bf1&gt;24&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Color orange</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Barva oran&#382;ov&#225;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Elements panel on the sidebar to the right of the Preview window may also appear, if it has been selected in &lt;f0&gt;View&lt;/f0&gt; on the Menu bar, as shown in Figure &lt;t1&gt;4&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Panel Prvky na postrann&#237;m panelu vpravo od okna N&#225;hled se m&#367;&#382;e tak&#233; zobrazit, pokud byl vybr&#225;n v nab&#237;dce &lt;f0&gt;Zobrazen&#237;&lt;/f0&gt; na panelu Nab&#237;dka, jak ukazuje obr&#225;zek &lt;t1&gt;4&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The fields in the Edit Symbols dialog (Figure &lt;t0&gt;23&lt;/t0&gt;) are as follows:</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pole v dialogov&#233;m okn&#283; Upravit symboly (obr&#225;zek &lt;t0&gt;23&lt;/t0&gt;) jsou n&#225;sleduj&#237;c&#237;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.224951054343865</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.224951054343865</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;6&lt;/seq0&gt;: Function commands</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Tabulka &lt;seq0&gt;6&lt;/seq0&gt;: Funk&#269;n&#237; p&#345;&#237;kazy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This setting affects the Formula Editor in all LibreOfice components.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Toto nastaven&#237; ovliv&#328;uje Editor vzorc&#367; ve v&#353;ech komponent&#225;ch LibreOfice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To access the icons used for entering markup language for format commands into the Formula Editor, select &lt;f0&gt;Formats&lt;/f0&gt; from the drop-down list at the top of the Elements panel.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Chcete-li z&#237;skat p&#345;&#237;stup k ikon&#225;m pou&#382;&#237;van&#253;m pro zad&#225;v&#225;n&#237; zna&#269;kovac&#237;ho jazyka pro form&#225;tovac&#237; p&#345;&#237;kazy do Editoru vzorc&#367;, vyberte &lt;f0&gt;Form&#225;ty&lt;/f0&gt; z rozev&#237;rac&#237;ho seznamu v horn&#237; &#269;&#225;sti panelu Prvky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Work with certified LibreOffice professionals for any business needs, from deployment or conversion from other office suits, staff training, or custom development needs.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Spolupracujte s certifikovan&#253;mi odborn&#237;ky na LibreOffice v p&#345;&#237;pad&#283; jak&#253;chkoli podnikov&#253;ch pot&#345;eb, od nasazen&#237; nebo konverze z jin&#253;ch kancel&#225;&#345;sk&#253;ch sad, p&#345;es &#353;kolen&#237; zam&#283;stnanc&#367; a&#382; po pot&#345;eby vlastn&#237;ho v&#253;voje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information on creating formulas, see &#8220;&lt;bf1&gt;Creating formulas&lt;/bf1&gt;&#8221; on page &lt;bf2&gt;13&lt;/bf2&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dal&#353;&#237; informace o vytv&#225;&#345;en&#237; vzorc&#367; najdete v &#269;&#225;sti &#8222;&lt;bf1&gt;Vytv&#225;&#345;en&#237; vzorc&#367;&lt;/bf1&gt;&#8220; na str&#225;nce &lt;bf2&gt;13&lt;/bf2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &lt;bf0&gt;Chapter 1, Creating and Editing Formulas&lt;/bf0&gt;&lt;s1/&gt;for more information on inserting formulas into a LibreOffice component.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dal&#353;&#237; informace o vkl&#225;d&#225;n&#237; vzorc&#367; do komponenty LibreOffice najdete v &lt;bf0&gt;Kapitola 1, Vytv&#225;&#345;en&#237; a &#250;pravy vzorc&#367;&lt;/bf0&gt;&lt;s1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Color seagreen</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Barva mo&#345;sk&#225; zelen&#225;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the Elements panel or the context menus to create a formula provides a convenient way to learn the markup language used by LibreOffice Math.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pou&#382;it&#237; panelu Prvky nebo kontextov&#253;ch nab&#237;dek k vytvo&#345;en&#237; vzorce p&#345;edstavuje pohodln&#253; zp&#367;sob, jak se nau&#269;it zna&#269;kovac&#237; jazyk pou&#382;&#237;van&#253; aplikac&#237; LibreOffice Math.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.4067366430758</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.4067366430758</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice comes with an extensive online &lt;is0/&gt;Help system&lt;ie1/&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>LibreOffice je dod&#225;v&#225;n s rozs&#225;hl&#253;m syst&#233;mem online &lt;is0/&gt;N&#225;pov&#283;dy&lt;ie1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.829037572555042</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.829037572555042</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.453990499739547</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.453990499739547</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information on formula object size and formatting formula text, see &lt;bf3&gt;Chapter 1, Creating and Editing Formulas&lt;/bf3&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dal&#353;&#237; informace o velikosti objektu vzorce a form&#225;tov&#225;n&#237; textu vzorce najdete v &lt;bf3&gt;Kapitola 1, Vytv&#225;&#345;en&#237; a &#250;pravy vzorc&#367;&lt;/bf3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You have to individually change the alignment of formulas already inserted if you want them to use the same alignment as the default settings.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pokud chcete, aby ji&#382; vlo&#382;en&#233; vzorce pou&#382;&#237;valy stejn&#233; zarovn&#225;n&#237; jako v&#253;choz&#237; nastaven&#237;, mus&#237;te zarovn&#225;n&#237; zm&#283;nit jednotliv&#283;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hexadecimal colors</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Hexadecim&#225;ln&#237; barvy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To access the icons used for entering markup language for operator commands into the Formula Editor, select &lt;f0&gt;Operators&lt;/f0&gt; from the drop-down list at the top of the Elements panel.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Chcete-li z&#237;skat p&#345;&#237;stup k ikon&#225;m pou&#382;&#237;van&#253;m pro zad&#225;v&#225;n&#237; zna&#269;kovac&#237;ho jazyka pro p&#345;&#237;kazy oper&#225;tor&#367; do Editoru vzorc&#367;, vyberte &lt;f0&gt;Oper&#225;tory&lt;/f0&gt; z rozev&#237;rac&#237;ho seznamu v horn&#237; &#269;&#225;sti panelu Prvky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Get involved as a volunteer and work in many areas: development, quality assurance, documentation, translation, user support, and more.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Zapojte se jako dobrovoln&#237;k a pracujte v mnoha oblastech: v&#253;voj, zaji&#353;t&#283;n&#237; kvality, dokumentace, p&#345;eklady, u&#382;ivatelsk&#225; podpora a dal&#353;&#237;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.390731128489274</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.390731128489274</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Enabling the Elements panel</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;2&lt;/seq0&gt;: Povolen&#237; panelu Prvky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.719339800338651</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.719339800338651</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type a memorable name for your formula in the &lt;f0&gt;File name&lt;/f0&gt; box.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Do pole &lt;f0&gt;N&#225;zev souboru&lt;/f0&gt; zadejte zapamatovateln&#253; n&#225;zev vzorce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.992546151641322</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.992546151641322</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want an introduction to all of the LibreOffice components, you might like to read the &lt;f0&gt;Getting Started Guide&lt;/f0&gt; first.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pokud se chcete sezn&#225;mit se v&#353;emi sou&#269;&#225;stmi LibreOffice, m&#367;&#382;ete si nejprve p&#345;e&#269;&#237;st &lt;f0&gt;Pr&#367;vodce pro za&#269;&#225;te&#269;n&#237;ky&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>frac {&lt;?&gt;} {&lt;?&gt;}</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>frac {&lt;?&gt;} {&lt;?&gt;}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.996194698091746</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.996194698091746</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.819152044288992</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.819152044288992</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To insert other symbols and commands not listed in the Elements panel and context menu, you have to enter them manually using the markup language.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Chcete-li vlo&#382;it dal&#353;&#237; symboly a p&#345;&#237;kazy, kter&#233; nejsou uvedeny na panelu Prvky a v kontextov&#233; nab&#237;dce, mus&#237;te je zadat ru&#269;n&#283; pomoc&#237; zna&#269;kovac&#237;ho jazyka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.927183854566787</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.927183854566787</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.829037572555042</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.829037572555042</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows and Linux users can choose to download and install the Help for use when not connected to the Internet; the offline Help is installed with the program on macOS.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>U&#382;ivatel&#233; syst&#233;m&#367; Windows a Linux si mohou st&#225;hnout a nainstalovat n&#225;pov&#283;du pro pou&#382;it&#237;, kdy&#382; nejsou p&#345;ipojeni k internetu; v syst&#233;mu macOS je offline n&#225;pov&#283;da nainstalov&#225;na spolu s programem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.241921895599668</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.241921895599668</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.207911690817759</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.207911690817759</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.0871557427476579</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.0871557427476579</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Color fuchsia {&lt;?&gt;}</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Barva fuchsiov&#225; {&lt;?&gt;}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Elements panel to the right of the Preview window , if Elements has been selected in &lt;f0&gt;View&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Panel Prvky vpravo od okna N&#225;hled , pokud je v nab&#237;dce &lt;f0&gt;Zobrazen&#237;&lt;/f0&gt; na panelu nab&#237;dek vybr&#225;na mo&#382;nost Prvky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you regularly use a symbol that is not available in Math, you can add it to the Symbols dialog (Figure &lt;t0&gt;22&lt;/t0&gt;) by using the Edit Symbols dialog (Figure &lt;t1&gt;23&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pokud pravideln&#283; pou&#382;&#237;v&#225;te symbol, kter&#253; nen&#237; v Math k dispozici, m&#367;&#382;ete jej p&#345;idat do dialogov&#233;ho okna Symboly (obr&#225;zek &lt;t0&gt;22&lt;/t0&gt;) pomoc&#237; dialogov&#233;ho okna Upravit symboly (obr&#225;zek &lt;t1&gt;23&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Color fuchsia (same as magenta</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Barva fuchsiov&#225; (stejn&#225; jako magenta)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.956304755963035</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.956304755963035</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, the functions in the formula x=SIN(y) are =SIN( ).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Nap&#345;&#237;klad funkce ve vzorci x=SIN(y) jsou =SIN( ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.573576436351046</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.573576436351046</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.515038074910054</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.515038074910054</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.292371704722737</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.292371704722737</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;LibreOffice&lt;/f0&gt; &#8211; displays shortcut keys that are common to all LibreOffice components.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;f0&gt;LibreOffice&lt;/f0&gt; &#8211; zobraz&#237; kl&#225;vesov&#233; zkratky, kter&#233; jsou spole&#269;n&#233; pro v&#353;echny komponenty LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.754709580222772</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.754709580222772</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information, see &#8220;&lt;bf0&gt;Formula spacing&lt;/bf0&gt;&#8221; on page &lt;bf1&gt;54&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dal&#353;&#237; informace naleznete v &#269;&#225;sti &#8222;&lt;bf0&gt;Rozte&#269; vzorc&#367;&lt;/bf0&gt;&#8220; na stran&#283; &lt;bf1&gt;54&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information on creating formulas, see &#8220;&lt;bf0&gt;Creating formulas&lt;/bf0&gt;&#8221; on page &lt;bf1&gt;13&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dal&#353;&#237; informace o vytv&#225;&#345;en&#237; vzorc&#367; najdete v &#269;&#225;sti &#8222;&lt;bf0&gt;Vytv&#225;&#345;en&#237; vzorc&#367;&lt;/bf0&gt;&#8220; na str&#225;nce &lt;bf1&gt;13&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.956304755963035</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.956304755963035</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.139173100960066</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.139173100960066</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0&gt;LibreOffice 7.5 Math Guide&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;t0&gt;Pr&#367;vodce matematikou LibreOffice 7.5&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information on alignment using the equals sign, see &#8220;&lt;bf0&gt;Aligning formulas using equals sign&lt;/bf0&gt;&#8221; on page &lt;bf1&gt;24&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dal&#353;&#237; informace o zarovn&#225;n&#237; pomoc&#237; znam&#233;nka rovn&#237;tka najdete v &#269;&#225;sti &#8222;&lt;bf0&gt;Zarovn&#225;n&#237; vzorc&#367; pomoc&#237; znam&#233;nka rovn&#237;tka&lt;/bf0&gt;&#8220; na str&#225;nce &lt;bf1&gt;24&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.965925826289068</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.965925826289068</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.978147600733806</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.978147600733806</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>301</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>301</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>302</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>302</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>303</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>303</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>304</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>304</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using markup language, type &lt;f0&gt;5 times 4&lt;/f0&gt; in the Formula Editor.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pomoc&#237; zna&#269;kovac&#237;ho jazyka zadejte do Editoru vzorc&#367; &lt;f0&gt;5 kr&#225;t 4&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>305</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>305</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Color indigo</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Barva indigo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.945518575599317</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.945518575599317</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Fields Dialog &#8211; Cross-references tab</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;12&lt;/seq0&gt;: Dialogov&#233; okno pol&#237; &#8211; karta K&#345;&#237;&#382;ov&#233; odkazy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>312</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>312</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>314</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>314</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.241921895599668</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.241921895599668</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>317</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>317</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>319</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>319</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After choosing one of the symbols in the Elements panel, the Formula Editor will be updated with the Markup notation of the selected symbol.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Po v&#253;b&#283;ru jednoho ze symbol&#367; na panelu Prvky se Editor vzorc&#367; aktualizuje o notaci zna&#269;ek vybran&#233;ho symbolu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To access the icons used for entering markup language for bracket commands into the Formula Editor, select &lt;f0&gt;Brackets&lt;/f0&gt; from the drop-down list at the top of the Elements panel.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Chcete-li z&#237;skat p&#345;&#237;stup k ikon&#225;m pou&#382;&#237;van&#253;m pro zad&#225;v&#225;n&#237; zna&#269;kovac&#237;ho jazyka pro p&#345;&#237;kazy z&#225;vorek do Editoru vzorc&#367;, vyberte &lt;f0&gt;Z&#225;vorky&lt;/f0&gt; z rozev&#237;rac&#237;ho seznamu v horn&#237; &#269;&#225;sti panelu Prvky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When using the Elements panel, it is recommended to have &lt;f0&gt;Extended Tips&lt;/f0&gt; selected in the LibreOffice Options.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>P&#345;i pou&#382;&#237;v&#225;n&#237; panelu Elements se doporu&#269;uje m&#237;t v Mo&#382;nostech LibreOffice vybranou mo&#382;nost &lt;f0&gt;Roz&#353;&#237;&#345;en&#233; tipy&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;15&lt;/seq0&gt;: Lowercase italic Greek characters</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Tabulka &lt;seq0&gt;15&lt;/seq0&gt;: Mal&#233; &#345;eck&#233; znaky psan&#233; kurz&#237;vou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-1</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>color hotpink {&lt;?&gt;}</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>barva hotpink {&lt;?&gt;}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;14&lt;/seq0&gt;: Uppercase italic Greek characters</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Tabulka &lt;seq0&gt;14&lt;/seq0&gt;: Velk&#233; &#345;eck&#233; znaky psan&#233; kurz&#237;vou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>321</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>321</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>325</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>325</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.0523359562429437</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.0523359562429437</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>333</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>333</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>336</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>336</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.961261695938319</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.961261695938319</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regardless of the document type, formula objects are edited using LibreOffice Math.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Bez ohledu na typ dokumentu se objekty vzorc&#367; upravuj&#237; pomoc&#237; LibreOffice Math.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select MathML from the list of available file formats in File type to save your formula as MathML.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Chcete-li vzorec ulo&#382;it jako MathML, vyberte v seznamu dostupn&#253;ch form&#225;t&#367; soubor&#367; v poli Typ souboru mo&#382;nost MathML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In some cases (mainly Open, Save, and Print dialogs), you can choose to use dialogs from your computer&#8217;s operating system or dialogs provided by LibreOffice.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V n&#283;kter&#253;ch p&#345;&#237;padech (zejm&#233;na dialogy Otev&#345;&#237;t, Ulo&#382;it a Tisk) m&#367;&#382;ete pou&#382;&#237;t dialogy z opera&#269;n&#237;ho syst&#233;mu po&#269;&#237;ta&#269;e nebo dialogy poskytovan&#233; sadou LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>342</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>342</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>343</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>343</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>347</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>347</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This will help you identify the categories and symbols you can use in the formula.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>To v&#225;m pom&#367;&#382;e ur&#269;it kategorie a symboly, kter&#233; m&#367;&#382;ete ve vzorci pou&#382;&#237;t.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>356</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>356</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>357</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>357</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>color indigo {&lt;?&gt;}</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>barva indigo {&lt;?&gt;}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.0174524064372835</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.0174524064372835</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>360</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>360</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>361</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>361</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.970295726275996</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.970295726275996</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.694658370458997</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.694658370458997</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>color coral {&lt;?&gt;}</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>kor&#225;lov&#225; barva {&lt;?&gt;}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.0174524064372841</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.0174524064372841</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The symbol, the name of the symbol, and the set that the symbol belongs to are displayed in the left preview pane at the bottom of the dialog.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Symbol, n&#225;zev symbolu a sada, do kter&#233; symbol pat&#345;&#237;, se zobraz&#237; v lev&#233;m podokn&#283; n&#225;hledu v doln&#237; &#269;&#225;sti dialogov&#233;ho okna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.933580426497202</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.933580426497202</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information on how to change text alignment, see &#8220;&lt;bf0&gt;Adjusting formula alignment&lt;/bf0&gt;&#8221; on page &lt;bf1&gt;31&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dal&#353;&#237; informace o zm&#283;n&#283; zarovn&#225;n&#237; textu najdete v &#269;&#225;sti &#8222;&lt;bf0&gt;&#218;prava zarovn&#225;n&#237; vzorc&#367;&lt;/bf0&gt;&#8220; na stran&#283; &lt;bf1&gt;31&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.73135370161917</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.73135370161917</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.275637355817</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.275637355817</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.866025403784438</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.866025403784438</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on &lt;f1&gt;Category&lt;/f1&gt;, select &lt;f2&gt;Brackets&lt;/f2&gt; from the drop-down list.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Klikn&#283;te na &lt;f1&gt;Kategorie&lt;/f1&gt;, z rozev&#237;rac&#237;ho seznamu vyberte &lt;f2&gt;Z&#225;vorky&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>color violet {&lt;?&gt;}</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>barva fialov&#225; {&lt;?&gt;}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Color lavender</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Barva levandule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.951056516295154</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.951056516295154</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.951056516295153</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.951056516295153</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Elements dock.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Prvky doku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.981627183447664</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.981627183447664</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.438371146789077</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.438371146789077</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.3583679495453</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.3583679495453</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You must insert a formula from your library into a document as an OLE object.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Vzorec z knihovny je nutn&#233; vlo&#382;it do dokumentu jako objekt OLE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Elements panel, select a category from the drop-down list, then a symbol.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Na panelu Prvky vyberte z rozev&#237;rac&#237;ho seznamu kategorii a pot&#233; symbol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>color lavender {&lt;?&gt;}</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>barva levandulov&#225; {&lt;?&gt;}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>88</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>88</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Elements panel (Figure &lt;t0&gt;4&lt;/t0&gt;) is a visual tool to help you create and edit formulas.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Panel Prvky (obr&#225;zek &lt;t0&gt;4&lt;/t0&gt;) je vizu&#225;ln&#237; n&#225;stroj, kter&#253; v&#225;m pom&#367;&#382;e vytv&#225;&#345;et a upravovat vzorce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The second way is to modify the spacing options of the default Formula frame style or create a new style.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Druh&#253;m zp&#367;sobem je upravit mo&#382;nosti odstup&#367; v&#253;choz&#237;ho stylu r&#225;me&#269;ku vzorce nebo vytvo&#345;it nov&#253; styl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>91</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>91</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>97</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>97</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;16&lt;/seq0&gt;: Special characters</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Tabulka &lt;seq0&gt;16&lt;/seq0&gt;: Speci&#225;ln&#237; znaky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.927183854566787</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.927183854566787</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To access the icons used for entering markup language for other commands into the Formula Editor, select &lt;f0&gt;Others&lt;/f0&gt; from the drop-down list at the top of the Elements panel, or click the &lt;f1&gt;Others&lt;/f1&gt; icon in the Elements dialog.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Chcete-li z&#237;skat p&#345;&#237;stup k ikon&#225;m pou&#382;&#237;van&#253;m pro zad&#225;v&#225;n&#237; zna&#269;kovac&#237;ho jazyka pro jin&#233; p&#345;&#237;kazy do Editoru vzorc&#367;, vyberte mo&#382;nost &lt;f0&gt;Ostatn&#237;&lt;/f0&gt; z rozev&#237;rac&#237;ho seznamu v horn&#237; &#269;&#225;sti panelu Prvky nebo klikn&#283;te na ikonu &lt;f1&gt;Ostatn&#237;&lt;/f1&gt; v dialogov&#233;m okn&#283; Prvky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.559192903470747</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.559192903470747</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.707106781186547</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.707106781186547</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice Math is not capable of evaluating mathematical equations or performing calculations.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>LibreOffice Math neum&#237; vyhodnocovat matematick&#233; rovnice ani prov&#225;d&#283;t v&#253;po&#269;ty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Large harpoon</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Velk&#225; harpuna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is because Math formulas are OLE objects embedded into a frame that, by default, adds 0.2 cm to the left and right of the Math object.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Je to proto, &#382;e matematick&#233; vzorce jsou objekty OLE vlo&#382;en&#233; do r&#225;me&#269;ku, kter&#253; ve v&#253;choz&#237;m nastaven&#237; p&#345;id&#225;v&#225; 0,2 cm vlevo a vpravo od matematick&#233;ho objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;8&lt;/seq0&gt;: Attribute commands</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Tabulka &lt;seq0&gt;8&lt;/seq0&gt;: P&#345;&#237;kazy atribut&#367;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you regularly require special characters in Math, then it is recommended to add the characters to the Math Catalog.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pokud v matematice pravideln&#283; vy&#382;adujete speci&#225;ln&#237; znaky, doporu&#269;ujeme je p&#345;idat do Katalogu matematiky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 4, Customization</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Kapitola 4, P&#345;izp&#367;soben&#237;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.309016994374947</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.309016994374947</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Math now supports HTML colors, defined by a hex number.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Math nyn&#237; podporuje barvy HTML definovan&#233; pomoc&#237; hexadecim&#225;ln&#237;ho &#269;&#237;sla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.309016994374948</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.309016994374948</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice Math 7.5 Community includes many improvements not visible in the user interface, including support for MathML custom entities and html color support.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>LibreOffice Math 7.5 Community obsahuje mnoho vylep&#353;en&#237;, kter&#225; nejsou viditeln&#225; v u&#382;ivatelsk&#233;m rozhran&#237;, v&#269;etn&#283; podpory vlastn&#237;ch entit MathML a podpory html barev.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice 7.5 Math Guide</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pr&#367;vodce matematikou LibreOffice 7.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.819152044288992</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.819152044288992</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.819152044288991</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.819152044288991</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.484809620246337</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.484809620246337</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table &lt;t6&gt;16&lt;/t6&gt;&lt;s7/&gt;Shows the full list of special characters that are available in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Tabulka &lt;t6&gt;16&lt;/t6&gt;&lt;s7/&gt;Uv&#225;d&#237; &#250;pln&#253; seznam speci&#225;ln&#237;ch znak&#367;, kter&#233; jsou k dispozici v LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.515038074910054</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.515038074910054</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.984807753012208</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.984807753012208</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.933580426497202</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.933580426497202</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.0697564737441244</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.0697564737441244</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.325568154457157</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.325568154457157</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.309016994374947</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.309016994374947</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Elements panel and the context menu contain only the most common commands that are used in formulas.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Panel Prvky a kontextov&#225; nab&#237;dka obsahuj&#237; pouze nejb&#283;&#382;n&#283;j&#353;&#237; p&#345;&#237;kazy, kter&#233; se pou&#382;&#237;vaj&#237; ve vzorc&#237;ch.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If required, select a font style from the &lt;f0&gt;Style&lt;/f0&gt; drop-down list &#8211; Standard, Italic, Bold, or Bold Italic.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V p&#345;&#237;pad&#283; pot&#345;eby vyberte styl p&#237;sma z rozev&#237;rac&#237;ho seznamu &lt;f0&gt;Styl&lt;/f0&gt; &#8211; Standardn&#237;, Kurz&#237;va, Tu&#269;n&#225; nebo Tu&#269;n&#225; kurz&#237;va.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.994521895368273</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.994521895368273</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.913545457642601</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.913545457642601</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Published &lt;ud0&gt;June&lt;/ud0&gt;&lt;s1/&gt;&lt;t2&gt;2024&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Vyd&#225;no &lt;ud0&gt;&#269;ervna&lt;/ud0&gt;&lt;s1/&gt;&lt;t2&gt;2024&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Edit&lt;/f0&gt; button to open Edit Symbols dialog (Figure &lt;t1&gt;23&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Kliknut&#237;m na tla&#269;&#237;tko &lt;f0&gt;Upravit&lt;/f0&gt; otev&#345;ete dialogov&#233; okno Upravit symboly (obr&#225;zek &lt;t1&gt;23&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0&gt;Chapter 1, Creating and Editing Formulas&lt;/t0&gt; | &lt;t1&gt;21&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;t0&gt;Kapitola 1, Vytv&#225;&#345;en&#237; a &#250;pravy vzorc&#367;&lt;/t0&gt; | &lt;t1&gt;21&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.0697564737441251</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.0697564737441251</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To help create more space and/or allow you to move either the Formula Editor or Elements panel out of the way, you can turn both of them into floating dialogs.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Chcete-li vytvo&#345;it v&#237;ce m&#237;sta a/nebo p&#345;esunout Editor vzorc&#367; nebo panel Prvky, m&#367;&#382;ete oba tyto n&#225;stroje zm&#283;nit na plovouc&#237; dialogov&#225; okna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.874619707139396</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.874619707139396</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &#8220;&lt;bf0&gt;Adding keyboard shortcuts&lt;/bf0&gt;&#8221; on page &lt;bf1&gt;48&lt;/bf1&gt;&lt;s2/&gt;for more information.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dal&#353;&#237; informace naleznete v &#269;&#225;sti &#8222;&lt;bf0&gt;P&#345;id&#225;n&#237; kl&#225;vesov&#253;ch zkratek&lt;/bf0&gt;&#8220; na str&#225;nce &lt;bf1&gt;48&lt;/bf1&gt;&lt;s2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.601815023152048</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.601815023152048</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;4&lt;/seq0&gt;: Relation commands</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Tabulka &lt;seq0&gt;4&lt;/seq0&gt;: P&#345;&#237;kazy vztah&#367;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Tools &gt; Customize&lt;/f0&gt; on the Menu bar to open the Customize dialog (Figure &lt;t1&gt;20&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>P&#345;ejd&#283;te na &lt;f0&gt;N&#225;stroje &gt; P&#345;izp&#367;sobit&lt;/f0&gt; na panelu nab&#237;dek a otev&#345;ete dialogov&#233; okno P&#345;izp&#367;sobit (obr&#225;zek &lt;t1&gt;20&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The steps below describe how to enable the Elements panel and navigate its categories and symbols.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V n&#225;sleduj&#237;c&#237;ch kroc&#237;ch je pops&#225;no, jak povolit panel Prvky a proch&#225;zet jeho kategorie a symboly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.422618261740699</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.422618261740699</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.961261695938319</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.961261695938319</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 3, Formulas in Calc, Draw, and Impress</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Kapitola 3, Vzorce v aplikac&#237;ch Calc, Draw a Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the category you want to use in your formula from the drop-down list at the top of the Elements panel.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V rozev&#237;rac&#237;m seznamu v horn&#237; &#269;&#225;sti panelu Prvky vyberte kategorii, kterou chcete ve vzorci pou&#382;&#237;t.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To access the icons used for entering markup language for attribute commands into the Formula Editor, select &lt;f0&gt;Attributes&lt;/f0&gt; from the drop-down list at the top of the Elements panel, or click the Attributes icon in the Elements dialog.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Chcete-li z&#237;skat p&#345;&#237;stup k ikon&#225;m pou&#382;&#237;van&#253;m pro zad&#225;v&#225;n&#237; zna&#269;kovac&#237;ho jazyka pro p&#345;&#237;kazy atribut&#367; do Editoru vzorc&#367;, vyberte &lt;f0&gt;Atributy&lt;/f0&gt; z rozev&#237;rac&#237;ho seznamu v horn&#237; &#269;&#225;sti panelu Prvky nebo klikn&#283;te na ikonu Atributy v dialogov&#233;m okn&#283; Prvky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.438371146789077</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.438371146789077</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;5&lt;/seq0&gt;: Set operation commands</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Tabulka &lt;seq0&gt;5&lt;/seq0&gt;: P&#345;&#237;kazy pro nastaven&#237; operac&#237;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table &lt;t7&gt;2&lt;/t7&gt;&lt;s8/&gt;shows some examples of using markup language to enter commands.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Tabulka &lt;t7&gt;2&lt;/t7&gt;&lt;s8/&gt;ukazuje n&#283;kter&#233; p&#345;&#237;klady pou&#382;it&#237; zna&#269;kovac&#237;ho jazyka pro zad&#225;v&#225;n&#237; p&#345;&#237;kaz&#367;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>color crimson {&lt;?&gt;}</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>barva crimson {&lt;?&gt;}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Category&lt;/f0&gt; &#8211; click this button to select the category for which you want to change the spacing.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;f0&gt;Kategorie&lt;/f0&gt; &#8211; kliknut&#237;m na toto tla&#269;&#237;tko vyberte kategorii, pro kterou chcete zm&#283;nit rozestupy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.848048096156426</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.848048096156426</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.4067366430758</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.4067366430758</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.777145961456971</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.777145961456971</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.965925826289068</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.965925826289068</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information on creating and editing formulas, please refer to &lt;bf0&gt;Chapter 1, Creating and Editing Formulas&lt;/bf0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dal&#353;&#237; informace o vytv&#225;&#345;en&#237; a &#250;prav&#225;ch vzorc&#367; najdete v &lt;bf0&gt;Kapitola 1, Vytv&#225;&#345;en&#237; a &#250;pravy vzorc&#367;&lt;/bf0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.891006524188368</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.891006524188368</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.374606593415912</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.374606593415912</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.156434465040231</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.156434465040231</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A formula object, when inserted into a Writer document, has spacing on each side of the object.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Objekt vzorce je po vlo&#382;en&#237; do dokumentu Writeru opat&#345;en mezerami na ka&#382;d&#233; stran&#283; objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Elements panel as a floating dialog</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;4&lt;/seq0&gt;: Panel prvk&#367; jako plovouc&#237; dialogov&#233; okno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As the markup language in the Formula Editor is entered, the formula will appear in the Preview window during and after input of the markup language.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>P&#345;i zad&#225;v&#225;n&#237; zna&#269;kovac&#237;ho jazyka v Editoru vzorc&#367; se vzorec zobraz&#237; v okn&#283; N&#225;hled b&#283;hem zad&#225;v&#225;n&#237; zna&#269;kovac&#237;ho jazyka a po n&#283;m.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &lt;f0&gt;&lt;bf1&gt;Appendix A, Commands Reference&lt;/bf1&gt;&lt;/f0&gt;&lt;s2/&gt;for a list of characters that can be entered using markup language.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Seznam znak&#367;, kter&#233; lze zadat pomoc&#237; zna&#269;kovac&#237;ho jazyka, najdete v &lt;f0&gt;&lt;bf1&gt;P&#345;&#237;loha A, Reference p&#345;&#237;kaz&#367;&lt;/bf1&gt;&lt;/f0&gt;&lt;s2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: Elements panel</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;19&lt;/seq0&gt;: Panel prvk&#367;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As shown in Figure &lt;t0&gt;21&lt;/t0&gt;, the first Formula command is used to insert a calculated field in Writer, whereas the second Formula command is the one used to insert new Math objects.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Jak je zn&#225;zorn&#283;no na obr&#225;zku &lt;t0&gt;21&lt;/t0&gt;, prvn&#237; p&#345;&#237;kaz Formula slou&#382;&#237; k vlo&#382;en&#237; vypo&#269;ten&#233;ho pole do Writeru, zat&#237;mco druh&#253; p&#345;&#237;kaz Formula slou&#382;&#237; k vlo&#382;en&#237; nov&#253;ch matematick&#253;ch objekt&#367;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.422618261740699</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.422618261740699</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>color seagreen {&lt;?&gt;}</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>barva seagreen {&lt;?&gt;}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.981627183447664</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.981627183447664</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.629320391049838</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.629320391049838</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.866025403784439</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.866025403784439</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.90630778703665</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.90630778703665</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>color midnightblue {&lt;?&gt;}</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>barva midnightblue {&lt;?&gt;}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Color crimson</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Barva karm&#237;nov&#225;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &#8220;&lt;bf0&gt;Greek characters&lt;/bf0&gt;&#8221; on page &lt;bf1&gt;15&lt;/bf1&gt;&lt;s2/&gt;for more information on Greek characters and the Symbols dialog.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dal&#353;&#237; informace o &#345;eck&#253;ch znac&#237;ch a dialogov&#233;m okn&#283; Symboly naleznete v &#269;&#225;sti &#8222;&lt;bf0&gt;&#344;eck&#233; znaky&lt;/bf0&gt;&#8220; na str&#225;nce &lt;bf1&gt;15&lt;/bf1&gt;&lt;s2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To access the icons used for entering markup language for function commands into the Formula Editor, select &lt;f0&gt;Functions&lt;/f0&gt; from the drop-down list at the top of the Elements panel.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Chcete-li z&#237;skat p&#345;&#237;stup k ikon&#225;m pou&#382;&#237;van&#253;m pro zad&#225;v&#225;n&#237; zna&#269;kovac&#237;ho jazyka pro p&#345;&#237;kazy funkc&#237; do Editoru vzorc&#367;, vyberte &lt;f0&gt;Funkce&lt;/f0&gt; z rozev&#237;rac&#237;ho seznamu v horn&#237; &#269;&#225;sti panelu Prvky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The symbol appears in the left preview pane at the bottom of the Edit Symbols dialog (Figure &lt;t1&gt;23&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Symbol se zobraz&#237; v lev&#233;m podokn&#283; n&#225;hledu v doln&#237; &#269;&#225;sti dialogov&#233;ho okna Upravit symboly (obr&#225;zek &lt;t1&gt;23&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.5</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the symbol you want to use in your formula in the Elements panel.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Na panelu Prvky vyberte symbol, kter&#253; chcete pou&#382;&#237;t ve vzorci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.325568154457157</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.325568154457157</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.857167300702112</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.857167300702112</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;LibreOffice&lt;/f0&gt; if you want the new keyboard shortcut to be set for all components of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pokud chcete novou kl&#225;vesovou zkratku nastavit pro v&#353;echny sou&#269;&#225;sti LibreOffice, vyberte mo&#382;nost &lt;f0&gt;LibreOffice&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This appendix lists the operators and commands that are available for use in the Formula Editor when you are creating formulas.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V t&#233;to p&#345;&#237;loze jsou uvedeny oper&#225;tory a p&#345;&#237;kazy, kter&#233; jsou k dispozici v Editoru vzorc&#367; p&#345;i vytv&#225;&#345;en&#237; vzorc&#367;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.629320391049837</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.629320391049837</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.629320391049838</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.629320391049838</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.4226182617407</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.4226182617407</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.0174524064372831</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.0174524064372831</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.0174524064372835</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.0174524064372835</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.92050485345244</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.92050485345244</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.207911690817759</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.207911690817759</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;View &gt; Elements&lt;/f0&gt; on the Menu bar to open the &lt;i1/&gt;Elements panel.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>P&#345;ejd&#283;te na &lt;f0&gt;Zobrazen&#237; &gt; Prvky&lt;/f0&gt; na panelu nab&#237;dek a otev&#345;ete panel &lt;i1/&gt;Prvky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Double-clicking on an inserted formula will open the Formula Editor in LibreOffice Math, allowing you to edit the formula.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dvojklikem na vlo&#382;en&#253; vzorec se otev&#345;e Editor vzorc&#367; v LibreOffice Math, kter&#253; v&#225;m umo&#382;n&#237; vzorec upravit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Color aqua (same as cyan)</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Barva aqua (stejn&#225; jako azurov&#225;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.996194698091746</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.996194698091746</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.642787609686539</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.642787609686539</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For commercial use:</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pro komer&#269;n&#237; pou&#382;it&#237;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.994521895368273</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.994521895368273</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download LibreOffice for free from:&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>St&#225;hn&#283;te si LibreOffice zdarma z:&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &#8220;&lt;bf2&gt;Formulas as separate documents or files&lt;/bf2&gt;&#8221; on page &lt;bf3&gt;11&lt;/bf3&gt;&lt;s4/&gt;for more information.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dal&#353;&#237; informace naleznete v &#269;&#225;sti &#8222;&lt;bf2&gt;Vzorce jako samostatn&#233; dokumenty nebo soubory&lt;/bf2&gt;&#8220; na stran&#283; &lt;bf3&gt;11&lt;/bf3&gt;&lt;s4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.998629534754574</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.998629534754574</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.731353701619171</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.731353701619171</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.939692620785908</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.939692620785908</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This turns the Formula Editor into the Commands dialog (Figure &lt;t1&gt;18&lt;/t1&gt;) and the Elements panel into the Elements dialog (Figure &lt;t2&gt;19&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>T&#237;m se Editor vzorc&#367; zm&#283;n&#237; na dialogov&#233; okno P&#345;&#237;kazy (obr&#225;zek &lt;t1&gt;18&lt;/t1&gt;) a panel Prvky na dialogov&#233; okno Prvky (obr&#225;zek &lt;t2&gt;19&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.945518575599317</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.945518575599317</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &#8220;&lt;bf0&gt;Catalog customization&lt;/bf0&gt;&#8221; on page &lt;bf1&gt;51&lt;/bf1&gt;&lt;s2/&gt;for more information on how to add symbols to the Catalog.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dal&#353;&#237; informace o p&#345;id&#225;v&#225;n&#237; symbol&#367; do Katalogu naleznete v &#269;&#225;sti &#8222;&lt;bf0&gt;P&#345;izp&#367;soben&#237; Katalogu&lt;/bf0&gt;&#8220; na stran&#283; &lt;bf1&gt;51&lt;/bf1&gt;&lt;s2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To access the icons used for entering markup language for unary/binary operator commands into the Formula Editor, select &lt;f0&gt;Unary/Binary Operators&lt;/f0&gt; from the drop-down list at the top of the Elements panel.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Chcete-li z&#237;skat p&#345;&#237;stup k ikon&#225;m pou&#382;&#237;van&#253;m pro zad&#225;v&#225;n&#237; zna&#269;kovac&#237;ho jazyka pro p&#345;&#237;kazy un&#225;rn&#237;ch/bin&#225;rn&#237;ch oper&#225;tor&#367; do Editoru vzorc&#367;, vyberte &lt;f0&gt;Un&#225;rn&#237;/bin&#225;rn&#237; oper&#225;tory&lt;/f0&gt; z rozev&#237;rac&#237;ho seznamu v horn&#237; &#269;&#225;sti panelu Prvky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information on how to change fonts in a formula, see &#8220;&lt;bf0&gt;Formula fonts&lt;/bf0&gt;&#8221; on page &lt;s1/&gt;&lt;bf2&gt;26&lt;/bf2&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dal&#353;&#237; informace o tom, jak zm&#283;nit p&#237;sma ve vzorci, najdete v &#269;&#225;sti &#8222;&lt;bf0&gt;P&#237;sma vzorc&#367;&lt;/bf0&gt;&#8220; na stran&#283; &lt;s1/&gt;&lt;bf2&gt;26&lt;/bf2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.798635510047293</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.798635510047293</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.848048096156426</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.848048096156426</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>V&#237;tor Ferreira</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V&#237;tor Ferreira</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.656059028990507</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.656059028990507</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.559192903470747</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.559192903470747</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.681998360062498</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.681998360062498</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.374606593415912</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.374606593415912</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.974370064785235</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.974370064785235</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The first way is to edit the object properties by right-clicking the Math object and then going to &lt;f0&gt;Properties &gt; Wrap&lt;/f0&gt; and adjust the &lt;f1&gt;Spacing&lt;/f1&gt; fields to the desired values.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Prvn&#237;m zp&#367;sobem je upravit vlastnosti objektu kliknut&#237;m prav&#253;m tla&#269;&#237;tkem my&#353;i na objekt Math a pot&#233; p&#345;ej&#237;t na &lt;f0&gt;Vlastnosti &gt; Obt&#233;k&#225;n&#237; textu&lt;/f0&gt; a upravit pole &lt;f1&gt;Spacing&lt;/f1&gt; na po&#382;adovan&#233; hodnoty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.913545457642601</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.913545457642601</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.104528463267653</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.104528463267653</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Frac (Fraction)</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Frakce (frakce)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.970295726275996</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.970295726275996</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.891006524188368</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.891006524188368</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.275637355816999</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.275637355816999</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.992546151641322</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.992546151641322</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information on how to install extensions, see Chapter 14, Customizing LibreOffice, in the &lt;f1&gt;Getting Started Guide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dal&#353;&#237; informace o instalaci roz&#353;&#237;&#345;en&#237; najdete v kapitole 14, P&#345;izp&#367;soben&#237; LibreOffice, v &lt;f1&gt;P&#345;&#237;ru&#269;ce pro za&#269;&#225;te&#269;n&#237;ky&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To display the Help system, press &lt;f0&gt;F1&lt;/f0&gt; or go to &lt;f1&gt;Help &gt; LibreOffice Help&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Chcete-li zobrazit syst&#233;m N&#225;pov&#283;da, stiskn&#283;te kl&#225;vesu &lt;f0&gt;F1&lt;/f0&gt; nebo p&#345;ejd&#283;te na &lt;f1&gt;N&#225;pov&#283;da &gt; LibreOffice N&#225;pov&#283;da&lt;/f1&gt; na panelu nab&#237;dek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.292371704722736</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.292371704722736</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.719339800338651</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.719339800338651</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.719339800338652</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.719339800338652</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.17364817766693</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.17364817766693</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select MathML from the list of available file formats in File type to save your formula object as MathML.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Chcete-li objekt vzorce ulo&#382;it jako MathML, vyberte v seznamu dostupn&#253;ch form&#225;t&#367; soubor&#367; v poli Typ souboru mo&#382;nost MathML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.99026806874157</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.99026806874157</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Support and documentation is free from a large, dedicated community of users, contributors, and developers.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Podpora a dokumentace je zdarma od rozs&#225;hl&#233; komunity u&#382;ivatel&#367;, p&#345;isp&#283;vatel&#367; a v&#253;voj&#225;&#345;&#367;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.766044443118978</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.766044443118978</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.857167300702112</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.857167300702112</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.0348994967025005</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.0348994967025005</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.0348994967025001</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.0348994967025001</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.0348994967025008</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.0348994967025008</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.809016994374947</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.809016994374947</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Edit Symbols dialog (Figure &lt;t0&gt;23&lt;/t0&gt;), select the symbol name you want to change from the &lt;f1&gt;Old symbol&lt;/f1&gt; drop-down list.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V dialogov&#233;m okn&#283; Upravit symboly (obr&#225;zek &lt;t0&gt;23&lt;/t0&gt;) vyberte n&#225;zev symbolu, kter&#253; chcete zm&#283;nit, z rozev&#237;rac&#237;ho seznamu &lt;f1&gt;Star&#253; symbol&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can remove that extra spacing in two ways.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Tyto dodate&#269;n&#233; mezery m&#367;&#382;ete odstranit dv&#283;ma zp&#367;soby.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.104528463267653</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.104528463267653</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.669130606358858</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.669130606358858</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>color aqua {&lt;?&gt;}</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>barva aqua {&lt;?&gt;}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you require a multiple line formula to have an equals sign at the end of a line without a term after the equals sign, then use empty quotes &#8220;&#8221; or empty braces {} or the space characters grave ` or tilde &#732;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pokud po&#382;adujete, aby v&#237;ce&#345;&#225;dkov&#253; vzorec m&#283;l na konci &#345;&#225;dku znak rovn&#237;tka bez v&#253;razu za znakem rovn&#237;tka, pou&#382;ijte pr&#225;zdn&#233; uvozovky &#8222;&#8220; nebo pr&#225;zdn&#233; z&#225;vorky {} nebo znaky mezery grave ` nebo tildu &#732;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.139173100960066</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.139173100960066</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.139173100960065</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.139173100960065</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.615661475325659</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.615661475325659</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.615661475325658</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.615661475325658</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Edit Symbols dialog (Figure &lt;t0&gt;23&lt;/t0&gt;), in the &lt;f1&gt;Old symbol set&lt;/f1&gt; drop-down list, select the symbol set from which you want to delete the symbol.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V dialogov&#233;m okn&#283; Upravit symboly (obr&#225;zek &lt;t0&gt;23&lt;/t0&gt;) vyberte v rozev&#237;rac&#237;m seznamu &lt;f1&gt;Star&#225; sada symbol&#367;&lt;/f1&gt; sadu symbol&#367;, ze kter&#233; chcete symbol odstranit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Appendix A, Commands Reference</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dodatek A, Reference p&#345;&#237;kaz&#367;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.754709580222772</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.754709580222772</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.529919264233205</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.529919264233205</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.0871557427476582</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.0871557427476582</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.788010753606722</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.788010753606722</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The symbol appears in the left preview pane at the bottom of the Edit Symbols dialog.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Symbol se zobraz&#237; v lev&#233;m podokn&#283; n&#225;hledu v doln&#237; &#269;&#225;sti dialogov&#233;ho okna Upravit symboly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Color coral</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Kor&#225;lov&#225; barva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.0871557427476585</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.0871557427476585</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.999390827019096</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.999390827019096</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.3583679495453</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.3583679495453</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>color orange {&lt;?&gt;}</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>barva oran&#382;ov&#225; {&lt;?&gt;}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In LibreOffice, formulas can be inserted as objects into Writer, Impress, Draw, and Calc documents.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V LibreOffice lze vzorce vkl&#225;dat jako objekty do dokument&#367; Writer, Impress, Draw a Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;10&lt;/seq0&gt;: Format commands</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Tabulka &lt;seq0&gt;10&lt;/seq0&gt;: Form&#225;tovac&#237; p&#345;&#237;kazy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are working in another LibreOffice component, right-click on the formula object and select &lt;f0&gt;Save copy as&lt;/f0&gt; from the context menu to open the Save as dialog.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pokud pracujete v jin&#233; sou&#269;&#225;sti LibreOffice, klikn&#283;te na objekt vzorce prav&#253;m tla&#269;&#237;tkem my&#353;i a z kontextov&#233; nab&#237;dky vyberte &lt;f0&gt;Ulo&#382;it kopii jako&lt;/f0&gt;, &#269;&#237;m&#382; otev&#345;ete dialogov&#233; okno Ulo&#382;it jako.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.258819045102521</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.258819045102521</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.121869343405148</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.121869343405148</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.453990499739547</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.453990499739547</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.743144825477394</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.743144825477394</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This can be done by following the steps described above to assign a shortcut to the function &lt;f0&gt;Formula&lt;/f0&gt; in the category &lt;f1&gt;Insert&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Toho lze dos&#225;hnout v&#253;&#353;e popsan&#253;m postupem p&#345;i&#345;azen&#237; zkratky funkci &lt;f0&gt;Vzorec&lt;/f0&gt; v kategorii &lt;f1&gt;Vlo&#382;it&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.656059028990507</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.656059028990507</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.777145961456972</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.777145961456972</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.777145961456971</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.777145961456971</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.974370064785235</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.974370064785235</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To access the icons used for entering markup language for set operation commands into the Formula Editor, select &lt;f0&gt;Set Operations&lt;/f0&gt; from the drop-down list at the top of the Elements panel.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Chcete-li z&#237;skat p&#345;&#237;stup k ikon&#225;m pou&#382;&#237;van&#253;m pro zad&#225;v&#225;n&#237; zna&#269;kovac&#237;ho jazyka pro p&#345;&#237;kazy nastaven&#253;ch operac&#237; do Editoru vzorc&#367;, vyberte &lt;f0&gt;Mno&#382;inov&#233; operace&lt;/f0&gt; z rozev&#237;rac&#237;ho seznamu v horn&#237; &#269;&#225;sti panelu Prvky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.681998360062499</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.681998360062499</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.681998360062498</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.681998360062498</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 1, Creating and Editing Formulas</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Kapitola 1, Vytv&#225;&#345;en&#237; a &#250;pravy vzorc&#367;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.156434465040231</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.156434465040231</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Formula in a Writer document</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;3&lt;/seq0&gt;: Vzorec v dokumentu Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Refer to &#8220;&lt;bf1&gt;Attributes&lt;/bf1&gt;&#8221; on page &lt;bf2&gt;65&lt;/bf2&gt;&lt;s3/&gt;for a list of predefined color names.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Seznam p&#345;eddefinovan&#253;ch n&#225;zv&#367; barev najdete v &#269;&#225;sti &#8222;&lt;bf1&gt;Atributy&lt;/bf1&gt;&#8220; na stran&#283; &lt;bf2&gt;65&lt;/bf2&gt;&lt;s3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.978147600733806</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.978147600733806</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.669130606358858</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.669130606358858</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Color hotpink</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Barva hotpink</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have added custom fonts to Math (see &#8220;&lt;bf0&gt;Formula fonts&lt;/bf0&gt;&#8221; on page &lt;bf1&gt;26&lt;/bf1&gt;), then you can replace the first placeholder with the custom font name.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pokud jste p&#345;idali do Math vlastn&#237; p&#237;sma (viz &#8222;&lt;bf0&gt;P&#237;sma vzorc&#367;&lt;/bf0&gt;&#8220; na stran&#283; &lt;bf1&gt;26&lt;/bf1&gt;), m&#367;&#382;ete prvn&#237; z&#225;stupn&#253; symbol nahradit n&#225;zvem vlastn&#237;ho p&#237;sma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.615661475325658</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.615661475325658</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.987688340595138</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.987688340595138</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a1&gt;https://libreoffice.org/downloads/&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;a1&gt;https://libreoffice.org/downloads/&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This chapter explains what options you can change for each individual formula within a Writer document.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V t&#233;to kapitole je vysv&#283;tleno, jak&#233; mo&#382;nosti m&#367;&#382;ete m&#283;nit u jednotliv&#253;ch vzorc&#367; v dokumentu Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &#8220;&lt;bf0&gt;Catalog customization&lt;/bf0&gt;&#8221; on page &lt;bf1&gt;51&lt;/bf1&gt;&lt;s2/&gt;for more information.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dal&#353;&#237; informace naleznete v &#269;&#225;sti &#8222;&lt;bf0&gt;P&#345;izp&#367;soben&#237; katalogu&lt;/bf0&gt;&#8220; na stran&#283; &lt;bf1&gt;51&lt;/bf1&gt;&lt;s2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.998629534754574</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.998629534754574</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Search Commands&lt;/f0&gt; In Writer, Calc, Impress, and Draw (but not Base or Math), opens a window where you can type a few letters or the name of a Menu bar command, to quickly find where the command is located.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;f0&gt;Hledat p&#345;&#237;kazy&lt;/f0&gt; V aplikac&#237;ch Writer, Calc, Impress a Draw (nikoli v&#353;ak Base nebo Math) otev&#345;e okno, do kter&#233;ho m&#367;&#382;ete zadat n&#283;kolik p&#237;smen nebo n&#225;zev p&#345;&#237;kazu na panelu nab&#237;dek a rychle naj&#237;t, kde se p&#345;&#237;kaz nach&#225;z&#237;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.544639035015027</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.544639035015027</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.939692620785909</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.939692620785909</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.939692620785908</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.939692620785908</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The icons you see for some of the many tools available in LibreOffice may differ from the ones used in this guide.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Ikony n&#283;kter&#253;ch z mnoha n&#225;stroj&#367; dostupn&#253;ch v LibreOffice se mohou li&#353;it od ikon pou&#382;it&#253;ch v t&#233;to p&#345;&#237;ru&#269;ce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.601815023152048</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.601815023152048</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The more common operators and commands can be entered by clicking on the appropriate icon in the Elements panel.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Nejb&#283;&#382;n&#283;j&#353;&#237; oper&#225;tory a p&#345;&#237;kazy lze zadat kliknut&#237;m na p&#345;&#237;slu&#353;nou ikonu na panelu Prvky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Postupnos&#357;1</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Sekvence1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>112</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>112</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>117</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>117</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The default fonts are Serif, Sans, or Fixed.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V&#253;choz&#237; p&#237;sma jsou Serif, Sans nebo Fixed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;File &gt; Save As&lt;/f0&gt; on the main Menu bar or use the keyboard shortcut &lt;f1&gt;Ctrl+Shift+S&lt;/f1&gt; to open a Save As dialog.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>P&#345;ejd&#283;te na &lt;f0&gt;Soubor &gt; Ulo&#382;it jako&lt;/f0&gt; na hlavn&#237;m panelu Nab&#237;dka nebo pomoc&#237; kl&#225;vesov&#233; zkratky &lt;f1&gt;Ctrl+Shift+S&lt;/f1&gt; otev&#345;ete dialogov&#233; okno Ulo&#382;it jako.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.809016994374947</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.809016994374947</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>123</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>123</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>124</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>124</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>129</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>129</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.469471562785891</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.469471562785891</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.874619707139396</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.874619707139396</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This user guide has been updated from &lt;f0&gt;Math Guide 7.2&lt;/f0&gt; It covers some of the new features in LibreOffice 7.3, 7.4 and 7.5 that are visible in the user interface, including:</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Tato u&#382;ivatelsk&#225; p&#345;&#237;ru&#269;ka byla aktualizov&#225;na z &lt;f0&gt;Pr&#367;vodce matematikou 7.2&lt;/f0&gt; Zahrnuje n&#283;kter&#233; nov&#233; funkce v LibreOffice 7.3, 7.4 a 7.5, kter&#233; jsou viditeln&#233; v u&#382;ivatelsk&#233;m rozhran&#237;, v&#269;etn&#283;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Tools &gt; Symbols&lt;/f0&gt; on the Menu bar or click on the Symbols icon on the Tools toolbar to open the Symbols dialog (Figure &lt;t1&gt;22&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>P&#345;ejd&#283;te na &lt;f0&gt;N&#225;stroje &gt; Symboly&lt;/f0&gt; na panelu nab&#237;dek nebo kliknut&#237;m na ikonu Symboly na panelu n&#225;stroj&#367; N&#225;stroje otev&#345;ete dialogov&#233; okno Symboly (obr&#225;zek &lt;t1&gt;22&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>133</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>133</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 2, Formulas in Writer</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Kapitola 2, Vzorce v aplikaci Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What is new in LibreOffice Math 7.5 Community?</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Co je nov&#233;ho v LibreOffice Math 7.5 Community?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is not available when you are editing a formula in a LibreOffice document.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>P&#345;i &#250;prav&#283; vzorce v dokumentu LibreOffice nen&#237; k dispozici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;23&lt;/seq0&gt;: Edit Symbols dialog</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;23&lt;/seq0&gt;: Dialogov&#233; okno Upravit symboly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>141</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>141</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>142</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>142</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>149</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>149</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To create a matrix where some values are empty, you can use the grave accent (`) so that Math will put a small space in that position, as shown in the example below:</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Chcete-li vytvo&#345;it matici, v n&#237;&#382; jsou n&#283;kter&#233; hodnoty pr&#225;zdn&#233;, m&#367;&#382;ete pou&#382;&#237;t hv&#283;zdi&#269;ku (`), aby Math na toto m&#237;sto vlo&#382;il malou mezeru, jak je zn&#225;zorn&#283;no v p&#345;&#237;kladu n&#237;&#382;e:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>150</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>150</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>153</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>153</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.224951054343865</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.224951054343865</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.224951054343864</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.224951054343864</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is most commonly used in Writer for text documents, but it can also be used with other types of documents or stand-alone.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Nej&#269;ast&#283;ji se pou&#382;&#237;v&#225; v aplikaci Writer pro textov&#233; dokumenty, ale lze jej pou&#382;&#237;t i pro jin&#233; typy dokument&#367; nebo samostatn&#283;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to insert your formula as an OLE object in the document and close the OLE Object dialog.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Kliknut&#237;m na tla&#269;&#237;tko &lt;f0&gt;OK&lt;/f0&gt; vlo&#382;te vzorec do dokumentu jako objekt OLE a zav&#345;ete dialogov&#233; okno Objekt OLE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.173648177666931</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.173648177666931</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.275637355816999</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.275637355816999</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information, see &#8220;&lt;bf0&gt;Background and borders&lt;/bf0&gt;&#8221; on page &lt;bf1&gt;40&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dal&#353;&#237; informace naleznete v &#269;&#225;sti &#8222;&lt;bf0&gt;Pozad&#237; a okraje&lt;/bf0&gt;&#8220; na stran&#283; &lt;bf1&gt;40&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>160</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>160</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>161</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>161</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>162</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>162</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click on the formula and select &lt;f0&gt;Properties&lt;/f0&gt; from the context menu, or go to &lt;f1&gt;Format &gt; Frame and Object &gt; Properties&lt;/f1&gt; on the Menu bar to open the object dialog.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Klikn&#283;te prav&#253;m tla&#269;&#237;tkem my&#353;i na vzorec a z kontextov&#233; nab&#237;dky vyberte &lt;f0&gt;Vlastnosti&lt;/f0&gt; nebo p&#345;ejd&#283;te na &lt;f1&gt;Form&#225;t &gt; R&#225;mec a objekt &gt; Vlastnosti&lt;/f1&gt; na panelu nab&#237;dek a otev&#345;ete dialogov&#233; okno objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Double-click the Greek character you want to insert, or select it and click &lt;f0&gt;Insert&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dvakr&#225;t klikn&#283;te na &#345;eck&#253; znak, kter&#253; chcete vlo&#382;it, nebo jej vyberte a klikn&#283;te na &lt;f0&gt;Vlo&#382;it&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.5</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In LibreOffice, go to &lt;f0&gt;File &gt; New &gt; Formula&lt;/f0&gt; on the Menu bar, or click on &lt;f1&gt;Math Formula&lt;/f1&gt; in the Start Center to open LibreOffice Math and create your formula using the Formula Editor.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V LibreOffice p&#345;ejd&#283;te na &lt;f0&gt;Soubor &gt; Nov&#253; &gt; Vzorec&lt;/f0&gt; na panelu nab&#237;dek nebo klikn&#283;te na &lt;f1&gt;Vzorec&lt;/f1&gt; v Centru start, &#269;&#237;m&#382; otev&#345;ete LibreOffice Math a vytvo&#345;te vzorec pomoc&#237; editoru Vzorec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>170</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>170</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>171</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>171</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>172</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>172</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>174</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>174</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>175</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>175</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;: Assigning a shortcut to insert new Math objects in Writer</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Obr&#225;zek &lt;seq0&gt;21&lt;/seq0&gt;: P&#345;i&#345;azen&#237; kl&#225;vesov&#233; zkratky pro vkl&#225;d&#225;n&#237; nov&#253;ch matematick&#253;ch objekt&#367; v aplikaci Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>187</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>187</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Math is a simple formula editor that lets you lay out and display mathematical, chemical, electrical, or scientific formulas quickly in standard written notation.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Math je jednoduch&#253; editor vzorc&#367;, kter&#253; umo&#382;&#328;uje rychle rozvrhnout a zobrazit matematick&#233;, chemick&#233;, elektrick&#233; nebo v&#283;deck&#233; vzorce ve standardn&#237;m p&#237;semn&#233;m z&#225;pisu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &#8220;&lt;bf0&gt;Adjusting formula spacing&lt;/bf0&gt;&#8221; on page &lt;bf1&gt;28&lt;/bf1&gt;&lt;s2/&gt;for more information.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dal&#353;&#237; informace naleznete v &#269;&#225;sti &#8222;&lt;bf0&gt;&#218;prava rozestup&#367; vzorc&#367;&lt;/bf0&gt;&#8220; na stran&#283; &lt;bf1&gt;28&lt;/bf1&gt;&lt;s2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.544639035015027</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.544639035015027</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.987688340595138</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.987688340595138</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A list of all brackets available within Math can be found in &lt;f2&gt;&lt;bf3&gt;Appendix A, Commands Reference&lt;/bf3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Seznam v&#353;ech z&#225;vorek, kter&#233; jsou v r&#225;mci Math k dispozici, najdete v &lt;f2&gt;&lt;bf3&gt;P&#345;&#237;loha A, Reference p&#345;&#237;kaz&#367;&lt;/bf3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;12&lt;/seq0&gt;: Uppercase Greek characters</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Tabulka &lt;seq0&gt;12&lt;/seq0&gt;: Velk&#233; &#345;eck&#233; znaky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;11&lt;/seq0&gt;: Other commands</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Tabulka &lt;seq0&gt;11&lt;/seq0&gt;: Dal&#353;&#237; p&#345;&#237;kazy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Entering the markup command &lt;f0&gt;func&lt;/f0&gt; before a function forces Math to recognize the following text as a function.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Zad&#225;n&#237; zna&#269;kovac&#237;ho p&#345;&#237;kazu &lt;f0&gt;func&lt;/f0&gt; p&#345;ed funkci p&#345;inut&#237; Math rozpoznat n&#225;sleduj&#237;c&#237; text jako funkci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.121869343405147</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.121869343405147</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the&lt;f0&gt; Function list&lt;/f0&gt;, select &lt;f1&gt;Import Formula&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V seznamu&lt;f0&gt; Funkce&lt;/f0&gt; vyberte mo&#382;nost &lt;f1&gt;Importovat vzorec&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.0523359562429437</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.0523359562429437</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.0523359562429438</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.0523359562429438</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Edit Symbols dialog (Figure &lt;t0&gt;23&lt;/t0&gt;), in the &lt;f1&gt;Old symbol set&lt;/f1&gt; drop-down list, select the symbol set where the symbol you want to move is located.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V dialogov&#233;m okn&#283; Upravit symboly (obr&#225;zek &lt;t0&gt;23&lt;/t0&gt;) vyberte v rozev&#237;rac&#237;m seznamu &lt;f1&gt;Star&#225; sada symbol&#367;&lt;/f1&gt; sadu symbol&#367;, ve kter&#233; se nach&#225;z&#237; symbol, kter&#253; chcete p&#345;esunout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 5, Exporting and Importing</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Kapitola 5, Export a import</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For that purpose, you should use LibreOffice Calc; see the &lt;f0&gt;Calc Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>K tomuto &#250;&#269;elu byste m&#283;li pou&#382;&#237;t LibreOffice Calc; viz &lt;f0&gt;Pr&#367;vodce Calcem&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>color hex 000000 {&lt;?&gt;}</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>barva hex 000000 {&lt;?&gt;}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Greek characters are commonly used in formulas, but they cannot be entered into a formula using the Elements panel or the context menu.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&#344;eck&#233; znaky se ve vzorc&#237;ch b&#283;&#382;n&#283; pou&#382;&#237;vaj&#237;, ale nelze je do vzorce zadat pomoc&#237; panelu prvk&#367; nebo kontextov&#233; nab&#237;dky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Information on professional support services at:&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Informace o profesion&#225;ln&#237;ch podp&#367;rn&#253;ch slu&#382;b&#225;ch na adrese:&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Color orangered</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Barva oran&#382;ov&#225;&#269;erven&#225;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;3&lt;/seq0&gt;: Unary/binary commands</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Tabulka &lt;seq0&gt;3&lt;/seq0&gt;: Un&#225;rn&#237;/bin&#225;rn&#237; p&#345;&#237;kazy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For a complete list of commands and symbols available in Math, see &lt;bf0&gt;Appendix A, Commands Reference&lt;/bf0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&#218;pln&#253; seznam p&#345;&#237;kaz&#367; a symbol&#367; dostupn&#253;ch v Math najdete v &lt;bf0&gt;P&#345;&#237;loze A, Reference p&#345;&#237;kaz&#367;&lt;/bf0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.587785252292473</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.587785252292473</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.798635510047293</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.798635510047293</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>0.17364817766693</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>0.17364817766693</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.731353701619171</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.731353701619171</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.529919264233206</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.529919264233206</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.529919264233205</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.529919264233205</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.999390827019096</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.999390827019096</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For information on the named colors available in Math, see &#8220;&lt;bf0&gt;Attributes&lt;/bf0&gt;&#8221; on page &lt;bf1&gt;65&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Informace o pojmenovan&#253;ch barv&#225;ch dostupn&#253;ch v Math najdete v &#269;&#225;sti &#8222;&lt;bf0&gt;Atributy&lt;/bf0&gt;&#8220; na stran&#283; &lt;bf1&gt;65&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.99026806874157</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.99026806874157</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the markup language shown in the following tables, you have to replace the place holder &lt;?&gt; with the value you want to use in your formulas.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Ve zna&#269;kovac&#237;m jazyce uveden&#233;m v n&#225;sleduj&#237;c&#237;ch tabulk&#225;ch je t&#345;eba nahradit z&#225;stupn&#253; symbol &lt;?&gt; hodnotou, kterou chcete ve vzorc&#237;ch pou&#382;&#237;t.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.788010753606722</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.788010753606722</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-0.984807753012208</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>-0.984807753012208</seg>
+      </tuv>
+    </tu>
+    </body>
+</tmx>
