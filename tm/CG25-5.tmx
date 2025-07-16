@@ -5,34 +5,10 @@
   <body>
     <tu>
       <tuv lang="EN">
-        <seg>See &#8220;&lt;bf1&gt;Header or footer contents&lt;/bf1&gt;&#8221; &lt;bf2&gt;below&lt;/bf2&gt;&lt;s3/&gt;for more information.</seg>
-      </tuv>
-      <tuv lang="CS">
-        <seg>Viz &#8222;&lt;bf1&gt;Obsah z&#225;hlav&#237; nebo z&#225;pat&#237;&lt;/bf1&gt;&#8220;. &lt;bf2&gt;dole&lt;/bf2&gt;&lt;s3/&gt; pro v&#237;ce informac&#237;.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Repeat printing of rows and columns</seg>
       </tuv>
       <tuv lang="CS">
         <seg>Opakovan&#253; tisk &#345;&#225;dk&#367; a sloupc&#367;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Select which sheets and pages to print; single or double-sided printing; the number of copies to print; whether to collate multiple copies; and the page order for printing.</seg>
-      </tuv>
-      <tuv lang="CS">
-        <seg>Vyberte, kter&#233; listy a str&#225;nky se maj&#237; tisknout, zda se m&#225; tisknout jednostrann&#283; nebo oboustrann&#283;, po&#269;et kopi&#237;, zda se m&#225; v&#237;ce kopi&#237; sjednotit a po&#345;ad&#237; str&#225;nek pro tisk.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Claire wood</seg>
-      </tuv>
-      <tuv lang="CS">
-        <seg>Claire wood</seg>
       </tuv>
     </tu>
     <tu>
@@ -45,10 +21,10 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;f0&gt;Shrink print range(s) to width/height &lt;/f0&gt;&#8211; specifies the maximum number of pages horizontally (width) and vertically (height) on which every sheet with the current page style is to be printed.</seg>
+        <seg>Added Of-pie charts entry in Chapter 6, Gallery of Charts Types (Olivier Hallot)</seg>
       </tuv>
       <tuv lang="CS">
-        <seg>&lt;f0&gt;Z&#250;&#382;it rozsah(y) tisku na &#353;&#237;&#345;ku/v&#253;&#353;ku &lt;/f0&gt;&#8211; ur&#269;uje maxim&#225;ln&#237; po&#269;et str&#225;nek ve vodorovn&#233;m (&#353;&#237;&#345;ka) a svisl&#233;m (v&#253;&#353;ka) sm&#283;ru, na kter&#233; se m&#225; vytisknout ka&#382;d&#253; list s aktu&#225;ln&#237;m stylem str&#225;nky.</seg>
+        <seg>P&#345;id&#225;na polo&#382;ka Of-pie grafy v kapitole 6, Galerie typ&#367; graf&#367; (Olivier Hallot)</seg>
       </tuv>
     </tu>
     <tu>
@@ -61,14 +37,6 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>PDF Options dialog &#8211; Digital Signatures tab</seg>
-      </tuv>
-      <tuv lang="CS">
-        <seg>Dialogov&#233; okno Mo&#382;nosti PDF &#8211; karta Digit&#225;ln&#237; podpisy</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Single print range marked by a bounding box</seg>
       </tuv>
       <tuv lang="CS">
@@ -77,42 +45,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;s0&gt;Select X.509 Certificate dialog&lt;/s0&gt;&lt;s1&gt;Select X.509 Certificate dialog&lt;/s1&gt;</seg>
+        <seg>&lt;t0&gt;10&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Calc Guide 25.2 - Preface&lt;/t2&gt;</seg>
       </tuv>
       <tuv lang="CS">
-        <seg>&lt;s0&gt;Dialogov&#233; okno V&#253;b&#283;r certifik&#225;tu X.509&lt;/s0&gt;&lt;s1&gt;Dialogov&#233; okno V&#253;b&#283;r certifik&#225;tu X.509&lt;/s1&gt;</seg>
+        <seg>&lt;t0&gt;10&lt;/t0&gt;&lt;s1/&gt;&lt;s1/&gt;&lt;| &lt;t2&gt;Pr&#367;vodce v&#253;po&#269;ty 25.2 &#8211; P&#345;edmluva&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Select an available printer from the list of installed printers.</seg>
+        <seg>&lt;s0&gt;Dialog showing common controls&lt;/s0&gt; &lt;s1&gt;Dialog showing common controls&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="CS">
-        <seg>Vyberte dostupnou tisk&#225;rnu ze seznamu nainstalovan&#253;ch tisk&#225;ren.</seg>
+        <seg>&lt;s0&gt;Dialog zobrazuj&#237;c&#237; b&#283;&#382;n&#233; ovl&#225;dac&#237; prvky&lt;/s0&gt; &lt;s1&gt;Dialog zobrazuj&#237;c&#237; b&#283;&#382;n&#233; ovl&#225;dac&#237; prvky&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Choosing a named range for printing</seg>
+        <seg>&lt;f0&gt;Tools &gt; Options &lt;/f0&gt;on Menu bar</seg>
       </tuv>
       <tuv lang="CS">
-        <seg>V&#253;b&#283;r pojmenovan&#233;ho rozsahu pro tisk</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Calc Guide 25.2 - Chapter 8 , Printing, Exporting, Emailing, and Signing</seg>
-      </tuv>
-      <tuv lang="CS">
-        <seg>Pr&#367;vodce Calc 25.2 &#8211; Kapitola 8 , Tisk, export, odes&#237;l&#225;n&#237; e-mailem a podepisov&#225;n&#237;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;s0&gt;PDF Options dialog &#8211; General tab&lt;/s0&gt;&lt;s1&gt;PDF Options dialog &#8211; General tab&lt;/s1&gt;</seg>
-      </tuv>
-      <tuv lang="CS">
-        <seg>&lt;s0&gt;Dialogov&#233; okno Mo&#382;nosti PDF &#8211; karta Obecn&#233;&lt;/s0&gt;&lt;s1&gt;Dialogov&#233; okno Mo&#382;nosti PDF &#8211; karta Obecn&#233;&lt;/s1&gt;</seg>
+        <seg>&lt;f0&gt;N&#225;stroje &gt; Mo&#382;nosti &lt;/f0&gt;na panelu nab&#237;dek</seg>
       </tuv>
     </tu>
     <tu>
@@ -133,34 +85,10 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>LibreOffice provides several ways to quickly and easily send a document as an email attachment in OpenDocument format (LibreOffice default format), other spreadsheet formats, or as a PDF file.</seg>
+        <seg>Added Data Provider section in chapter 15, Calc as a Database (Ed Olson)</seg>
       </tuv>
       <tuv lang="CS">
-        <seg>LibreOffice nab&#237;z&#237; n&#283;kolik zp&#367;sob&#367;, jak rychle a snadno odeslat dokument jako p&#345;&#237;lohu e-mailu ve form&#225;tu OpenDocument (v&#253;choz&#237; form&#225;t LibreOffice), v jin&#253;ch tabulkov&#253;ch form&#225;tech nebo jako soubor PDF.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Page Style dialog &#8211; Header tab</seg>
-      </tuv>
-      <tuv lang="CS">
-        <seg>Dialogov&#233; okno Styl str&#225;nky &#8211; karta Z&#225;hlav&#237;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;s0&gt;Print dialog &#8211; General tab&lt;/s0&gt;&lt;s1&gt;Print dialog &#8211; General tab&lt;/s1&gt;</seg>
-      </tuv>
-      <tuv lang="CS">
-        <seg>&lt;s0&gt;Dialogov&#233; okno Tisk &#8211; karta Obecn&#233;&lt;/s0&gt;&lt;s1&gt;Dialogov&#233; okno Tisk &#8211; karta Obecn&#233;&lt;/s1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Printing more than one spreadsheet page per sheet of paper</seg>
-      </tuv>
-      <tuv lang="CS">
-        <seg>Tisk v&#237;ce ne&#382; jedn&#233; str&#225;nky tabulky na jeden list pap&#237;ru</seg>
+        <seg>V kapitole 15, Calc jako datab&#225;ze, p&#345;id&#225;na &#269;&#225;st o poskytovateli dat (Ed Olson)</seg>
       </tuv>
     </tu>
     <tu>
@@ -181,6 +109,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For Calc, Java is needed to run some of the solver engines described in Chapter 10, Data Analysis.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pro Calc je Java pot&#345;ebn&#225; ke spu&#353;t&#283;n&#237; n&#283;kter&#253;ch &#345;e&#353;i&#269;&#367; popsan&#253;ch v kapitole 10, Anal&#253;za dat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PDF options dialog - Links tab</seg>
       </tuv>
       <tuv lang="CS">
@@ -193,14 +129,6 @@
       </tuv>
       <tuv lang="CS">
         <seg>Dialogov&#233; okno Mo&#382;nosti PDF &#8211; karta U&#382;ivatelsk&#233; rozhran&#237;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>To print directly to the printer defined for the document instead of the default printer, , go to &lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; General&lt;/f0&gt; and select the &lt;f1&gt;Load printer settings with the document&lt;/f1&gt; option.</seg>
-      </tuv>
-      <tuv lang="CS">
-        <seg>Chcete-li m&#237;sto v&#253;choz&#237; tisk&#225;rny tisknout p&#345;&#237;mo na tisk&#225;rnu definovanou pro dokument, , p&#345;ejd&#283;te na &lt;f0&gt;N&#225;stroje &gt; Mo&#382;nosti &gt; Na&#269;&#237;t&#225;n&#237;/ukl&#225;d&#225;n&#237; &gt; Obecn&#233;&lt;/f0&gt; a vyberte mo&#382;nost &lt;f1&gt;S dokumentem na&#269;&#237;st nastaven&#237; tisk&#225;rny&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -237,22 +165,6 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Select X.509 Certificate dialog</seg>
-      </tuv>
-      <tuv lang="CS">
-        <seg>Dialogov&#233; okno Vyberte certifik&#225;t X.509</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>The Print dialog includes a &lt;f0&gt;Preview&lt;/f0&gt; checkbox that enables to turn on/off a preview of how the data will appear on the printed page.</seg>
-      </tuv>
-      <tuv lang="CS">
-        <seg>Dialogov&#233; okno Tisk obsahuje za&#353;krt&#225;vac&#237; pol&#237;&#269;ko &lt;f0&gt;N&#225;hled&lt;/f0&gt;, kter&#233; umo&#382;&#328;uje zapnout/vypnout n&#225;hled toho, jak budou data vypadat na vyti&#353;t&#283;n&#233; str&#225;nce.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;s0&gt;Page Style dialog &#8211; Header tab&lt;/s0&gt;&lt;s1&gt;Page Style dialog &#8211; Header tab&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="CS">
@@ -277,6 +189,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;The Help menu&lt;/s0&gt; &lt;s1&gt;The Help menu&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;s0&gt;Nab&#237;dka N&#225;pov&#283;da&lt;/s0&gt; &lt;s1&gt;Nab&#237;dka N&#225;pov&#283;da&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For details, see Chapter&#160;15, Setting up and Customizing.</seg>
       </tuv>
       <tuv lang="CS">
@@ -293,18 +213,498 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Avoid the &lt;f0&gt;Send via Bluetooth&lt;/f0&gt; option, which is non-operational in this software build.</seg>
-      </tuv>
-      <tuv lang="CS">
-        <seg>Vyhn&#283;te se mo&#382;nosti &lt;f0&gt;Odes&#237;lat p&#345;es Bluetooth&lt;/f0&gt;, kter&#225; v tomto sestaven&#237; softwaru nefunguje.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>The preview appears on the left-hand side of the dialog.</seg>
       </tuv>
       <tuv lang="CS">
         <seg>N&#225;hled se zobraz&#237; v lev&#233; &#269;&#225;sti dialogov&#233;ho okna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The service is available in several other languages; click on the language button to open a dialog for language selection.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Slu&#382;ba je k dispozici v n&#283;kolika dal&#353;&#237;ch jazyc&#237;ch; kliknut&#237;m na tla&#269;&#237;tko jazyka otev&#345;ete dialogov&#233; okno pro v&#253;b&#283;r jazyka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &#8220;&lt;bf1&gt;Controlling PDF content and quality&lt;/bf1&gt;&#8221; &lt;bf2&gt;above&lt;/bf2&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Viz &#8222;&lt;bf1&gt;Kontrola obsahu a kvality PDF&lt;/bf1&gt;&#8220;. &lt;bf2&gt;v&#253;&#353;e&lt;/bf2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;Choosing a named range for printing&lt;/s0&gt;&lt;s1&gt;Choosing a named range for printing&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;s0&gt;V&#253;b&#283;r pojmenovan&#233;ho rozsahu pro tisk&lt;/s0&gt;&lt;s1&gt;V&#253;b&#283;r pojmenovan&#233;ho rozsahu pro tisk&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Help menu</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Nab&#237;dka N&#225;pov&#283;da</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This option automatically selects the &lt;f1&gt;Tagged PDF&lt;/f1&gt; checkbox below.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Tato mo&#382;nost automaticky za&#353;krtne n&#237;&#382;e uveden&#233; pol&#237;&#269;ko &lt;f1&gt;Tagged PDF&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a1&gt;https://community.documentfoundation.org/&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;a1&gt;https://community.documentfoundation.org/&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This changes the print settings for all components of LibreOffice, not just Calc.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>T&#237;m se zm&#283;n&#237; nastaven&#237; tisku pro v&#353;echny sou&#269;&#225;sti LibreOffice, nejen pro Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When printing more than one page per sheet, select the order to print the pages &lt;s0/&gt;on a sheet in the &lt;f1&gt;Order&lt;/f1&gt; drop-down list (Figure &lt;t2&gt;3&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>P&#345;i tisku v&#237;ce ne&#382; jedn&#233; str&#225;nky na list vyberte po&#345;ad&#237; tisku str&#225;nek &lt;s0/&gt;na listu v rozev&#237;rac&#237;m seznamu &lt;f1&gt;Po&#345;ad&#237;&lt;/f1&gt; (obr&#225;zek &lt;t2&gt;3&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the &lt;f0&gt;General&lt;/f0&gt; tab (Figure &lt;t1&gt;15&lt;/t1&gt;), you can choose which pages to include in the PDF, the type of compression to use for images (which affects the quality of images in the PDF), and other options.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Na kart&#283; &lt;f0&gt;Obecn&#233;&lt;/f0&gt; (obr&#225;zek &lt;t1&gt;15&lt;/t1&gt;) m&#367;&#382;ete zvolit, kter&#233; str&#225;nky maj&#237; b&#253;t zahrnuty do souboru PDF, typ komprese, kter&#225; se m&#225; pou&#382;&#237;t pro obr&#225;zky (co&#382; ovliv&#328;uje kvalitu obr&#225;zk&#367; v souboru PDF), a dal&#353;&#237; mo&#382;nosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you do not have the offline help installed on your computer, and you are connected to the Internet, your default browser will open the online Help pages on the LibreOffice website.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pokud nem&#225;te v po&#269;&#237;ta&#269;i nainstalovanou offline n&#225;pov&#283;du a jste p&#345;ipojeni k Internetu, otev&#345;e v&#225;&#353; v&#253;choz&#237; prohl&#237;&#382;e&#269; str&#225;nky online n&#225;pov&#283;dy na webu LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more details on how to define repeated rows and/or columns, see &#8220;&lt;bf0&gt;Repeat printing of rows or columns&lt;/bf0&gt;&#8221; &lt;bf1&gt;below&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dal&#353;&#237; podrobnosti o tom, jak definovat opakovan&#233; &#345;&#225;dky a/nebo sloupce, najdete v &#269;&#225;sti &#8222;&lt;bf0&gt;Pakovan&#253; tisk &#345;&#225;dk&#367; nebo sloupc&#367;&lt;/bf0&gt;&#8220;. &lt;bf1&gt;viz n&#237;&#382;e&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Support</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Podpora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;PDF Options dialog &#8211; Initial View tab&lt;/s0&gt;&lt;s1&gt;PDF Options dialog &#8211; Initial View tab&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;s0&gt;Dialogov&#233; okno Mo&#382;nosti PDF &#8211; karta Po&#269;&#225;te&#269;n&#237; zobrazen&#237;&lt;/s0&gt;&lt;s1&gt;Dialogov&#233; okno Mo&#382;nosti PDF &#8211; karta Po&#269;&#225;te&#269;n&#237; zobrazen&#237;&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;Repeat printing of rows and columns&lt;/s0&gt;&lt;s1&gt;Repeat printing of rows and columns&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;s0&gt;Op&#283;tn&#253; tisk &#345;&#225;dk&#367; a sloupc&#367;&lt;/s0&gt;&lt;s1&gt;Op&#283;tn&#253; tisk &#345;&#225;dk&#367; a sloupc&#367;&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PDF Options dialog &#8211; Initial View tab</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dialogov&#233; okno Mo&#382;nosti PDF &#8211; karta Po&#269;&#225;te&#269;n&#237; zobrazen&#237;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Use this certificate to digitally sign PDF documents:&lt;/f0&gt; Click &lt;f1&gt;Select&lt;/f1&gt; to open the Select X.509 Certificate dialog, where all certificates found in your selected key store are displayed.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;f0&gt;Pro podepisov&#225;n&#237; dokument&#367; PDF pou&#382;&#237;t tento certifik&#225;t:&lt;/f0&gt; Kliknut&#237;m na &lt;f1&gt;Vybrat&lt;/f1&gt; otev&#345;ete dialogov&#233; okno Vybrat Certifik&#225;t X.509, kde se zobraz&#237; v&#353;echny certifik&#225;ty nalezen&#233; ve vybran&#233;m &#250;lo&#382;i&#353;ti kl&#237;&#269;&#367;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PDF Options dialog &#8211; Security tab</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dialogov&#233; okno Mo&#382;nosti PDF &#8211; karta Zabezpe&#269;en&#237;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;Printing more than one spreadsheet page per sheet of paper&lt;/s0&gt;&lt;s1&gt;Printing more than one spreadsheet page per sheet of paper&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;s0&gt;Tisk v&#237;ce ne&#382; jedn&#233; str&#225;nky tabulky na jeden list pap&#237;ru&lt;/s0&gt;&lt;s1&gt;Tisk v&#237;ce ne&#382; jedn&#233; str&#225;nky tabulky na jeden list pap&#237;ru&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0&gt;Calc Guide 25.2 - Chapter 8 , Printing, Exporting, Emailing, and Signing&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;5&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;t0&gt;P&#345;&#237;ru&#269;ka Calc 25.2 &#8211; Kapitola 8 , Tisk, export, odes&#237;l&#225;n&#237; e-mailem a podepisov&#225;n&#237;&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;5&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Added precision on calculation in Chapter 9 (Olivier Hallot)</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>P&#345;id&#225;no zp&#345;esn&#283;n&#237; v&#253;po&#269;tu v kapitole 9 (Olivier Hallot)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &#8220;&lt;bf1&gt;Editing a print range&lt;/bf1&gt;&#8221; &lt;bf2&gt;above&lt;/bf2&gt;&lt;s3/&gt;for more information.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Viz &#8222;&lt;bf1&gt;&#218;prava rozsahu tisku&lt;/bf1&gt;&#8220;. &lt;bf2&gt;v&#253;&#353;e&lt;/bf2&gt;&lt;s3/&gt;, kde najdete dal&#353;&#237; informace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(See &#8220;&lt;bf0&gt;Selecting what to print&lt;/bf0&gt;&#8221; &lt;bf1&gt;below&lt;/bf1&gt;.)</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>(Viz &#8222;&lt;bf0&gt;V&#253;b&#283;r tisku&lt;/bf0&gt;&#8220; &lt;bf1&gt;dole&lt;/bf1&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &#8220;&lt;bf0&gt;Named print ranges&lt;/bf0&gt;&#8221; &lt;bf1&gt;above&lt;/bf1&gt;&lt;s2/&gt;for more information.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Viz &#8222;&lt;bf0&gt;N&#225;zev rozsah&#367; tisku&lt;/bf0&gt;&#8220;. &lt;bf1&gt;v&#253;&#353;e&lt;/bf1&gt;&lt;s2/&gt; pro v&#237;ce informac&#237;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Headers and footers are predefined pieces of text that are printed at the top or bottom of a sheet outside the sheet area.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Z&#225;hlav&#237; a z&#225;pat&#237; jsou p&#345;eddefinovan&#233; &#269;&#225;sti textu, kter&#233; se tisknou v horn&#237; nebo doln&#237; &#269;&#225;sti archu mimo oblast archu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If an appropriate cell (right of a column break or below a row break) has not been selected, then the &lt;f0&gt;Column Break&lt;/f0&gt; or &lt;f1&gt;Row Break&lt;/f1&gt; options are grayed out.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pokud nebyla vybr&#225;na vhodn&#225; bu&#328;ka (vpravo od zlomu sloupce nebo pod zlomem &#345;&#225;dku), jsou mo&#382;nosti &lt;f0&gt;Zalomen&#237; sloupce&lt;/f0&gt; nebo &lt;f1&gt;Zalomen&#237; &#345;&#225;dku&lt;/f1&gt; &#353;ed&#233;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a1&gt;https://ask.libreoffice.org/c/english/5&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;a1&gt;https://ask.libreoffice.org/c/english/5&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To access some options on the &lt;f0&gt;General&lt;/f0&gt; tab of the Print dialog, you may need to click one of the &lt;f1&gt;More&lt;/f1&gt; buttons.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pro p&#345;&#237;stup k n&#283;kter&#253;m mo&#382;nostem na kart&#283; &lt;f0&gt;Obecn&#233;&lt;/f0&gt; dialogov&#233;ho okna Tisk m&#367;&#382;e b&#253;t nutn&#233; kliknout na jedno z tla&#269;&#237;tek &lt;f1&gt;Dal&#353;&#237;&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alternatively, you can enter data and then use Calc in a &#8216;What if...&#8217; manner by changing some data and observing the results without having to retype all the data.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>P&#345;&#237;padn&#283; m&#367;&#382;ete zadat data a pot&#233; pou&#382;&#237;t Calc zp&#367;sobem &#8222;Co kdyby...&#8220; tak, &#382;e zm&#283;n&#237;te n&#283;kter&#233; &#250;daje a sledujete v&#253;sledky, ani&#382; byste museli v&#353;echna data zad&#225;vat znovu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Print dialog &#8211; LibreOffice Calc tab</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dialogov&#233; okno Tisk &#8211; karta LibreOffice Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &#8220;&lt;bf1&gt;Header or footer contents&lt;/bf1&gt;&#8221; &lt;bf2&gt;below&lt;/bf2&gt;&lt;s3/&gt;for more information.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Viz &#8222;&lt;bf1&gt;Obsah z&#225;hlav&#237; nebo z&#225;pat&#237;&lt;/bf1&gt;&#8220;. &lt;bf2&gt;dole&lt;/bf2&gt;&lt;s3/&gt; pro v&#237;ce informac&#237;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>AutoCalculation explained in Chapter 9 (Vasudev Naranayan)</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Automatick&#253; v&#253;po&#269;et vysv&#283;tlen&#253; v kapitole 9 (Vasudev Naranayan)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select which sheets and pages to print; single or double-sided printing; the number of copies to print; whether to collate multiple copies; and the page order for printing.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Vyberte, kter&#233; listy a str&#225;nky se maj&#237; tisknout, zda se m&#225; tisknout jednostrann&#283; nebo oboustrann&#283;, po&#269;et kopi&#237;, zda se m&#225; v&#237;ce kopi&#237; sjednotit a po&#345;ad&#237; str&#225;nek pro tisk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Claire wood</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Claire wood</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dialog showing common controls</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dialogov&#233; okno zobrazuj&#237;c&#237; b&#283;&#382;n&#233; ovl&#225;dac&#237; prvky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What's new in this guide</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Novinky v t&#233;to p&#345;&#237;ru&#269;ce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Shrink print range(s) to width/height &lt;/f0&gt;&#8211; specifies the maximum number of pages horizontally (width) and vertically (height) on which every sheet with the current page style is to be printed.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;f0&gt;Z&#250;&#382;it rozsah(y) tisku na &#353;&#237;&#345;ku/v&#253;&#353;ku &lt;/f0&gt;&#8211; ur&#269;uje maxim&#225;ln&#237; po&#269;et str&#225;nek ve vodorovn&#233;m (&#353;&#237;&#345;ka) a svisl&#233;m (v&#253;&#353;ka) sm&#283;ru, na kter&#233; se m&#225; vytisknout ka&#382;d&#253; list s aktu&#225;ln&#237;m stylem str&#225;nky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PDF Options dialog &#8211; Digital Signatures tab</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dialogov&#233; okno Mo&#382;nosti PDF &#8211; karta Digit&#225;ln&#237; podpisy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;Select X.509 Certificate dialog&lt;/s0&gt;&lt;s1&gt;Select X.509 Certificate dialog&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;s0&gt;Dialogov&#233; okno V&#253;b&#283;r certifik&#225;tu X.509&lt;/s0&gt;&lt;s1&gt;Dialogov&#233; okno V&#253;b&#283;r certifik&#225;tu X.509&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select an available printer from the list of installed printers.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Vyberte dostupnou tisk&#225;rnu ze seznamu nainstalovan&#253;ch tisk&#225;ren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choosing a named range for printing</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V&#253;b&#283;r pojmenovan&#233;ho rozsahu pro tisk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some other features provided by Calc include:</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Mezi dal&#353;&#237; funkce aplikace Calc pat&#345;&#237;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calc Guide 25.2 - Chapter 8 , Printing, Exporting, Emailing, and Signing</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pr&#367;vodce Calc 25.2 &#8211; Kapitola 8 , Tisk, export, odes&#237;l&#225;n&#237; e-mailem a podepisov&#225;n&#237;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;PDF Options dialog &#8211; General tab&lt;/s0&gt;&lt;s1&gt;PDF Options dialog &#8211; General tab&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;s0&gt;Dialogov&#233; okno Mo&#382;nosti PDF &#8211; karta Obecn&#233;&lt;/s0&gt;&lt;s1&gt;Dialogov&#233; okno Mo&#382;nosti PDF &#8211; karta Obecn&#233;&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0&gt;Frequently asked questions&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;9&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;t0&gt;&#268;asto kladen&#233; ot&#225;zky&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;9&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ant&#243;nio Fernandez</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Ant&#243;nio Fernandez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Review of Chapter 14 Macros for easier reading (Olivier Hallot)</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Revize kapitoly 14 Makra pro snadn&#283;j&#353;&#237; &#269;ten&#237; (Olivier Hallot)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice provides several ways to quickly and easily send a document as an email attachment in OpenDocument format (LibreOffice default format), other spreadsheet formats, or as a PDF file.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>LibreOffice nab&#237;z&#237; n&#283;kolik zp&#367;sob&#367;, jak rychle a snadno odeslat dokument jako p&#345;&#237;lohu e-mailu ve form&#225;tu OpenDocument (v&#253;choz&#237; form&#225;t LibreOffice), v jin&#253;ch tabulkov&#253;ch form&#225;tech nebo jako soubor PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Page Style dialog &#8211; Header tab</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dialogov&#233; okno Styl str&#225;nky &#8211; karta Z&#225;hlav&#237;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;Print dialog &#8211; General tab&lt;/s0&gt;&lt;s1&gt;Print dialog &#8211; General tab&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;s0&gt;Dialogov&#233; okno Tisk &#8211; karta Obecn&#233;&lt;/s0&gt;&lt;s1&gt;Dialogov&#233; okno Tisk &#8211; karta Obecn&#233;&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Printing more than one spreadsheet page per sheet of paper</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Tisk v&#237;ce ne&#382; jedn&#233; str&#225;nky tabulky na jeden list pap&#237;ru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Information about the LibreOffice &lt;ud0&gt;25.2&lt;/ud0&gt;&lt;s1/&gt;Community release can be found in this announcement: &lt;a2&gt;https://wiki.documentfoundation.org/ReleaseNotes/2&lt;/a2&gt;5.2</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Informace o verzi LibreOffice &lt;ud0&gt;25.2&lt;/ud0&gt;&lt;s1/&gt;Community najdete v tomto ozn&#225;men&#237;: &lt;a2&gt;https://wiki.documentfoundation.org/ReleaseNotes/2&lt;/a2&gt;5.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To print directly to the printer defined for the document instead of the default printer, , go to &lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; General&lt;/f0&gt; and select the &lt;f1&gt;Load printer settings with the document&lt;/f1&gt; option.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Chcete-li m&#237;sto v&#253;choz&#237; tisk&#225;rny tisknout p&#345;&#237;mo na tisk&#225;rnu definovanou pro dokument, , p&#345;ejd&#283;te na &lt;f0&gt;N&#225;stroje &gt; Mo&#382;nosti &gt; Na&#269;&#237;t&#225;n&#237;/ukl&#225;d&#225;n&#237; &gt; Obecn&#233;&lt;/f0&gt; a vyberte mo&#382;nost &lt;f1&gt;S dokumentem na&#269;&#237;st nastaven&#237; tisk&#225;rny&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New block selection of non-empty cells in Chapter 1 (Olivier Hallot)</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Nov&#253; blokov&#253; v&#253;b&#283;r nepr&#225;zdn&#253;ch bun&#283;k v kapitole 1 (Olivier Hallot)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select X.509 Certificate dialog</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dialogov&#233; okno Vyberte certifik&#225;t X.509</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Print dialog includes a &lt;f0&gt;Preview&lt;/f0&gt; checkbox that enables to turn on/off a preview of how the data will appear on the printed page.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dialogov&#233; okno Tisk obsahuje za&#353;krt&#225;vac&#237; pol&#237;&#269;ko &lt;f0&gt;N&#225;hled&lt;/f0&gt;, kter&#233; umo&#382;&#328;uje zapnout/vypnout n&#225;hled toho, jak budou data vypadat na vyti&#353;t&#283;n&#233; str&#225;nce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It covers changes that are visible in the Calc user interface.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Zahrnuje zm&#283;ny, kter&#233; jsou viditeln&#233; v u&#382;ivatelsk&#233;m rozhran&#237; aplikace Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0&gt;Calc Guide 25.2 - Preface&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;t0&gt;Pr&#367;vodce v&#253;po&#269;ty 25.2 &#8211; P&#345;edmluva&lt;/t0&gt;&lt;s1/&gt;&lt;s1/&gt;&lt;| &lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The LibreOffice community has created icons for several icon sets: Breeze, Colibre, Elementary, Karasa Jaga, Sifr, and Sukapura; some of these are also available in dark, SVG (Scalable Vector Graphics), and SVG+dark versions.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Komunita LibreOffice vytvo&#345;ila ikony pro n&#283;kolik sad ikon: N&#283;kter&#233; z nich jsou k dispozici tak&#233; ve tmav&#233; verzi, SVG (Scalable Vector Graphics) a SVG+tmav&#225; verze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calc Guide 25.2 - Preface</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>P&#345;&#237;ru&#269;ka Calc Guide 25.2 &#8211; P&#345;edmluva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dynamic charts: a wide range of 2D, 3D charts, and sparklines</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Dynamick&#233; grafy: &#353;irok&#225; &#353;k&#225;la 2D, 3D graf&#367; a prskavek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Avoid the &lt;f0&gt;Send via Bluetooth&lt;/f0&gt; option, which is non-operational in this software build.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Vyhn&#283;te se mo&#382;nosti &lt;f0&gt;Odes&#237;lat p&#345;es Bluetooth&lt;/f0&gt;, kter&#225; v tomto sestaven&#237; softwaru nefunguje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -341,18 +741,10 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>See &#8220;&lt;bf1&gt;Controlling PDF content and quality&lt;/bf1&gt;&#8221; &lt;bf2&gt;above&lt;/bf2&gt;.</seg>
+        <seg>Changes in chapters</seg>
       </tuv>
       <tuv lang="CS">
-        <seg>Viz &#8222;&lt;bf1&gt;Kontrola obsahu a kvality PDF&lt;/bf1&gt;&#8220;. &lt;bf2&gt;v&#253;&#353;e&lt;/bf2&gt;.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;s0&gt;Choosing a named range for printing&lt;/s0&gt;&lt;s1&gt;Choosing a named range for printing&lt;/s1&gt;</seg>
-      </tuv>
-      <tuv lang="CS">
-        <seg>&lt;s0&gt;V&#253;b&#283;r pojmenovan&#233;ho rozsahu pro tisk&lt;/s0&gt;&lt;s1&gt;V&#253;b&#283;r pojmenovan&#233;ho rozsahu pro tisk&lt;/s1&gt;</seg>
+        <seg>Zm&#283;ny v kapitol&#225;ch</seg>
       </tuv>
     </tu>
     <tu>
@@ -373,10 +765,10 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>This option automatically selects the &lt;f1&gt;Tagged PDF&lt;/f1&gt; checkbox below.</seg>
+        <seg>Celia Palacios Tagle</seg>
       </tuv>
       <tuv lang="CS">
-        <seg>Tato mo&#382;nost automaticky za&#353;krtne n&#237;&#382;e uveden&#233; pol&#237;&#269;ko &lt;f1&gt;Tagged PDF&lt;/f1&gt;.</seg>
+        <seg>Celia Palacios Tagle</seg>
       </tuv>
     </tu>
     <tu>
@@ -429,26 +821,10 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>This changes the print settings for all components of LibreOffice, not just Calc.</seg>
+        <seg>This book has been updated from Calc Guide &lt;ud0&gt;25.2&lt;/ud0&gt;.</seg>
       </tuv>
       <tuv lang="CS">
-        <seg>T&#237;m se zm&#283;n&#237; nastaven&#237; tisku pro v&#353;echny sou&#269;&#225;sti LibreOffice, nejen pro Calc.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>When printing more than one page per sheet, select the order to print the pages &lt;s0/&gt;on a sheet in the &lt;f1&gt;Order&lt;/f1&gt; drop-down list (Figure &lt;t2&gt;3&lt;/t2&gt;).</seg>
-      </tuv>
-      <tuv lang="CS">
-        <seg>P&#345;i tisku v&#237;ce ne&#382; jedn&#233; str&#225;nky na list vyberte po&#345;ad&#237; tisku str&#225;nek &lt;s0/&gt;na listu v rozev&#237;rac&#237;m seznamu &lt;f1&gt;Po&#345;ad&#237;&lt;/f1&gt; (obr&#225;zek &lt;t2&gt;3&lt;/t2&gt;).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>On the &lt;f0&gt;General&lt;/f0&gt; tab (Figure &lt;t1&gt;15&lt;/t1&gt;), you can choose which pages to include in the PDF, the type of compression to use for images (which affects the quality of images in the PDF), and other options.</seg>
-      </tuv>
-      <tuv lang="CS">
-        <seg>Na kart&#283; &lt;f0&gt;Obecn&#233;&lt;/f0&gt; (obr&#225;zek &lt;t1&gt;15&lt;/t1&gt;) m&#367;&#382;ete zvolit, kter&#233; str&#225;nky maj&#237; b&#253;t zahrnuty do souboru PDF, typ komprese, kter&#225; se m&#225; pou&#382;&#237;t pro obr&#225;zky (co&#382; ovliv&#328;uje kvalitu obr&#225;zk&#367; v souboru PDF), a dal&#353;&#237; mo&#382;nosti.</seg>
+        <seg>Tato kniha byla aktualizov&#225;na z p&#345;&#237;ru&#269;ky Calc Guide &lt;ud0&gt;25.2&lt;/ud0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -457,14 +833,6 @@
       </tuv>
       <tuv lang="CS">
         <seg>&lt;s0&gt;Dialogov&#233; okno Mo&#382;nosti PDF &#8211; karta Odkazy&lt;/s0&gt;&lt;s1&gt;Dialogov&#233; okno Mo&#382;nosti PDF &#8211; karta Odkazy&lt;/s1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>For more details on how to define repeated rows and/or columns, see &#8220;&lt;bf0&gt;Repeat printing of rows or columns&lt;/bf0&gt;&#8221; &lt;bf1&gt;below&lt;/bf1&gt;.</seg>
-      </tuv>
-      <tuv lang="CS">
-        <seg>Dal&#353;&#237; podrobnosti o tom, jak definovat opakovan&#233; &#345;&#225;dky a/nebo sloupce, najdete v &#269;&#225;sti &#8222;&lt;bf0&gt;Pakovan&#253; tisk &#345;&#225;dk&#367; nebo sloupc&#367;&lt;/bf0&gt;&#8220;. &lt;bf1&gt;viz n&#237;&#382;e&lt;/bf1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -485,14 +853,6 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;s0&gt;PDF Options dialog &#8211; Initial View tab&lt;/s0&gt;&lt;s1&gt;PDF Options dialog &#8211; Initial View tab&lt;/s1&gt;</seg>
-      </tuv>
-      <tuv lang="CS">
-        <seg>&lt;s0&gt;Dialogov&#233; okno Mo&#382;nosti PDF &#8211; karta Po&#269;&#225;te&#269;n&#237; zobrazen&#237;&lt;/s0&gt;&lt;s1&gt;Dialogov&#233; okno Mo&#382;nosti PDF &#8211; karta Po&#269;&#225;te&#269;n&#237; zobrazen&#237;&lt;/s1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;s0&gt;PDF Options dialog &#8211; Digital Signatures tab&lt;/s0&gt;&lt;s1&gt;PDF Options dialog &#8211; Digital Signatures tab&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="CS">
@@ -501,26 +861,10 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;s0&gt;Repeat printing of rows and columns&lt;/s0&gt;&lt;s1&gt;Repeat printing of rows and columns&lt;/s1&gt;</seg>
+        <seg>Added precision on inherent numerical accuracy in Chapter 9 (Mike Kaganski).</seg>
       </tuv>
       <tuv lang="CS">
-        <seg>&lt;s0&gt;Op&#283;tn&#253; tisk &#345;&#225;dk&#367; a sloupc&#367;&lt;/s0&gt;&lt;s1&gt;Op&#283;tn&#253; tisk &#345;&#225;dk&#367; a sloupc&#367;&lt;/s1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>PDF Options dialog &#8211; Initial View tab</seg>
-      </tuv>
-      <tuv lang="CS">
-        <seg>Dialogov&#233; okno Mo&#382;nosti PDF &#8211; karta Po&#269;&#225;te&#269;n&#237; zobrazen&#237;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;f0&gt;Use this certificate to digitally sign PDF documents:&lt;/f0&gt; Click &lt;f1&gt;Select&lt;/f1&gt; to open the Select X.509 Certificate dialog, where all certificates found in your selected key store are displayed.</seg>
-      </tuv>
-      <tuv lang="CS">
-        <seg>&lt;f0&gt;Pro podepisov&#225;n&#237; dokument&#367; PDF pou&#382;&#237;t tento certifik&#225;t:&lt;/f0&gt; Kliknut&#237;m na &lt;f1&gt;Vybrat&lt;/f1&gt; otev&#345;ete dialogov&#233; okno Vybrat Certifik&#225;t X.509, kde se zobraz&#237; v&#353;echny certifik&#225;ty nalezen&#233; ve vybran&#233;m &#250;lo&#382;i&#353;ti kl&#237;&#269;&#367;.</seg>
+        <seg>V kapitole 9 p&#345;id&#225;no zp&#345;esn&#283;n&#237; inherentn&#237; numerick&#233; p&#345;esnosti (Mike Kaganski).</seg>
       </tuv>
     </tu>
     <tu>
@@ -541,6 +885,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To start, check out this webpage: &lt;a0&gt;https://whatcanidoforlibreoffice.org&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Pro za&#269;&#225;tek se pod&#237;vejte na tuto webovou str&#225;nku: &lt;a0&gt;https://whatcanidoforlibreoffice.org&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Same contents on first page&lt;/f0&gt; &#8211; causes the first page to have a different header or footer than the remaining pages.</seg>
       </tuv>
       <tuv lang="CS">
@@ -557,34 +909,10 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>PDF Options dialog &#8211; Security tab</seg>
-      </tuv>
-      <tuv lang="CS">
-        <seg>Dialogov&#233; okno Mo&#382;nosti PDF &#8211; karta Zabezpe&#269;en&#237;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;s0&gt;Printing more than one spreadsheet page per sheet of paper&lt;/s0&gt;&lt;s1&gt;Printing more than one spreadsheet page per sheet of paper&lt;/s1&gt;</seg>
-      </tuv>
-      <tuv lang="CS">
-        <seg>&lt;s0&gt;Tisk v&#237;ce ne&#382; jedn&#233; str&#225;nky tabulky na jeden list pap&#237;ru&lt;/s0&gt;&lt;s1&gt;Tisk v&#237;ce ne&#382; jedn&#233; str&#225;nky tabulky na jeden list pap&#237;ru&lt;/s1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;f0&gt;Comments in margin&lt;/f0&gt;: Not available in Calc.</seg>
       </tuv>
       <tuv lang="CS">
         <seg>&lt;f0&gt;Koment&#225;&#345;e na okraj&#237;ch&lt;/f0&gt;: Nen&#237; k dispozici v Calc.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;t0&gt;Calc Guide 25.2 - Chapter 8 , Printing, Exporting, Emailing, and Signing&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;5&lt;/t2&gt;</seg>
-      </tuv>
-      <tuv lang="CS">
-        <seg>&lt;t0&gt;P&#345;&#237;ru&#269;ka Calc 25.2 &#8211; Kapitola 8 , Tisk, export, odes&#237;l&#225;n&#237; e-mailem a podepisov&#225;n&#237;&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;5&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -597,34 +925,10 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>See &#8220;&lt;bf1&gt;Editing a print range&lt;/bf1&gt;&#8221; &lt;bf2&gt;above&lt;/bf2&gt;&lt;s3/&gt;for more information.</seg>
-      </tuv>
-      <tuv lang="CS">
-        <seg>Viz &#8222;&lt;bf1&gt;&#218;prava rozsahu tisku&lt;/bf1&gt;&#8220;. &lt;bf2&gt;v&#253;&#353;e&lt;/bf2&gt;&lt;s3/&gt;, kde najdete dal&#353;&#237; informace.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>(See &#8220;&lt;bf0&gt;Selecting what to print&lt;/bf0&gt;&#8221; &lt;bf1&gt;below&lt;/bf1&gt;.)</seg>
-      </tuv>
-      <tuv lang="CS">
-        <seg>(Viz &#8222;&lt;bf0&gt;V&#253;b&#283;r tisku&lt;/bf0&gt;&#8220; &lt;bf1&gt;dole&lt;/bf1&gt;.)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>In addition to printing a full spreadsheet document, you can select single sheets, multiple sheets, and selections of cells for printing.</seg>
       </tuv>
       <tuv lang="CS">
         <seg>Krom&#283; tisku cel&#233;ho dokumentu tabulkov&#233;ho procesoru m&#367;&#382;ete pro tisk vybrat jednotliv&#233; listy, v&#237;ce list&#367; a vybran&#233; bu&#328;ky.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>See &#8220;&lt;bf0&gt;Named print ranges&lt;/bf0&gt;&#8221; &lt;bf1&gt;above&lt;/bf1&gt;&lt;s2/&gt;for more information.</seg>
-      </tuv>
-      <tuv lang="CS">
-        <seg>Viz &#8222;&lt;bf0&gt;N&#225;zev rozsah&#367; tisku&lt;/bf0&gt;&#8220;. &lt;bf1&gt;v&#253;&#353;e&lt;/bf1&gt;&lt;s2/&gt; pro v&#237;ce informac&#237;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -637,26 +941,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Headers and footers are predefined pieces of text that are printed at the top or bottom of a sheet outside the sheet area.</seg>
+        <seg>&lt;f0&gt;Show Tip of the Day&lt;/f0&gt; &#8211; Opens a dialog showing a useful piece of information to help expand your knowledge of LibreOffice.</seg>
       </tuv>
       <tuv lang="CS">
-        <seg>Z&#225;hlav&#237; a z&#225;pat&#237; jsou p&#345;eddefinovan&#233; &#269;&#225;sti textu, kter&#233; se tisknou v horn&#237; nebo doln&#237; &#269;&#225;sti archu mimo oblast archu.</seg>
+        <seg>&lt;f0&gt;Zobrazit tip dne&lt;/f0&gt; &#8211; Otev&#345;e dialogov&#233; okno s u&#382;ite&#269;n&#253;mi informacemi, kter&#233; v&#225;m pomohou roz&#353;&#237;&#345;it znalosti o LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>If an appropriate cell (right of a column break or below a row break) has not been selected, then the &lt;f0&gt;Column Break&lt;/f0&gt; or &lt;f1&gt;Row Break&lt;/f1&gt; options are grayed out.</seg>
+        <seg>Resource</seg>
       </tuv>
       <tuv lang="CS">
-        <seg>Pokud nebyla vybr&#225;na vhodn&#225; bu&#328;ka (vpravo od zlomu sloupce nebo pod zlomem &#345;&#225;dku), jsou mo&#382;nosti &lt;f0&gt;Zalomen&#237; sloupce&lt;/f0&gt; nebo &lt;f1&gt;Zalomen&#237; &#345;&#225;dku&lt;/f1&gt; &#353;ed&#233;.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>To access some options on the &lt;f0&gt;General&lt;/f0&gt; tab of the Print dialog, you may need to click one of the &lt;f1&gt;More&lt;/f1&gt; buttons.</seg>
-      </tuv>
-      <tuv lang="CS">
-        <seg>Pro p&#345;&#237;stup k n&#283;kter&#253;m mo&#382;nostem na kart&#283; &lt;f0&gt;Obecn&#233;&lt;/f0&gt; dialogov&#233;ho okna Tisk m&#367;&#382;e b&#253;t nutn&#233; kliknout na jedno z tla&#269;&#237;tek &lt;f1&gt;Dal&#353;&#237;&lt;/f1&gt;.</seg>
+        <seg>Zdroje</seg>
       </tuv>
     </tu>
     <tu>
@@ -669,10 +965,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Added Handling Duplicates section in chapter 2, Entering and editing Data</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>V kapitole 2, Zad&#225;v&#225;n&#237; a &#250;pravy dat, byla p&#345;id&#225;na &#269;&#225;st Manipulace s duplicitami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Selecting the &lt;f0&gt;Whole Sheet Export&lt;/f0&gt; option overrides many of the other settings on the PDF Options dialog.</seg>
       </tuv>
       <tuv lang="CS">
         <seg>V&#253;b&#283;rem mo&#382;nosti &lt;f0&gt;Export cel&#233;ho archu&lt;/f0&gt; se p&#345;ep&#237;&#353;e mnoho dal&#353;&#237;ch nastaven&#237; v dialogov&#233;m okn&#283; Mo&#382;nosti PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Updated SUBTOTALs tool, Chapter 11 (Olivier Hallot)</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Aktualizovan&#253; n&#225;stroj SUBTOTALs, kapitola 11 (Olivier Hallot)</seg>
       </tuv>
     </tu>
     <tu>
@@ -685,10 +997,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;LibreOffice Logo&lt;/s0&gt; &lt;s1&gt;LibreOffice Logo&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>&lt;s0&gt;LibreOffice Logo&lt;/s0&gt; &lt;s1&gt;LibreOffice Logo&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See Chapter 5, Using Styles and Templates, for more information about page styles.</seg>
       </tuv>
       <tuv lang="CS">
         <seg>Dal&#353;&#237; informace o stylech str&#225;nek najdete v kapitole 5, Pou&#382;it&#237; styl&#367; a &#353;ablon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose from the drop-down list under &lt;f1&gt;Icon Theme&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Vyberte z rozev&#237;rac&#237;ho seznamu pod &lt;f1&gt;Motiv vzhledu ikon&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -705,14 +1033,6 @@
       </tuv>
       <tuv lang="CS">
         <seg>V z&#225;vislosti na opera&#269;n&#237;m syst&#233;mu po&#269;&#237;ta&#269;e se m&#367;&#382;e po&#269;et karet a rozlo&#382;en&#237; jednotliv&#253;ch karet li&#353;it od obr&#225;zk&#367; uveden&#253;ch v t&#233;to kapitole.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Print dialog &#8211; LibreOffice Calc tab</seg>
-      </tuv>
-      <tuv lang="CS">
-        <seg>Dialogov&#233; okno Tisk &#8211; karta LibreOffice Calc</seg>
       </tuv>
     </tu>
     <tu>
