@@ -13,3 +13,4 @@ Writer	Writer
 Writer Guide	Příručka aplikace Writer
 Spotlight	Indikátor
 Calc Guide	Příručka aplikace Calc
+below	níže
