@@ -1,3 +1,4 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
 deck	karta	postranní lišta
 "	„	České „dvojité“ uvozovky
 Start Center	Úvodní obrazovka
